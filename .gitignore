@@ -1,0 +1,44 @@
+# =============================================================================
+# VNB4-Toeic-database — Prisma + Node tsx (.gitignore)
+# =============================================================================
+
+# Node / pnpm
+node_modules/
+.pnpm-store/
+
+# SQLite (local mode dev db)
+*.db
+*.db-journal
+*.db-wal
+*.db-shm
+prisma/dev.db
+prisma/*.db
+
+# Generated Prisma Client (output at node_modules/.prisma/client)
+.prisma/
+
+# Env
+.env
+.env.local
+!.env.example
+!.env.local.example
+
+# Logs
+*.log
+
+# TypeScript
+*.tsbuildinfo
+
+# OS / Editor
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/*
+!.vscode/settings.json
+
+# AI/agent tooling temp (oh-my-claudecode, gstack, code-review)
+.omc/
+.gstack/
+.review/
+.claude/
+*.tmp

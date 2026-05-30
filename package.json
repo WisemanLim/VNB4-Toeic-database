@@ -1,0 +1,34 @@
+{
+  "name": "@vnb4-toeic/database",
+  "version": "0.1.0",
+  "private": true,
+  "license": "MIT",
+  "description": "PostgreSQL schema, Prisma migrations, and seed data for TOEIC vocab platform",
+  "scripts": {
+    "env:init": "test -f .env.local && echo '.env.local exists' || { cp .env.local.example .env.local && echo 'wrote .env.local (SQLite, no Docker needed)'; }",
+    "env:init:prod": "test -f .env && echo '.env exists' || { cp .env.example .env && echo 'wrote .env (edit DATABASE_URL for your Postgres)'; }",
+    "prisma:generate": "dotenv -e .env.local -- prisma generate --schema prisma/schema.local.prisma",
+    "prisma:generate:prod": "dotenv -e .env -- prisma generate --schema prisma/schema.prisma",
+    "migrate:local": "pnpm env:init && dotenv -e .env.local -- prisma db push --schema prisma/schema.local.prisma",
+    "migrate:dev": "pnpm env:init:prod && dotenv -e .env -- prisma migrate dev --schema prisma/schema.prisma",
+    "migrate:prod": "pnpm env:init:prod && dotenv -e .env -- prisma migrate deploy --schema prisma/schema.prisma",
+    "studio": "pnpm env:init && pnpm prisma:generate && dotenv -e .env.local -- prisma studio --schema prisma/schema.local.prisma",
+    "studio:prod": "pnpm env:init:prod && pnpm prisma:generate:prod && dotenv -e .env -- prisma studio --schema prisma/schema.prisma",
+    "seed": "pnpm env:init && pnpm prisma:generate && dotenv -e .env.local -- tsx seeds/run.ts",
+    "seed:prod": "pnpm env:init:prod && pnpm prisma:generate:prod && dotenv -e .env -- tsx seeds/run.ts",
+    "seed:reset": "dotenv -e .env.local -- prisma db push --force-reset --schema prisma/schema.local.prisma && pnpm seed"
+  },
+  "devDependencies": {
+    "prisma": "^5.20.0",
+    "dotenv-cli": "^7.4.2",
+    "tsx": "^4.19.0",
+    "typescript": "^5.5.0",
+    "@types/node": "^20.14.0"
+  },
+  "dependencies": {
+    "@prisma/client": "^5.20.0"
+  },
+  "engines": {
+    "pnpm": ">=10"
+  }
+}

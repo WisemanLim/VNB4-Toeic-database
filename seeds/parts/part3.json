@@ -1,0 +1,9098 @@
+[
+  {
+    "id": "toeic-p3-colleague",
+    "part": 3,
+    "word": "colleague",
+    "pos": "noun",
+    "meaning_ko": "동료",
+    "ipa": "/ˈkɒliːɡ/",
+    "pron_ko": "컬리그",
+    "example_en": "Let me introduce my colleague.",
+    "example_ko": "제 동료를 소개하겠습니다.",
+    "topic": [
+      "office"
+    ],
+    "frequency_tier": 1,
+    "synonyms": [
+      "coworker"
+    ],
+    "distractors": [
+      "collage",
+      "collegial",
+      "college"
+    ]
+  },
+  {
+    "id": "toeic-p3-coworker",
+    "part": 3,
+    "word": "coworker",
+    "pos": "noun",
+    "meaning_ko": "동료",
+    "ipa": "/ˈkoʊˌwɜːrkər/",
+    "pron_ko": "코워커",
+    "example_en": "My coworker will handle this.",
+    "example_ko": "제 동료가 처리할 겁니다.",
+    "topic": [
+      "office"
+    ],
+    "frequency_tier": 1,
+    "synonyms": [
+      "colleague"
+    ],
+    "distractors": [
+      "coworker",
+      "co-worker",
+      "cooperator"
+    ]
+  },
+  {
+    "id": "toeic-p3-supervisor",
+    "part": 3,
+    "word": "supervisor",
+    "pos": "noun",
+    "meaning_ko": "상사",
+    "ipa": "/ˈsuːpərvaɪzər/",
+    "pron_ko": "수퍼바이저",
+    "example_en": "Talk to your supervisor.",
+    "example_ko": "상사와 이야기해 보세요.",
+    "topic": [
+      "office"
+    ],
+    "frequency_tier": 1,
+    "synonyms": [
+      "manager"
+    ],
+    "distractors": [
+      "supervisor",
+      "supervise",
+      "surveyor"
+    ]
+  },
+  {
+    "id": "toeic-p3-manager",
+    "part": 3,
+    "word": "manager",
+    "pos": "noun",
+    "meaning_ko": "매니저",
+    "ipa": "/ˈmænɪdʒər/",
+    "pron_ko": "매니저",
+    "example_en": "The manager is in a meeting.",
+    "example_ko": "매니저는 회의 중입니다.",
+    "topic": [
+      "office"
+    ],
+    "frequency_tier": 1,
+    "synonyms": [
+      "head"
+    ],
+    "distractors": [
+      "manager",
+      "manage",
+      "manner"
+    ]
+  },
+  {
+    "id": "toeic-p3-director",
+    "part": 3,
+    "word": "director",
+    "pos": "noun",
+    "meaning_ko": "이사",
+    "ipa": "/dɪˈrektər/",
+    "pron_ko": "디렉터",
+    "example_en": "The director approved the budget.",
+    "example_ko": "이사가 예산을 승인했습니다.",
+    "topic": [
+      "office"
+    ],
+    "frequency_tier": 1,
+    "synonyms": [
+      "executive"
+    ],
+    "distractors": [
+      "director",
+      "direction",
+      "direct"
+    ]
+  },
+  {
+    "id": "toeic-p3-executive",
+    "part": 3,
+    "word": "executive",
+    "pos": "noun",
+    "meaning_ko": "임원",
+    "ipa": "/ɪɡˈzekjətɪv/",
+    "pron_ko": "이그제큐티브",
+    "example_en": "An executive will join the call.",
+    "example_ko": "임원이 회의에 참여할 겁니다.",
+    "topic": [
+      "office"
+    ],
+    "frequency_tier": 1,
+    "synonyms": [
+      "officer"
+    ],
+    "distractors": [
+      "executive",
+      "executor",
+      "executed"
+    ]
+  },
+  {
+    "id": "toeic-p3-employee",
+    "part": 3,
+    "word": "employee",
+    "pos": "noun",
+    "meaning_ko": "직원",
+    "ipa": "/ɪmˈplɔɪiː/",
+    "pron_ko": "임플로이",
+    "example_en": "All employees must attend.",
+    "example_ko": "모든 직원이 참석해야 합니다.",
+    "topic": [
+      "office"
+    ],
+    "frequency_tier": 1,
+    "synonyms": [
+      "staff"
+    ],
+    "distractors": [
+      "employee",
+      "employer",
+      "employed"
+    ]
+  },
+  {
+    "id": "toeic-p3-staff",
+    "part": 3,
+    "word": "staff",
+    "pos": "noun",
+    "meaning_ko": "직원",
+    "ipa": "/stæf/",
+    "pron_ko": "스태프",
+    "example_en": "The staff is highly trained.",
+    "example_ko": "직원들은 훌륭하게 훈련되었습니다.",
+    "topic": [
+      "office"
+    ],
+    "frequency_tier": 1,
+    "synonyms": [
+      "employees"
+    ],
+    "distractors": [
+      "staff",
+      "stuff",
+      "staff"
+    ]
+  },
+  {
+    "id": "toeic-p3-intern",
+    "part": 3,
+    "word": "intern",
+    "pos": "noun",
+    "meaning_ko": "인턴",
+    "ipa": "/ˈɪntɜːrn/",
+    "pron_ko": "인턴",
+    "example_en": "The intern will assist us.",
+    "example_ko": "인턴이 우리를 도와줄 겁니다.",
+    "topic": [
+      "office"
+    ],
+    "frequency_tier": 1,
+    "synonyms": [
+      "trainee"
+    ],
+    "distractors": [
+      "intern",
+      "extern",
+      "intern"
+    ]
+  },
+  {
+    "id": "toeic-p3-department",
+    "part": 3,
+    "word": "department",
+    "pos": "noun",
+    "meaning_ko": "부서",
+    "ipa": "/dɪˈpɑːrtmənt/",
+    "pron_ko": "디파트먼트",
+    "example_en": "Which department do you work in?",
+    "example_ko": "어느 부서에서 일하시나요?",
+    "topic": [
+      "office"
+    ],
+    "frequency_tier": 1,
+    "synonyms": [
+      "division"
+    ],
+    "distractors": [
+      "department",
+      "departure",
+      "deportment"
+    ]
+  },
+  {
+    "id": "toeic-p3-team",
+    "part": 3,
+    "word": "team",
+    "pos": "noun",
+    "meaning_ko": "팀",
+    "ipa": "/tiːm/",
+    "pron_ko": "팀",
+    "example_en": "Our team meets every Monday.",
+    "example_ko": "우리 팀은 매주 월요일에 회의합니다.",
+    "topic": [
+      "office"
+    ],
+    "frequency_tier": 1,
+    "synonyms": [
+      "group"
+    ],
+    "distractors": [
+      "team",
+      "teen",
+      "team"
+    ]
+  },
+  {
+    "id": "toeic-p3-project",
+    "part": 3,
+    "word": "project",
+    "pos": "noun",
+    "meaning_ko": "프로젝트",
+    "ipa": "/ˈprɒdʒekt/",
+    "pron_ko": "프로젝트",
+    "example_en": "The project is on track.",
+    "example_ko": "프로젝트는 순조롭게 진행 중입니다.",
+    "topic": [
+      "office"
+    ],
+    "frequency_tier": 1,
+    "synonyms": [
+      "undertaking"
+    ],
+    "distractors": [
+      "project",
+      "projects",
+      "projected"
+    ]
+  },
+  {
+    "id": "toeic-p3-task",
+    "part": 3,
+    "word": "task",
+    "pos": "noun",
+    "meaning_ko": "업무",
+    "ipa": "/tæsk/",
+    "pron_ko": "태스크",
+    "example_en": "I have several tasks pending.",
+    "example_ko": "처리할 업무가 여러 개 있습니다.",
+    "topic": [
+      "office"
+    ],
+    "frequency_tier": 1,
+    "synonyms": [
+      "assignment"
+    ],
+    "distractors": [
+      "task",
+      "tax",
+      "tusk"
+    ]
+  },
+  {
+    "id": "toeic-p3-assignment",
+    "part": 3,
+    "word": "assignment",
+    "pos": "noun",
+    "meaning_ko": "과제",
+    "ipa": "/əˈsaɪnmənt/",
+    "pron_ko": "어사인먼트",
+    "example_en": "Please finish your assignment.",
+    "example_ko": "과제를 끝내 주세요.",
+    "topic": [
+      "office"
+    ],
+    "frequency_tier": 1,
+    "synonyms": [
+      "task"
+    ],
+    "distractors": [
+      "assignment",
+      "alignment",
+      "appointment"
+    ]
+  },
+  {
+    "id": "toeic-p3-workload",
+    "part": 3,
+    "word": "workload",
+    "pos": "noun",
+    "meaning_ko": "업무량",
+    "ipa": "/ˈwɜːrkloʊd/",
+    "pron_ko": "워크로드",
+    "example_en": "His workload has increased.",
+    "example_ko": "그의 업무량이 늘었습니다.",
+    "topic": [
+      "office"
+    ],
+    "frequency_tier": 1,
+    "synonyms": [
+      "work"
+    ],
+    "distractors": [
+      "workload",
+      "workplace",
+      "workflow"
+    ]
+  },
+  {
+    "id": "toeic-p3-workflow",
+    "part": 3,
+    "word": "workflow",
+    "pos": "noun",
+    "meaning_ko": "작업 흐름",
+    "ipa": "/ˈwɜːrkfloʊ/",
+    "pron_ko": "워크플로우",
+    "example_en": "We need to streamline our workflow.",
+    "example_ko": "작업 흐름을 간소화해야 합니다.",
+    "topic": [
+      "office"
+    ],
+    "frequency_tier": 1,
+    "synonyms": [
+      "process"
+    ],
+    "distractors": [
+      "workflow",
+      "workload",
+      "workfare"
+    ]
+  },
+  {
+    "id": "toeic-p3-workstation",
+    "part": 3,
+    "word": "workstation",
+    "pos": "noun",
+    "meaning_ko": "작업 공간",
+    "ipa": "/ˈwɜːrkˌsteɪʃən/",
+    "pron_ko": "워크스테이션",
+    "example_en": "Set up your workstation.",
+    "example_ko": "작업 공간을 설치하세요.",
+    "topic": [
+      "office"
+    ],
+    "frequency_tier": 1,
+    "synonyms": [
+      "desk"
+    ],
+    "distractors": [
+      "workstation",
+      "workspace",
+      "workshop"
+    ]
+  },
+  {
+    "id": "toeic-p3-workspace",
+    "part": 3,
+    "word": "workspace",
+    "pos": "noun",
+    "meaning_ko": "업무 공간",
+    "ipa": "/ˈwɜːrkˌspeɪs/",
+    "pron_ko": "워크스페이스",
+    "example_en": "The new workspace is collaborative.",
+    "example_ko": "새로운 업무 공간은 협업이 가능합니다.",
+    "topic": [
+      "office"
+    ],
+    "frequency_tier": 1,
+    "synonyms": [
+      "area"
+    ],
+    "distractors": [
+      "workspace",
+      "workplace",
+      "workshop"
+    ]
+  },
+  {
+    "id": "toeic-p3-cubicle",
+    "part": 3,
+    "word": "cubicle",
+    "pos": "noun",
+    "meaning_ko": "칸막이 사무실",
+    "ipa": "/ˈkjuːbɪkəl/",
+    "pron_ko": "큐비클",
+    "example_en": "My cubicle is in the corner.",
+    "example_ko": "제 칸막이 사무실은 모서리에 있습니다.",
+    "topic": [
+      "office"
+    ],
+    "frequency_tier": 2,
+    "synonyms": [
+      "booth"
+    ],
+    "distractors": [
+      "cubicle",
+      "cubic",
+      "cubical"
+    ]
+  },
+  {
+    "id": "toeic-p3-conference-room",
+    "part": 3,
+    "word": "conference room",
+    "pos": "noun",
+    "meaning_ko": "회의실",
+    "ipa": "/ˈkɒnfərəns ruːm/",
+    "pron_ko": "컨퍼런스 룸",
+    "example_en": "Reserve the conference room.",
+    "example_ko": "회의실을 예약하세요.",
+    "topic": [
+      "meeting"
+    ],
+    "frequency_tier": 1,
+    "synonyms": [
+      "meeting room"
+    ],
+    "distractors": [
+      "conference",
+      "conferences",
+      "confidence"
+    ]
+  },
+  {
+    "id": "toeic-p3-meeting-room",
+    "part": 3,
+    "word": "meeting room",
+    "pos": "noun",
+    "meaning_ko": "회의실",
+    "ipa": "/ˈmiːtɪŋ ruːm/",
+    "pron_ko": "미팅 룸",
+    "example_en": "Move to the meeting room.",
+    "example_ko": "회의실로 이동하세요.",
+    "topic": [
+      "meeting"
+    ],
+    "frequency_tier": 1,
+    "synonyms": [
+      "conference room"
+    ],
+    "distractors": [
+      "meeting room",
+      "meeting",
+      "meet up"
+    ]
+  },
+  {
+    "id": "toeic-p3-boardroom",
+    "part": 3,
+    "word": "boardroom",
+    "pos": "noun",
+    "meaning_ko": "임원실",
+    "ipa": "/ˈbɔːrdruːm/",
+    "pron_ko": "보드룸",
+    "example_en": "The CEO is in the boardroom.",
+    "example_ko": "CEO는 임원실에 있습니다.",
+    "topic": [
+      "meeting"
+    ],
+    "frequency_tier": 2,
+    "synonyms": [
+      "executive room"
+    ],
+    "distractors": [
+      "boardroom",
+      "broom room",
+      "board room"
+    ]
+  },
+  {
+    "id": "toeic-p3-agenda",
+    "part": 3,
+    "word": "agenda",
+    "pos": "noun",
+    "meaning_ko": "의제",
+    "ipa": "/əˈdʒendə/",
+    "pron_ko": "어젠다",
+    "example_en": "Review the agenda first.",
+    "example_ko": "먼저 의제를 검토하세요.",
+    "topic": [
+      "meeting"
+    ],
+    "frequency_tier": 1,
+    "synonyms": [
+      "plan"
+    ],
+    "distractors": [
+      "agenda",
+      "agency",
+      "addenda"
+    ]
+  },
+  {
+    "id": "toeic-p3-minutes",
+    "part": 3,
+    "word": "minutes",
+    "pos": "noun",
+    "meaning_ko": "회의록",
+    "ipa": "/ˈmɪnɪts/",
+    "pron_ko": "미닛",
+    "example_en": "Please share the minutes.",
+    "example_ko": "회의록을 공유해 주세요.",
+    "topic": [
+      "meeting"
+    ],
+    "frequency_tier": 1,
+    "synonyms": [
+      "notes"
+    ],
+    "distractors": [
+      "minutes",
+      "minute",
+      "minutes"
+    ]
+  },
+  {
+    "id": "toeic-p3-kickoff",
+    "part": 3,
+    "word": "kickoff",
+    "pos": "noun",
+    "meaning_ko": "개시",
+    "ipa": "/ˈkɪkɒf/",
+    "pron_ko": "킥오프",
+    "example_en": "The kickoff is tomorrow.",
+    "example_ko": "개시 회의는 내일입니다.",
+    "topic": [
+      "meeting"
+    ],
+    "frequency_tier": 1,
+    "synonyms": [
+      "start"
+    ],
+    "distractors": [
+      "kickoff",
+      "kick off",
+      "kicker"
+    ]
+  },
+  {
+    "id": "toeic-p3-briefing",
+    "part": 3,
+    "word": "briefing",
+    "pos": "noun",
+    "meaning_ko": "브리핑",
+    "ipa": "/ˈbriːfɪŋ/",
+    "pron_ko": "브리핑",
+    "example_en": "I have a briefing at noon.",
+    "example_ko": "정오에 브리핑이 있습니다.",
+    "topic": [
+      "meeting"
+    ],
+    "frequency_tier": 1,
+    "synonyms": [
+      "summary"
+    ],
+    "distractors": [
+      "briefing",
+      "brief",
+      "breathing"
+    ]
+  },
+  {
+    "id": "toeic-p3-debrief",
+    "part": 3,
+    "word": "debrief",
+    "pos": "verb",
+    "meaning_ko": "사후 보고하다",
+    "ipa": "/diːˈbriːf/",
+    "pron_ko": "디브리프",
+    "example_en": "Let's debrief after the call.",
+    "example_ko": "통화 후 사후 보고합시다.",
+    "topic": [
+      "meeting"
+    ],
+    "frequency_tier": 2,
+    "synonyms": [
+      "review"
+    ],
+    "distractors": [
+      "debrief",
+      "debriefed",
+      "debrief"
+    ]
+  },
+  {
+    "id": "toeic-p3-recap",
+    "part": 3,
+    "word": "recap",
+    "pos": "verb",
+    "meaning_ko": "요약하다",
+    "ipa": "/ˈriːkæp/",
+    "pron_ko": "리캡",
+    "example_en": "Let me recap the key points.",
+    "example_ko": "요점을 요약하겠습니다.",
+    "topic": [
+      "meeting"
+    ],
+    "frequency_tier": 1,
+    "synonyms": [
+      "summarize"
+    ],
+    "distractors": [
+      "recap",
+      "wrap",
+      "reap"
+    ]
+  },
+  {
+    "id": "toeic-p3-summarize",
+    "part": 3,
+    "word": "summarize",
+    "pos": "verb",
+    "meaning_ko": "요약하다",
+    "ipa": "/ˈsʌməraɪz/",
+    "pron_ko": "서머라이즈",
+    "example_en": "Could you summarize the report?",
+    "example_ko": "보고서를 요약해 주시겠어요?",
+    "topic": [
+      "meeting"
+    ],
+    "frequency_tier": 1,
+    "synonyms": [
+      "recap"
+    ],
+    "distractors": [
+      "summarize",
+      "summary",
+      "summer"
+    ]
+  },
+  {
+    "id": "toeic-p3-present",
+    "part": 3,
+    "word": "present",
+    "pos": "verb",
+    "meaning_ko": "발표하다",
+    "ipa": "/prɪˈzent/",
+    "pron_ko": "프리젠트",
+    "example_en": "She will present the proposal.",
+    "example_ko": "그녀가 제안서를 발표할 겁니다.",
+    "topic": [
+      "meeting"
+    ],
+    "frequency_tier": 1,
+    "synonyms": [
+      "deliver"
+    ],
+    "distractors": [
+      "present",
+      "presents",
+      "prevent"
+    ]
+  },
+  {
+    "id": "toeic-p3-presentation",
+    "part": 3,
+    "word": "presentation",
+    "pos": "noun",
+    "meaning_ko": "발표",
+    "ipa": "/ˌprezənˈteɪʃən/",
+    "pron_ko": "프리젠테이션",
+    "example_en": "The presentation went well.",
+    "example_ko": "발표가 잘 진행되었습니다.",
+    "topic": [
+      "meeting"
+    ],
+    "frequency_tier": 1,
+    "synonyms": [
+      "talk"
+    ],
+    "distractors": [
+      "presentation",
+      "present",
+      "representation"
+    ]
+  },
+  {
+    "id": "toeic-p3-slideshow",
+    "part": 3,
+    "word": "slideshow",
+    "pos": "noun",
+    "meaning_ko": "슬라이드 쇼",
+    "ipa": "/ˈslaɪdʃoʊ/",
+    "pron_ko": "슬라이드쇼",
+    "example_en": "Prepare the slideshow.",
+    "example_ko": "슬라이드 쇼를 준비하세요.",
+    "topic": [
+      "meeting"
+    ],
+    "frequency_tier": 1,
+    "synonyms": [
+      "slides"
+    ],
+    "distractors": [
+      "slideshow",
+      "sideshow",
+      "slide show"
+    ]
+  },
+  {
+    "id": "toeic-p3-slide",
+    "part": 3,
+    "word": "slide",
+    "pos": "noun",
+    "meaning_ko": "슬라이드",
+    "ipa": "/slaɪd/",
+    "pron_ko": "슬라이드",
+    "example_en": "Move to the next slide.",
+    "example_ko": "다음 슬라이드로 이동하세요.",
+    "topic": [
+      "meeting"
+    ],
+    "frequency_tier": 1,
+    "synonyms": [
+      "page"
+    ],
+    "distractors": [
+      "slide",
+      "slides",
+      "silde"
+    ]
+  },
+  {
+    "id": "toeic-p3-handout",
+    "part": 3,
+    "word": "handout",
+    "pos": "noun",
+    "meaning_ko": "유인물",
+    "ipa": "/ˈhændaʊt/",
+    "pron_ko": "핸드아웃",
+    "example_en": "Distribute the handouts.",
+    "example_ko": "유인물을 나눠 주세요.",
+    "topic": [
+      "meeting"
+    ],
+    "frequency_tier": 1,
+    "synonyms": [
+      "leaflet"
+    ],
+    "distractors": [
+      "handout",
+      "handouts",
+      "handouts"
+    ]
+  },
+  {
+    "id": "toeic-p3-notes",
+    "part": 3,
+    "word": "notes",
+    "pos": "noun",
+    "meaning_ko": "메모",
+    "ipa": "/noʊts/",
+    "pron_ko": "노츠",
+    "example_en": "Take notes during the meeting.",
+    "example_ko": "회의 중에 메모하세요.",
+    "topic": [
+      "meeting"
+    ],
+    "frequency_tier": 1,
+    "synonyms": [
+      "memo"
+    ],
+    "distractors": [
+      "notes",
+      "note",
+      "noses"
+    ]
+  },
+  {
+    "id": "toeic-p3-memo",
+    "part": 3,
+    "word": "memo",
+    "pos": "noun",
+    "meaning_ko": "메모",
+    "ipa": "/ˈmemoʊ/",
+    "pron_ko": "메모",
+    "example_en": "Send out a memo.",
+    "example_ko": "메모를 발송하세요.",
+    "topic": [
+      "office"
+    ],
+    "frequency_tier": 1,
+    "synonyms": [
+      "memorandum"
+    ],
+    "distractors": [
+      "memo",
+      "memos",
+      "memory"
+    ]
+  },
+  {
+    "id": "toeic-p3-memorandum",
+    "part": 3,
+    "word": "memorandum",
+    "pos": "noun",
+    "meaning_ko": "공문",
+    "ipa": "/ˌmeməˈrændəm/",
+    "pron_ko": "메모랜덤",
+    "example_en": "Issue a memorandum.",
+    "example_ko": "공문을 발행하세요.",
+    "topic": [
+      "office"
+    ],
+    "frequency_tier": 2,
+    "synonyms": [
+      "memo"
+    ],
+    "distractors": [
+      "memorandum",
+      "memorial",
+      "memoir"
+    ]
+  },
+  {
+    "id": "toeic-p3-conference-call",
+    "part": 3,
+    "word": "conference call",
+    "pos": "noun",
+    "meaning_ko": "회의 전화",
+    "ipa": "/ˈkɒnfərəns kɔːl/",
+    "pron_ko": "컨퍼런스 콜",
+    "example_en": "Join the conference call at three.",
+    "example_ko": "3시에 회의 전화에 참여하세요.",
+    "topic": [
+      "meeting"
+    ],
+    "frequency_tier": 1,
+    "synonyms": [
+      "call"
+    ],
+    "distractors": [
+      "conference",
+      "conferences",
+      "confidence"
+    ]
+  },
+  {
+    "id": "toeic-p3-video-call",
+    "part": 3,
+    "word": "video call",
+    "pos": "noun",
+    "meaning_ko": "화상 통화",
+    "ipa": "/ˈvɪdioʊ kɔːl/",
+    "pron_ko": "비디오 콜",
+    "example_en": "Let's have a video call.",
+    "example_ko": "화상 통화합시다.",
+    "topic": [
+      "meeting"
+    ],
+    "frequency_tier": 1,
+    "synonyms": [
+      "web meeting"
+    ],
+    "distractors": [
+      "video call",
+      "video chat",
+      "video clip"
+    ]
+  },
+  {
+    "id": "toeic-p3-teleconference",
+    "part": 3,
+    "word": "teleconference",
+    "pos": "noun",
+    "meaning_ko": "원격 회의",
+    "ipa": "/ˌteliˈkɒnfərəns/",
+    "pron_ko": "텔레컨퍼런스",
+    "example_en": "Set up a teleconference.",
+    "example_ko": "원격 회의를 설정하세요.",
+    "topic": [
+      "meeting"
+    ],
+    "frequency_tier": 2,
+    "synonyms": [
+      "call"
+    ],
+    "distractors": [
+      "teleconference",
+      "telecommute",
+      "telephone"
+    ]
+  },
+  {
+    "id": "toeic-p3-webinar",
+    "part": 3,
+    "word": "webinar",
+    "pos": "noun",
+    "meaning_ko": "웨비나",
+    "ipa": "/ˈwebɪnɑːr/",
+    "pron_ko": "웨비나",
+    "example_en": "Register for the webinar.",
+    "example_ko": "웨비나에 등록하세요.",
+    "topic": [
+      "meeting"
+    ],
+    "frequency_tier": 1,
+    "synonyms": [
+      "online seminar"
+    ],
+    "distractors": [
+      "webinar",
+      "seminar",
+      "website"
+    ]
+  },
+  {
+    "id": "toeic-p3-breakout",
+    "part": 3,
+    "word": "breakout",
+    "pos": "noun",
+    "meaning_ko": "소그룹",
+    "ipa": "/ˈbreɪkaʊt/",
+    "pron_ko": "브레이크아웃",
+    "example_en": "Move to your breakout room.",
+    "example_ko": "소그룹 방으로 이동하세요.",
+    "topic": [
+      "meeting"
+    ],
+    "frequency_tier": 2,
+    "synonyms": [
+      "small group"
+    ],
+    "distractors": [
+      "breakout",
+      "outbreak",
+      "breakdown"
+    ]
+  },
+  {
+    "id": "toeic-p3-attendee",
+    "part": 3,
+    "word": "attendee",
+    "pos": "noun",
+    "meaning_ko": "참석자",
+    "ipa": "/əˌtenˈdiː/",
+    "pron_ko": "어텐디",
+    "example_en": "All attendees received the link.",
+    "example_ko": "모든 참석자가 링크를 받았습니다.",
+    "topic": [
+      "meeting"
+    ],
+    "frequency_tier": 1,
+    "synonyms": [
+      "participant"
+    ],
+    "distractors": [
+      "attendee",
+      "attendant",
+      "attendance"
+    ]
+  },
+  {
+    "id": "toeic-p3-participant",
+    "part": 3,
+    "word": "participant",
+    "pos": "noun",
+    "meaning_ko": "참가자",
+    "ipa": "/pɑːrˈtɪsɪpənt/",
+    "pron_ko": "파티시펀트",
+    "example_en": "Participants are seated.",
+    "example_ko": "참가자들이 자리에 앉았습니다.",
+    "topic": [
+      "meeting"
+    ],
+    "frequency_tier": 1,
+    "synonyms": [
+      "attendee"
+    ],
+    "distractors": [
+      "participant",
+      "participate",
+      "participant"
+    ]
+  },
+  {
+    "id": "toeic-p3-speaker",
+    "part": 3,
+    "word": "speaker",
+    "pos": "noun",
+    "meaning_ko": "연설자",
+    "ipa": "/ˈspiːkər/",
+    "pron_ko": "스피커",
+    "example_en": "The keynote speaker is famous.",
+    "example_ko": "기조 연설자는 유명합니다.",
+    "topic": [
+      "meeting"
+    ],
+    "frequency_tier": 1,
+    "synonyms": [
+      "presenter"
+    ],
+    "distractors": [
+      "speaker",
+      "spoke",
+      "spacer"
+    ]
+  },
+  {
+    "id": "toeic-p3-keynote",
+    "part": 3,
+    "word": "keynote",
+    "pos": "noun",
+    "meaning_ko": "기조",
+    "ipa": "/ˈkiːnoʊt/",
+    "pron_ko": "키노트",
+    "example_en": "Her keynote was inspiring.",
+    "example_ko": "그녀의 기조 연설은 영감을 주었습니다.",
+    "topic": [
+      "meeting"
+    ],
+    "frequency_tier": 1,
+    "synonyms": [
+      "main address"
+    ],
+    "distractors": [
+      "keynote",
+      "keynotes",
+      "keystone"
+    ]
+  },
+  {
+    "id": "toeic-p3-moderator",
+    "part": 3,
+    "word": "moderator",
+    "pos": "noun",
+    "meaning_ko": "사회자",
+    "ipa": "/ˈmɒdəreɪtər/",
+    "pron_ko": "모더레이터",
+    "example_en": "The moderator opened the discussion.",
+    "example_ko": "사회자가 토론을 시작했습니다.",
+    "topic": [
+      "meeting"
+    ],
+    "frequency_tier": 2,
+    "synonyms": [
+      "chair"
+    ],
+    "distractors": [
+      "moderator",
+      "moderate",
+      "motivate"
+    ]
+  },
+  {
+    "id": "toeic-p3-chair",
+    "part": 3,
+    "word": "chair",
+    "pos": "verb",
+    "meaning_ko": "의장을 맡다",
+    "ipa": "/tʃer/",
+    "pron_ko": "체어",
+    "example_en": "She will chair the meeting.",
+    "example_ko": "그녀가 회의를 주재할 겁니다.",
+    "topic": [
+      "meeting"
+    ],
+    "frequency_tier": 1,
+    "synonyms": [
+      "preside"
+    ],
+    "distractors": [
+      "chair",
+      "cheer",
+      "charm"
+    ]
+  },
+  {
+    "id": "toeic-p3-preside",
+    "part": 3,
+    "word": "preside",
+    "pos": "verb",
+    "meaning_ko": "주재하다",
+    "ipa": "/prɪˈzaɪd/",
+    "pron_ko": "프리자이드",
+    "example_en": "He will preside over the session.",
+    "example_ko": "그는 회의를 주재할 겁니다.",
+    "topic": [
+      "meeting"
+    ],
+    "frequency_tier": 2,
+    "synonyms": [
+      "chair"
+    ],
+    "distractors": [
+      "preside",
+      "reside",
+      "provide"
+    ]
+  },
+  {
+    "id": "toeic-p3-client",
+    "part": 3,
+    "word": "client",
+    "pos": "noun",
+    "meaning_ko": "고객",
+    "ipa": "/ˈklaɪənt/",
+    "pron_ko": "클라이언트",
+    "example_en": "Our client signed the deal.",
+    "example_ko": "고객이 거래에 서명했습니다.",
+    "topic": [
+      "client"
+    ],
+    "frequency_tier": 1,
+    "synonyms": [
+      "customer"
+    ],
+    "distractors": [
+      "client",
+      "clients",
+      "client's"
+    ]
+  },
+  {
+    "id": "toeic-p3-customer",
+    "part": 3,
+    "word": "customer",
+    "pos": "noun",
+    "meaning_ko": "고객",
+    "ipa": "/ˈkʌstəmər/",
+    "pron_ko": "커스터머",
+    "example_en": "The customer is waiting.",
+    "example_ko": "고객이 기다리고 있습니다.",
+    "topic": [
+      "client"
+    ],
+    "frequency_tier": 1,
+    "synonyms": [
+      "buyer"
+    ],
+    "distractors": [
+      "customer",
+      "consumer",
+      "costume"
+    ]
+  },
+  {
+    "id": "toeic-p3-vendor",
+    "part": 3,
+    "word": "vendor",
+    "pos": "noun",
+    "meaning_ko": "공급업체",
+    "ipa": "/ˈvendər/",
+    "pron_ko": "벤더",
+    "example_en": "Contact the vendor for support.",
+    "example_ko": "지원이 필요하면 공급업체에 연락하세요.",
+    "topic": [
+      "client"
+    ],
+    "frequency_tier": 1,
+    "synonyms": [
+      "supplier"
+    ],
+    "distractors": [
+      "vendor",
+      "vendors",
+      "vender"
+    ]
+  },
+  {
+    "id": "toeic-p3-supplier",
+    "part": 3,
+    "word": "supplier",
+    "pos": "noun",
+    "meaning_ko": "공급업체",
+    "ipa": "/səˈplaɪər/",
+    "pron_ko": "서플라이어",
+    "example_en": "Our supplier is reliable.",
+    "example_ko": "우리 공급업체는 믿을 만합니다.",
+    "topic": [
+      "client"
+    ],
+    "frequency_tier": 1,
+    "synonyms": [
+      "vendor"
+    ],
+    "distractors": [
+      "supplier",
+      "supply",
+      "supplies"
+    ]
+  },
+  {
+    "id": "toeic-p3-partner",
+    "part": 3,
+    "word": "partner",
+    "pos": "noun",
+    "meaning_ko": "파트너",
+    "ipa": "/ˈpɑːrtnər/",
+    "pron_ko": "파트너",
+    "example_en": "Our business partner is visiting.",
+    "example_ko": "우리 사업 파트너가 방문 중입니다.",
+    "topic": [
+      "client"
+    ],
+    "frequency_tier": 1,
+    "synonyms": [
+      "associate"
+    ],
+    "distractors": [
+      "partner",
+      "partners",
+      "patterns"
+    ]
+  },
+  {
+    "id": "toeic-p3-stakeholder",
+    "part": 3,
+    "word": "stakeholder",
+    "pos": "noun",
+    "meaning_ko": "이해관계자",
+    "ipa": "/ˈsteɪkˌhoʊldər/",
+    "pron_ko": "스테이크홀더",
+    "example_en": "Inform all stakeholders.",
+    "example_ko": "모든 이해관계자에게 알리세요.",
+    "topic": [
+      "client"
+    ],
+    "frequency_tier": 1,
+    "synonyms": [
+      "interested party"
+    ],
+    "distractors": [
+      "stakeholder",
+      "shareholder",
+      "stockholder"
+    ]
+  },
+  {
+    "id": "toeic-p3-shareholder",
+    "part": 3,
+    "word": "shareholder",
+    "pos": "noun",
+    "meaning_ko": "주주",
+    "ipa": "/ˈʃerˌhoʊldər/",
+    "pron_ko": "쉐어홀더",
+    "example_en": "Shareholders will vote next week.",
+    "example_ko": "주주들이 다음 주에 투표할 겁니다.",
+    "topic": [
+      "client"
+    ],
+    "frequency_tier": 1,
+    "synonyms": [
+      "investor"
+    ],
+    "distractors": [
+      "shareholder",
+      "stockholder",
+      "stakeholder"
+    ]
+  },
+  {
+    "id": "toeic-p3-contractor",
+    "part": 3,
+    "word": "contractor",
+    "pos": "noun",
+    "meaning_ko": "계약자",
+    "ipa": "/ˈkɒntræktər/",
+    "pron_ko": "컨트랙터",
+    "example_en": "Hire a contractor for the job.",
+    "example_ko": "그 일에 계약자를 고용하세요.",
+    "topic": [
+      "client"
+    ],
+    "frequency_tier": 1,
+    "synonyms": [
+      "subcontractor"
+    ],
+    "distractors": [
+      "contractor",
+      "contract",
+      "contraction"
+    ]
+  },
+  {
+    "id": "toeic-p3-consultant",
+    "part": 3,
+    "word": "consultant",
+    "pos": "noun",
+    "meaning_ko": "컨설턴트",
+    "ipa": "/kənˈsʌltənt/",
+    "pron_ko": "컨설턴트",
+    "example_en": "We hired a consultant.",
+    "example_ko": "우리는 컨설턴트를 고용했습니다.",
+    "topic": [
+      "client"
+    ],
+    "frequency_tier": 1,
+    "synonyms": [
+      "advisor"
+    ],
+    "distractors": [
+      "consultant",
+      "consul",
+      "consultation"
+    ]
+  },
+  {
+    "id": "toeic-p3-counterpart",
+    "part": 3,
+    "word": "counterpart",
+    "pos": "noun",
+    "meaning_ko": "상대방",
+    "ipa": "/ˈkaʊntərpɑːrt/",
+    "pron_ko": "카운터파트",
+    "example_en": "Meet your counterpart.",
+    "example_ko": "상대방을 만나세요.",
+    "topic": [
+      "client"
+    ],
+    "frequency_tier": 2,
+    "synonyms": [
+      "equivalent"
+    ],
+    "distractors": [
+      "counterpart",
+      "counterparts",
+      "counter part"
+    ]
+  },
+  {
+    "id": "toeic-p3-schedule",
+    "part": 3,
+    "word": "schedule",
+    "pos": "noun",
+    "meaning_ko": "일정",
+    "ipa": "/ˈskedʒuːl/",
+    "pron_ko": "스케줄",
+    "example_en": "Check the schedule.",
+    "example_ko": "일정을 확인하세요.",
+    "topic": [
+      "schedule"
+    ],
+    "frequency_tier": 1,
+    "synonyms": [
+      "timetable"
+    ],
+    "distractors": [
+      "schedule",
+      "scheduled",
+      "schedules"
+    ]
+  },
+  {
+    "id": "toeic-p3-calendar",
+    "part": 3,
+    "word": "calendar",
+    "pos": "noun",
+    "meaning_ko": "달력",
+    "ipa": "/ˈkæləndər/",
+    "pron_ko": "캘린더",
+    "example_en": "Block off your calendar.",
+    "example_ko": "달력의 시간을 비워 두세요.",
+    "topic": [
+      "schedule"
+    ],
+    "frequency_tier": 1,
+    "synonyms": [
+      "planner"
+    ],
+    "distractors": [
+      "calendar",
+      "calender",
+      "callender"
+    ]
+  },
+  {
+    "id": "toeic-p3-appointment",
+    "part": 3,
+    "word": "appointment",
+    "pos": "noun",
+    "meaning_ko": "예약",
+    "ipa": "/əˈpɔɪntmənt/",
+    "pron_ko": "어포인트먼트",
+    "example_en": "I have a 2 PM appointment.",
+    "example_ko": "오후 2시에 예약이 있습니다.",
+    "topic": [
+      "schedule"
+    ],
+    "frequency_tier": 1,
+    "synonyms": [
+      "meeting"
+    ],
+    "distractors": [
+      "appointment",
+      "appoint",
+      "appointed"
+    ]
+  },
+  {
+    "id": "toeic-p3-deadline",
+    "part": 3,
+    "word": "deadline",
+    "pos": "noun",
+    "meaning_ko": "마감일",
+    "ipa": "/ˈdedlaɪn/",
+    "pron_ko": "데드라인",
+    "example_en": "The deadline is approaching.",
+    "example_ko": "마감일이 다가오고 있습니다.",
+    "topic": [
+      "schedule"
+    ],
+    "frequency_tier": 1,
+    "synonyms": [
+      "due date"
+    ],
+    "distractors": [
+      "deadline",
+      "deadlines",
+      "headline"
+    ]
+  },
+  {
+    "id": "toeic-p3-due-date",
+    "part": 3,
+    "word": "due date",
+    "pos": "noun",
+    "meaning_ko": "마감일",
+    "ipa": "/djuː deɪt/",
+    "pron_ko": "듀 데이트",
+    "example_en": "The due date is Friday.",
+    "example_ko": "마감일은 금요일입니다.",
+    "topic": [
+      "schedule"
+    ],
+    "frequency_tier": 1,
+    "synonyms": [
+      "deadline"
+    ],
+    "distractors": [
+      "due date",
+      "do date",
+      "dew date"
+    ]
+  },
+  {
+    "id": "toeic-p3-timeline",
+    "part": 3,
+    "word": "timeline",
+    "pos": "noun",
+    "meaning_ko": "일정표",
+    "ipa": "/ˈtaɪmlaɪn/",
+    "pron_ko": "타임라인",
+    "example_en": "Review the project timeline.",
+    "example_ko": "프로젝트 일정표를 검토하세요.",
+    "topic": [
+      "schedule"
+    ],
+    "frequency_tier": 1,
+    "synonyms": [
+      "schedule"
+    ],
+    "distractors": [
+      "timeline",
+      "timely",
+      "timer"
+    ]
+  },
+  {
+    "id": "toeic-p3-milestone",
+    "part": 3,
+    "word": "milestone",
+    "pos": "noun",
+    "meaning_ko": "이정표",
+    "ipa": "/ˈmaɪlˌstoʊn/",
+    "pron_ko": "마일스톤",
+    "example_en": "We reached a milestone.",
+    "example_ko": "이정표에 도달했습니다.",
+    "topic": [
+      "schedule"
+    ],
+    "frequency_tier": 1,
+    "synonyms": [
+      "benchmark"
+    ],
+    "distractors": [
+      "milestone",
+      "milestones",
+      "millstone"
+    ]
+  },
+  {
+    "id": "toeic-p3-turnaround",
+    "part": 3,
+    "word": "turnaround",
+    "pos": "noun",
+    "meaning_ko": "처리 시간",
+    "ipa": "/ˈtɜːrnəraʊnd/",
+    "pron_ko": "턴어라운드",
+    "example_en": "Our turnaround is 24 hours.",
+    "example_ko": "처리 시간은 24시간입니다.",
+    "topic": [
+      "schedule"
+    ],
+    "frequency_tier": 1,
+    "synonyms": [
+      "completion"
+    ],
+    "distractors": [
+      "turnaround",
+      "turning",
+      "turnover"
+    ]
+  },
+  {
+    "id": "toeic-p3-lead-time",
+    "part": 3,
+    "word": "lead time",
+    "pos": "noun",
+    "meaning_ko": "리드 타임",
+    "ipa": "/liːd taɪm/",
+    "pron_ko": "리드 타임",
+    "example_en": "Allow two weeks of lead time.",
+    "example_ko": "2주의 리드 타임을 두세요.",
+    "topic": [
+      "schedule"
+    ],
+    "frequency_tier": 1,
+    "synonyms": [
+      "prep time"
+    ],
+    "distractors": [
+      "lead time",
+      "leading",
+      "lead times"
+    ]
+  },
+  {
+    "id": "toeic-p3-backlog",
+    "part": 3,
+    "word": "backlog",
+    "pos": "noun",
+    "meaning_ko": "밀린 일",
+    "ipa": "/ˈbæklɒɡ/",
+    "pron_ko": "백로그",
+    "example_en": "Clear the backlog.",
+    "example_ko": "밀린 일을 정리하세요.",
+    "topic": [
+      "schedule"
+    ],
+    "frequency_tier": 1,
+    "synonyms": [
+      "queue"
+    ],
+    "distractors": [
+      "backlog",
+      "backflow",
+      "backlash"
+    ]
+  },
+  {
+    "id": "toeic-p3-priority",
+    "part": 3,
+    "word": "priority",
+    "pos": "noun",
+    "meaning_ko": "우선순위",
+    "ipa": "/praɪˈɔːrəti/",
+    "pron_ko": "프라이오리티",
+    "example_en": "This is our top priority.",
+    "example_ko": "이것이 우리의 최우선 순위입니다.",
+    "topic": [
+      "schedule"
+    ],
+    "frequency_tier": 1,
+    "synonyms": [
+      "importance"
+    ],
+    "distractors": [
+      "priority",
+      "prior",
+      "priorities"
+    ]
+  },
+  {
+    "id": "toeic-p3-urgent",
+    "part": 3,
+    "word": "urgent",
+    "pos": "adj",
+    "meaning_ko": "긴급한",
+    "ipa": "/ˈɜːrdʒənt/",
+    "pron_ko": "어전트",
+    "example_en": "I need an urgent reply.",
+    "example_ko": "급한 답변이 필요합니다.",
+    "topic": [
+      "schedule"
+    ],
+    "frequency_tier": 1,
+    "synonyms": [
+      "pressing"
+    ],
+    "distractors": [
+      "urgent",
+      "urgency",
+      "argent"
+    ]
+  },
+  {
+    "id": "toeic-p3-pending",
+    "part": 3,
+    "word": "pending",
+    "pos": "adj",
+    "meaning_ko": "대기 중인",
+    "ipa": "/ˈpendɪŋ/",
+    "pron_ko": "펜딩",
+    "example_en": "The approval is still pending.",
+    "example_ko": "승인은 아직 대기 중입니다.",
+    "topic": [
+      "schedule"
+    ],
+    "frequency_tier": 1,
+    "synonyms": [
+      "awaiting"
+    ],
+    "distractors": [
+      "pending",
+      "spending",
+      "trending"
+    ]
+  },
+  {
+    "id": "toeic-p3-ongoing",
+    "part": 3,
+    "word": "ongoing",
+    "pos": "adj",
+    "meaning_ko": "진행 중인",
+    "ipa": "/ˈɒnɡoʊɪŋ/",
+    "pron_ko": "온고잉",
+    "example_en": "The project is ongoing.",
+    "example_ko": "프로젝트는 진행 중입니다.",
+    "topic": [
+      "schedule"
+    ],
+    "frequency_tier": 1,
+    "synonyms": [
+      "continuing"
+    ],
+    "distractors": [
+      "ongoing",
+      "going",
+      "outgoing"
+    ]
+  },
+  {
+    "id": "toeic-p3-upcoming",
+    "part": 3,
+    "word": "upcoming",
+    "pos": "adj",
+    "meaning_ko": "다가오는",
+    "ipa": "/ˈʌpˌkʌmɪŋ/",
+    "pron_ko": "업커밍",
+    "example_en": "The upcoming meeting is critical.",
+    "example_ko": "다가오는 회의는 매우 중요합니다.",
+    "topic": [
+      "schedule"
+    ],
+    "frequency_tier": 1,
+    "synonyms": [
+      "forthcoming"
+    ],
+    "distractors": [
+      "upcoming",
+      "outcoming",
+      "incoming"
+    ]
+  },
+  {
+    "id": "toeic-p3-postponement",
+    "part": 3,
+    "word": "postponement",
+    "pos": "noun",
+    "meaning_ko": "연기",
+    "ipa": "/poʊstˈpoʊnmənt/",
+    "pron_ko": "포스트폰먼트",
+    "example_en": "Inform staff of the postponement.",
+    "example_ko": "직원에게 연기를 알리세요.",
+    "topic": [
+      "schedule"
+    ],
+    "frequency_tier": 2,
+    "synonyms": [
+      "delay"
+    ],
+    "distractors": [
+      "postponement",
+      "postpone",
+      "postponed"
+    ]
+  },
+  {
+    "id": "toeic-p3-cancellation",
+    "part": 3,
+    "word": "cancellation",
+    "pos": "noun",
+    "meaning_ko": "취소",
+    "ipa": "/ˌkænsəˈleɪʃən/",
+    "pron_ko": "캔슬레이션",
+    "example_en": "The cancellation was unexpected.",
+    "example_ko": "취소는 예상치 못한 것이었습니다.",
+    "topic": [
+      "schedule"
+    ],
+    "frequency_tier": 1,
+    "synonyms": [
+      "call-off"
+    ],
+    "distractors": [
+      "cancellation",
+      "cancel",
+      "cancelled"
+    ]
+  },
+  {
+    "id": "toeic-p3-rescheduling",
+    "part": 3,
+    "word": "rescheduling",
+    "pos": "noun",
+    "meaning_ko": "일정 변경",
+    "ipa": "/riːˈskedʒuːlɪŋ/",
+    "pron_ko": "리스케줄링",
+    "example_en": "Rescheduling is required.",
+    "example_ko": "일정 변경이 필요합니다.",
+    "topic": [
+      "schedule"
+    ],
+    "frequency_tier": 2,
+    "synonyms": [
+      "rebooking"
+    ],
+    "distractors": [
+      "rescheduling",
+      "scheduling",
+      "schedule"
+    ]
+  },
+  {
+    "id": "toeic-p3-relocate",
+    "part": 3,
+    "word": "relocate",
+    "pos": "verb",
+    "meaning_ko": "이전하다",
+    "ipa": "/ˌriːloʊˈkeɪt/",
+    "pron_ko": "리로케이트",
+    "example_en": "We will relocate next month.",
+    "example_ko": "다음 달에 이전합니다.",
+    "topic": [
+      "office"
+    ],
+    "frequency_tier": 1,
+    "synonyms": [
+      "move"
+    ],
+    "distractors": [
+      "relocate",
+      "relocation",
+      "located"
+    ]
+  },
+  {
+    "id": "toeic-p3-relocation",
+    "part": 3,
+    "word": "relocation",
+    "pos": "noun",
+    "meaning_ko": "이전",
+    "ipa": "/ˌriːloʊˈkeɪʃən/",
+    "pron_ko": "리로케이션",
+    "example_en": "The relocation is complete.",
+    "example_ko": "이전이 완료되었습니다.",
+    "topic": [
+      "office"
+    ],
+    "frequency_tier": 1,
+    "synonyms": [
+      "move"
+    ],
+    "distractors": [
+      "relocation",
+      "location",
+      "relocate"
+    ]
+  },
+  {
+    "id": "toeic-p3-expansion",
+    "part": 3,
+    "word": "expansion",
+    "pos": "noun",
+    "meaning_ko": "확장",
+    "ipa": "/ɪkˈspænʃən/",
+    "pron_ko": "익스팬션",
+    "example_en": "The expansion plan is approved.",
+    "example_ko": "확장 계획이 승인되었습니다.",
+    "topic": [
+      "office"
+    ],
+    "frequency_tier": 1,
+    "synonyms": [
+      "growth"
+    ],
+    "distractors": [
+      "expansion",
+      "expand",
+      "extension"
+    ]
+  },
+  {
+    "id": "toeic-p3-merger",
+    "part": 3,
+    "word": "merger",
+    "pos": "noun",
+    "meaning_ko": "합병",
+    "ipa": "/ˈmɜːrdʒər/",
+    "pron_ko": "머저",
+    "example_en": "The merger is finalized.",
+    "example_ko": "합병이 완료되었습니다.",
+    "topic": [
+      "office"
+    ],
+    "frequency_tier": 1,
+    "synonyms": [
+      "consolidation"
+    ],
+    "distractors": [
+      "merger",
+      "merge",
+      "murmur"
+    ]
+  },
+  {
+    "id": "toeic-p3-acquisition",
+    "part": 3,
+    "word": "acquisition",
+    "pos": "noun",
+    "meaning_ko": "인수",
+    "ipa": "/ˌækwɪˈzɪʃən/",
+    "pron_ko": "애퀴지션",
+    "example_en": "The acquisition closes Friday.",
+    "example_ko": "인수는 금요일에 마무리됩니다.",
+    "topic": [
+      "office"
+    ],
+    "frequency_tier": 1,
+    "synonyms": [
+      "takeover"
+    ],
+    "distractors": [
+      "acquisition",
+      "acquire",
+      "inquisition"
+    ]
+  },
+  {
+    "id": "toeic-p3-budget",
+    "part": 3,
+    "word": "budget",
+    "pos": "noun",
+    "meaning_ko": "예산",
+    "ipa": "/ˈbʌdʒɪt/",
+    "pron_ko": "버짓",
+    "example_en": "The budget is tight.",
+    "example_ko": "예산이 빡빡합니다.",
+    "topic": [
+      "office"
+    ],
+    "frequency_tier": 1,
+    "synonyms": [
+      "funds"
+    ],
+    "distractors": [
+      "budget",
+      "budgets",
+      "gadget"
+    ]
+  },
+  {
+    "id": "toeic-p3-revenue",
+    "part": 3,
+    "word": "revenue",
+    "pos": "noun",
+    "meaning_ko": "매출",
+    "ipa": "/ˈrevənjuː/",
+    "pron_ko": "레비뉴",
+    "example_en": "Revenue grew this quarter.",
+    "example_ko": "이번 분기 매출이 늘었습니다.",
+    "topic": [
+      "office"
+    ],
+    "frequency_tier": 1,
+    "synonyms": [
+      "income"
+    ],
+    "distractors": [
+      "revenue",
+      "revenues",
+      "reverend"
+    ]
+  },
+  {
+    "id": "toeic-p3-profit",
+    "part": 3,
+    "word": "profit",
+    "pos": "noun",
+    "meaning_ko": "이익",
+    "ipa": "/ˈprɒfɪt/",
+    "pron_ko": "프로핏",
+    "example_en": "Profit margins are slim.",
+    "example_ko": "이익률이 낮습니다.",
+    "topic": [
+      "office"
+    ],
+    "frequency_tier": 1,
+    "synonyms": [
+      "earnings"
+    ],
+    "distractors": [
+      "profit",
+      "profits",
+      "prophet"
+    ]
+  },
+  {
+    "id": "toeic-p3-loss",
+    "part": 3,
+    "word": "loss",
+    "pos": "noun",
+    "meaning_ko": "손실",
+    "ipa": "/lɒs/",
+    "pron_ko": "로스",
+    "example_en": "We must avoid a loss.",
+    "example_ko": "손실을 피해야 합니다.",
+    "topic": [
+      "office"
+    ],
+    "frequency_tier": 1,
+    "synonyms": [
+      "deficit"
+    ],
+    "distractors": [
+      "loss",
+      "lost",
+      "loose"
+    ]
+  },
+  {
+    "id": "toeic-p3-expense",
+    "part": 3,
+    "word": "expense",
+    "pos": "noun",
+    "meaning_ko": "비용",
+    "ipa": "/ɪkˈspens/",
+    "pron_ko": "익스펜스",
+    "example_en": "Submit your expense reports.",
+    "example_ko": "비용 보고서를 제출하세요.",
+    "topic": [
+      "office"
+    ],
+    "frequency_tier": 1,
+    "synonyms": [
+      "cost"
+    ],
+    "distractors": [
+      "expense",
+      "expand",
+      "expenses"
+    ]
+  },
+  {
+    "id": "toeic-p3-invoice",
+    "part": 3,
+    "word": "invoice",
+    "pos": "noun",
+    "meaning_ko": "청구서",
+    "ipa": "/ˈɪnvɔɪs/",
+    "pron_ko": "인보이스",
+    "example_en": "Send the invoice today.",
+    "example_ko": "오늘 청구서를 보내 주세요.",
+    "topic": [
+      "client"
+    ],
+    "frequency_tier": 1,
+    "synonyms": [
+      "bill"
+    ],
+    "distractors": [
+      "invoice",
+      "invoiced",
+      "invoke"
+    ]
+  },
+  {
+    "id": "toeic-p3-receipt",
+    "part": 3,
+    "word": "receipt",
+    "pos": "noun",
+    "meaning_ko": "영수증",
+    "ipa": "/rɪˈsiːt/",
+    "pron_ko": "리시트",
+    "example_en": "Attach the receipt.",
+    "example_ko": "영수증을 첨부해 주세요.",
+    "topic": [
+      "client"
+    ],
+    "frequency_tier": 1,
+    "synonyms": [
+      "proof"
+    ],
+    "distractors": [
+      "receipt",
+      "recipe",
+      "receipt"
+    ]
+  },
+  {
+    "id": "toeic-p3-proposal",
+    "part": 3,
+    "word": "proposal",
+    "pos": "noun",
+    "meaning_ko": "제안서",
+    "ipa": "/prəˈpoʊzəl/",
+    "pron_ko": "프로포절",
+    "example_en": "Submit your proposal by Friday.",
+    "example_ko": "금요일까지 제안서를 제출하세요.",
+    "topic": [
+      "meeting"
+    ],
+    "frequency_tier": 1,
+    "synonyms": [
+      "plan"
+    ],
+    "distractors": [
+      "proposal",
+      "propose",
+      "disposal"
+    ]
+  },
+  {
+    "id": "toeic-p3-contract",
+    "part": 3,
+    "word": "contract",
+    "pos": "noun",
+    "meaning_ko": "계약서",
+    "ipa": "/ˈkɒntrækt/",
+    "pron_ko": "컨트랙트",
+    "example_en": "Sign the contract today.",
+    "example_ko": "오늘 계약서에 서명하세요.",
+    "topic": [
+      "client"
+    ],
+    "frequency_tier": 1,
+    "synonyms": [
+      "agreement"
+    ],
+    "distractors": [
+      "contract",
+      "contracts",
+      "contraction"
+    ]
+  },
+  {
+    "id": "toeic-p3-agreement",
+    "part": 3,
+    "word": "agreement",
+    "pos": "noun",
+    "meaning_ko": "합의",
+    "ipa": "/əˈɡriːmənt/",
+    "pron_ko": "어그리먼트",
+    "example_en": "We reached an agreement.",
+    "example_ko": "합의에 도달했습니다.",
+    "topic": [
+      "client"
+    ],
+    "frequency_tier": 1,
+    "synonyms": [
+      "contract"
+    ],
+    "distractors": [
+      "agreement",
+      "agreements",
+      "agreeable"
+    ]
+  },
+  {
+    "id": "toeic-p3-negotiation",
+    "part": 3,
+    "word": "negotiation",
+    "pos": "noun",
+    "meaning_ko": "협상",
+    "ipa": "/nɪˌɡoʊʃiˈeɪʃən/",
+    "pron_ko": "니고시에이션",
+    "example_en": "Negotiations are ongoing.",
+    "example_ko": "협상이 진행 중입니다.",
+    "topic": [
+      "client"
+    ],
+    "frequency_tier": 1,
+    "synonyms": [
+      "discussion"
+    ],
+    "distractors": [
+      "negotiation",
+      "negotiate",
+      "notion"
+    ]
+  },
+  {
+    "id": "toeic-p3-negotiate",
+    "part": 3,
+    "word": "negotiate",
+    "pos": "verb",
+    "meaning_ko": "협상하다",
+    "ipa": "/nɪˈɡoʊʃieɪt/",
+    "pron_ko": "니고시에이트",
+    "example_en": "Let's negotiate the terms.",
+    "example_ko": "조건을 협상합시다.",
+    "topic": [
+      "client"
+    ],
+    "frequency_tier": 1,
+    "synonyms": [
+      "bargain"
+    ],
+    "distractors": [
+      "negotiate",
+      "negotiation",
+      "navigate"
+    ]
+  },
+  {
+    "id": "toeic-p3-bargain",
+    "part": 3,
+    "word": "bargain",
+    "pos": "verb",
+    "meaning_ko": "흥정하다",
+    "ipa": "/ˈbɑːrɡɪn/",
+    "pron_ko": "바긴",
+    "example_en": "We bargained for a discount.",
+    "example_ko": "할인을 위해 흥정했습니다.",
+    "topic": [
+      "client"
+    ],
+    "frequency_tier": 1,
+    "synonyms": [
+      "haggle"
+    ],
+    "distractors": [
+      "bargain",
+      "barren",
+      "burgeon"
+    ]
+  },
+  {
+    "id": "toeic-p3-finalize",
+    "part": 3,
+    "word": "finalize",
+    "pos": "verb",
+    "meaning_ko": "마무리하다",
+    "ipa": "/ˈfaɪnəlaɪz/",
+    "pron_ko": "파이널라이즈",
+    "example_en": "Finalize the agreement.",
+    "example_ko": "합의를 마무리하세요.",
+    "topic": [
+      "client"
+    ],
+    "frequency_tier": 1,
+    "synonyms": [
+      "conclude"
+    ],
+    "distractors": [
+      "finalize",
+      "finals",
+      "finally"
+    ]
+  },
+  {
+    "id": "toeic-p3-approve",
+    "part": 3,
+    "word": "approve",
+    "pos": "verb",
+    "meaning_ko": "승인하다",
+    "ipa": "/əˈpruːv/",
+    "pron_ko": "어프루브",
+    "example_en": "Did the CEO approve it?",
+    "example_ko": "CEO가 승인했나요?",
+    "topic": [
+      "office"
+    ],
+    "frequency_tier": 1,
+    "synonyms": [
+      "endorse"
+    ],
+    "distractors": [
+      "approve",
+      "approval",
+      "prove"
+    ]
+  },
+  {
+    "id": "toeic-p3-review",
+    "part": 3,
+    "word": "review",
+    "pos": "verb",
+    "meaning_ko": "검토하다",
+    "ipa": "/rɪˈvjuː/",
+    "pron_ko": "리뷰",
+    "example_en": "Review the document.",
+    "example_ko": "문서를 검토하세요.",
+    "topic": [
+      "meeting"
+    ],
+    "frequency_tier": 1,
+    "synonyms": [
+      "examine"
+    ],
+    "distractors": [
+      "review",
+      "reveal",
+      "revise"
+    ]
+  },
+  {
+    "id": "toeic-p3-draft",
+    "part": 3,
+    "word": "draft",
+    "pos": "verb",
+    "meaning_ko": "초안을 작성하다",
+    "ipa": "/dræft/",
+    "pron_ko": "드래프트",
+    "example_en": "Draft the email tonight.",
+    "example_ko": "오늘 밤 이메일 초안을 작성하세요.",
+    "topic": [
+      "office"
+    ],
+    "frequency_tier": 1,
+    "synonyms": [
+      "sketch"
+    ],
+    "distractors": [
+      "draft",
+      "drift",
+      "graft"
+    ]
+  },
+  {
+    "id": "toeic-p3-propose",
+    "part": 3,
+    "word": "propose",
+    "pos": "verb",
+    "meaning_ko": "제안하다",
+    "ipa": "/prəˈpoʊz/",
+    "pron_ko": "프로포즈",
+    "example_en": "I propose a new approach.",
+    "example_ko": "새로운 접근을 제안합니다.",
+    "topic": [
+      "meeting"
+    ],
+    "frequency_tier": 1,
+    "synonyms": [
+      "suggest"
+    ],
+    "distractors": [
+      "propose",
+      "proposed",
+      "purpose"
+    ]
+  },
+  {
+    "id": "toeic-p3-brief",
+    "part": 3,
+    "word": "brief",
+    "pos": "verb",
+    "meaning_ko": "보고하다",
+    "ipa": "/briːf/",
+    "pron_ko": "브리프",
+    "example_en": "Brief the team on the changes.",
+    "example_ko": "변경 사항을 팀에 보고하세요.",
+    "topic": [
+      "meeting"
+    ],
+    "frequency_tier": 1,
+    "synonyms": [
+      "inform"
+    ],
+    "distractors": [
+      "brief",
+      "grief",
+      "brief"
+    ]
+  },
+  {
+    "id": "toeic-p3-follow-up",
+    "part": 3,
+    "word": "follow up",
+    "pos": "verb",
+    "meaning_ko": "후속 조치하다",
+    "ipa": "/ˈfɒloʊ ʌp/",
+    "pron_ko": "팔로우 업",
+    "example_en": "Follow up with the client.",
+    "example_ko": "고객에게 후속 조치하세요.",
+    "topic": [
+      "client"
+    ],
+    "frequency_tier": 1,
+    "synonyms": [
+      "check in"
+    ],
+    "distractors": [
+      "follow up",
+      "followup",
+      "follower"
+    ]
+  },
+  {
+    "id": "toeic-p3-delegate",
+    "part": 3,
+    "word": "delegate",
+    "pos": "verb",
+    "meaning_ko": "위임하다",
+    "ipa": "/ˈdeləɡeɪt/",
+    "pron_ko": "델리게이트",
+    "example_en": "Delegate the task to Mark.",
+    "example_ko": "마크에게 그 업무를 위임하세요.",
+    "topic": [
+      "office"
+    ],
+    "frequency_tier": 1,
+    "synonyms": [
+      "assign"
+    ],
+    "distractors": [
+      "delegate",
+      "delicate",
+      "delegation"
+    ]
+  },
+  {
+    "id": "toeic-p3-assign",
+    "part": 3,
+    "word": "assign",
+    "pos": "verb",
+    "meaning_ko": "배정하다",
+    "ipa": "/əˈsaɪn/",
+    "pron_ko": "어사인",
+    "example_en": "I'll assign this to Maria.",
+    "example_ko": "마리아에게 배정하겠습니다.",
+    "topic": [
+      "office"
+    ],
+    "frequency_tier": 1,
+    "synonyms": [
+      "allocate"
+    ],
+    "distractors": [
+      "assign",
+      "assigned",
+      "design"
+    ]
+  },
+  {
+    "id": "toeic-p3-allocate",
+    "part": 3,
+    "word": "allocate",
+    "pos": "verb",
+    "meaning_ko": "할당하다",
+    "ipa": "/ˈæləkeɪt/",
+    "pron_ko": "앨로케이트",
+    "example_en": "Allocate resources wisely.",
+    "example_ko": "자원을 현명하게 할당하세요.",
+    "topic": [
+      "office"
+    ],
+    "frequency_tier": 1,
+    "synonyms": [
+      "distribute"
+    ],
+    "distractors": [
+      "allocate",
+      "allocation",
+      "locate"
+    ]
+  },
+  {
+    "id": "toeic-p3-collaborate",
+    "part": 3,
+    "word": "collaborate",
+    "pos": "verb",
+    "meaning_ko": "협력하다",
+    "ipa": "/kəˈlæbəreɪt/",
+    "pron_ko": "컬래버레이트",
+    "example_en": "We collaborate across teams.",
+    "example_ko": "팀 간에 협력합니다.",
+    "topic": [
+      "office"
+    ],
+    "frequency_tier": 1,
+    "synonyms": [
+      "cooperate"
+    ],
+    "distractors": [
+      "collaborate",
+      "collaboration",
+      "collaborator"
+    ]
+  },
+  {
+    "id": "toeic-p3-cooperate",
+    "part": 3,
+    "word": "cooperate",
+    "pos": "verb",
+    "meaning_ko": "협조하다",
+    "ipa": "/koʊˈɒpəreɪt/",
+    "pron_ko": "코오퍼레이트",
+    "example_en": "Departments must cooperate.",
+    "example_ko": "부서들은 협조해야 합니다.",
+    "topic": [
+      "office"
+    ],
+    "frequency_tier": 1,
+    "synonyms": [
+      "collaborate"
+    ],
+    "distractors": [
+      "cooperate",
+      "cooperation",
+      "cooper"
+    ]
+  },
+  {
+    "id": "toeic-p3-coordinate",
+    "part": 3,
+    "word": "coordinate",
+    "pos": "verb",
+    "meaning_ko": "조정하다",
+    "ipa": "/koʊˈɔːrdɪneɪt/",
+    "pron_ko": "코오디네이트",
+    "example_en": "Coordinate with HR.",
+    "example_ko": "인사부와 조정하세요.",
+    "topic": [
+      "office"
+    ],
+    "frequency_tier": 1,
+    "synonyms": [
+      "arrange"
+    ],
+    "distractors": [
+      "coordinate",
+      "coordination",
+      "coordinated"
+    ]
+  },
+  {
+    "id": "toeic-p3-communicate",
+    "part": 3,
+    "word": "communicate",
+    "pos": "verb",
+    "meaning_ko": "의사소통하다",
+    "ipa": "/kəˈmjuːnɪkeɪt/",
+    "pron_ko": "커뮤니케이트",
+    "example_en": "Communicate clearly.",
+    "example_ko": "명확하게 의사소통하세요.",
+    "topic": [
+      "office"
+    ],
+    "frequency_tier": 1,
+    "synonyms": [
+      "convey"
+    ],
+    "distractors": [
+      "communicate",
+      "communication",
+      "communicator"
+    ]
+  },
+  {
+    "id": "toeic-p3-convey",
+    "part": 3,
+    "word": "convey",
+    "pos": "verb",
+    "meaning_ko": "전달하다",
+    "ipa": "/kənˈveɪ/",
+    "pron_ko": "컨베이",
+    "example_en": "Convey my message.",
+    "example_ko": "제 메시지를 전달해 주세요.",
+    "topic": [
+      "office"
+    ],
+    "frequency_tier": 2,
+    "synonyms": [
+      "communicate"
+    ],
+    "distractors": [
+      "convey",
+      "conveyance",
+      "convex"
+    ]
+  },
+  {
+    "id": "toeic-p3-notify",
+    "part": 3,
+    "word": "notify",
+    "pos": "verb",
+    "meaning_ko": "알리다",
+    "ipa": "/ˈnoʊtəfaɪ/",
+    "pron_ko": "노티파이",
+    "example_en": "Notify the staff immediately.",
+    "example_ko": "즉시 직원에게 알리세요.",
+    "topic": [
+      "office"
+    ],
+    "frequency_tier": 1,
+    "synonyms": [
+      "inform"
+    ],
+    "distractors": [
+      "notify",
+      "notify",
+      "notice"
+    ]
+  },
+  {
+    "id": "toeic-p3-escalate",
+    "part": 3,
+    "word": "escalate",
+    "pos": "verb",
+    "meaning_ko": "상부 보고하다",
+    "ipa": "/ˈeskəleɪt/",
+    "pron_ko": "에스컬레이트",
+    "example_en": "Escalate to your supervisor.",
+    "example_ko": "상사에게 보고하세요.",
+    "topic": [
+      "office"
+    ],
+    "frequency_tier": 2,
+    "synonyms": [
+      "raise"
+    ],
+    "distractors": [
+      "escalate",
+      "escalator",
+      "insulate"
+    ]
+  },
+  {
+    "id": "toeic-p3-resolve",
+    "part": 3,
+    "word": "resolve",
+    "pos": "verb",
+    "meaning_ko": "해결하다",
+    "ipa": "/rɪˈzɒlv/",
+    "pron_ko": "리졸브",
+    "example_en": "Resolve the issue today.",
+    "example_ko": "오늘 문제를 해결하세요.",
+    "topic": [
+      "office"
+    ],
+    "frequency_tier": 1,
+    "synonyms": [
+      "settle"
+    ],
+    "distractors": [
+      "resolve",
+      "revolve",
+      "resort"
+    ]
+  },
+  {
+    "id": "toeic-p3-address",
+    "part": 3,
+    "word": "address",
+    "pos": "verb",
+    "meaning_ko": "처리하다",
+    "ipa": "/əˈdres/",
+    "pron_ko": "어드레스",
+    "example_en": "Please address the complaint.",
+    "example_ko": "불만 사항을 처리해 주세요.",
+    "topic": [
+      "office"
+    ],
+    "frequency_tier": 1,
+    "synonyms": [
+      "handle"
+    ],
+    "distractors": [
+      "address",
+      "addressed",
+      "adverse"
+    ]
+  },
+  {
+    "id": "toeic-p3-handle",
+    "part": 3,
+    "word": "handle",
+    "pos": "verb",
+    "meaning_ko": "처리하다",
+    "ipa": "/ˈhændl/",
+    "pron_ko": "핸들",
+    "example_en": "I'll handle it personally.",
+    "example_ko": "제가 직접 처리하겠습니다.",
+    "topic": [
+      "office"
+    ],
+    "frequency_tier": 1,
+    "synonyms": [
+      "manage"
+    ],
+    "distractors": [
+      "handle",
+      "handler",
+      "handled"
+    ]
+  },
+  {
+    "id": "toeic-p3-oversee",
+    "part": 3,
+    "word": "oversee",
+    "pos": "verb",
+    "meaning_ko": "감독하다",
+    "ipa": "/ˌoʊvərˈsiː/",
+    "pron_ko": "오버시",
+    "example_en": "She oversees the team.",
+    "example_ko": "그녀가 팀을 감독합니다.",
+    "topic": [
+      "office"
+    ],
+    "frequency_tier": 1,
+    "synonyms": [
+      "supervise"
+    ],
+    "distractors": [
+      "oversee",
+      "oversees",
+      "overseas"
+    ]
+  },
+  {
+    "id": "toeic-p3-supervise",
+    "part": 3,
+    "word": "supervise",
+    "pos": "verb",
+    "meaning_ko": "감독하다",
+    "ipa": "/ˈsuːpərvaɪz/",
+    "pron_ko": "수퍼바이즈",
+    "example_en": "He will supervise the project.",
+    "example_ko": "그가 프로젝트를 감독할 겁니다.",
+    "topic": [
+      "office"
+    ],
+    "frequency_tier": 1,
+    "synonyms": [
+      "oversee"
+    ],
+    "distractors": [
+      "supervise",
+      "supervisor",
+      "surveyor"
+    ]
+  },
+  {
+    "id": "toeic-p3-monitor",
+    "part": 3,
+    "word": "monitor",
+    "pos": "verb",
+    "meaning_ko": "감시하다",
+    "ipa": "/ˈmɒnɪtər/",
+    "pron_ko": "모니터",
+    "example_en": "Monitor the progress.",
+    "example_ko": "진행 상황을 감시하세요.",
+    "topic": [
+      "office"
+    ],
+    "frequency_tier": 1,
+    "synonyms": [
+      "track"
+    ],
+    "distractors": [
+      "monitor",
+      "monetary",
+      "memorize"
+    ]
+  },
+  {
+    "id": "toeic-p3-track",
+    "part": 3,
+    "word": "track",
+    "pos": "verb",
+    "meaning_ko": "추적하다",
+    "ipa": "/træk/",
+    "pron_ko": "트랙",
+    "example_en": "Track all expenses.",
+    "example_ko": "모든 비용을 추적하세요.",
+    "topic": [
+      "office"
+    ],
+    "frequency_tier": 1,
+    "synonyms": [
+      "monitor"
+    ],
+    "distractors": [
+      "track",
+      "truck",
+      "trick"
+    ]
+  },
+  {
+    "id": "toeic-p3-evaluate",
+    "part": 3,
+    "word": "evaluate",
+    "pos": "verb",
+    "meaning_ko": "평가하다",
+    "ipa": "/ɪˈvæljueɪt/",
+    "pron_ko": "이밸류에이트",
+    "example_en": "Evaluate the candidates.",
+    "example_ko": "후보자를 평가하세요.",
+    "topic": [
+      "office"
+    ],
+    "frequency_tier": 1,
+    "synonyms": [
+      "assess"
+    ],
+    "distractors": [
+      "evaluate",
+      "valuate",
+      "relate"
+    ]
+  },
+  {
+    "id": "toeic-p3-assess",
+    "part": 3,
+    "word": "assess",
+    "pos": "verb",
+    "meaning_ko": "평가하다",
+    "ipa": "/əˈses/",
+    "pron_ko": "어세스",
+    "example_en": "Assess the impact.",
+    "example_ko": "영향을 평가하세요.",
+    "topic": [
+      "office"
+    ],
+    "frequency_tier": 1,
+    "synonyms": [
+      "evaluate"
+    ],
+    "distractors": [
+      "assess",
+      "access",
+      "asses"
+    ]
+  },
+  {
+    "id": "toeic-p3-forecast",
+    "part": 3,
+    "word": "forecast",
+    "pos": "verb",
+    "meaning_ko": "예측하다",
+    "ipa": "/ˈfɔːrkæst/",
+    "pron_ko": "포캐스트",
+    "example_en": "Forecast the next quarter.",
+    "example_ko": "다음 분기를 예측하세요.",
+    "topic": [
+      "office"
+    ],
+    "frequency_tier": 1,
+    "synonyms": [
+      "predict"
+    ],
+    "distractors": [
+      "forecast",
+      "forecasting",
+      "forewarn"
+    ]
+  },
+  {
+    "id": "toeic-p3-predict",
+    "part": 3,
+    "word": "predict",
+    "pos": "verb",
+    "meaning_ko": "예측하다",
+    "ipa": "/prɪˈdɪkt/",
+    "pron_ko": "프리딕트",
+    "example_en": "Predict customer demand.",
+    "example_ko": "고객 수요를 예측하세요.",
+    "topic": [
+      "office"
+    ],
+    "frequency_tier": 1,
+    "synonyms": [
+      "forecast"
+    ],
+    "distractors": [
+      "predict",
+      "preview",
+      "product"
+    ]
+  },
+  {
+    "id": "toeic-p3-estimate",
+    "part": 3,
+    "word": "estimate",
+    "pos": "verb",
+    "meaning_ko": "추정하다",
+    "ipa": "/ˈestɪmeɪt/",
+    "pron_ko": "에스티메이트",
+    "example_en": "Estimate the costs.",
+    "example_ko": "비용을 추정하세요.",
+    "topic": [
+      "office"
+    ],
+    "frequency_tier": 1,
+    "synonyms": [
+      "approximate"
+    ],
+    "distractors": [
+      "estimate",
+      "estimated",
+      "estimate"
+    ]
+  },
+  {
+    "id": "toeic-p3-analyze",
+    "part": 3,
+    "word": "analyze",
+    "pos": "verb",
+    "meaning_ko": "분석하다",
+    "ipa": "/ˈænəlaɪz/",
+    "pron_ko": "애널라이즈",
+    "example_en": "Analyze the data carefully.",
+    "example_ko": "데이터를 신중하게 분석하세요.",
+    "topic": [
+      "office"
+    ],
+    "frequency_tier": 1,
+    "synonyms": [
+      "examine"
+    ],
+    "distractors": [
+      "analyze",
+      "analysis",
+      "paralyze"
+    ]
+  },
+  {
+    "id": "toeic-p3-strategize",
+    "part": 3,
+    "word": "strategize",
+    "pos": "verb",
+    "meaning_ko": "전략을 세우다",
+    "ipa": "/ˈstrætəˌdʒaɪz/",
+    "pron_ko": "스트래터자이즈",
+    "example_en": "Let's strategize for next year.",
+    "example_ko": "내년 전략을 세웁시다.",
+    "topic": [
+      "office"
+    ],
+    "frequency_tier": 2,
+    "synonyms": [
+      "plan"
+    ],
+    "distractors": [
+      "strategize",
+      "strategy",
+      "strategist"
+    ]
+  },
+  {
+    "id": "toeic-p3-strategy",
+    "part": 3,
+    "word": "strategy",
+    "pos": "noun",
+    "meaning_ko": "전략",
+    "ipa": "/ˈstrætədʒi/",
+    "pron_ko": "스트래터지",
+    "example_en": "Our strategy is working.",
+    "example_ko": "우리 전략이 효과가 있습니다.",
+    "topic": [
+      "office"
+    ],
+    "frequency_tier": 1,
+    "synonyms": [
+      "plan"
+    ],
+    "distractors": [
+      "strategy",
+      "strategic",
+      "strategist"
+    ]
+  },
+  {
+    "id": "toeic-p3-initiative",
+    "part": 3,
+    "word": "initiative",
+    "pos": "noun",
+    "meaning_ko": "계획",
+    "ipa": "/ɪˈnɪʃətɪv/",
+    "pron_ko": "이니셔티브",
+    "example_en": "Launch a new initiative.",
+    "example_ko": "새 계획을 시작하세요.",
+    "topic": [
+      "office"
+    ],
+    "frequency_tier": 1,
+    "synonyms": [
+      "plan"
+    ],
+    "distractors": [
+      "initiative",
+      "initial",
+      "initiate"
+    ]
+  },
+  {
+    "id": "toeic-p3-objective",
+    "part": 3,
+    "word": "objective",
+    "pos": "noun",
+    "meaning_ko": "목표",
+    "ipa": "/əbˈdʒektɪv/",
+    "pron_ko": "오브젝티브",
+    "example_en": "State your objective clearly.",
+    "example_ko": "목표를 명확히 진술하세요.",
+    "topic": [
+      "office"
+    ],
+    "frequency_tier": 1,
+    "synonyms": [
+      "goal"
+    ],
+    "distractors": [
+      "objective",
+      "object",
+      "objected"
+    ]
+  },
+  {
+    "id": "toeic-p3-goal",
+    "part": 3,
+    "word": "goal",
+    "pos": "noun",
+    "meaning_ko": "목표",
+    "ipa": "/ɡoʊl/",
+    "pron_ko": "골",
+    "example_en": "Reach quarterly goals.",
+    "example_ko": "분기 목표를 달성하세요.",
+    "topic": [
+      "office"
+    ],
+    "frequency_tier": 1,
+    "synonyms": [
+      "objective"
+    ],
+    "distractors": [
+      "goal",
+      "goals",
+      "gall"
+    ]
+  },
+  {
+    "id": "toeic-p3-target",
+    "part": 3,
+    "word": "target",
+    "pos": "noun",
+    "meaning_ko": "목표",
+    "ipa": "/ˈtɑːrɡɪt/",
+    "pron_ko": "타깃",
+    "example_en": "Hit your sales target.",
+    "example_ko": "영업 목표를 달성하세요.",
+    "topic": [
+      "office"
+    ],
+    "frequency_tier": 1,
+    "synonyms": [
+      "objective"
+    ],
+    "distractors": [
+      "target",
+      "targeted",
+      "targeting"
+    ]
+  },
+  {
+    "id": "toeic-p3-benchmark",
+    "part": 3,
+    "word": "benchmark",
+    "pos": "noun",
+    "meaning_ko": "기준",
+    "ipa": "/ˈbentʃmɑːrk/",
+    "pron_ko": "벤치마크",
+    "example_en": "Compare against the benchmark.",
+    "example_ko": "기준과 비교하세요.",
+    "topic": [
+      "office"
+    ],
+    "frequency_tier": 1,
+    "synonyms": [
+      "standard"
+    ],
+    "distractors": [
+      "benchmark",
+      "benchmarks",
+      "bookmark"
+    ]
+  },
+  {
+    "id": "toeic-p3-kpi",
+    "part": 3,
+    "word": "KPI",
+    "pos": "abbr",
+    "meaning_ko": "핵심 성과 지표",
+    "ipa": "/keɪ piː aɪ/",
+    "pron_ko": "케이피아이",
+    "example_en": "Track all KPIs monthly.",
+    "example_ko": "모든 KPI를 매월 추적하세요.",
+    "topic": [
+      "office"
+    ],
+    "frequency_tier": 1,
+    "synonyms": [
+      "metric"
+    ],
+    "distractors": [
+      "KPI",
+      "KPIs",
+      "PII"
+    ]
+  },
+  {
+    "id": "toeic-p3-metric",
+    "part": 3,
+    "word": "metric",
+    "pos": "noun",
+    "meaning_ko": "지표",
+    "ipa": "/ˈmetrɪk/",
+    "pron_ko": "메트릭",
+    "example_en": "Define your success metrics.",
+    "example_ko": "성공 지표를 정의하세요.",
+    "topic": [
+      "office"
+    ],
+    "frequency_tier": 1,
+    "synonyms": [
+      "measure"
+    ],
+    "distractors": [
+      "metric",
+      "metrics",
+      "matric"
+    ]
+  },
+  {
+    "id": "toeic-p3-performance",
+    "part": 3,
+    "word": "performance",
+    "pos": "noun",
+    "meaning_ko": "성과",
+    "ipa": "/pərˈfɔːrməns/",
+    "pron_ko": "퍼포먼스",
+    "example_en": "Annual performance reviews start Monday.",
+    "example_ko": "연간 성과 평가가 월요일에 시작됩니다.",
+    "topic": [
+      "office"
+    ],
+    "frequency_tier": 1,
+    "synonyms": [
+      "output"
+    ],
+    "distractors": [
+      "performance",
+      "perform",
+      "performer"
+    ]
+  },
+  {
+    "id": "toeic-p3-efficiency",
+    "part": 3,
+    "word": "efficiency",
+    "pos": "noun",
+    "meaning_ko": "효율",
+    "ipa": "/ɪˈfɪʃənsi/",
+    "pron_ko": "이피션시",
+    "example_en": "Improve operational efficiency.",
+    "example_ko": "운영 효율을 개선하세요.",
+    "topic": [
+      "office"
+    ],
+    "frequency_tier": 1,
+    "synonyms": [
+      "productivity"
+    ],
+    "distractors": [
+      "efficiency",
+      "sufficiency",
+      "deficiency"
+    ]
+  },
+  {
+    "id": "toeic-p3-productivity",
+    "part": 3,
+    "word": "productivity",
+    "pos": "noun",
+    "meaning_ko": "생산성",
+    "ipa": "/ˌprɒdʌkˈtɪvəti/",
+    "pron_ko": "프로덕티비티",
+    "example_en": "Productivity has increased.",
+    "example_ko": "생산성이 증가했습니다.",
+    "topic": [
+      "office"
+    ],
+    "frequency_tier": 1,
+    "synonyms": [
+      "output"
+    ],
+    "distractors": [
+      "productivity",
+      "production",
+      "productive"
+    ]
+  },
+  {
+    "id": "toeic-p3-output",
+    "part": 3,
+    "word": "output",
+    "pos": "noun",
+    "meaning_ko": "산출량",
+    "ipa": "/ˈaʊtpʊt/",
+    "pron_ko": "아웃풋",
+    "example_en": "Increase factory output.",
+    "example_ko": "공장 산출량을 늘리세요.",
+    "topic": [
+      "office"
+    ],
+    "frequency_tier": 1,
+    "synonyms": [
+      "production"
+    ],
+    "distractors": [
+      "output",
+      "outputs",
+      "input"
+    ]
+  },
+  {
+    "id": "toeic-p3-input",
+    "part": 3,
+    "word": "input",
+    "pos": "noun",
+    "meaning_ko": "의견",
+    "ipa": "/ˈɪnpʊt/",
+    "pron_ko": "인풋",
+    "example_en": "I value your input.",
+    "example_ko": "당신의 의견을 소중히 여깁니다.",
+    "topic": [
+      "office"
+    ],
+    "frequency_tier": 1,
+    "synonyms": [
+      "feedback"
+    ],
+    "distractors": [
+      "input",
+      "inputs",
+      "output"
+    ]
+  },
+  {
+    "id": "toeic-p3-feedback",
+    "part": 3,
+    "word": "feedback",
+    "pos": "noun",
+    "meaning_ko": "피드백",
+    "ipa": "/ˈfiːdbæk/",
+    "pron_ko": "피드백",
+    "example_en": "Send feedback by Friday.",
+    "example_ko": "금요일까지 피드백을 보내 주세요.",
+    "topic": [
+      "office"
+    ],
+    "frequency_tier": 1,
+    "synonyms": [
+      "input"
+    ],
+    "distractors": [
+      "feedback",
+      "fed back",
+      "feedback"
+    ]
+  },
+  {
+    "id": "toeic-p3-review-2",
+    "part": 3,
+    "word": "review",
+    "pos": "noun",
+    "meaning_ko": "검토",
+    "ipa": "/rɪˈvjuː/",
+    "pron_ko": "리뷰",
+    "example_en": "Quarterly reviews start next month.",
+    "example_ko": "분기 검토가 다음 달에 시작됩니다.",
+    "topic": [
+      "office"
+    ],
+    "frequency_tier": 1,
+    "synonyms": [
+      "appraisal"
+    ],
+    "distractors": [
+      "review",
+      "preview",
+      "interview"
+    ]
+  },
+  {
+    "id": "toeic-p3-appraisal",
+    "part": 3,
+    "word": "appraisal",
+    "pos": "noun",
+    "meaning_ko": "평가",
+    "ipa": "/əˈpreɪzəl/",
+    "pron_ko": "어프레이절",
+    "example_en": "Annual appraisals are mandatory.",
+    "example_ko": "연례 평가는 의무입니다.",
+    "topic": [
+      "office"
+    ],
+    "frequency_tier": 1,
+    "synonyms": [
+      "evaluation"
+    ],
+    "distractors": [
+      "appraisal",
+      "apprise",
+      "appraise"
+    ]
+  },
+  {
+    "id": "toeic-p3-promotion",
+    "part": 3,
+    "word": "promotion",
+    "pos": "noun",
+    "meaning_ko": "승진",
+    "ipa": "/prəˈmoʊʃən/",
+    "pron_ko": "프로모션",
+    "example_en": "She got a promotion.",
+    "example_ko": "그녀는 승진했습니다.",
+    "topic": [
+      "office"
+    ],
+    "frequency_tier": 1,
+    "synonyms": [
+      "advancement"
+    ],
+    "distractors": [
+      "promotion",
+      "promote",
+      "prompted"
+    ]
+  },
+  {
+    "id": "toeic-p3-transfer",
+    "part": 3,
+    "word": "transfer",
+    "pos": "noun",
+    "meaning_ko": "이동",
+    "ipa": "/ˈtrænsfɜːr/",
+    "pron_ko": "트랜스퍼",
+    "example_en": "He requested a transfer.",
+    "example_ko": "그는 이동을 요청했습니다.",
+    "topic": [
+      "office"
+    ],
+    "frequency_tier": 1,
+    "synonyms": [
+      "move"
+    ],
+    "distractors": [
+      "transfer",
+      "transit",
+      "trans-fat"
+    ]
+  },
+  {
+    "id": "toeic-p3-recruit",
+    "part": 3,
+    "word": "recruit",
+    "pos": "verb",
+    "meaning_ko": "채용하다",
+    "ipa": "/rɪˈkruːt/",
+    "pron_ko": "리크루트",
+    "example_en": "Recruit new talent.",
+    "example_ko": "새로운 인재를 채용하세요.",
+    "topic": [
+      "office"
+    ],
+    "frequency_tier": 1,
+    "synonyms": [
+      "hire"
+    ],
+    "distractors": [
+      "recruit",
+      "recruits",
+      "recruit"
+    ]
+  },
+  {
+    "id": "toeic-p3-hire",
+    "part": 3,
+    "word": "hire",
+    "pos": "verb",
+    "meaning_ko": "고용하다",
+    "ipa": "/ˈhaɪər/",
+    "pron_ko": "하이어",
+    "example_en": "We will hire ten engineers.",
+    "example_ko": "엔지니어 10명을 고용할 겁니다.",
+    "topic": [
+      "office"
+    ],
+    "frequency_tier": 1,
+    "synonyms": [
+      "employ"
+    ],
+    "distractors": [
+      "hire",
+      "higher",
+      "hires"
+    ]
+  },
+  {
+    "id": "toeic-p3-interview",
+    "part": 3,
+    "word": "interview",
+    "pos": "verb",
+    "meaning_ko": "면접하다",
+    "ipa": "/ˈɪntərvjuː/",
+    "pron_ko": "인터뷰",
+    "example_en": "Interview the candidates.",
+    "example_ko": "후보자를 면접하세요.",
+    "topic": [
+      "office"
+    ],
+    "frequency_tier": 1,
+    "synonyms": [
+      "meet"
+    ],
+    "distractors": [
+      "interview",
+      "preview",
+      "review"
+    ]
+  },
+  {
+    "id": "toeic-p3-candidate",
+    "part": 3,
+    "word": "candidate",
+    "pos": "noun",
+    "meaning_ko": "후보자",
+    "ipa": "/ˈkændɪdət/",
+    "pron_ko": "캔디데이트",
+    "example_en": "The top candidate is here.",
+    "example_ko": "최고 후보자가 왔습니다.",
+    "topic": [
+      "office"
+    ],
+    "frequency_tier": 1,
+    "synonyms": [
+      "applicant"
+    ],
+    "distractors": [
+      "candidate",
+      "candy",
+      "candidate"
+    ]
+  },
+  {
+    "id": "toeic-p3-applicant",
+    "part": 3,
+    "word": "applicant",
+    "pos": "noun",
+    "meaning_ko": "지원자",
+    "ipa": "/ˈæplɪkənt/",
+    "pron_ko": "애플리컨트",
+    "example_en": "Applicants must apply by Monday.",
+    "example_ko": "지원자는 월요일까지 지원해야 합니다.",
+    "topic": [
+      "office"
+    ],
+    "frequency_tier": 1,
+    "synonyms": [
+      "candidate"
+    ],
+    "distractors": [
+      "applicant",
+      "applicants",
+      "appliance"
+    ]
+  },
+  {
+    "id": "toeic-p3-application",
+    "part": 3,
+    "word": "application",
+    "pos": "noun",
+    "meaning_ko": "지원",
+    "ipa": "/ˌæplɪˈkeɪʃən/",
+    "pron_ko": "애플리케이션",
+    "example_en": "Submit your application online.",
+    "example_ko": "지원서를 온라인으로 제출하세요.",
+    "topic": [
+      "office"
+    ],
+    "frequency_tier": 1,
+    "synonyms": [
+      "submission"
+    ],
+    "distractors": [
+      "application",
+      "apply",
+      "appliance"
+    ]
+  },
+  {
+    "id": "toeic-p3-resume",
+    "part": 3,
+    "word": "resume",
+    "pos": "noun",
+    "meaning_ko": "이력서",
+    "ipa": "/ˈrezʊmeɪ/",
+    "pron_ko": "레주메",
+    "example_en": "Attach your resume.",
+    "example_ko": "이력서를 첨부하세요.",
+    "topic": [
+      "office"
+    ],
+    "frequency_tier": 1,
+    "synonyms": [
+      "CV"
+    ],
+    "distractors": [
+      "resume",
+      "resumes",
+      "reassume"
+    ]
+  },
+  {
+    "id": "toeic-p3-cv",
+    "part": 3,
+    "word": "CV",
+    "pos": "abbr",
+    "meaning_ko": "이력서",
+    "ipa": "/siː viː/",
+    "pron_ko": "씨비",
+    "example_en": "Send your CV by email.",
+    "example_ko": "CV를 이메일로 보내세요.",
+    "topic": [
+      "office"
+    ],
+    "frequency_tier": 1,
+    "synonyms": [
+      "resume"
+    ],
+    "distractors": [
+      "CV",
+      "TV",
+      "MV"
+    ]
+  },
+  {
+    "id": "toeic-p3-cover-letter",
+    "part": 3,
+    "word": "cover letter",
+    "pos": "noun",
+    "meaning_ko": "자기소개서",
+    "ipa": "/ˈkʌvər ˈletər/",
+    "pron_ko": "커버 레터",
+    "example_en": "Include a cover letter.",
+    "example_ko": "자기소개서를 포함하세요.",
+    "topic": [
+      "office"
+    ],
+    "frequency_tier": 1,
+    "synonyms": [
+      "letter"
+    ],
+    "distractors": [
+      "cover letter",
+      "cover",
+      "letter"
+    ]
+  },
+  {
+    "id": "toeic-p3-offer-letter",
+    "part": 3,
+    "word": "offer letter",
+    "pos": "noun",
+    "meaning_ko": "채용 제안서",
+    "ipa": "/ˈɒfər ˈletər/",
+    "pron_ko": "오퍼 레터",
+    "example_en": "Send the offer letter.",
+    "example_ko": "채용 제안서를 보내세요.",
+    "topic": [
+      "office"
+    ],
+    "frequency_tier": 1,
+    "synonyms": [
+      "job offer"
+    ],
+    "distractors": [
+      "offer letter",
+      "offer",
+      "letter"
+    ]
+  },
+  {
+    "id": "toeic-p3-onboard",
+    "part": 3,
+    "word": "onboard",
+    "pos": "verb",
+    "meaning_ko": "입사 절차를 진행하다",
+    "ipa": "/ˌɒnˈbɔːrd/",
+    "pron_ko": "온보드",
+    "example_en": "HR will onboard new hires.",
+    "example_ko": "인사부가 신규 입사자의 절차를 진행할 겁니다.",
+    "topic": [
+      "office"
+    ],
+    "frequency_tier": 1,
+    "synonyms": [
+      "orient"
+    ],
+    "distractors": [
+      "onboard",
+      "aboard",
+      "inboard"
+    ]
+  },
+  {
+    "id": "toeic-p3-orientation",
+    "part": 3,
+    "word": "orientation",
+    "pos": "noun",
+    "meaning_ko": "오리엔테이션",
+    "ipa": "/ˌɔːriənˈteɪʃən/",
+    "pron_ko": "오리엔테이션",
+    "example_en": "Orientation is on Monday.",
+    "example_ko": "오리엔테이션은 월요일입니다.",
+    "topic": [
+      "office"
+    ],
+    "frequency_tier": 1,
+    "synonyms": [
+      "intro"
+    ],
+    "distractors": [
+      "orientation",
+      "orient",
+      "orientation"
+    ]
+  },
+  {
+    "id": "toeic-p3-training",
+    "part": 3,
+    "word": "training",
+    "pos": "noun",
+    "meaning_ko": "교육",
+    "ipa": "/ˈtreɪnɪŋ/",
+    "pron_ko": "트레이닝",
+    "example_en": "Sign up for the training.",
+    "example_ko": "교육에 등록하세요.",
+    "topic": [
+      "office"
+    ],
+    "frequency_tier": 1,
+    "synonyms": [
+      "instruction"
+    ],
+    "distractors": [
+      "training",
+      "trainings",
+      "training"
+    ]
+  },
+  {
+    "id": "toeic-p3-workshop",
+    "part": 3,
+    "word": "workshop",
+    "pos": "noun",
+    "meaning_ko": "워크숍",
+    "ipa": "/ˈwɜːrkʃɒp/",
+    "pron_ko": "워크숍",
+    "example_en": "Attend Friday's workshop.",
+    "example_ko": "금요일 워크숍에 참석하세요.",
+    "topic": [
+      "office"
+    ],
+    "frequency_tier": 1,
+    "synonyms": [
+      "seminar"
+    ],
+    "distractors": [
+      "workshop",
+      "works",
+      "workspace"
+    ]
+  },
+  {
+    "id": "toeic-p3-seminar",
+    "part": 3,
+    "word": "seminar",
+    "pos": "noun",
+    "meaning_ko": "세미나",
+    "ipa": "/ˈsemɪnɑːr/",
+    "pron_ko": "세미나",
+    "example_en": "Register for the seminar.",
+    "example_ko": "세미나에 등록하세요.",
+    "topic": [
+      "office"
+    ],
+    "frequency_tier": 1,
+    "synonyms": [
+      "workshop"
+    ],
+    "distractors": [
+      "seminar",
+      "semantic",
+      "seminars"
+    ]
+  },
+  {
+    "id": "toeic-p3-course",
+    "part": 3,
+    "word": "course",
+    "pos": "noun",
+    "meaning_ko": "과정",
+    "ipa": "/kɔːrs/",
+    "pron_ko": "코스",
+    "example_en": "Take the leadership course.",
+    "example_ko": "리더십 과정을 수강하세요.",
+    "topic": [
+      "office"
+    ],
+    "frequency_tier": 1,
+    "synonyms": [
+      "class"
+    ],
+    "distractors": [
+      "course",
+      "coarse",
+      "courses"
+    ]
+  },
+  {
+    "id": "toeic-p3-certification",
+    "part": 3,
+    "word": "certification",
+    "pos": "noun",
+    "meaning_ko": "자격증",
+    "ipa": "/ˌsɜːrtɪfɪˈkeɪʃən/",
+    "pron_ko": "서티피케이션",
+    "example_en": "Earn the certification.",
+    "example_ko": "자격증을 취득하세요.",
+    "topic": [
+      "office"
+    ],
+    "frequency_tier": 1,
+    "synonyms": [
+      "credential"
+    ],
+    "distractors": [
+      "certification",
+      "certificate",
+      "certify"
+    ]
+  },
+  {
+    "id": "toeic-p3-benefits",
+    "part": 3,
+    "word": "benefits",
+    "pos": "noun",
+    "meaning_ko": "복리후생",
+    "ipa": "/ˈbenɪfɪts/",
+    "pron_ko": "베네핏",
+    "example_en": "Our benefits package is generous.",
+    "example_ko": "복리후생 패키지가 후합니다.",
+    "topic": [
+      "office"
+    ],
+    "frequency_tier": 1,
+    "synonyms": [
+      "perks"
+    ],
+    "distractors": [
+      "benefits",
+      "benefit",
+      "beneficial"
+    ]
+  },
+  {
+    "id": "toeic-p3-salary",
+    "part": 3,
+    "word": "salary",
+    "pos": "noun",
+    "meaning_ko": "급여",
+    "ipa": "/ˈsæləri/",
+    "pron_ko": "샐러리",
+    "example_en": "Your salary will be reviewed.",
+    "example_ko": "급여가 검토될 겁니다.",
+    "topic": [
+      "office"
+    ],
+    "frequency_tier": 1,
+    "synonyms": [
+      "pay"
+    ],
+    "distractors": [
+      "salary",
+      "salaried",
+      "celery"
+    ]
+  },
+  {
+    "id": "toeic-p3-compensation",
+    "part": 3,
+    "word": "compensation",
+    "pos": "noun",
+    "meaning_ko": "보상",
+    "ipa": "/ˌkɒmpenˈseɪʃən/",
+    "pron_ko": "컴펜세이션",
+    "example_en": "Discuss compensation in HR.",
+    "example_ko": "인사부에서 보상을 논의하세요.",
+    "topic": [
+      "office"
+    ],
+    "frequency_tier": 1,
+    "synonyms": [
+      "pay"
+    ],
+    "distractors": [
+      "compensation",
+      "compensate",
+      "compensation"
+    ]
+  },
+  {
+    "id": "toeic-p3-raise",
+    "part": 3,
+    "word": "raise",
+    "pos": "noun",
+    "meaning_ko": "임금 인상",
+    "ipa": "/reɪz/",
+    "pron_ko": "레이즈",
+    "example_en": "She got a raise.",
+    "example_ko": "그녀는 임금 인상을 받았습니다.",
+    "topic": [
+      "office"
+    ],
+    "frequency_tier": 1,
+    "synonyms": [
+      "increase"
+    ],
+    "distractors": [
+      "raise",
+      "raze",
+      "race"
+    ]
+  },
+  {
+    "id": "toeic-p3-bonus",
+    "part": 3,
+    "word": "bonus",
+    "pos": "noun",
+    "meaning_ko": "보너스",
+    "ipa": "/ˈboʊnəs/",
+    "pron_ko": "보너스",
+    "example_en": "We pay year-end bonuses.",
+    "example_ko": "연말 보너스를 지급합니다.",
+    "topic": [
+      "office"
+    ],
+    "frequency_tier": 1,
+    "synonyms": [
+      "reward"
+    ],
+    "distractors": [
+      "bonus",
+      "bones",
+      "onus"
+    ]
+  },
+  {
+    "id": "toeic-p3-commission",
+    "part": 3,
+    "word": "commission",
+    "pos": "noun",
+    "meaning_ko": "수수료",
+    "ipa": "/kəˈmɪʃən/",
+    "pron_ko": "커미션",
+    "example_en": "Sales reps earn commission.",
+    "example_ko": "영업 사원은 수수료를 받습니다.",
+    "topic": [
+      "office"
+    ],
+    "frequency_tier": 1,
+    "synonyms": [
+      "fee"
+    ],
+    "distractors": [
+      "commission",
+      "commissioner",
+      "emission"
+    ]
+  },
+  {
+    "id": "toeic-p3-incentive",
+    "part": 3,
+    "word": "incentive",
+    "pos": "noun",
+    "meaning_ko": "인센티브",
+    "ipa": "/ɪnˈsentɪv/",
+    "pron_ko": "인센티브",
+    "example_en": "Offer better incentives.",
+    "example_ko": "더 나은 인센티브를 제공하세요.",
+    "topic": [
+      "office"
+    ],
+    "frequency_tier": 1,
+    "synonyms": [
+      "reward"
+    ],
+    "distractors": [
+      "incentive",
+      "sensitive",
+      "inactive"
+    ]
+  },
+  {
+    "id": "toeic-p3-overtime",
+    "part": 3,
+    "word": "overtime",
+    "pos": "noun",
+    "meaning_ko": "초과 근무",
+    "ipa": "/ˈoʊvərtaɪm/",
+    "pron_ko": "오버타임",
+    "example_en": "Overtime is paid.",
+    "example_ko": "초과 근무는 수당이 지급됩니다.",
+    "topic": [
+      "office"
+    ],
+    "frequency_tier": 1,
+    "synonyms": [
+      "extra hours"
+    ],
+    "distractors": [
+      "overtime",
+      "overture",
+      "over time"
+    ]
+  },
+  {
+    "id": "toeic-p3-shift",
+    "part": 3,
+    "word": "shift",
+    "pos": "noun",
+    "meaning_ko": "교대",
+    "ipa": "/ʃɪft/",
+    "pron_ko": "쉬프트",
+    "example_en": "My shift starts at eight.",
+    "example_ko": "제 교대는 8시에 시작합니다.",
+    "topic": [
+      "office"
+    ],
+    "frequency_tier": 1,
+    "synonyms": [
+      "rotation"
+    ],
+    "distractors": [
+      "shift",
+      "shafted",
+      "sift"
+    ]
+  },
+  {
+    "id": "toeic-p3-rotation",
+    "part": 3,
+    "word": "rotation",
+    "pos": "noun",
+    "meaning_ko": "순환",
+    "ipa": "/roʊˈteɪʃən/",
+    "pron_ko": "로테이션",
+    "example_en": "We work in rotation.",
+    "example_ko": "우리는 순환 근무합니다.",
+    "topic": [
+      "office"
+    ],
+    "frequency_tier": 2,
+    "synonyms": [
+      "shift"
+    ],
+    "distractors": [
+      "rotation",
+      "rotate",
+      "notion"
+    ]
+  },
+  {
+    "id": "toeic-p3-payroll",
+    "part": 3,
+    "word": "payroll",
+    "pos": "noun",
+    "meaning_ko": "급여 관리",
+    "ipa": "/ˈpeɪroʊl/",
+    "pron_ko": "페이롤",
+    "example_en": "Payroll is processed monthly.",
+    "example_ko": "급여 관리는 매월 처리됩니다.",
+    "topic": [
+      "office"
+    ],
+    "frequency_tier": 1,
+    "synonyms": [
+      "wages"
+    ],
+    "distractors": [
+      "payroll",
+      "payrolls",
+      "paying"
+    ]
+  },
+  {
+    "id": "toeic-p3-invoice-2",
+    "part": 3,
+    "word": "invoice",
+    "pos": "verb",
+    "meaning_ko": "청구서를 보내다",
+    "ipa": "/ˈɪnvɔɪs/",
+    "pron_ko": "인보이스",
+    "example_en": "Invoice the client today.",
+    "example_ko": "오늘 고객에게 청구서를 보내세요.",
+    "topic": [
+      "client"
+    ],
+    "frequency_tier": 1,
+    "synonyms": [
+      "bill"
+    ],
+    "distractors": [
+      "invoice",
+      "invoke",
+      "involve"
+    ]
+  },
+  {
+    "id": "toeic-p3-billing",
+    "part": 3,
+    "word": "billing",
+    "pos": "noun",
+    "meaning_ko": "청구",
+    "ipa": "/ˈbɪlɪŋ/",
+    "pron_ko": "빌링",
+    "example_en": "Billing inquiries go to accounting.",
+    "example_ko": "청구 문의는 회계부로 보내세요.",
+    "topic": [
+      "client"
+    ],
+    "frequency_tier": 1,
+    "synonyms": [
+      "charge"
+    ],
+    "distractors": [
+      "billing",
+      "building",
+      "bullying"
+    ]
+  },
+  {
+    "id": "toeic-p3-payment",
+    "part": 3,
+    "word": "payment",
+    "pos": "noun",
+    "meaning_ko": "지불",
+    "ipa": "/ˈpeɪmənt/",
+    "pron_ko": "페이먼트",
+    "example_en": "Payment is due in 30 days.",
+    "example_ko": "지불은 30일 내입니다.",
+    "topic": [
+      "client"
+    ],
+    "frequency_tier": 1,
+    "synonyms": [
+      "settlement"
+    ],
+    "distractors": [
+      "payment",
+      "payments",
+      "payment"
+    ]
+  },
+  {
+    "id": "toeic-p3-settle",
+    "part": 3,
+    "word": "settle",
+    "pos": "verb",
+    "meaning_ko": "정산하다",
+    "ipa": "/ˈsetəl/",
+    "pron_ko": "세틀",
+    "example_en": "Settle the bill today.",
+    "example_ko": "오늘 청구서를 정산하세요.",
+    "topic": [
+      "client"
+    ],
+    "frequency_tier": 1,
+    "synonyms": [
+      "pay"
+    ],
+    "distractors": [
+      "settle",
+      "setting",
+      "settler"
+    ]
+  },
+  {
+    "id": "toeic-p3-refund",
+    "part": 3,
+    "word": "refund",
+    "pos": "noun",
+    "meaning_ko": "환불",
+    "ipa": "/ˈriːfʌnd/",
+    "pron_ko": "리펀드",
+    "example_en": "Process the refund.",
+    "example_ko": "환불을 처리하세요.",
+    "topic": [
+      "client"
+    ],
+    "frequency_tier": 1,
+    "synonyms": [
+      "reimbursement"
+    ],
+    "distractors": [
+      "refund",
+      "refunds",
+      "refunded"
+    ]
+  },
+  {
+    "id": "toeic-p3-reimburse",
+    "part": 3,
+    "word": "reimburse",
+    "pos": "verb",
+    "meaning_ko": "환급하다",
+    "ipa": "/ˌriːɪmˈbɜːrs/",
+    "pron_ko": "리임버스",
+    "example_en": "We reimburse travel costs.",
+    "example_ko": "출장비를 환급합니다.",
+    "topic": [
+      "client"
+    ],
+    "frequency_tier": 1,
+    "synonyms": [
+      "refund"
+    ],
+    "distractors": [
+      "reimburse",
+      "reimbursed",
+      "disperse"
+    ]
+  },
+  {
+    "id": "toeic-p3-complaint",
+    "part": 3,
+    "word": "complaint",
+    "pos": "noun",
+    "meaning_ko": "불만",
+    "ipa": "/kəmˈpleɪnt/",
+    "pron_ko": "컴플레인트",
+    "example_en": "A complaint was filed.",
+    "example_ko": "불만이 제기되었습니다.",
+    "topic": [
+      "client"
+    ],
+    "frequency_tier": 1,
+    "synonyms": [
+      "grievance"
+    ],
+    "distractors": [
+      "complaint",
+      "complaints",
+      "complete"
+    ]
+  },
+  {
+    "id": "toeic-p3-issue",
+    "part": 3,
+    "word": "issue",
+    "pos": "noun",
+    "meaning_ko": "문제",
+    "ipa": "/ˈɪʃuː/",
+    "pron_ko": "이슈",
+    "example_en": "Resolve the issue quickly.",
+    "example_ko": "문제를 빨리 해결하세요.",
+    "topic": [
+      "client",
+      "office"
+    ],
+    "frequency_tier": 1,
+    "synonyms": [
+      "problem"
+    ],
+    "distractors": [
+      "issue",
+      "issues",
+      "tissue"
+    ]
+  },
+  {
+    "id": "toeic-p3-solution",
+    "part": 3,
+    "word": "solution",
+    "pos": "noun",
+    "meaning_ko": "해결책",
+    "ipa": "/səˈluːʃən/",
+    "pron_ko": "솔루션",
+    "example_en": "Propose a solution.",
+    "example_ko": "해결책을 제안하세요.",
+    "topic": [
+      "office"
+    ],
+    "frequency_tier": 1,
+    "synonyms": [
+      "answer"
+    ],
+    "distractors": [
+      "solution",
+      "solutions",
+      "elution"
+    ]
+  },
+  {
+    "id": "toeic-p3-status",
+    "part": 3,
+    "word": "status",
+    "pos": "noun",
+    "meaning_ko": "상태",
+    "ipa": "/ˈsteɪtəs/",
+    "pron_ko": "스테이터스",
+    "example_en": "Check the project status.",
+    "example_ko": "프로젝트 상태를 확인하세요.",
+    "topic": [
+      "office"
+    ],
+    "frequency_tier": 1,
+    "synonyms": [
+      "condition"
+    ],
+    "distractors": [
+      "status",
+      "statue",
+      "stature"
+    ]
+  },
+  {
+    "id": "toeic-p3-update",
+    "part": 3,
+    "word": "update",
+    "pos": "noun",
+    "meaning_ko": "최신 정보",
+    "ipa": "/ˈʌpdeɪt/",
+    "pron_ko": "업데이트",
+    "example_en": "Provide a quick update.",
+    "example_ko": "간단한 최신 정보를 알려 주세요.",
+    "topic": [
+      "office"
+    ],
+    "frequency_tier": 1,
+    "synonyms": [
+      "news"
+    ],
+    "distractors": [
+      "update",
+      "upbeat",
+      "upgrade"
+    ]
+  },
+  {
+    "id": "toeic-p3-progress",
+    "part": 3,
+    "word": "progress",
+    "pos": "noun",
+    "meaning_ko": "진행 상황",
+    "ipa": "/ˈprɒɡres/",
+    "pron_ko": "프로그레스",
+    "example_en": "Report your progress.",
+    "example_ko": "진행 상황을 보고하세요.",
+    "topic": [
+      "office"
+    ],
+    "frequency_tier": 1,
+    "synonyms": [
+      "advance"
+    ],
+    "distractors": [
+      "progress",
+      "process",
+      "progressed"
+    ]
+  },
+  {
+    "id": "toeic-p3-setback",
+    "part": 3,
+    "word": "setback",
+    "pos": "noun",
+    "meaning_ko": "차질",
+    "ipa": "/ˈsetbæk/",
+    "pron_ko": "셋백",
+    "example_en": "We had a minor setback.",
+    "example_ko": "경미한 차질이 있었습니다.",
+    "topic": [
+      "office"
+    ],
+    "frequency_tier": 1,
+    "synonyms": [
+      "obstacle"
+    ],
+    "distractors": [
+      "setback",
+      "setbacks",
+      "outback"
+    ]
+  },
+  {
+    "id": "toeic-p3-breakthrough",
+    "part": 3,
+    "word": "breakthrough",
+    "pos": "noun",
+    "meaning_ko": "돌파구",
+    "ipa": "/ˈbreɪkθruː/",
+    "pron_ko": "브레이크쓰루",
+    "example_en": "We made a breakthrough.",
+    "example_ko": "돌파구를 마련했습니다.",
+    "topic": [
+      "office"
+    ],
+    "frequency_tier": 1,
+    "synonyms": [
+      "discovery"
+    ],
+    "distractors": [
+      "breakthrough",
+      "breakdown",
+      "throughbred"
+    ]
+  },
+  {
+    "id": "toeic-p3-crisis",
+    "part": 3,
+    "word": "crisis",
+    "pos": "noun",
+    "meaning_ko": "위기",
+    "ipa": "/ˈkraɪsɪs/",
+    "pron_ko": "크라이시스",
+    "example_en": "Manage the crisis calmly.",
+    "example_ko": "위기를 차분히 관리하세요.",
+    "topic": [
+      "office"
+    ],
+    "frequency_tier": 1,
+    "synonyms": [
+      "emergency"
+    ],
+    "distractors": [
+      "crisis",
+      "crises",
+      "crisp"
+    ]
+  },
+  {
+    "id": "toeic-p3-emergency",
+    "part": 3,
+    "word": "emergency",
+    "pos": "noun",
+    "meaning_ko": "비상",
+    "ipa": "/ɪˈmɜːrdʒənsi/",
+    "pron_ko": "이머전시",
+    "example_en": "In an emergency, call security.",
+    "example_ko": "비상 시에는 보안팀에 전화하세요.",
+    "topic": [
+      "office"
+    ],
+    "frequency_tier": 1,
+    "synonyms": [
+      "crisis"
+    ],
+    "distractors": [
+      "emergency",
+      "emergence",
+      "emergent"
+    ]
+  },
+  {
+    "id": "toeic-p3-contingency",
+    "part": 3,
+    "word": "contingency",
+    "pos": "noun",
+    "meaning_ko": "비상사태",
+    "ipa": "/kənˈtɪndʒənsi/",
+    "pron_ko": "컨틴전시",
+    "example_en": "Have a contingency plan.",
+    "example_ko": "비상 계획을 두세요.",
+    "topic": [
+      "office"
+    ],
+    "frequency_tier": 1,
+    "synonyms": [
+      "backup"
+    ],
+    "distractors": [
+      "contingency",
+      "continuity",
+      "contingent"
+    ]
+  },
+  {
+    "id": "toeic-p3-backup",
+    "part": 3,
+    "word": "backup",
+    "pos": "noun",
+    "meaning_ko": "백업",
+    "ipa": "/ˈbækʌp/",
+    "pron_ko": "백업",
+    "example_en": "Keep a backup ready.",
+    "example_ko": "백업을 준비해 두세요.",
+    "topic": [
+      "office"
+    ],
+    "frequency_tier": 1,
+    "synonyms": [
+      "reserve"
+    ],
+    "distractors": [
+      "backup",
+      "backups",
+      "back up"
+    ]
+  },
+  {
+    "id": "toeic-p3-alternative",
+    "part": 3,
+    "word": "alternative",
+    "pos": "noun",
+    "meaning_ko": "대안",
+    "ipa": "/ɔːlˈtɜːrnətɪv/",
+    "pron_ko": "올터너티브",
+    "example_en": "Consider an alternative.",
+    "example_ko": "대안을 고려하세요.",
+    "topic": [
+      "office"
+    ],
+    "frequency_tier": 1,
+    "synonyms": [
+      "option"
+    ],
+    "distractors": [
+      "alternative",
+      "alternate",
+      "altercation"
+    ]
+  },
+  {
+    "id": "toeic-p3-option",
+    "part": 3,
+    "word": "option",
+    "pos": "noun",
+    "meaning_ko": "선택권",
+    "ipa": "/ˈɒpʃən/",
+    "pron_ko": "옵션",
+    "example_en": "Review your options.",
+    "example_ko": "선택권을 검토하세요.",
+    "topic": [
+      "office"
+    ],
+    "frequency_tier": 1,
+    "synonyms": [
+      "choice"
+    ],
+    "distractors": [
+      "option",
+      "adoption",
+      "optional"
+    ]
+  },
+  {
+    "id": "toeic-p3-choice",
+    "part": 3,
+    "word": "choice",
+    "pos": "noun",
+    "meaning_ko": "선택",
+    "ipa": "/tʃɔɪs/",
+    "pron_ko": "초이스",
+    "example_en": "Make a choice today.",
+    "example_ko": "오늘 선택하세요.",
+    "topic": [
+      "office"
+    ],
+    "frequency_tier": 1,
+    "synonyms": [
+      "option"
+    ],
+    "distractors": [
+      "choice",
+      "chose",
+      "chores"
+    ]
+  },
+  {
+    "id": "toeic-p3-decision",
+    "part": 3,
+    "word": "decision",
+    "pos": "noun",
+    "meaning_ko": "결정",
+    "ipa": "/dɪˈsɪʒən/",
+    "pron_ko": "디시전",
+    "example_en": "Make the final decision.",
+    "example_ko": "최종 결정을 하세요.",
+    "topic": [
+      "office"
+    ],
+    "frequency_tier": 1,
+    "synonyms": [
+      "choice"
+    ],
+    "distractors": [
+      "decision",
+      "deciding",
+      "decisive"
+    ]
+  },
+  {
+    "id": "toeic-p3-conclusion",
+    "part": 3,
+    "word": "conclusion",
+    "pos": "noun",
+    "meaning_ko": "결론",
+    "ipa": "/kənˈkluːʒən/",
+    "pron_ko": "컨클루전",
+    "example_en": "Reach a conclusion soon.",
+    "example_ko": "곧 결론에 이르세요.",
+    "topic": [
+      "office"
+    ],
+    "frequency_tier": 1,
+    "synonyms": [
+      "end"
+    ],
+    "distractors": [
+      "conclusion",
+      "exclusion",
+      "inclusion"
+    ]
+  },
+  {
+    "id": "toeic-p3-consensus",
+    "part": 3,
+    "word": "consensus",
+    "pos": "noun",
+    "meaning_ko": "합의",
+    "ipa": "/kənˈsensəs/",
+    "pron_ko": "컨센서스",
+    "example_en": "We reached consensus.",
+    "example_ko": "합의에 이르렀습니다.",
+    "topic": [
+      "office"
+    ],
+    "frequency_tier": 1,
+    "synonyms": [
+      "agreement"
+    ],
+    "distractors": [
+      "consensus",
+      "census",
+      "consents"
+    ]
+  },
+  {
+    "id": "toeic-p3-compromise",
+    "part": 3,
+    "word": "compromise",
+    "pos": "noun",
+    "meaning_ko": "타협",
+    "ipa": "/ˈkɒmprəmaɪz/",
+    "pron_ko": "컴프로마이즈",
+    "example_en": "Find a compromise.",
+    "example_ko": "타협안을 찾으세요.",
+    "topic": [
+      "office"
+    ],
+    "frequency_tier": 1,
+    "synonyms": [
+      "middle ground"
+    ],
+    "distractors": [
+      "compromise",
+      "compress",
+      "comprise"
+    ]
+  },
+  {
+    "id": "toeic-p3-dispute",
+    "part": 3,
+    "word": "dispute",
+    "pos": "noun",
+    "meaning_ko": "분쟁",
+    "ipa": "/dɪˈspjuːt/",
+    "pron_ko": "디스퓨트",
+    "example_en": "Resolve the dispute.",
+    "example_ko": "분쟁을 해결하세요.",
+    "topic": [
+      "office"
+    ],
+    "frequency_tier": 1,
+    "synonyms": [
+      "conflict"
+    ],
+    "distractors": [
+      "dispute",
+      "disputed",
+      "despite"
+    ]
+  },
+  {
+    "id": "toeic-p3-conflict",
+    "part": 3,
+    "word": "conflict",
+    "pos": "noun",
+    "meaning_ko": "갈등",
+    "ipa": "/ˈkɒnflɪkt/",
+    "pron_ko": "컨플릭트",
+    "example_en": "Avoid conflict in the team.",
+    "example_ko": "팀 내 갈등을 피하세요.",
+    "topic": [
+      "office"
+    ],
+    "frequency_tier": 1,
+    "synonyms": [
+      "dispute"
+    ],
+    "distractors": [
+      "conflict",
+      "conflicts",
+      "inflict"
+    ]
+  },
+  {
+    "id": "toeic-p3-mediation",
+    "part": 3,
+    "word": "mediation",
+    "pos": "noun",
+    "meaning_ko": "중재",
+    "ipa": "/ˌmiːdiˈeɪʃən/",
+    "pron_ko": "미디에이션",
+    "example_en": "Mediation may help.",
+    "example_ko": "중재가 도움이 될 수도 있습니다.",
+    "topic": [
+      "office"
+    ],
+    "frequency_tier": 2,
+    "synonyms": [
+      "arbitration"
+    ],
+    "distractors": [
+      "mediation",
+      "meditation",
+      "medicine"
+    ]
+  },
+  {
+    "id": "toeic-p3-arbitration",
+    "part": 3,
+    "word": "arbitration",
+    "pos": "noun",
+    "meaning_ko": "조정",
+    "ipa": "/ˌɑːrbɪˈtreɪʃən/",
+    "pron_ko": "아비트레이션",
+    "example_en": "The case went to arbitration.",
+    "example_ko": "사건이 조정으로 회부되었습니다.",
+    "topic": [
+      "office"
+    ],
+    "frequency_tier": 2,
+    "synonyms": [
+      "mediation"
+    ],
+    "distractors": [
+      "arbitration",
+      "arbitrate",
+      "attribution"
+    ]
+  },
+  {
+    "id": "toeic-p3-liaison",
+    "part": 3,
+    "word": "liaison",
+    "pos": "noun",
+    "meaning_ko": "연락 담당",
+    "ipa": "/liˈeɪzɒn/",
+    "pron_ko": "리에이존",
+    "example_en": "She is the project liaison.",
+    "example_ko": "그녀가 프로젝트 연락 담당입니다.",
+    "topic": [
+      "office"
+    ],
+    "frequency_tier": 2,
+    "synonyms": [
+      "contact"
+    ],
+    "distractors": [
+      "liaison",
+      "liaisons",
+      "listing"
+    ]
+  },
+  {
+    "id": "toeic-p3-contact",
+    "part": 3,
+    "word": "contact",
+    "pos": "noun",
+    "meaning_ko": "연락처",
+    "ipa": "/ˈkɒntækt/",
+    "pron_ko": "컨택트",
+    "example_en": "Update your contact info.",
+    "example_ko": "연락처를 업데이트하세요.",
+    "topic": [
+      "client"
+    ],
+    "frequency_tier": 1,
+    "synonyms": [
+      "info"
+    ],
+    "distractors": [
+      "contact",
+      "content",
+      "contract"
+    ]
+  },
+  {
+    "id": "toeic-p3-referral",
+    "part": 3,
+    "word": "referral",
+    "pos": "noun",
+    "meaning_ko": "추천",
+    "ipa": "/rɪˈfɜːrəl/",
+    "pron_ko": "리퍼럴",
+    "example_en": "Thanks for the referral.",
+    "example_ko": "추천 감사합니다.",
+    "topic": [
+      "client"
+    ],
+    "frequency_tier": 1,
+    "synonyms": [
+      "recommendation"
+    ],
+    "distractors": [
+      "referral",
+      "refer",
+      "deferral"
+    ]
+  },
+  {
+    "id": "toeic-p3-recommend",
+    "part": 3,
+    "word": "recommend",
+    "pos": "verb",
+    "meaning_ko": "추천하다",
+    "ipa": "/ˌrekəˈmend/",
+    "pron_ko": "레커멘드",
+    "example_en": "I recommend the new vendor.",
+    "example_ko": "새 공급업체를 추천합니다.",
+    "topic": [
+      "client"
+    ],
+    "frequency_tier": 1,
+    "synonyms": [
+      "suggest"
+    ],
+    "distractors": [
+      "recommend",
+      "comment",
+      "recommended"
+    ]
+  },
+  {
+    "id": "toeic-p3-introduce",
+    "part": 3,
+    "word": "introduce",
+    "pos": "verb",
+    "meaning_ko": "소개하다",
+    "ipa": "/ˌɪntrəˈduːs/",
+    "pron_ko": "인트러듀스",
+    "example_en": "Let me introduce our team.",
+    "example_ko": "우리 팀을 소개하겠습니다.",
+    "topic": [
+      "office"
+    ],
+    "frequency_tier": 1,
+    "synonyms": [
+      "present"
+    ],
+    "distractors": [
+      "introduce",
+      "introduces",
+      "introduce"
+    ]
+  },
+  {
+    "id": "toeic-p3-greet",
+    "part": 3,
+    "word": "greet",
+    "pos": "verb",
+    "meaning_ko": "인사하다",
+    "ipa": "/ɡriːt/",
+    "pron_ko": "그릿",
+    "example_en": "Greet the visitors warmly.",
+    "example_ko": "방문객에게 따뜻하게 인사하세요.",
+    "topic": [
+      "office"
+    ],
+    "frequency_tier": 1,
+    "synonyms": [
+      "welcome"
+    ],
+    "distractors": [
+      "greet",
+      "grit",
+      "great"
+    ]
+  },
+  {
+    "id": "toeic-p3-welcome",
+    "part": 3,
+    "word": "welcome",
+    "pos": "verb",
+    "meaning_ko": "환영하다",
+    "ipa": "/ˈwelkəm/",
+    "pron_ko": "웰컴",
+    "example_en": "Welcome the new hire.",
+    "example_ko": "신규 입사자를 환영하세요.",
+    "topic": [
+      "office"
+    ],
+    "frequency_tier": 1,
+    "synonyms": [
+      "greet"
+    ],
+    "distractors": [
+      "welcome",
+      "wellcome",
+      "welcoming"
+    ]
+  },
+  {
+    "id": "toeic-p3-network",
+    "part": 3,
+    "word": "network",
+    "pos": "verb",
+    "meaning_ko": "인맥을 쌓다",
+    "ipa": "/ˈnetwɜːrk/",
+    "pron_ko": "네트워크",
+    "example_en": "Network at the event.",
+    "example_ko": "행사에서 인맥을 쌓으세요.",
+    "topic": [
+      "office"
+    ],
+    "frequency_tier": 1,
+    "synonyms": [
+      "connect"
+    ],
+    "distractors": [
+      "network",
+      "networks",
+      "networking"
+    ]
+  },
+  {
+    "id": "toeic-p3-connect",
+    "part": 3,
+    "word": "connect",
+    "pos": "verb",
+    "meaning_ko": "연결하다",
+    "ipa": "/kəˈnekt/",
+    "pron_ko": "커넥트",
+    "example_en": "Connect with prospects.",
+    "example_ko": "잠재 고객과 연결하세요.",
+    "topic": [
+      "office"
+    ],
+    "frequency_tier": 1,
+    "synonyms": [
+      "link"
+    ],
+    "distractors": [
+      "connect",
+      "conduct",
+      "correct"
+    ]
+  },
+  {
+    "id": "toeic-p3-prospect",
+    "part": 3,
+    "word": "prospect",
+    "pos": "noun",
+    "meaning_ko": "잠재 고객",
+    "ipa": "/ˈprɒspekt/",
+    "pron_ko": "프로스펙트",
+    "example_en": "Identify new prospects.",
+    "example_ko": "새 잠재 고객을 식별하세요.",
+    "topic": [
+      "client"
+    ],
+    "frequency_tier": 1,
+    "synonyms": [
+      "lead"
+    ],
+    "distractors": [
+      "prospect",
+      "prospects",
+      "respect"
+    ]
+  },
+  {
+    "id": "toeic-p3-lead",
+    "part": 3,
+    "word": "lead",
+    "pos": "noun",
+    "meaning_ko": "잠재 고객",
+    "ipa": "/liːd/",
+    "pron_ko": "리드",
+    "example_en": "Qualify the lead.",
+    "example_ko": "잠재 고객의 자격을 평가하세요.",
+    "topic": [
+      "client"
+    ],
+    "frequency_tier": 1,
+    "synonyms": [
+      "prospect"
+    ],
+    "distractors": [
+      "lead",
+      "leads",
+      "led"
+    ]
+  },
+  {
+    "id": "toeic-p3-pipeline",
+    "part": 3,
+    "word": "pipeline",
+    "pos": "noun",
+    "meaning_ko": "파이프라인",
+    "ipa": "/ˈpaɪplaɪn/",
+    "pron_ko": "파이프라인",
+    "example_en": "Our sales pipeline is strong.",
+    "example_ko": "우리 영업 파이프라인은 탄탄합니다.",
+    "topic": [
+      "client"
+    ],
+    "frequency_tier": 1,
+    "synonyms": [
+      "funnel"
+    ],
+    "distractors": [
+      "pipeline",
+      "piping",
+      "pipelines"
+    ]
+  },
+  {
+    "id": "toeic-p3-quota",
+    "part": 3,
+    "word": "quota",
+    "pos": "noun",
+    "meaning_ko": "할당량",
+    "ipa": "/ˈkwoʊtə/",
+    "pron_ko": "쿼타",
+    "example_en": "Hit your monthly quota.",
+    "example_ko": "월간 할당량을 달성하세요.",
+    "topic": [
+      "office"
+    ],
+    "frequency_tier": 1,
+    "synonyms": [
+      "target"
+    ],
+    "distractors": [
+      "quota",
+      "quote",
+      "coda"
+    ]
+  },
+  {
+    "id": "toeic-p3-forecast-2",
+    "part": 3,
+    "word": "forecast",
+    "pos": "noun",
+    "meaning_ko": "예측",
+    "ipa": "/ˈfɔːrkæst/",
+    "pron_ko": "포캐스트",
+    "example_en": "The forecast looks positive.",
+    "example_ko": "예측은 긍정적으로 보입니다.",
+    "topic": [
+      "office"
+    ],
+    "frequency_tier": 1,
+    "synonyms": [
+      "projection"
+    ],
+    "distractors": [
+      "forecast",
+      "forecasts",
+      "forecast"
+    ]
+  },
+  {
+    "id": "toeic-p3-projection",
+    "part": 3,
+    "word": "projection",
+    "pos": "noun",
+    "meaning_ko": "예상",
+    "ipa": "/prəˈdʒekʃən/",
+    "pron_ko": "프로젝션",
+    "example_en": "Sales projections are revised.",
+    "example_ko": "매출 예상이 수정되었습니다.",
+    "topic": [
+      "office"
+    ],
+    "frequency_tier": 1,
+    "synonyms": [
+      "forecast"
+    ],
+    "distractors": [
+      "projection",
+      "project",
+      "protection"
+    ]
+  },
+  {
+    "id": "toeic-p3-trend",
+    "part": 3,
+    "word": "trend",
+    "pos": "noun",
+    "meaning_ko": "경향",
+    "ipa": "/trend/",
+    "pron_ko": "트렌드",
+    "example_en": "Follow market trends.",
+    "example_ko": "시장 경향을 따라가세요.",
+    "topic": [
+      "office"
+    ],
+    "frequency_tier": 1,
+    "synonyms": [
+      "pattern"
+    ],
+    "distractors": [
+      "trend",
+      "trends",
+      "stress"
+    ]
+  },
+  {
+    "id": "toeic-p3-market-share",
+    "part": 3,
+    "word": "market share",
+    "pos": "noun",
+    "meaning_ko": "시장 점유율",
+    "ipa": "/ˈmɑːrkɪt ʃer/",
+    "pron_ko": "마켓 쉐어",
+    "example_en": "Increase our market share.",
+    "example_ko": "우리 시장 점유율을 늘리세요.",
+    "topic": [
+      "office"
+    ],
+    "frequency_tier": 1,
+    "synonyms": [
+      "share"
+    ],
+    "distractors": [
+      "market share",
+      "market",
+      "share"
+    ]
+  },
+  {
+    "id": "toeic-p3-competitor",
+    "part": 3,
+    "word": "competitor",
+    "pos": "noun",
+    "meaning_ko": "경쟁사",
+    "ipa": "/kəmˈpetɪtər/",
+    "pron_ko": "컴페티터",
+    "example_en": "Watch the main competitor.",
+    "example_ko": "주요 경쟁사를 주시하세요.",
+    "topic": [
+      "office"
+    ],
+    "frequency_tier": 1,
+    "synonyms": [
+      "rival"
+    ],
+    "distractors": [
+      "competitor",
+      "competition",
+      "competitors"
+    ]
+  },
+  {
+    "id": "toeic-p3-competition",
+    "part": 3,
+    "word": "competition",
+    "pos": "noun",
+    "meaning_ko": "경쟁",
+    "ipa": "/ˌkɒmpəˈtɪʃən/",
+    "pron_ko": "컴페티션",
+    "example_en": "Competition is fierce.",
+    "example_ko": "경쟁이 치열합니다.",
+    "topic": [
+      "office"
+    ],
+    "frequency_tier": 1,
+    "synonyms": [
+      "rivalry"
+    ],
+    "distractors": [
+      "competition",
+      "completion",
+      "composition"
+    ]
+  },
+  {
+    "id": "toeic-p3-rival",
+    "part": 3,
+    "word": "rival",
+    "pos": "noun",
+    "meaning_ko": "경쟁자",
+    "ipa": "/ˈraɪvəl/",
+    "pron_ko": "라이벌",
+    "example_en": "Outperform your rivals.",
+    "example_ko": "경쟁자를 능가하세요.",
+    "topic": [
+      "office"
+    ],
+    "frequency_tier": 1,
+    "synonyms": [
+      "competitor"
+    ],
+    "distractors": [
+      "rival",
+      "river",
+      "trial"
+    ]
+  },
+  {
+    "id": "toeic-p3-survey",
+    "part": 3,
+    "word": "survey",
+    "pos": "noun",
+    "meaning_ko": "설문조사",
+    "ipa": "/ˈsɜːrveɪ/",
+    "pron_ko": "서베이",
+    "example_en": "Conduct a customer survey.",
+    "example_ko": "고객 설문조사를 실시하세요.",
+    "topic": [
+      "client"
+    ],
+    "frequency_tier": 1,
+    "synonyms": [
+      "poll"
+    ],
+    "distractors": [
+      "survey",
+      "surveys",
+      "surely"
+    ]
+  },
+  {
+    "id": "toeic-p3-feedback-form",
+    "part": 3,
+    "word": "feedback form",
+    "pos": "noun",
+    "meaning_ko": "피드백 양식",
+    "ipa": "/ˈfiːdbæk fɔːrm/",
+    "pron_ko": "피드백 폼",
+    "example_en": "Fill out the feedback form.",
+    "example_ko": "피드백 양식을 작성하세요.",
+    "topic": [
+      "client"
+    ],
+    "frequency_tier": 1,
+    "synonyms": [
+      "survey"
+    ],
+    "distractors": [
+      "feedback",
+      "feedbacks",
+      "form"
+    ]
+  },
+  {
+    "id": "toeic-p3-questionnaire",
+    "part": 3,
+    "word": "questionnaire",
+    "pos": "noun",
+    "meaning_ko": "설문지",
+    "ipa": "/ˌkwestʃəˈner/",
+    "pron_ko": "퀘스천에어",
+    "example_en": "Complete the questionnaire.",
+    "example_ko": "설문지를 작성하세요.",
+    "topic": [
+      "client"
+    ],
+    "frequency_tier": 1,
+    "synonyms": [
+      "survey"
+    ],
+    "distractors": [
+      "questionnaire",
+      "question",
+      "millionaire"
+    ]
+  },
+  {
+    "id": "toeic-p3-focus-group",
+    "part": 3,
+    "word": "focus group",
+    "pos": "noun",
+    "meaning_ko": "포커스 그룹",
+    "ipa": "/ˈfoʊkəs ɡruːp/",
+    "pron_ko": "포커스 그룹",
+    "example_en": "Run a focus group.",
+    "example_ko": "포커스 그룹을 운영하세요.",
+    "topic": [
+      "client"
+    ],
+    "frequency_tier": 1,
+    "synonyms": [
+      "panel"
+    ],
+    "distractors": [
+      "focus group",
+      "focus",
+      "group"
+    ]
+  },
+  {
+    "id": "toeic-p3-pitch",
+    "part": 3,
+    "word": "pitch",
+    "pos": "verb",
+    "meaning_ko": "제안하다",
+    "ipa": "/pɪtʃ/",
+    "pron_ko": "피치",
+    "example_en": "Pitch the idea to investors.",
+    "example_ko": "투자자에게 아이디어를 제안하세요.",
+    "topic": [
+      "client"
+    ],
+    "frequency_tier": 1,
+    "synonyms": [
+      "propose"
+    ],
+    "distractors": [
+      "pitch",
+      "patch",
+      "peach"
+    ]
+  },
+  {
+    "id": "toeic-p3-pitch-2",
+    "part": 3,
+    "word": "pitch",
+    "pos": "noun",
+    "meaning_ko": "제안",
+    "ipa": "/pɪtʃ/",
+    "pron_ko": "피치",
+    "example_en": "Practice your pitch.",
+    "example_ko": "제안을 연습하세요.",
+    "topic": [
+      "client"
+    ],
+    "frequency_tier": 1,
+    "synonyms": [
+      "sales pitch"
+    ],
+    "distractors": [
+      "pitch",
+      "pinch",
+      "pitcher"
+    ]
+  },
+  {
+    "id": "toeic-p3-demo",
+    "part": 3,
+    "word": "demo",
+    "pos": "noun",
+    "meaning_ko": "시연",
+    "ipa": "/ˈdemoʊ/",
+    "pron_ko": "데모",
+    "example_en": "Schedule a product demo.",
+    "example_ko": "제품 시연 일정을 잡으세요.",
+    "topic": [
+      "client"
+    ],
+    "frequency_tier": 1,
+    "synonyms": [
+      "demonstration"
+    ],
+    "distractors": [
+      "demo",
+      "demos",
+      "memo"
+    ]
+  },
+  {
+    "id": "toeic-p3-trial",
+    "part": 3,
+    "word": "trial",
+    "pos": "noun",
+    "meaning_ko": "시범 사용",
+    "ipa": "/ˈtraɪəl/",
+    "pron_ko": "트라이얼",
+    "example_en": "Offer a free trial.",
+    "example_ko": "무료 시범 사용을 제공하세요.",
+    "topic": [
+      "client"
+    ],
+    "frequency_tier": 1,
+    "synonyms": [
+      "test"
+    ],
+    "distractors": [
+      "trial",
+      "trials",
+      "trail"
+    ]
+  },
+  {
+    "id": "toeic-p3-rollout",
+    "part": 3,
+    "word": "rollout",
+    "pos": "noun",
+    "meaning_ko": "출시",
+    "ipa": "/ˈroʊlaʊt/",
+    "pron_ko": "롤아웃",
+    "example_en": "Plan a phased rollout.",
+    "example_ko": "단계적 출시를 계획하세요.",
+    "topic": [
+      "office"
+    ],
+    "frequency_tier": 1,
+    "synonyms": [
+      "launch"
+    ],
+    "distractors": [
+      "rollout",
+      "rolling",
+      "rolled out"
+    ]
+  },
+  {
+    "id": "toeic-p3-launch",
+    "part": 3,
+    "word": "launch",
+    "pos": "verb",
+    "meaning_ko": "출시하다",
+    "ipa": "/lɔːntʃ/",
+    "pron_ko": "런치",
+    "example_en": "Launch the campaign Monday.",
+    "example_ko": "월요일에 캠페인을 시작하세요.",
+    "topic": [
+      "office"
+    ],
+    "frequency_tier": 1,
+    "synonyms": [
+      "release"
+    ],
+    "distractors": [
+      "launch",
+      "launched",
+      "lunch"
+    ]
+  },
+  {
+    "id": "toeic-p3-release",
+    "part": 3,
+    "word": "release",
+    "pos": "verb",
+    "meaning_ko": "공개하다",
+    "ipa": "/rɪˈliːs/",
+    "pron_ko": "릴리스",
+    "example_en": "Release the product next month.",
+    "example_ko": "다음 달에 제품을 공개하세요.",
+    "topic": [
+      "office"
+    ],
+    "frequency_tier": 1,
+    "synonyms": [
+      "launch"
+    ],
+    "distractors": [
+      "release",
+      "relief",
+      "relieve"
+    ]
+  },
+  {
+    "id": "toeic-p3-campaign",
+    "part": 3,
+    "word": "campaign",
+    "pos": "noun",
+    "meaning_ko": "캠페인",
+    "ipa": "/kæmˈpeɪn/",
+    "pron_ko": "캠페인",
+    "example_en": "The campaign is successful.",
+    "example_ko": "캠페인은 성공적입니다.",
+    "topic": [
+      "office"
+    ],
+    "frequency_tier": 1,
+    "synonyms": [
+      "drive"
+    ],
+    "distractors": [
+      "campaign",
+      "companion",
+      "champagne"
+    ]
+  },
+  {
+    "id": "toeic-p3-promotion-2",
+    "part": 3,
+    "word": "promotion",
+    "pos": "noun",
+    "meaning_ko": "홍보",
+    "ipa": "/prəˈmoʊʃən/",
+    "pron_ko": "프로모션",
+    "example_en": "Promote the new line.",
+    "example_ko": "신제품을 홍보하세요.",
+    "topic": [
+      "office"
+    ],
+    "frequency_tier": 1,
+    "synonyms": [
+      "marketing"
+    ],
+    "distractors": [
+      "promotion",
+      "promote",
+      "prompted"
+    ]
+  },
+  {
+    "id": "toeic-p3-publicity",
+    "part": 3,
+    "word": "publicity",
+    "pos": "noun",
+    "meaning_ko": "홍보",
+    "ipa": "/pʌˈblɪsəti/",
+    "pron_ko": "퍼블리시티",
+    "example_en": "Generate positive publicity.",
+    "example_ko": "긍정적인 홍보를 만드세요.",
+    "topic": [
+      "office"
+    ],
+    "frequency_tier": 1,
+    "synonyms": [
+      "PR"
+    ],
+    "distractors": [
+      "publicity",
+      "publication",
+      "publicly"
+    ]
+  },
+  {
+    "id": "toeic-p3-press-release",
+    "part": 3,
+    "word": "press release",
+    "pos": "noun",
+    "meaning_ko": "보도자료",
+    "ipa": "/pres rɪˈliːs/",
+    "pron_ko": "프레스 릴리스",
+    "example_en": "Issue a press release.",
+    "example_ko": "보도자료를 발행하세요.",
+    "topic": [
+      "office"
+    ],
+    "frequency_tier": 1,
+    "synonyms": [
+      "announcement"
+    ],
+    "distractors": [
+      "press release",
+      "press",
+      "release"
+    ]
+  },
+  {
+    "id": "toeic-p3-media",
+    "part": 3,
+    "word": "media",
+    "pos": "noun",
+    "meaning_ko": "언론",
+    "ipa": "/ˈmiːdiə/",
+    "pron_ko": "미디어",
+    "example_en": "Coordinate with media.",
+    "example_ko": "언론과 협력하세요.",
+    "topic": [
+      "office"
+    ],
+    "frequency_tier": 1,
+    "synonyms": [
+      "press"
+    ],
+    "distractors": [
+      "media",
+      "medium",
+      "medio"
+    ]
+  },
+  {
+    "id": "toeic-p3-brand",
+    "part": 3,
+    "word": "brand",
+    "pos": "noun",
+    "meaning_ko": "브랜드",
+    "ipa": "/brænd/",
+    "pron_ko": "브랜드",
+    "example_en": "Strengthen our brand.",
+    "example_ko": "우리 브랜드를 강화하세요.",
+    "topic": [
+      "office"
+    ],
+    "frequency_tier": 1,
+    "synonyms": [
+      "label"
+    ],
+    "distractors": [
+      "brand",
+      "grand",
+      "bland"
+    ]
+  },
+  {
+    "id": "toeic-p3-logo",
+    "part": 3,
+    "word": "logo",
+    "pos": "noun",
+    "meaning_ko": "로고",
+    "ipa": "/ˈloʊɡoʊ/",
+    "pron_ko": "로고",
+    "example_en": "Display the logo prominently.",
+    "example_ko": "로고를 눈에 띄게 보여 주세요.",
+    "topic": [
+      "office"
+    ],
+    "frequency_tier": 1,
+    "synonyms": [
+      "emblem"
+    ],
+    "distractors": [
+      "logo",
+      "logos",
+      "logon"
+    ]
+  },
+  {
+    "id": "toeic-p3-tagline",
+    "part": 3,
+    "word": "tagline",
+    "pos": "noun",
+    "meaning_ko": "슬로건",
+    "ipa": "/ˈtæɡlaɪn/",
+    "pron_ko": "태그라인",
+    "example_en": "Pick a memorable tagline.",
+    "example_ko": "기억에 남는 슬로건을 고르세요.",
+    "topic": [
+      "office"
+    ],
+    "frequency_tier": 1,
+    "synonyms": [
+      "slogan"
+    ],
+    "distractors": [
+      "tagline",
+      "tagging",
+      "tightening"
+    ]
+  },
+  {
+    "id": "toeic-p3-slogan",
+    "part": 3,
+    "word": "slogan",
+    "pos": "noun",
+    "meaning_ko": "구호",
+    "ipa": "/ˈsloʊɡən/",
+    "pron_ko": "슬로건",
+    "example_en": "Update the slogan.",
+    "example_ko": "구호를 업데이트하세요.",
+    "topic": [
+      "office"
+    ],
+    "frequency_tier": 1,
+    "synonyms": [
+      "motto"
+    ],
+    "distractors": [
+      "slogan",
+      "slow gain",
+      "sloan"
+    ]
+  },
+  {
+    "id": "toeic-p3-market",
+    "part": 3,
+    "word": "market",
+    "pos": "verb",
+    "meaning_ko": "마케팅하다",
+    "ipa": "/ˈmɑːrkɪt/",
+    "pron_ko": "마켓",
+    "example_en": "Market the new app.",
+    "example_ko": "새 앱을 마케팅하세요.",
+    "topic": [
+      "office"
+    ],
+    "frequency_tier": 1,
+    "synonyms": [
+      "promote"
+    ],
+    "distractors": [
+      "market",
+      "marker",
+      "marketer"
+    ]
+  },
+  {
+    "id": "toeic-p3-marketing",
+    "part": 3,
+    "word": "marketing",
+    "pos": "noun",
+    "meaning_ko": "마케팅",
+    "ipa": "/ˈmɑːrkɪtɪŋ/",
+    "pron_ko": "마케팅",
+    "example_en": "Marketing meeting at three.",
+    "example_ko": "3시에 마케팅 회의입니다.",
+    "topic": [
+      "office"
+    ],
+    "frequency_tier": 1,
+    "synonyms": [
+      "promotion"
+    ],
+    "distractors": [
+      "marketing",
+      "marketed",
+      "marking"
+    ]
+  },
+  {
+    "id": "toeic-p3-target-market",
+    "part": 3,
+    "word": "target market",
+    "pos": "noun",
+    "meaning_ko": "목표 시장",
+    "ipa": "/ˈtɑːrɡɪt ˈmɑːrkɪt/",
+    "pron_ko": "타깃 마켓",
+    "example_en": "Define your target market.",
+    "example_ko": "목표 시장을 정의하세요.",
+    "topic": [
+      "office"
+    ],
+    "frequency_tier": 1,
+    "synonyms": [
+      "audience"
+    ],
+    "distractors": [
+      "target",
+      "market",
+      "target market"
+    ]
+  },
+  {
+    "id": "toeic-p3-audience",
+    "part": 3,
+    "word": "audience",
+    "pos": "noun",
+    "meaning_ko": "청중",
+    "ipa": "/ˈɔːdiəns/",
+    "pron_ko": "오디언스",
+    "example_en": "Know your audience.",
+    "example_ko": "청중을 파악하세요.",
+    "topic": [
+      "office"
+    ],
+    "frequency_tier": 1,
+    "synonyms": [
+      "viewers"
+    ],
+    "distractors": [
+      "audience",
+      "audiences",
+      "alliance"
+    ]
+  },
+  {
+    "id": "toeic-p3-survey-results",
+    "part": 3,
+    "word": "survey results",
+    "pos": "noun",
+    "meaning_ko": "설문 결과",
+    "ipa": "/ˈsɜːrveɪ rɪˈzʌlts/",
+    "pron_ko": "서베이 리절트",
+    "example_en": "Share the survey results.",
+    "example_ko": "설문 결과를 공유하세요.",
+    "topic": [
+      "client"
+    ],
+    "frequency_tier": 1,
+    "synonyms": [
+      "findings"
+    ],
+    "distractors": [
+      "survey",
+      "surveys",
+      "results"
+    ]
+  },
+  {
+    "id": "toeic-p3-findings",
+    "part": 3,
+    "word": "findings",
+    "pos": "noun",
+    "meaning_ko": "결과",
+    "ipa": "/ˈfaɪndɪŋz/",
+    "pron_ko": "파인딩스",
+    "example_en": "Present the findings tomorrow.",
+    "example_ko": "내일 결과를 발표하세요.",
+    "topic": [
+      "office"
+    ],
+    "frequency_tier": 1,
+    "synonyms": [
+      "results"
+    ],
+    "distractors": [
+      "findings",
+      "finding",
+      "findings"
+    ]
+  },
+  {
+    "id": "toeic-p3-insights",
+    "part": 3,
+    "word": "insights",
+    "pos": "noun",
+    "meaning_ko": "통찰",
+    "ipa": "/ˈɪnsaɪts/",
+    "pron_ko": "인사이트",
+    "example_en": "Share key insights.",
+    "example_ko": "주요 통찰을 공유하세요.",
+    "topic": [
+      "office"
+    ],
+    "frequency_tier": 1,
+    "synonyms": [
+      "observations"
+    ],
+    "distractors": [
+      "insights",
+      "insight",
+      "inside"
+    ]
+  },
+  {
+    "id": "toeic-p3-data",
+    "part": 3,
+    "word": "data",
+    "pos": "noun",
+    "meaning_ko": "데이터",
+    "ipa": "/ˈdeɪtə/",
+    "pron_ko": "데이터",
+    "example_en": "Analyze the data carefully.",
+    "example_ko": "데이터를 신중하게 분석하세요.",
+    "topic": [
+      "office"
+    ],
+    "frequency_tier": 1,
+    "synonyms": [
+      "information"
+    ],
+    "distractors": [
+      "data",
+      "date",
+      "datas"
+    ]
+  },
+  {
+    "id": "toeic-p3-dashboard",
+    "part": 3,
+    "word": "dashboard",
+    "pos": "noun",
+    "meaning_ko": "대시보드",
+    "ipa": "/ˈdæʃbɔːrd/",
+    "pron_ko": "대시보드",
+    "example_en": "Check the dashboard daily.",
+    "example_ko": "매일 대시보드를 확인하세요.",
+    "topic": [
+      "office"
+    ],
+    "frequency_tier": 1,
+    "synonyms": [
+      "panel"
+    ],
+    "distractors": [
+      "dashboard",
+      "cashboard",
+      "whiteboard"
+    ]
+  },
+  {
+    "id": "toeic-p3-report",
+    "part": 3,
+    "word": "report",
+    "pos": "noun",
+    "meaning_ko": "보고서",
+    "ipa": "/rɪˈpɔːrt/",
+    "pron_ko": "리포트",
+    "example_en": "Submit the report.",
+    "example_ko": "보고서를 제출하세요.",
+    "topic": [
+      "office"
+    ],
+    "frequency_tier": 1,
+    "synonyms": [
+      "document"
+    ],
+    "distractors": [
+      "report",
+      "reports",
+      "resort"
+    ]
+  },
+  {
+    "id": "toeic-p3-document",
+    "part": 3,
+    "word": "document",
+    "pos": "noun",
+    "meaning_ko": "문서",
+    "ipa": "/ˈdɒkjəmənt/",
+    "pron_ko": "도큐먼트",
+    "example_en": "Share the document.",
+    "example_ko": "문서를 공유하세요.",
+    "topic": [
+      "office"
+    ],
+    "frequency_tier": 1,
+    "synonyms": [
+      "file"
+    ],
+    "distractors": [
+      "document",
+      "documentary",
+      "monument"
+    ]
+  },
+  {
+    "id": "toeic-p3-file",
+    "part": 3,
+    "word": "file",
+    "pos": "noun",
+    "meaning_ko": "파일",
+    "ipa": "/faɪl/",
+    "pron_ko": "파일",
+    "example_en": "Save the file.",
+    "example_ko": "파일을 저장하세요.",
+    "topic": [
+      "office"
+    ],
+    "frequency_tier": 1,
+    "synonyms": [
+      "document"
+    ],
+    "distractors": [
+      "file",
+      "fail",
+      "fill"
+    ]
+  },
+  {
+    "id": "toeic-p3-folder",
+    "part": 3,
+    "word": "folder",
+    "pos": "noun",
+    "meaning_ko": "폴더",
+    "ipa": "/ˈfoʊldər/",
+    "pron_ko": "폴더",
+    "example_en": "Create a new folder.",
+    "example_ko": "새 폴더를 만드세요.",
+    "topic": [
+      "office"
+    ],
+    "frequency_tier": 1,
+    "synonyms": [
+      "directory"
+    ],
+    "distractors": [
+      "folder",
+      "folders",
+      "founder"
+    ]
+  },
+  {
+    "id": "toeic-p3-attachment",
+    "part": 3,
+    "word": "attachment",
+    "pos": "noun",
+    "meaning_ko": "첨부 파일",
+    "ipa": "/əˈtætʃmənt/",
+    "pron_ko": "어태치먼트",
+    "example_en": "Open the attachment.",
+    "example_ko": "첨부 파일을 여세요.",
+    "topic": [
+      "office"
+    ],
+    "frequency_tier": 1,
+    "synonyms": [
+      "file"
+    ],
+    "distractors": [
+      "attachment",
+      "attached",
+      "attendance"
+    ]
+  },
+  {
+    "id": "toeic-p3-draft-2",
+    "part": 3,
+    "word": "draft",
+    "pos": "noun",
+    "meaning_ko": "초안",
+    "ipa": "/dræft/",
+    "pron_ko": "드래프트",
+    "example_en": "Send the draft.",
+    "example_ko": "초안을 보내세요.",
+    "topic": [
+      "office"
+    ],
+    "frequency_tier": 1,
+    "synonyms": [
+      "version"
+    ],
+    "distractors": [
+      "draft",
+      "graft",
+      "drift"
+    ]
+  },
+  {
+    "id": "toeic-p3-revision",
+    "part": 3,
+    "word": "revision",
+    "pos": "noun",
+    "meaning_ko": "수정",
+    "ipa": "/rɪˈvɪʒən/",
+    "pron_ko": "리비전",
+    "example_en": "Make another revision.",
+    "example_ko": "한 번 더 수정하세요.",
+    "topic": [
+      "office"
+    ],
+    "frequency_tier": 1,
+    "synonyms": [
+      "edit"
+    ],
+    "distractors": [
+      "revision",
+      "revising",
+      "review"
+    ]
+  },
+  {
+    "id": "toeic-p3-edit",
+    "part": 3,
+    "word": "edit",
+    "pos": "verb",
+    "meaning_ko": "편집하다",
+    "ipa": "/ˈedɪt/",
+    "pron_ko": "에디트",
+    "example_en": "Edit the document.",
+    "example_ko": "문서를 편집하세요.",
+    "topic": [
+      "office"
+    ],
+    "frequency_tier": 1,
+    "synonyms": [
+      "revise"
+    ],
+    "distractors": [
+      "edit",
+      "edited",
+      "editor"
+    ]
+  },
+  {
+    "id": "toeic-p3-proofread",
+    "part": 3,
+    "word": "proofread",
+    "pos": "verb",
+    "meaning_ko": "교정하다",
+    "ipa": "/ˈpruːfriːd/",
+    "pron_ko": "프루프리드",
+    "example_en": "Proofread before sending.",
+    "example_ko": "보내기 전에 교정하세요.",
+    "topic": [
+      "office"
+    ],
+    "frequency_tier": 1,
+    "synonyms": [
+      "check"
+    ],
+    "distractors": [
+      "proofread",
+      "proof read",
+      "reread"
+    ]
+  },
+  {
+    "id": "toeic-p3-approve-2",
+    "part": 3,
+    "word": "approve",
+    "pos": "verb",
+    "meaning_ko": "승인하다",
+    "ipa": "/əˈpruːv/",
+    "pron_ko": "어프루브",
+    "example_en": "Approve the request.",
+    "example_ko": "요청을 승인하세요.",
+    "topic": [
+      "office"
+    ],
+    "frequency_tier": 1,
+    "synonyms": [
+      "sign off"
+    ],
+    "distractors": [
+      "approve",
+      "approval",
+      "prove"
+    ]
+  },
+  {
+    "id": "toeic-p3-sign-off",
+    "part": 3,
+    "word": "sign off",
+    "pos": "verb",
+    "meaning_ko": "승인하다",
+    "ipa": "/saɪn ɒf/",
+    "pron_ko": "사인 오프",
+    "example_en": "Sign off on the contract.",
+    "example_ko": "계약에 승인하세요.",
+    "topic": [
+      "office"
+    ],
+    "frequency_tier": 1,
+    "synonyms": [
+      "approve"
+    ],
+    "distractors": [
+      "signoff",
+      "sign on",
+      "sign off"
+    ]
+  },
+  {
+    "id": "toeic-p3-authorize",
+    "part": 3,
+    "word": "authorize",
+    "pos": "verb",
+    "meaning_ko": "인가하다",
+    "ipa": "/ˈɔːθəraɪz/",
+    "pron_ko": "오써라이즈",
+    "example_en": "Authorize the payment.",
+    "example_ko": "지불을 인가하세요.",
+    "topic": [
+      "office"
+    ],
+    "frequency_tier": 1,
+    "synonyms": [
+      "approve"
+    ],
+    "distractors": [
+      "authorize",
+      "authorise",
+      "authority"
+    ]
+  },
+  {
+    "id": "toeic-p3-authority",
+    "part": 3,
+    "word": "authority",
+    "pos": "noun",
+    "meaning_ko": "권한",
+    "ipa": "/əˈθɒrəti/",
+    "pron_ko": "오써리티",
+    "example_en": "Get the proper authority.",
+    "example_ko": "적절한 권한을 받으세요.",
+    "topic": [
+      "office"
+    ],
+    "frequency_tier": 1,
+    "synonyms": [
+      "power"
+    ],
+    "distractors": [
+      "authority",
+      "author",
+      "authorize"
+    ]
+  },
+  {
+    "id": "toeic-p3-responsibility",
+    "part": 3,
+    "word": "responsibility",
+    "pos": "noun",
+    "meaning_ko": "책임",
+    "ipa": "/rɪˌspɒnsəˈbɪləti/",
+    "pron_ko": "리스폰서빌리티",
+    "example_en": "Take responsibility.",
+    "example_ko": "책임을 지세요.",
+    "topic": [
+      "office"
+    ],
+    "frequency_tier": 1,
+    "synonyms": [
+      "duty"
+    ],
+    "distractors": [
+      "responsibility",
+      "responsible",
+      "response"
+    ]
+  },
+  {
+    "id": "toeic-p3-role",
+    "part": 3,
+    "word": "role",
+    "pos": "noun",
+    "meaning_ko": "역할",
+    "ipa": "/roʊl/",
+    "pron_ko": "롤",
+    "example_en": "Define each person's role.",
+    "example_ko": "각자의 역할을 정의하세요.",
+    "topic": [
+      "office"
+    ],
+    "frequency_tier": 1,
+    "synonyms": [
+      "position"
+    ],
+    "distractors": [
+      "role",
+      "roll",
+      "rule"
+    ]
+  },
+  {
+    "id": "toeic-p3-position",
+    "part": 3,
+    "word": "position",
+    "pos": "noun",
+    "meaning_ko": "직위",
+    "ipa": "/pəˈzɪʃən/",
+    "pron_ko": "포지션",
+    "example_en": "Apply for the open position.",
+    "example_ko": "공석에 지원하세요.",
+    "topic": [
+      "office"
+    ],
+    "frequency_tier": 1,
+    "synonyms": [
+      "role"
+    ],
+    "distractors": [
+      "position",
+      "positions",
+      "disposition"
+    ]
+  },
+  {
+    "id": "toeic-p3-title",
+    "part": 3,
+    "word": "title",
+    "pos": "noun",
+    "meaning_ko": "직책",
+    "ipa": "/ˈtaɪtəl/",
+    "pron_ko": "타이틀",
+    "example_en": "Check her job title.",
+    "example_ko": "그녀의 직책을 확인하세요.",
+    "topic": [
+      "office"
+    ],
+    "frequency_tier": 1,
+    "synonyms": [
+      "position"
+    ],
+    "distractors": [
+      "title",
+      "titled",
+      "titler"
+    ]
+  },
+  {
+    "id": "toeic-p3-hierarchy",
+    "part": 3,
+    "word": "hierarchy",
+    "pos": "noun",
+    "meaning_ko": "계층",
+    "ipa": "/ˈhaɪərɑːrki/",
+    "pron_ko": "하이어라키",
+    "example_en": "Understand the hierarchy.",
+    "example_ko": "계층 구조를 이해하세요.",
+    "topic": [
+      "office"
+    ],
+    "frequency_tier": 2,
+    "synonyms": [
+      "structure"
+    ],
+    "distractors": [
+      "hierarchy",
+      "hierarchies",
+      "hierarchal"
+    ]
+  },
+  {
+    "id": "toeic-p3-structure",
+    "part": 3,
+    "word": "structure",
+    "pos": "noun",
+    "meaning_ko": "구조",
+    "ipa": "/ˈstrʌktʃər/",
+    "pron_ko": "스트럭처",
+    "example_en": "Review the org structure.",
+    "example_ko": "조직 구조를 검토하세요.",
+    "topic": [
+      "office"
+    ],
+    "frequency_tier": 1,
+    "synonyms": [
+      "hierarchy"
+    ],
+    "distractors": [
+      "structure",
+      "structures",
+      "striker"
+    ]
+  },
+  {
+    "id": "toeic-p3-org-chart",
+    "part": 3,
+    "word": "org chart",
+    "pos": "noun",
+    "meaning_ko": "조직도",
+    "ipa": "/ɔːrɡ tʃɑːrt/",
+    "pron_ko": "오그 차트",
+    "example_en": "Update the org chart.",
+    "example_ko": "조직도를 업데이트하세요.",
+    "topic": [
+      "office"
+    ],
+    "frequency_tier": 1,
+    "synonyms": [
+      "chart"
+    ],
+    "distractors": [
+      "orgchart",
+      "org",
+      "organize"
+    ]
+  },
+  {
+    "id": "toeic-p3-hr",
+    "part": 3,
+    "word": "HR",
+    "pos": "abbr",
+    "meaning_ko": "인사부",
+    "ipa": "/eɪtʃ ɑːr/",
+    "pron_ko": "에이치알",
+    "example_en": "Contact HR for benefits.",
+    "example_ko": "복리후생 관련은 인사부에 연락하세요.",
+    "topic": [
+      "office"
+    ],
+    "frequency_tier": 1,
+    "synonyms": [
+      "human resources"
+    ],
+    "distractors": [
+      "HR",
+      "HQ",
+      "H&R"
+    ]
+  },
+  {
+    "id": "toeic-p3-it",
+    "part": 3,
+    "word": "IT",
+    "pos": "abbr",
+    "meaning_ko": "IT 부서",
+    "ipa": "/aɪ tiː/",
+    "pron_ko": "아이티",
+    "example_en": "IT will help with setup.",
+    "example_ko": "IT 부서가 설치를 도와줄 겁니다.",
+    "topic": [
+      "office"
+    ],
+    "frequency_tier": 1,
+    "synonyms": [
+      "tech"
+    ],
+    "distractors": [
+      "IT",
+      "TI",
+      "IO"
+    ]
+  },
+  {
+    "id": "toeic-p3-finance",
+    "part": 3,
+    "word": "finance",
+    "pos": "noun",
+    "meaning_ko": "재무",
+    "ipa": "/ˈfaɪnæns/",
+    "pron_ko": "파이낸스",
+    "example_en": "Finance approved the deal.",
+    "example_ko": "재무부가 거래를 승인했습니다.",
+    "topic": [
+      "office"
+    ],
+    "frequency_tier": 1,
+    "synonyms": [
+      "accounting"
+    ],
+    "distractors": [
+      "finance",
+      "finances",
+      "financial"
+    ]
+  },
+  {
+    "id": "toeic-p3-accounting",
+    "part": 3,
+    "word": "accounting",
+    "pos": "noun",
+    "meaning_ko": "회계",
+    "ipa": "/əˈkaʊntɪŋ/",
+    "pron_ko": "어카운팅",
+    "example_en": "Send to accounting.",
+    "example_ko": "회계부로 보내세요.",
+    "topic": [
+      "office"
+    ],
+    "frequency_tier": 1,
+    "synonyms": [
+      "finance"
+    ],
+    "distractors": [
+      "accounting",
+      "accountant",
+      "counting"
+    ]
+  },
+  {
+    "id": "toeic-p3-legal",
+    "part": 3,
+    "word": "legal",
+    "pos": "noun",
+    "meaning_ko": "법무",
+    "ipa": "/ˈliːɡəl/",
+    "pron_ko": "리걸",
+    "example_en": "Legal is reviewing the contract.",
+    "example_ko": "법무팀이 계약을 검토 중입니다.",
+    "topic": [
+      "office"
+    ],
+    "frequency_tier": 1,
+    "synonyms": [
+      "law"
+    ],
+    "distractors": [
+      "legal",
+      "legate",
+      "reagle"
+    ]
+  },
+  {
+    "id": "toeic-p3-operations",
+    "part": 3,
+    "word": "operations",
+    "pos": "noun",
+    "meaning_ko": "운영",
+    "ipa": "/ˌɒpəˈreɪʃənz/",
+    "pron_ko": "오퍼레이션즈",
+    "example_en": "Operations runs the warehouse.",
+    "example_ko": "운영팀이 창고를 운영합니다.",
+    "topic": [
+      "office"
+    ],
+    "frequency_tier": 1,
+    "synonyms": [
+      "ops"
+    ],
+    "distractors": [
+      "operations",
+      "operation",
+      "cooperation"
+    ]
+  },
+  {
+    "id": "toeic-p3-logistics",
+    "part": 3,
+    "word": "logistics",
+    "pos": "noun",
+    "meaning_ko": "물류",
+    "ipa": "/ləˈdʒɪstɪks/",
+    "pron_ko": "로지스틱스",
+    "example_en": "Logistics handles shipping.",
+    "example_ko": "물류팀이 배송을 처리합니다.",
+    "topic": [
+      "office"
+    ],
+    "frequency_tier": 1,
+    "synonyms": [
+      "shipping"
+    ],
+    "distractors": [
+      "logistics",
+      "logistic",
+      "linguistic"
+    ]
+  },
+  {
+    "id": "toeic-p3-procurement",
+    "part": 3,
+    "word": "procurement",
+    "pos": "noun",
+    "meaning_ko": "조달",
+    "ipa": "/prəˈkjʊrmənt/",
+    "pron_ko": "프로큐어먼트",
+    "example_en": "Procurement orders supplies.",
+    "example_ko": "조달팀이 물품을 주문합니다.",
+    "topic": [
+      "office"
+    ],
+    "frequency_tier": 1,
+    "synonyms": [
+      "sourcing"
+    ],
+    "distractors": [
+      "procurement",
+      "procure",
+      "procurer"
+    ]
+  },
+  {
+    "id": "toeic-p3-sourcing",
+    "part": 3,
+    "word": "sourcing",
+    "pos": "noun",
+    "meaning_ko": "소싱",
+    "ipa": "/ˈsɔːrsɪŋ/",
+    "pron_ko": "소싱",
+    "example_en": "Sourcing finds new vendors.",
+    "example_ko": "소싱팀이 새 공급업체를 찾습니다.",
+    "topic": [
+      "office"
+    ],
+    "frequency_tier": 1,
+    "synonyms": [
+      "procurement"
+    ],
+    "distractors": [
+      "sourcing",
+      "source",
+      "forcing"
+    ]
+  },
+  {
+    "id": "toeic-p3-inventory",
+    "part": 3,
+    "word": "inventory",
+    "pos": "noun",
+    "meaning_ko": "재고",
+    "ipa": "/ˈɪnvəntɔːri/",
+    "pron_ko": "인벤토리",
+    "example_en": "Count the inventory.",
+    "example_ko": "재고를 세어 보세요.",
+    "topic": [
+      "office"
+    ],
+    "frequency_tier": 1,
+    "synonyms": [
+      "stock"
+    ],
+    "distractors": [
+      "inventory",
+      "invention",
+      "inventories"
+    ]
+  },
+  {
+    "id": "toeic-p3-stock",
+    "part": 3,
+    "word": "stock",
+    "pos": "noun",
+    "meaning_ko": "재고",
+    "ipa": "/stɒk/",
+    "pron_ko": "스톡",
+    "example_en": "Restock the shelves.",
+    "example_ko": "선반을 다시 채우세요.",
+    "topic": [
+      "office"
+    ],
+    "frequency_tier": 1,
+    "synonyms": [
+      "inventory"
+    ],
+    "distractors": [
+      "stock",
+      "stack",
+      "stuck"
+    ]
+  },
+  {
+    "id": "toeic-p3-supply",
+    "part": 3,
+    "word": "supply",
+    "pos": "noun",
+    "meaning_ko": "공급",
+    "ipa": "/səˈplaɪ/",
+    "pron_ko": "서플라이",
+    "example_en": "Order more office supply.",
+    "example_ko": "사무용품을 더 주문하세요.",
+    "topic": [
+      "office"
+    ],
+    "frequency_tier": 1,
+    "synonyms": [
+      "materials"
+    ],
+    "distractors": [
+      "supply",
+      "supplies",
+      "supplier"
+    ]
+  },
+  {
+    "id": "toeic-p3-demand",
+    "part": 3,
+    "word": "demand",
+    "pos": "noun",
+    "meaning_ko": "수요",
+    "ipa": "/dɪˈmænd/",
+    "pron_ko": "디맨드",
+    "example_en": "Demand is high.",
+    "example_ko": "수요가 높습니다.",
+    "topic": [
+      "office"
+    ],
+    "frequency_tier": 1,
+    "synonyms": [
+      "need"
+    ],
+    "distractors": [
+      "demand",
+      "demands",
+      "demanded"
+    ]
+  },
+  {
+    "id": "toeic-p3-delivery",
+    "part": 3,
+    "word": "delivery",
+    "pos": "noun",
+    "meaning_ko": "배송",
+    "ipa": "/dɪˈlɪvəri/",
+    "pron_ko": "딜리버리",
+    "example_en": "Schedule the delivery.",
+    "example_ko": "배송 일정을 잡으세요.",
+    "topic": [
+      "office",
+      "client"
+    ],
+    "frequency_tier": 1,
+    "synonyms": [
+      "shipment"
+    ],
+    "distractors": [
+      "delivery",
+      "deliveries",
+      "delivered"
+    ]
+  },
+  {
+    "id": "toeic-p3-shipment",
+    "part": 3,
+    "word": "shipment",
+    "pos": "noun",
+    "meaning_ko": "선적",
+    "ipa": "/ˈʃɪpmənt/",
+    "pron_ko": "쉽먼트",
+    "example_en": "Track the shipment.",
+    "example_ko": "선적을 추적하세요.",
+    "topic": [
+      "office",
+      "client"
+    ],
+    "frequency_tier": 1,
+    "synonyms": [
+      "delivery"
+    ],
+    "distractors": [
+      "shipment",
+      "shipments",
+      "shipping"
+    ]
+  },
+  {
+    "id": "toeic-p3-track-2",
+    "part": 3,
+    "word": "track",
+    "pos": "verb",
+    "meaning_ko": "추적하다",
+    "ipa": "/træk/",
+    "pron_ko": "트랙",
+    "example_en": "Track the package.",
+    "example_ko": "소포를 추적하세요.",
+    "topic": [
+      "office"
+    ],
+    "frequency_tier": 1,
+    "synonyms": [
+      "trace"
+    ],
+    "distractors": [
+      "track",
+      "trick",
+      "truck"
+    ]
+  },
+  {
+    "id": "toeic-p3-ship",
+    "part": 3,
+    "word": "ship",
+    "pos": "verb",
+    "meaning_ko": "발송하다",
+    "ipa": "/ʃɪp/",
+    "pron_ko": "쉽",
+    "example_en": "We ship within 24 hours.",
+    "example_ko": "우리는 24시간 내에 발송합니다.",
+    "topic": [
+      "office"
+    ],
+    "frequency_tier": 1,
+    "synonyms": [
+      "send"
+    ],
+    "distractors": [
+      "ship",
+      "sheep",
+      "shop"
+    ]
+  },
+  {
+    "id": "toeic-p3-dispatch",
+    "part": 3,
+    "word": "dispatch",
+    "pos": "verb",
+    "meaning_ko": "발송하다",
+    "ipa": "/dɪˈspætʃ/",
+    "pron_ko": "디스패치",
+    "example_en": "Dispatch the order today.",
+    "example_ko": "오늘 주문을 발송하세요.",
+    "topic": [
+      "office"
+    ],
+    "frequency_tier": 2,
+    "synonyms": [
+      "send"
+    ],
+    "distractors": [
+      "dispatch",
+      "dispatcher",
+      "despatch"
+    ]
+  },
+  {
+    "id": "toeic-p3-courier",
+    "part": 3,
+    "word": "courier",
+    "pos": "noun",
+    "meaning_ko": "택배",
+    "ipa": "/ˈkʊriər/",
+    "pron_ko": "쿠리어",
+    "example_en": "The courier just arrived.",
+    "example_ko": "택배가 방금 도착했습니다.",
+    "topic": [
+      "office"
+    ],
+    "frequency_tier": 1,
+    "synonyms": [
+      "messenger"
+    ],
+    "distractors": [
+      "courier",
+      "career",
+      "carrier"
+    ]
+  },
+  {
+    "id": "toeic-p3-freight",
+    "part": 3,
+    "word": "freight",
+    "pos": "noun",
+    "meaning_ko": "화물",
+    "ipa": "/freɪt/",
+    "pron_ko": "프레이트",
+    "example_en": "Calculate freight charges.",
+    "example_ko": "화물 비용을 계산하세요.",
+    "topic": [
+      "office"
+    ],
+    "frequency_tier": 1,
+    "synonyms": [
+      "cargo"
+    ],
+    "distractors": [
+      "freight",
+      "fright",
+      "freight"
+    ]
+  },
+  {
+    "id": "toeic-p3-warehouse",
+    "part": 3,
+    "word": "warehouse",
+    "pos": "noun",
+    "meaning_ko": "창고",
+    "ipa": "/ˈwerhaʊs/",
+    "pron_ko": "웨어하우스",
+    "example_en": "The warehouse is full.",
+    "example_ko": "창고가 가득 찼습니다.",
+    "topic": [
+      "office"
+    ],
+    "frequency_tier": 1,
+    "synonyms": [
+      "depot"
+    ],
+    "distractors": [
+      "warehouse",
+      "workhouse",
+      "warhorse"
+    ]
+  },
+  {
+    "id": "toeic-p3-inventory-check",
+    "part": 3,
+    "word": "inventory check",
+    "pos": "noun",
+    "meaning_ko": "재고 확인",
+    "ipa": "/ˈɪnvəntɔːri tʃek/",
+    "pron_ko": "인벤토리 첵",
+    "example_en": "Run an inventory check.",
+    "example_ko": "재고 확인을 실시하세요.",
+    "topic": [
+      "office"
+    ],
+    "frequency_tier": 1,
+    "synonyms": [
+      "stocktake"
+    ],
+    "distractors": [
+      "inventory",
+      "inventories",
+      "check"
+    ]
+  },
+  {
+    "id": "toeic-p3-audit",
+    "part": 3,
+    "word": "audit",
+    "pos": "noun",
+    "meaning_ko": "감사",
+    "ipa": "/ˈɔːdɪt/",
+    "pron_ko": "오딧",
+    "example_en": "Annual audit starts soon.",
+    "example_ko": "연례 감사가 곧 시작됩니다.",
+    "topic": [
+      "office"
+    ],
+    "frequency_tier": 1,
+    "synonyms": [
+      "review"
+    ],
+    "distractors": [
+      "audit",
+      "audits",
+      "edit"
+    ]
+  },
+  {
+    "id": "toeic-p3-compliance",
+    "part": 3,
+    "word": "compliance",
+    "pos": "noun",
+    "meaning_ko": "준수",
+    "ipa": "/kəmˈplaɪəns/",
+    "pron_ko": "컴플라이언스",
+    "example_en": "Ensure compliance.",
+    "example_ko": "준수를 보장하세요.",
+    "topic": [
+      "office"
+    ],
+    "frequency_tier": 1,
+    "synonyms": [
+      "adherence"
+    ],
+    "distractors": [
+      "compliance",
+      "complaint",
+      "compliant"
+    ]
+  },
+  {
+    "id": "toeic-p3-policy",
+    "part": 3,
+    "word": "policy",
+    "pos": "noun",
+    "meaning_ko": "정책",
+    "ipa": "/ˈpɒləsi/",
+    "pron_ko": "폴리시",
+    "example_en": "Follow company policy.",
+    "example_ko": "회사 정책을 따르세요.",
+    "topic": [
+      "office"
+    ],
+    "frequency_tier": 1,
+    "synonyms": [
+      "rule"
+    ],
+    "distractors": [
+      "policy",
+      "policies",
+      "police"
+    ]
+  },
+  {
+    "id": "toeic-p3-promotional",
+    "part": 3,
+    "word": "promotional",
+    "meaning_ko": "adj. 홍보의, 판촉의",
+    "pos": "adjective",
+    "frequency_tier": 2,
+    "source": "hackers800-voca"
+  },
+  {
+    "id": "toeic-p3-organize",
+    "part": 3,
+    "word": "organize",
+    "meaning_ko": "v. 정리하다, 조직하다",
+    "pos": "verb",
+    "frequency_tier": 2,
+    "source": "hackers800-voca"
+  },
+  {
+    "id": "toeic-p3-reduced",
+    "part": 3,
+    "word": "reduced",
+    "meaning_ko": "adj. 인하된, 할인한",
+    "pos": "adjective",
+    "frequency_tier": 2,
+    "source": "hackers800-voca"
+  },
+  {
+    "id": "toeic-p3-critic",
+    "part": 3,
+    "word": "critic",
+    "meaning_ko": "n. 평론가",
+    "pos": "noun",
+    "frequency_tier": 2,
+    "source": "hackers800-voca"
+  },
+  {
+    "id": "toeic-p3-atmosphere",
+    "part": 3,
+    "word": "atmosphere",
+    "meaning_ko": "n. 분위기",
+    "pos": "noun",
+    "frequency_tier": 2,
+    "source": "hackers800-voca"
+  },
+  {
+    "id": "toeic-p3-add",
+    "part": 3,
+    "word": "add",
+    "meaning_ko": "v. 추가하다, 더하다",
+    "pos": "verb",
+    "frequency_tier": 2,
+    "source": "hackers800-voca"
+  },
+  {
+    "id": "toeic-p3-brainstorm",
+    "part": 3,
+    "word": "brainstorm",
+    "meaning_ko": "v. (아이디어를) 구성하다",
+    "pos": "verb",
+    "frequency_tier": 2,
+    "source": "hackers800-voca"
+  },
+  {
+    "id": "toeic-p3-poor",
+    "part": 3,
+    "word": "poor",
+    "meaning_ko": "adj. 형편없는",
+    "pos": "adjective",
+    "frequency_tier": 2,
+    "source": "hackers800-voca"
+  },
+  {
+    "id": "toeic-p3-uninviting",
+    "part": 3,
+    "word": "uninviting",
+    "meaning_ko": "adj. 매력 없는, 마음을 끌지 못하는",
+    "pos": "adjective",
+    "frequency_tier": 2,
+    "source": "hackers800-voca"
+  },
+  {
+    "id": "toeic-p3-prepare",
+    "part": 3,
+    "word": "prepare",
+    "meaning_ko": "v. 준비하다",
+    "pos": "verb",
+    "frequency_tier": 2,
+    "source": "hackers800-voca"
+  },
+  {
+    "id": "toeic-p3-volunteer",
+    "part": 3,
+    "word": "volunteer",
+    "meaning_ko": "n. 자원봉사자; v. 자원봉사하다",
+    "pos": "noun",
+    "frequency_tier": 2,
+    "source": "hackers800-voca"
+  },
+  {
+    "id": "toeic-p3-application-form",
+    "part": 3,
+    "word": "application form",
+    "meaning_ko": "지원서, 신청서",
+    "frequency_tier": 2,
+    "source": "hackers800-voca"
+  },
+  {
+    "id": "toeic-p3-apply-for",
+    "part": 3,
+    "word": "apply for",
+    "meaning_ko": "~에 지원하다",
+    "frequency_tier": 2,
+    "source": "hackers800-voca"
+  },
+  {
+    "id": "toeic-p3-fill-out",
+    "part": 3,
+    "word": "fill out",
+    "meaning_ko": "~을 작성하다",
+    "frequency_tier": 2,
+    "source": "hackers800-voca"
+  },
+  {
+    "id": "toeic-p3-go-through",
+    "part": 3,
+    "word": "go through",
+    "meaning_ko": "~을 살펴보다, 검토하다",
+    "frequency_tier": 2,
+    "source": "hackers800-voca"
+  },
+  {
+    "id": "toeic-p3-frequently",
+    "part": 3,
+    "word": "frequently",
+    "meaning_ko": "adv. 자주",
+    "pos": "adverb",
+    "frequency_tier": 2,
+    "source": "hackers800-voca"
+  },
+  {
+    "id": "toeic-p3-appear",
+    "part": 3,
+    "word": "appear",
+    "meaning_ko": "v. ~인 것 같다, 나타나다",
+    "pos": "verb",
+    "frequency_tier": 2,
+    "source": "hackers800-voca"
+  },
+  {
+    "id": "toeic-p3-accommodate",
+    "part": 3,
+    "word": "accommodate",
+    "meaning_ko": "v. 수용하다",
+    "pos": "verb",
+    "frequency_tier": 2,
+    "source": "hackers800-voca"
+  },
+  {
+    "id": "toeic-p3-apologize",
+    "part": 3,
+    "word": "apologize",
+    "meaning_ko": "v. 사과하다",
+    "pos": "verb",
+    "frequency_tier": 2,
+    "source": "hackers800-voca"
+  },
+  {
+    "id": "toeic-p3-inconvenience",
+    "part": 3,
+    "word": "inconvenience",
+    "meaning_ko": "n. 불편",
+    "pos": "noun",
+    "frequency_tier": 2,
+    "source": "hackers800-voca"
+  },
+  {
+    "id": "toeic-p3-assistance",
+    "part": 3,
+    "word": "assistance",
+    "meaning_ko": "n. 도움",
+    "pos": "noun",
+    "frequency_tier": 2,
+    "source": "hackers800-voca"
+  },
+  {
+    "id": "toeic-p3-beforehand",
+    "part": 3,
+    "word": "beforehand",
+    "meaning_ko": "adv. 사전에, 미리",
+    "pos": "adverb",
+    "frequency_tier": 2,
+    "source": "hackers800-voca"
+  },
+  {
+    "id": "toeic-p3-represent",
+    "part": 3,
+    "word": "represent",
+    "meaning_ko": "v. 대표하다",
+    "pos": "verb",
+    "frequency_tier": 2,
+    "source": "hackers800-voca"
+  },
+  {
+    "id": "toeic-p3-reasonably",
+    "part": 3,
+    "word": "reasonably",
+    "meaning_ko": "adv. 합리적으로",
+    "pos": "adverb",
+    "frequency_tier": 2,
+    "source": "hackers800-voca"
+  },
+  {
+    "id": "toeic-p3-send-out",
+    "part": 3,
+    "word": "send out",
+    "meaning_ko": "~을 발송하다",
+    "frequency_tier": 2,
+    "source": "hackers800-voca"
+  },
+  {
+    "id": "toeic-p3-exactly",
+    "part": 3,
+    "word": "exactly",
+    "meaning_ko": "adv. 정확히",
+    "pos": "adverb",
+    "frequency_tier": 2,
+    "source": "hackers800-voca"
+  },
+  {
+    "id": "toeic-p3-recipient",
+    "part": 3,
+    "word": "recipient",
+    "meaning_ko": "n. 수상자, 받는 사람",
+    "pos": "noun",
+    "frequency_tier": 2,
+    "source": "hackers800-voca"
+  },
+  {
+    "id": "toeic-p3-sturdy",
+    "part": 3,
+    "word": "sturdy",
+    "meaning_ko": "adj. 튼튼한, 견고한",
+    "pos": "adjective",
+    "frequency_tier": 2,
+    "source": "hackers800-voca"
+  },
+  {
+    "id": "toeic-p3-wear-out",
+    "part": 3,
+    "word": "wear out",
+    "meaning_ko": "닳다",
+    "frequency_tier": 2,
+    "source": "hackers800-voca"
+  },
+  {
+    "id": "toeic-p3-last",
+    "part": 3,
+    "word": "last",
+    "meaning_ko": "v. 지속되다",
+    "pos": "verb",
+    "frequency_tier": 2,
+    "source": "hackers800-voca"
+  },
+  {
+    "id": "toeic-p3-durable",
+    "part": 3,
+    "word": "durable",
+    "meaning_ko": "adj. 내구성 있는",
+    "pos": "adjective",
+    "frequency_tier": 2,
+    "source": "hackers800-voca"
+  },
+  {
+    "id": "toeic-p3-nationwide",
+    "part": 3,
+    "word": "nationwide",
+    "meaning_ko": "adv. 전국적으로",
+    "pos": "adverb",
+    "frequency_tier": 2,
+    "source": "hackers800-voca"
+  },
+  {
+    "id": "toeic-p3-exposition",
+    "part": 3,
+    "word": "exposition",
+    "meaning_ko": "n. 박람회",
+    "pos": "noun",
+    "frequency_tier": 2,
+    "source": "hackers800-voca"
+  },
+  {
+    "id": "toeic-p3-describe",
+    "part": 3,
+    "word": "describe",
+    "meaning_ko": "v. 설명하다, 묘사하다",
+    "pos": "verb",
+    "frequency_tier": 2,
+    "source": "hackers800-voca"
+  },
+  {
+    "id": "toeic-p3-departure",
+    "part": 3,
+    "word": "departure",
+    "meaning_ko": "n. 출발",
+    "pos": "noun",
+    "frequency_tier": 2,
+    "source": "hackers800-voca"
+  },
+  {
+    "id": "toeic-p3-tuition-fee",
+    "part": 3,
+    "word": "tuition fee",
+    "meaning_ko": "수업료",
+    "frequency_tier": 2,
+    "source": "hackers800-voca"
+  },
+  {
+    "id": "toeic-p3-paperwork",
+    "part": 3,
+    "word": "paperwork",
+    "meaning_ko": "n. 서류 작업",
+    "pos": "noun",
+    "frequency_tier": 2,
+    "source": "hackers800-voca"
+  },
+  {
+    "id": "toeic-p3-charity-event",
+    "part": 3,
+    "word": "charity event",
+    "meaning_ko": "자선 행사",
+    "frequency_tier": 2,
+    "source": "hackers800-voca"
+  },
+  {
+    "id": "toeic-p3-opportunity",
+    "part": 3,
+    "word": "opportunity",
+    "meaning_ko": "n. 기회",
+    "pos": "noun",
+    "frequency_tier": 2,
+    "source": "hackers800-voca"
+  },
+  {
+    "id": "toeic-p3-keynote-speaker",
+    "part": 3,
+    "word": "keynote speaker",
+    "meaning_ko": "기조연설자",
+    "frequency_tier": 2,
+    "source": "hackers800-voca"
+  },
+  {
+    "id": "toeic-p3-underprivileged",
+    "part": 3,
+    "word": "underprivileged",
+    "meaning_ko": "adj. 저소득층의",
+    "pos": "adjective",
+    "frequency_tier": 2,
+    "source": "hackers800-voca"
+  },
+  {
+    "id": "toeic-p3-production",
+    "part": 3,
+    "word": "production",
+    "meaning_ko": "n. 제조",
+    "pos": "noun",
+    "frequency_tier": 2,
+    "source": "hackers800-voca"
+  },
+  {
+    "id": "toeic-p3-outline",
+    "part": 3,
+    "word": "outline",
+    "meaning_ko": "v. 개요를 서술하다, 나타내다",
+    "pos": "verb",
+    "frequency_tier": 2,
+    "source": "hackers800-voca"
+  },
+  {
+    "id": "toeic-p3-institution",
+    "part": 3,
+    "word": "institution",
+    "meaning_ko": "n. 기관",
+    "pos": "noun",
+    "frequency_tier": 2,
+    "source": "hackers800-voca"
+  },
+  {
+    "id": "toeic-p3-informational",
+    "part": 3,
+    "word": "informational",
+    "meaning_ko": "adj. 정보의",
+    "pos": "adjective",
+    "frequency_tier": 2,
+    "source": "hackers800-voca"
+  },
+  {
+    "id": "toeic-p3-presenter",
+    "part": 3,
+    "word": "presenter",
+    "meaning_ko": "n. 발표자",
+    "pos": "noun",
+    "frequency_tier": 2,
+    "source": "hackers800-voca"
+  },
+  {
+    "id": "toeic-p3-make-up-for",
+    "part": 3,
+    "word": "make up for",
+    "meaning_ko": "~에 대해 보상하다",
+    "frequency_tier": 2,
+    "source": "hackers800-voca"
+  },
+  {
+    "id": "toeic-p3-in-use",
+    "part": 3,
+    "word": "in use",
+    "meaning_ko": "사용 중인",
+    "frequency_tier": 2,
+    "source": "hackers800-voca"
+  },
+  {
+    "id": "toeic-p3-machinery",
+    "part": 3,
+    "word": "machinery",
+    "meaning_ko": "n. 기계",
+    "pos": "noun",
+    "frequency_tier": 2,
+    "source": "hackers800-voca"
+  },
+  {
+    "id": "toeic-p3-close-to",
+    "part": 3,
+    "word": "close to",
+    "meaning_ko": "~에 가까운",
+    "frequency_tier": 2,
+    "source": "hackers800-voca"
+  },
+  {
+    "id": "toeic-p3-related-to",
+    "part": 3,
+    "word": "related to",
+    "meaning_ko": "~과 관련된",
+    "frequency_tier": 2,
+    "source": "hackers800-voca"
+  },
+  {
+    "id": "toeic-p3-regarding",
+    "part": 3,
+    "word": "regarding",
+    "meaning_ko": "prep. ~에 관하여",
+    "pos": "preposition",
+    "frequency_tier": 2,
+    "source": "hackers800-voca"
+  },
+  {
+    "id": "toeic-p3-representative",
+    "part": 3,
+    "word": "representative",
+    "meaning_ko": "n. 직원, 대표자",
+    "pos": "noun",
+    "frequency_tier": 2,
+    "source": "hackers800-voca"
+  },
+  {
+    "id": "toeic-p3-be-involved-in",
+    "part": 3,
+    "word": "be involved in",
+    "meaning_ko": "~에 참여하다",
+    "frequency_tier": 2,
+    "source": "hackers800-voca"
+  },
+  {
+    "id": "toeic-p3-field-trip",
+    "part": 3,
+    "word": "field trip",
+    "meaning_ko": "현장 학습",
+    "frequency_tier": 2,
+    "source": "hackers800-voca"
+  },
+  {
+    "id": "toeic-p3-general",
+    "part": 3,
+    "word": "general",
+    "meaning_ko": "adj. 일반의",
+    "pos": "adjective",
+    "frequency_tier": 2,
+    "source": "hackers800-voca"
+  },
+  {
+    "id": "toeic-p3-off-limits",
+    "part": 3,
+    "word": "off-limits",
+    "meaning_ko": "adj. 출입금지의",
+    "pos": "adjective",
+    "frequency_tier": 2,
+    "source": "hackers800-voca"
+  },
+  {
+    "id": "toeic-p3-textbook",
+    "part": 3,
+    "word": "textbook",
+    "meaning_ko": "n. 교과서",
+    "pos": "noun",
+    "frequency_tier": 2,
+    "source": "hackers800-voca"
+  },
+  {
+    "id": "toeic-p3-determine",
+    "part": 3,
+    "word": "determine",
+    "meaning_ko": "v. 알아내다",
+    "pos": "verb",
+    "frequency_tier": 2,
+    "source": "hackers800-voca"
+  },
+  {
+    "id": "toeic-p3-cater",
+    "part": 3,
+    "word": "cater",
+    "meaning_ko": "v. 음식을 제공하다",
+    "pos": "verb",
+    "frequency_tier": 2,
+    "source": "hackers800-voca"
+  },
+  {
+    "id": "toeic-p3-state",
+    "part": 3,
+    "word": "state",
+    "meaning_ko": "v. 명시하다",
+    "pos": "verb",
+    "frequency_tier": 2,
+    "source": "hackers800-voca"
+  },
+  {
+    "id": "toeic-p3-rather-than",
+    "part": 3,
+    "word": "rather than",
+    "meaning_ko": "~ 대신에",
+    "frequency_tier": 2,
+    "source": "hackers800-voca"
+  },
+  {
+    "id": "toeic-p3-lifeguard",
+    "part": 3,
+    "word": "lifeguard",
+    "meaning_ko": "n. 인명 구조원",
+    "pos": "noun",
+    "frequency_tier": 2,
+    "source": "hackers800-voca"
+  },
+  {
+    "id": "toeic-p3-call-in-sick",
+    "part": 3,
+    "word": "call in sick",
+    "meaning_ko": "병가를 내다",
+    "frequency_tier": 2,
+    "source": "hackers800-voca"
+  },
+  {
+    "id": "toeic-p3-be-willing-to",
+    "part": 3,
+    "word": "be willing to",
+    "meaning_ko": "~할 의향이 있다",
+    "frequency_tier": 2,
+    "source": "hackers800-voca"
+  },
+  {
+    "id": "toeic-p3-encourage",
+    "part": 3,
+    "word": "encourage",
+    "meaning_ko": "v. 권장하다",
+    "pos": "verb",
+    "frequency_tier": 2,
+    "source": "hackers800-voca"
+  },
+  {
+    "id": "toeic-p3-shut-down",
+    "part": 3,
+    "word": "shut down",
+    "meaning_ko": "꺼지다",
+    "frequency_tier": 2,
+    "source": "hackers800-voca"
+  },
+  {
+    "id": "toeic-p3-decorate",
+    "part": 3,
+    "word": "decorate",
+    "meaning_ko": "v. 장식하다",
+    "pos": "verb",
+    "frequency_tier": 2,
+    "source": "hackers800-voca"
+  },
+  {
+    "id": "toeic-p3-patio",
+    "part": 3,
+    "word": "patio",
+    "meaning_ko": "n. 파티오, 테라스",
+    "pos": "noun",
+    "frequency_tier": 2,
+    "source": "hackers800-voca"
+  },
+  {
+    "id": "toeic-p3-variety",
+    "part": 3,
+    "word": "variety",
+    "meaning_ko": "n. 품종, 다양성",
+    "pos": "noun",
+    "frequency_tier": 2,
+    "source": "hackers800-voca"
+  },
+  {
+    "id": "toeic-p3-cheerful",
+    "part": 3,
+    "word": "cheerful",
+    "meaning_ko": "adj. 밝은",
+    "pos": "adjective",
+    "frequency_tier": 2,
+    "source": "hackers800-voca"
+  },
+  {
+    "id": "toeic-p3-suitable",
+    "part": 3,
+    "word": "suitable",
+    "meaning_ko": "adj. 적합한",
+    "pos": "adjective",
+    "frequency_tier": 2,
+    "source": "hackers800-voca"
+  },
+  {
+    "id": "toeic-p3-article",
+    "part": 3,
+    "word": "article",
+    "meaning_ko": "n. 기사",
+    "pos": "noun",
+    "frequency_tier": 2,
+    "source": "hackers800-voca"
+  },
+  {
+    "id": "toeic-p3-description",
+    "part": 3,
+    "word": "description",
+    "meaning_ko": "n. 묘사",
+    "pos": "noun",
+    "frequency_tier": 2,
+    "source": "hackers800-voca"
+  },
+  {
+    "id": "toeic-p3-architecture",
+    "part": 3,
+    "word": "architecture",
+    "meaning_ko": "n. 건축",
+    "pos": "noun",
+    "frequency_tier": 2,
+    "source": "hackers800-voca"
+  },
+  {
+    "id": "toeic-p3-renovate",
+    "part": 3,
+    "word": "renovate",
+    "meaning_ko": "v. 개조하다",
+    "pos": "verb",
+    "frequency_tier": 2,
+    "source": "hackers800-voca"
+  },
+  {
+    "id": "toeic-p3-remodel",
+    "part": 3,
+    "word": "remodel",
+    "meaning_ko": "v. 리모델링하다, 개조하다",
+    "pos": "verb",
+    "frequency_tier": 2,
+    "source": "hackers800-voca"
+  },
+  {
+    "id": "toeic-p3-attend",
+    "part": 3,
+    "word": "attend",
+    "meaning_ko": "v. 참석하다",
+    "pos": "verb",
+    "frequency_tier": 2,
+    "source": "hackers800-voca"
+  },
+  {
+    "id": "toeic-p3-decade",
+    "part": 3,
+    "word": "decade",
+    "meaning_ko": "n. 10년",
+    "pos": "noun",
+    "frequency_tier": 2,
+    "source": "hackers800-voca"
+  },
+  {
+    "id": "toeic-p3-evaluation",
+    "part": 3,
+    "word": "evaluation",
+    "meaning_ko": "n. 평가",
+    "pos": "noun",
+    "frequency_tier": 2,
+    "source": "hackers800-voca"
+  },
+  {
+    "id": "toeic-p3-caring",
+    "part": 3,
+    "word": "caring",
+    "meaning_ko": "adj. 배려 깊은",
+    "pos": "adjective",
+    "frequency_tier": 2,
+    "source": "hackers800-voca"
+  },
+  {
+    "id": "toeic-p3-attitude",
+    "part": 3,
+    "word": "attitude",
+    "meaning_ko": "n. 태도",
+    "pos": "noun",
+    "frequency_tier": 2,
+    "source": "hackers800-voca"
+  },
+  {
+    "id": "toeic-p3-patient",
+    "part": 3,
+    "word": "patient",
+    "meaning_ko": "n. 환자",
+    "pos": "noun",
+    "frequency_tier": 2,
+    "source": "hackers800-voca"
+  },
+  {
+    "id": "toeic-p3-train",
+    "part": 3,
+    "word": "train",
+    "meaning_ko": "v. 교육하다",
+    "pos": "verb",
+    "frequency_tier": 2,
+    "source": "hackers800-voca"
+  },
+  {
+    "id": "toeic-p3-probationary-period",
+    "part": 3,
+    "word": "probationary period",
+    "meaning_ko": "수습 기간",
+    "frequency_tier": 2,
+    "source": "hackers800-voca"
+  },
+  {
+    "id": "toeic-p3-domestically",
+    "part": 3,
+    "word": "domestically",
+    "meaning_ko": "adv. 국내에서",
+    "pos": "adverb",
+    "frequency_tier": 2,
+    "source": "hackers800-voca"
+  },
+  {
+    "id": "toeic-p3-switch-to",
+    "part": 3,
+    "word": "switch to",
+    "meaning_ko": "~으로 바꾸다, 변경하다",
+    "frequency_tier": 2,
+    "source": "hackers800-voca"
+  },
+  {
+    "id": "toeic-p3-source",
+    "part": 3,
+    "word": "source",
+    "meaning_ko": "v. 조달하다, 얻다",
+    "pos": "verb",
+    "frequency_tier": 2,
+    "source": "hackers800-voca"
+  },
+  {
+    "id": "toeic-p3-sample",
+    "part": 3,
+    "word": "sample",
+    "meaning_ko": "n. 샘플, 견본",
+    "pos": "noun",
+    "frequency_tier": 2,
+    "source": "hackers800-voca"
+  },
+  {
+    "id": "toeic-p3-dispose-of",
+    "part": 3,
+    "word": "dispose of",
+    "meaning_ko": "~을 처분하다",
+    "frequency_tier": 2,
+    "source": "hackers800-voca"
+  },
+  {
+    "id": "toeic-p3-examine",
+    "part": 3,
+    "word": "examine",
+    "meaning_ko": "v. 검토하다, 조사하다",
+    "pos": "verb",
+    "frequency_tier": 2,
+    "source": "hackers800-voca"
+  },
+  {
+    "id": "toeic-p3-underperform",
+    "part": 3,
+    "word": "underperform",
+    "meaning_ko": "v. 성과가 저조하다, 기량 발휘를 못하다",
+    "pos": "verb",
+    "frequency_tier": 2,
+    "source": "hackers800-voca"
+  },
+  {
+    "id": "toeic-p3-unexpected",
+    "part": 3,
+    "word": "unexpected",
+    "meaning_ko": "adj. 예상치 못한",
+    "pos": "adjective",
+    "frequency_tier": 2,
+    "source": "hackers800-voca"
+  },
+  {
+    "id": "toeic-p3-poorly",
+    "part": 3,
+    "word": "poorly",
+    "meaning_ko": "adv. 저조하게, 형편없이",
+    "pos": "adverb",
+    "frequency_tier": 2,
+    "source": "hackers800-voca"
+  },
+  {
+    "id": "toeic-p3-distribute",
+    "part": 3,
+    "word": "distribute",
+    "meaning_ko": "v. 배포하다, 나누어 주다",
+    "pos": "verb",
+    "frequency_tier": 2,
+    "source": "hackers800-voca"
+  },
+  {
+    "id": "toeic-p3-defective",
+    "part": 3,
+    "word": "defective",
+    "meaning_ko": "adj. 결함 있는",
+    "pos": "adjective",
+    "frequency_tier": 2,
+    "source": "hackers800-voca"
+  },
+  {
+    "id": "toeic-p3-develop",
+    "part": 3,
+    "word": "develop",
+    "meaning_ko": "v. 개발하다",
+    "pos": "verb",
+    "frequency_tier": 2,
+    "source": "hackers800-voca"
+  },
+  {
+    "id": "toeic-p3-consumer",
+    "part": 3,
+    "word": "consumer",
+    "meaning_ko": "n. 소비자",
+    "pos": "noun",
+    "frequency_tier": 2,
+    "source": "hackers800-voca"
+  },
+  {
+    "id": "toeic-p3-ideal",
+    "part": 3,
+    "word": "ideal",
+    "meaning_ko": "adj. 가장 알맞은, 이상적인",
+    "pos": "adjective",
+    "frequency_tier": 2,
+    "source": "hackers800-voca"
+  },
+  {
+    "id": "toeic-p3-suddenly",
+    "part": 3,
+    "word": "suddenly",
+    "meaning_ko": "adv. 갑자기",
+    "pos": "adverb",
+    "frequency_tier": 2,
+    "source": "hackers800-voca"
+  },
+  {
+    "id": "toeic-p3-close-down",
+    "part": 3,
+    "word": "close down",
+    "meaning_ko": "폐업하다",
+    "frequency_tier": 2,
+    "source": "hackers800-voca"
+  },
+  {
+    "id": "toeic-p3-neighborhood",
+    "part": 3,
+    "word": "neighborhood",
+    "meaning_ko": "n. 동네",
+    "pos": "noun",
+    "frequency_tier": 2,
+    "source": "hackers800-voca"
+  },
+  {
+    "id": "toeic-p3-be-pleased-with",
+    "part": 3,
+    "word": "be pleased with",
+    "meaning_ko": "~에 만족해 하다",
+    "frequency_tier": 2,
+    "source": "hackers800-voca"
+  },
+  {
+    "id": "toeic-p3-specific",
+    "part": 3,
+    "word": "specific",
+    "meaning_ko": "adj. 특정한",
+    "pos": "adjective",
+    "frequency_tier": 2,
+    "source": "hackers800-voca"
+  },
+  {
+    "id": "toeic-p3-publication",
+    "part": 3,
+    "word": "publication",
+    "meaning_ko": "n. 출판물",
+    "pos": "noun",
+    "frequency_tier": 2,
+    "source": "hackers800-voca"
+  },
+  {
+    "id": "toeic-p3-portable",
+    "part": 3,
+    "word": "portable",
+    "meaning_ko": "adj. 휴대용의",
+    "pos": "adjective",
+    "frequency_tier": 2,
+    "source": "hackers800-voca"
+  },
+  {
+    "id": "toeic-p3-lightweight",
+    "part": 3,
+    "word": "lightweight",
+    "meaning_ko": "adj. 가벼운",
+    "pos": "adjective",
+    "frequency_tier": 2,
+    "source": "hackers800-voca"
+  },
+  {
+    "id": "toeic-p3-capability",
+    "part": 3,
+    "word": "capability",
+    "meaning_ko": "n. 기능",
+    "pos": "noun",
+    "frequency_tier": 2,
+    "source": "hackers800-voca"
+  },
+  {
+    "id": "toeic-p3-expand",
+    "part": 3,
+    "word": "expand",
+    "meaning_ko": "v. 확장하다",
+    "pos": "verb",
+    "frequency_tier": 2,
+    "source": "hackers800-voca"
+  },
+  {
+    "id": "toeic-p3-step-down",
+    "part": 3,
+    "word": "step down",
+    "meaning_ko": "물러나다, 퇴직하다",
+    "frequency_tier": 2,
+    "source": "hackers800-voca"
+  },
+  {
+    "id": "toeic-p3-dedicated",
+    "part": 3,
+    "word": "dedicated",
+    "meaning_ko": "adj. 헌신적인, 전념하는",
+    "pos": "adjective",
+    "frequency_tier": 2,
+    "source": "hackers800-voca"
+  },
+  {
+    "id": "toeic-p3-aspect",
+    "part": 3,
+    "word": "aspect",
+    "meaning_ko": "n. 측면",
+    "pos": "noun",
+    "frequency_tier": 2,
+    "source": "hackers800-voca"
+  },
+  {
+    "id": "toeic-p3-matter",
+    "part": 3,
+    "word": "matter",
+    "meaning_ko": "n. 사안",
+    "pos": "noun",
+    "frequency_tier": 2,
+    "source": "hackers800-voca"
+  },
+  {
+    "id": "toeic-p3-plant",
+    "part": 3,
+    "word": "plant",
+    "meaning_ko": "n. 공장",
+    "pos": "noun",
+    "frequency_tier": 2,
+    "source": "hackers800-voca"
+  },
+  {
+    "id": "toeic-p3-temporarily",
+    "part": 3,
+    "word": "temporarily",
+    "meaning_ko": "adv. 일시적으로",
+    "pos": "adverb",
+    "frequency_tier": 2,
+    "source": "hackers800-voca"
+  },
+  {
+    "id": "toeic-p3-outdated",
+    "part": 3,
+    "word": "outdated",
+    "meaning_ko": "adj. 구식의",
+    "pos": "adjective",
+    "frequency_tier": 2,
+    "source": "hackers800-voca"
+  },
+  {
+    "id": "toeic-p3-due",
+    "part": 3,
+    "word": "due",
+    "meaning_ko": "adj. ~하기로 예정된",
+    "pos": "adjective",
+    "frequency_tier": 2,
+    "source": "hackers800-voca"
+  },
+  {
+    "id": "toeic-p3-ensure",
+    "part": 3,
+    "word": "ensure",
+    "meaning_ko": "v. 반드시 ~이게 하다",
+    "pos": "verb",
+    "frequency_tier": 2,
+    "source": "hackers800-voca"
+  },
+  {
+    "id": "toeic-p3-similar",
+    "part": 3,
+    "word": "similar",
+    "meaning_ko": "adj. 비슷한, 유사한",
+    "pos": "adjective",
+    "frequency_tier": 2,
+    "source": "hackers800-voca"
+  },
+  {
+    "id": "toeic-p3-amount",
+    "part": 3,
+    "word": "amount",
+    "meaning_ko": "n. 금액",
+    "pos": "noun",
+    "frequency_tier": 2,
+    "source": "hackers800-voca"
+  },
+  {
+    "id": "toeic-p3-overwhelmed",
+    "part": 3,
+    "word": "overwhelmed",
+    "meaning_ko": "adj. 압도된",
+    "pos": "adjective",
+    "frequency_tier": 2,
+    "source": "hackers800-voca"
+  },
+  {
+    "id": "toeic-p3-overwork",
+    "part": 3,
+    "word": "overwork",
+    "meaning_ko": "v. 과로하다",
+    "pos": "verb",
+    "frequency_tier": 2,
+    "source": "hackers800-voca"
+  },
+  {
+    "id": "toeic-p3-stream",
+    "part": 3,
+    "word": "stream",
+    "meaning_ko": "v. 스트리밍하다",
+    "pos": "verb",
+    "frequency_tier": 2,
+    "source": "hackers800-voca"
+  },
+  {
+    "id": "toeic-p3-provider",
+    "part": 3,
+    "word": "provider",
+    "meaning_ko": "n. 제공업체",
+    "pos": "noun",
+    "frequency_tier": 2,
+    "source": "hackers800-voca"
+  },
+  {
+    "id": "toeic-p3-fold",
+    "part": 3,
+    "word": "fold",
+    "meaning_ko": "v. 접다",
+    "pos": "verb",
+    "frequency_tier": 2,
+    "source": "hackers800-voca"
+  },
+  {
+    "id": "toeic-p3-make-it",
+    "part": 3,
+    "word": "make it",
+    "meaning_ko": "참석하다, 가다",
+    "frequency_tier": 2,
+    "source": "hackers800-voca"
+  },
+  {
+    "id": "toeic-p3-surgical",
+    "part": 3,
+    "word": "surgical",
+    "meaning_ko": "adj. 수술의",
+    "pos": "adjective",
+    "frequency_tier": 2,
+    "source": "hackers800-voca"
+  },
+  {
+    "id": "toeic-p3-modify",
+    "part": 3,
+    "word": "modify",
+    "meaning_ko": "v. 수정하다",
+    "pos": "verb",
+    "frequency_tier": 2,
+    "source": "hackers800-voca"
+  },
+  {
+    "id": "toeic-p3-exchange",
+    "part": 3,
+    "word": "exchange",
+    "meaning_ko": "v. 교환하다",
+    "pos": "verb",
+    "frequency_tier": 2,
+    "source": "hackers800-voca"
+  },
+  {
+    "id": "toeic-p3-reopen",
+    "part": 3,
+    "word": "reopen",
+    "meaning_ko": "v. 다시 문을 열다",
+    "pos": "verb",
+    "frequency_tier": 2,
+    "source": "hackers800-voca"
+  },
+  {
+    "id": "toeic-p3-easily",
+    "part": 3,
+    "word": "easily",
+    "meaning_ko": "adv. 쉽게",
+    "pos": "adverb",
+    "frequency_tier": 2,
+    "source": "hackers800-voca"
+  },
+  {
+    "id": "toeic-p3-get-off",
+    "part": 3,
+    "word": "get off",
+    "meaning_ko": "내리다",
+    "frequency_tier": 2,
+    "source": "hackers800-voca"
+  },
+  {
+    "id": "toeic-p3-head",
+    "part": 3,
+    "word": "head",
+    "meaning_ko": "v. 향하다",
+    "pos": "verb",
+    "frequency_tier": 2,
+    "source": "hackers800-voca"
+  },
+  {
+    "id": "toeic-p3-allot",
+    "part": 3,
+    "word": "allot",
+    "meaning_ko": "v. 할당하다",
+    "pos": "verb",
+    "frequency_tier": 2,
+    "source": "hackers800-voca"
+  },
+  {
+    "id": "toeic-p3-adjustment",
+    "part": 3,
+    "word": "adjustment",
+    "meaning_ko": "n. 조정",
+    "pos": "noun",
+    "frequency_tier": 2,
+    "source": "hackers800-voca"
+  },
+  {
+    "id": "toeic-p3-occupy",
+    "part": 3,
+    "word": "occupy",
+    "meaning_ko": "v. 점유하다, 차지하다",
+    "pos": "verb",
+    "frequency_tier": 2,
+    "source": "hackers800-voca"
+  },
+  {
+    "id": "toeic-p3-gear",
+    "part": 3,
+    "word": "gear",
+    "meaning_ko": "n. 장비",
+    "pos": "noun",
+    "frequency_tier": 2,
+    "source": "hackers800-voca"
+  },
+  {
+    "id": "toeic-p3-billing-statement",
+    "part": 3,
+    "word": "billing statement",
+    "meaning_ko": "청구서",
+    "frequency_tier": 2,
+    "source": "hackers800-voca"
+  },
+  {
+    "id": "toeic-p3-process",
+    "part": 3,
+    "word": "process",
+    "meaning_ko": "v. 처리하다",
+    "pos": "verb",
+    "frequency_tier": 2,
+    "source": "hackers800-voca"
+  },
+  {
+    "id": "toeic-p3-account",
+    "part": 3,
+    "word": "account",
+    "meaning_ko": "n. 계좌, 계정",
+    "pos": "noun",
+    "frequency_tier": 2,
+    "source": "hackers800-voca"
+  },
+  {
+    "id": "toeic-p3-question",
+    "part": 3,
+    "word": "question",
+    "meaning_ko": "v. 문의하다, 질문하다; n. 질문",
+    "pos": "verb",
+    "frequency_tier": 2,
+    "source": "hackers800-voca"
+  },
+  {
+    "id": "toeic-p3-complain",
+    "part": 3,
+    "word": "complain",
+    "meaning_ko": "v. 불평하다",
+    "pos": "verb",
+    "frequency_tier": 2,
+    "source": "hackers800-voca"
+  },
+  {
+    "id": "toeic-p3-perform",
+    "part": 3,
+    "word": "perform",
+    "meaning_ko": "v. 수행하다",
+    "pos": "verb",
+    "frequency_tier": 2,
+    "source": "hackers800-voca"
+  },
+  {
+    "id": "toeic-p3-extend",
+    "part": 3,
+    "word": "extend",
+    "meaning_ko": "v. 연장하다",
+    "pos": "verb",
+    "frequency_tier": 2,
+    "source": "hackers800-voca"
+  },
+  {
+    "id": "toeic-p3-in-charge-of",
+    "part": 3,
+    "word": "in charge of",
+    "meaning_ko": "~을 담당하는",
+    "frequency_tier": 2,
+    "source": "hackers800-voca"
+  },
+  {
+    "id": "toeic-p3-reorganize",
+    "part": 3,
+    "word": "reorganize",
+    "meaning_ko": "v. 재구성하다",
+    "pos": "verb",
+    "frequency_tier": 2,
+    "source": "hackers800-voca"
+  },
+  {
+    "id": "toeic-p3-additional",
+    "part": 3,
+    "word": "additional",
+    "meaning_ko": "adj. 추가의",
+    "pos": "adjective",
+    "frequency_tier": 2,
+    "source": "hackers800-voca"
+  },
+  {
+    "id": "toeic-p3-department-head",
+    "part": 3,
+    "word": "department head",
+    "meaning_ko": "부서장",
+    "frequency_tier": 2,
+    "source": "hackers800-voca"
+  },
+  {
+    "id": "toeic-p3-accompany",
+    "part": 3,
+    "word": "accompany",
+    "meaning_ko": "v. 동행하다, 동반하다",
+    "pos": "verb",
+    "frequency_tier": 2,
+    "source": "hackers800-voca"
+  },
+  {
+    "id": "toeic-p3-compliment",
+    "part": 3,
+    "word": "compliment",
+    "meaning_ko": "v. 칭찬하다",
+    "pos": "verb",
+    "frequency_tier": 2,
+    "source": "hackers800-voca"
+  },
+  {
+    "id": "toeic-p3-encouragement",
+    "part": 3,
+    "word": "encouragement",
+    "meaning_ko": "n. 격려",
+    "pos": "noun",
+    "frequency_tier": 2,
+    "source": "hackers800-voca"
+  },
+  {
+    "id": "toeic-p3-run-into",
+    "part": 3,
+    "word": "run into",
+    "meaning_ko": "부딪히다, 맞닥뜨리다",
+    "frequency_tier": 2,
+    "source": "hackers800-voca"
+  },
+  {
+    "id": "toeic-p3-distinctive",
+    "part": 3,
+    "word": "distinctive",
+    "meaning_ko": "adj. 독특한",
+    "pos": "adjective",
+    "frequency_tier": 2,
+    "source": "hackers800-voca"
+  },
+  {
+    "id": "toeic-p3-appearance",
+    "part": 3,
+    "word": "appearance",
+    "meaning_ko": "n. 외관",
+    "pos": "noun",
+    "frequency_tier": 2,
+    "source": "hackers800-voca"
+  },
+  {
+    "id": "toeic-p3-match",
+    "part": 3,
+    "word": "match",
+    "meaning_ko": "v. 어울리다",
+    "pos": "verb",
+    "frequency_tier": 2,
+    "source": "hackers800-voca"
+  },
+  {
+    "id": "toeic-p3-willing-to",
+    "part": 3,
+    "word": "willing to",
+    "meaning_ko": "~할 의향이 있는",
+    "frequency_tier": 2,
+    "source": "hackers800-voca"
+  },
+  {
+    "id": "toeic-p3-partner-with",
+    "part": 3,
+    "word": "partner with",
+    "meaning_ko": "~와 제휴를 맺다",
+    "frequency_tier": 2,
+    "source": "hackers800-voca"
+  },
+  {
+    "id": "toeic-p3-designated",
+    "part": 3,
+    "word": "designated",
+    "meaning_ko": "adj. 지정된",
+    "pos": "adjective",
+    "frequency_tier": 2,
+    "source": "hackers800-voca"
+  },
+  {
+    "id": "toeic-p3-get-around",
+    "part": 3,
+    "word": "get around",
+    "meaning_ko": "돌아다니다",
+    "frequency_tier": 2,
+    "source": "hackers800-voca"
+  },
+  {
+    "id": "toeic-p3-on-time",
+    "part": 3,
+    "word": "on time",
+    "meaning_ko": "정시에",
+    "frequency_tier": 2,
+    "source": "hackers800-voca"
+  },
+  {
+    "id": "toeic-p3-requirement",
+    "part": 3,
+    "word": "requirement",
+    "meaning_ko": "n. 요구 사항",
+    "pos": "noun",
+    "frequency_tier": 2,
+    "source": "hackers800-voca"
+  },
+  {
+    "id": "toeic-p3-assumption",
+    "part": 3,
+    "word": "assumption",
+    "meaning_ko": "n. 추측, 가정",
+    "pos": "noun",
+    "frequency_tier": 2,
+    "source": "hackers800-voca"
+  },
+  {
+    "id": "toeic-p3-reassurance",
+    "part": 3,
+    "word": "reassurance",
+    "meaning_ko": "n. 안심시키는 말",
+    "pos": "noun",
+    "frequency_tier": 2,
+    "source": "hackers800-voca"
+  },
+  {
+    "id": "toeic-p3-residential",
+    "part": 3,
+    "word": "residential",
+    "meaning_ko": "adj. 주택의",
+    "pos": "adjective",
+    "frequency_tier": 2,
+    "source": "hackers800-voca"
+  },
+  {
+    "id": "toeic-p3-wrap-up",
+    "part": 3,
+    "word": "wrap up",
+    "meaning_ko": "~을 마치다, 끝내다",
+    "frequency_tier": 2,
+    "source": "hackers800-voca"
+  },
+  {
+    "id": "toeic-p3-serve",
+    "part": 3,
+    "word": "serve",
+    "meaning_ko": "v. 제공하다",
+    "pos": "verb",
+    "frequency_tier": 2,
+    "source": "hackers800-voca"
+  },
+  {
+    "id": "toeic-p3-understaffed",
+    "part": 3,
+    "word": "understaffed",
+    "meaning_ko": "adj. 인력이 부족한",
+    "pos": "adjective",
+    "frequency_tier": 2,
+    "source": "hackers800-voca"
+  },
+  {
+    "id": "toeic-p3-departure-board",
+    "part": 3,
+    "word": "departure board",
+    "meaning_ko": "출발 안내판",
+    "frequency_tier": 2,
+    "source": "hackers800-voca"
+  },
+  {
+    "id": "toeic-p3-situation",
+    "part": 3,
+    "word": "situation",
+    "meaning_ko": "n. 상황",
+    "pos": "noun",
+    "frequency_tier": 2,
+    "source": "hackers800-voca"
+  },
+  {
+    "id": "toeic-p3-fault",
+    "part": 3,
+    "word": "fault",
+    "meaning_ko": "n. 잘못",
+    "pos": "noun",
+    "frequency_tier": 2,
+    "source": "hackers800-voca"
+  },
+  {
+    "id": "toeic-p3-instead",
+    "part": 3,
+    "word": "instead",
+    "meaning_ko": "adv. 대신에",
+    "pos": "adverb",
+    "frequency_tier": 2,
+    "source": "hackers800-voca"
+  },
+  {
+    "id": "toeic-p3-ticketholder",
+    "part": 3,
+    "word": "ticketholder",
+    "meaning_ko": "n. 티켓 소지자",
+    "pos": "noun",
+    "frequency_tier": 2,
+    "source": "hackers800-voca"
+  },
+  {
+    "id": "toeic-p3-assist",
+    "part": 3,
+    "word": "assist",
+    "meaning_ko": "v. 돕다",
+    "pos": "verb",
+    "frequency_tier": 2,
+    "source": "hackers800-voca"
+  },
+  {
+    "id": "toeic-p3-equip",
+    "part": 3,
+    "word": "equip",
+    "meaning_ko": "v. 장비를 갖추다",
+    "pos": "verb",
+    "frequency_tier": 2,
+    "source": "hackers800-voca"
+  },
+  {
+    "id": "toeic-p3-convenient",
+    "part": 3,
+    "word": "convenient",
+    "meaning_ko": "adj. 편리한",
+    "pos": "adjective",
+    "frequency_tier": 2,
+    "source": "hackers800-voca"
+  },
+  {
+    "id": "toeic-p3-lately",
+    "part": 3,
+    "word": "lately",
+    "meaning_ko": "adv. 최근에",
+    "pos": "adverb",
+    "frequency_tier": 2,
+    "source": "hackers800-voca"
+  },
+  {
+    "id": "toeic-p3-barely",
+    "part": 3,
+    "word": "barely",
+    "meaning_ko": "adv. 간신히, 가까스로",
+    "pos": "adverb",
+    "frequency_tier": 2,
+    "source": "hackers800-voca"
+  },
+  {
+    "id": "toeic-p3-expectation",
+    "part": 3,
+    "word": "expectation",
+    "meaning_ko": "n. 기대(치)",
+    "pos": "noun",
+    "frequency_tier": 2,
+    "source": "hackers800-voca"
+  },
+  {
+    "id": "toeic-p3-consider",
+    "part": 3,
+    "word": "consider",
+    "meaning_ko": "v. 고려하다",
+    "pos": "verb",
+    "frequency_tier": 2,
+    "source": "hackers800-voca"
+  },
+  {
+    "id": "toeic-p3-build",
+    "part": 3,
+    "word": "build",
+    "meaning_ko": "v. 쌓다, 짓다",
+    "pos": "verb",
+    "frequency_tier": 2,
+    "source": "hackers800-voca"
+  },
+  {
+    "id": "toeic-p3-trust",
+    "part": 3,
+    "word": "trust",
+    "meaning_ko": "n. 신뢰",
+    "pos": "noun",
+    "frequency_tier": 2,
+    "source": "hackers800-voca"
+  },
+  {
+    "id": "toeic-p3-lecture",
+    "part": 3,
+    "word": "lecture",
+    "meaning_ko": "n. 강연",
+    "pos": "noun",
+    "frequency_tier": 2,
+    "source": "hackers800-voca"
+  },
+  {
+    "id": "toeic-p3-post",
+    "part": 3,
+    "word": "post",
+    "meaning_ko": "v. 게시하다",
+    "pos": "verb",
+    "frequency_tier": 2,
+    "source": "hackers800-voca"
+  },
+  {
+    "id": "toeic-p3-respond",
+    "part": 3,
+    "word": "respond",
+    "meaning_ko": "v. 응답하다",
+    "pos": "verb",
+    "frequency_tier": 2,
+    "source": "hackers800-voca"
+  },
+  {
+    "id": "toeic-p3-compared-to",
+    "part": 3,
+    "word": "compared to",
+    "meaning_ko": "~와 비교하여",
+    "frequency_tier": 2,
+    "source": "hackers800-voca"
+  },
+  {
+    "id": "toeic-p3-recipe",
+    "part": 3,
+    "word": "recipe",
+    "meaning_ko": "n. 요리법",
+    "pos": "noun",
+    "frequency_tier": 2,
+    "source": "hackers800-voca"
+  },
+  {
+    "id": "toeic-p3-slightly",
+    "part": 3,
+    "word": "slightly",
+    "meaning_ko": "adv. 약간",
+    "pos": "adverb",
+    "frequency_tier": 2,
+    "source": "hackers800-voca"
+  },
+  {
+    "id": "toeic-p3-dairy",
+    "part": 3,
+    "word": "dairy",
+    "meaning_ko": "n. 유제품",
+    "pos": "noun",
+    "frequency_tier": 2,
+    "source": "hackers800-voca"
+  },
+  {
+    "id": "toeic-p3-mention",
+    "part": 3,
+    "word": "mention",
+    "meaning_ko": "v. 말하다, 언급하다",
+    "pos": "verb",
+    "frequency_tier": 2,
+    "source": "hackers800-voca"
+  },
+  {
+    "id": "toeic-p3-move-around",
+    "part": 3,
+    "word": "move around",
+    "meaning_ko": "이동하다, 돌아다니다",
+    "frequency_tier": 2,
+    "source": "hackers800-voca"
+  },
+  {
+    "id": "toeic-p3-temporary",
+    "part": 3,
+    "word": "temporary",
+    "meaning_ko": "adj. 임시의",
+    "pos": "adjective",
+    "frequency_tier": 2,
+    "source": "hackers800-voca"
+  },
+  {
+    "id": "toeic-p3-property",
+    "part": 3,
+    "word": "property",
+    "meaning_ko": "n. 건물, 소유물",
+    "pos": "noun",
+    "frequency_tier": 2,
+    "source": "hackers800-voca"
+  },
+  {
+    "id": "toeic-p3-innovative",
+    "part": 3,
+    "word": "innovative",
+    "meaning_ko": "adj. 혁신적인",
+    "pos": "adjective",
+    "frequency_tier": 2,
+    "source": "hackers800-voca"
+  },
+  {
+    "id": "toeic-p3-feature",
+    "part": 3,
+    "word": "feature",
+    "meaning_ko": "n. 특징",
+    "pos": "noun",
+    "frequency_tier": 2,
+    "source": "hackers800-voca"
+  },
+  {
+    "id": "toeic-p3-incorporate",
+    "part": 3,
+    "word": "incorporate",
+    "meaning_ko": "v. 통합하다",
+    "pos": "verb",
+    "frequency_tier": 2,
+    "source": "hackers800-voca"
+  },
+  {
+    "id": "toeic-p3-look-forward-to",
+    "part": 3,
+    "word": "look forward to",
+    "meaning_ko": "~을 기대하다",
+    "frequency_tier": 2,
+    "source": "hackers800-voca"
+  },
+  {
+    "id": "toeic-p3-display-board",
+    "part": 3,
+    "word": "display board",
+    "meaning_ko": "전광판",
+    "frequency_tier": 2,
+    "source": "hackers800-voca"
+  },
+  {
+    "id": "toeic-p3-trade-show",
+    "part": 3,
+    "word": "trade show",
+    "meaning_ko": "무역 박람회",
+    "frequency_tier": 2,
+    "source": "hackers800-voca"
+  },
+  {
+    "id": "toeic-p3-modification",
+    "part": 3,
+    "word": "modification",
+    "meaning_ko": "n. 개조, 수정",
+    "pos": "noun",
+    "frequency_tier": 2,
+    "source": "hackers800-voca"
+  },
+  {
+    "id": "toeic-p3-hold",
+    "part": 3,
+    "word": "hold",
+    "meaning_ko": "v. 수용하다",
+    "pos": "verb",
+    "frequency_tier": 2,
+    "source": "hackers800-voca"
+  },
+  {
+    "id": "toeic-p3-insurance",
+    "part": 3,
+    "word": "insurance",
+    "meaning_ko": "n. 보험",
+    "pos": "noun",
+    "frequency_tier": 2,
+    "source": "hackers800-voca"
+  },
+  {
+    "id": "toeic-p3-expect",
+    "part": 3,
+    "word": "expect",
+    "meaning_ko": "v. 예상하다",
+    "pos": "verb",
+    "frequency_tier": 2,
+    "source": "hackers800-voca"
+  },
+  {
+    "id": "toeic-p3-incorrect",
+    "part": 3,
+    "word": "incorrect",
+    "meaning_ko": "adj. 맞지 않은, 부정확한",
+    "pos": "adjective",
+    "frequency_tier": 2,
+    "source": "hackers800-voca"
+  },
+  {
+    "id": "toeic-p3-storage",
+    "part": 3,
+    "word": "storage",
+    "meaning_ko": "n. 보관, 저장",
+    "pos": "noun",
+    "frequency_tier": 2,
+    "source": "hackers800-voca"
+  },
+  {
+    "id": "toeic-p3-opinion",
+    "part": 3,
+    "word": "opinion",
+    "meaning_ko": "n. 의견",
+    "pos": "noun",
+    "frequency_tier": 2,
+    "source": "hackers800-voca"
+  },
+  {
+    "id": "toeic-p3-conference",
+    "part": 3,
+    "word": "conference",
+    "meaning_ko": "n. 학회",
+    "pos": "noun",
+    "frequency_tier": 2,
+    "source": "hackers800-voca"
+  },
+  {
+    "id": "toeic-p3-registration",
+    "part": 3,
+    "word": "registration",
+    "meaning_ko": "n. 등록",
+    "pos": "noun",
+    "frequency_tier": 2,
+    "source": "hackers800-voca"
+  },
+  {
+    "id": "toeic-p3-directly",
+    "part": 3,
+    "word": "directly",
+    "meaning_ko": "adv. 바로",
+    "pos": "adverb",
+    "frequency_tier": 2,
+    "source": "hackers800-voca"
+  },
+  {
+    "id": "toeic-p3-below",
+    "part": 3,
+    "word": "below",
+    "meaning_ko": "prep. 아래에",
+    "pos": "preposition",
+    "frequency_tier": 2,
+    "source": "hackers800-voca"
+  },
+  {
+    "id": "toeic-p3-invitation",
+    "part": 3,
+    "word": "invitation",
+    "meaning_ko": "n. 초대장",
+    "pos": "noun",
+    "frequency_tier": 2,
+    "source": "hackers800-voca"
+  },
+  {
+    "id": "toeic-p3-tight",
+    "part": 3,
+    "word": "tight",
+    "meaning_ko": "adj. 꽉 끼는",
+    "pos": "adjective",
+    "frequency_tier": 2,
+    "source": "hackers800-voca"
+  },
+  {
+    "id": "toeic-p3-apparently",
+    "part": 3,
+    "word": "apparently",
+    "meaning_ko": "adv. 듣자 하니, 명백히",
+    "pos": "adverb",
+    "frequency_tier": 2,
+    "source": "hackers800-voca"
+  },
+  {
+    "id": "toeic-p3-entire",
+    "part": 3,
+    "word": "entire",
+    "meaning_ko": "adj. 전체의",
+    "pos": "adjective",
+    "frequency_tier": 2,
+    "source": "hackers800-voca"
+  },
+  {
+    "id": "toeic-p3-repaint",
+    "part": 3,
+    "word": "repaint",
+    "meaning_ko": "v. 다시 칠하다",
+    "pos": "verb",
+    "frequency_tier": 2,
+    "source": "hackers800-voca"
+  },
+  {
+    "id": "toeic-p3-photocopier",
+    "part": 3,
+    "word": "photocopier",
+    "meaning_ko": "n. 복사기",
+    "pos": "noun",
+    "frequency_tier": 2,
+    "source": "hackers800-voca"
+  },
+  {
+    "id": "toeic-p3-run-out",
+    "part": 3,
+    "word": "run out",
+    "meaning_ko": "다 떨어지다",
+    "frequency_tier": 2,
+    "source": "hackers800-voca"
+  },
+  {
+    "id": "toeic-p3-supply-room",
+    "part": 3,
+    "word": "supply room",
+    "meaning_ko": "비품실",
+    "frequency_tier": 2,
+    "source": "hackers800-voca"
+  },
+  {
+    "id": "toeic-p3-trade-fair",
+    "part": 3,
+    "word": "trade fair",
+    "meaning_ko": "무역 박람회",
+    "frequency_tier": 2,
+    "source": "hackers800-voca"
+  },
+  {
+    "id": "toeic-p3-highlight",
+    "part": 3,
+    "word": "highlight",
+    "meaning_ko": "v. 강조하다",
+    "pos": "verb",
+    "frequency_tier": 2,
+    "source": "hackers800-voca"
+  },
+  {
+    "id": "toeic-p3-content",
+    "part": 3,
+    "word": "content",
+    "meaning_ko": "n. 내용",
+    "pos": "noun",
+    "frequency_tier": 2,
+    "source": "hackers800-voca"
+  },
+  {
+    "id": "toeic-p3-laptop",
+    "part": 3,
+    "word": "laptop",
+    "meaning_ko": "n. 노트북",
+    "pos": "noun",
+    "frequency_tier": 2,
+    "source": "hackers800-voca"
+  },
+  {
+    "id": "toeic-p3-relieved",
+    "part": 3,
+    "word": "relieved",
+    "meaning_ko": "adj. 안심이 되는",
+    "pos": "adjective",
+    "frequency_tier": 2,
+    "source": "hackers800-voca"
+  },
+  {
+    "id": "toeic-p3-concentrate",
+    "part": 3,
+    "word": "concentrate",
+    "meaning_ko": "v. 집중하다",
+    "pos": "verb",
+    "frequency_tier": 2,
+    "source": "hackers800-voca"
+  },
+  {
+    "id": "toeic-p3-appropriate",
+    "part": 3,
+    "word": "appropriate",
+    "meaning_ko": "adj. 적합한",
+    "pos": "adjective",
+    "frequency_tier": 2,
+    "source": "hackers800-voca"
+  },
+  {
+    "id": "toeic-p3-distinguish",
+    "part": 3,
+    "word": "distinguish",
+    "meaning_ko": "v. 구별짓다",
+    "pos": "verb",
+    "frequency_tier": 2,
+    "source": "hackers800-voca"
+  },
+  {
+    "id": "toeic-p3-generally",
+    "part": 3,
+    "word": "generally",
+    "meaning_ko": "adv. 대개, 일반적으로",
+    "pos": "adverb",
+    "frequency_tier": 2,
+    "source": "hackers800-voca"
+  },
+  {
+    "id": "toeic-p3-analysis",
+    "part": 3,
+    "word": "analysis",
+    "meaning_ko": "n. 분석",
+    "pos": "noun",
+    "frequency_tier": 2,
+    "source": "hackers800-voca"
+  },
+  {
+    "id": "toeic-p3-investment",
+    "part": 3,
+    "word": "investment",
+    "meaning_ko": "n. 투자",
+    "pos": "noun",
+    "frequency_tier": 2,
+    "source": "hackers800-voca"
+  },
+  {
+    "id": "toeic-p3-thorough",
+    "part": 3,
+    "word": "thorough",
+    "meaning_ko": "adj. 빈틈없는, 철저한",
+    "pos": "adjective",
+    "frequency_tier": 2,
+    "source": "hackers800-voca"
+  },
+  {
+    "id": "toeic-p3-health-exam",
+    "part": 3,
+    "word": "health exam",
+    "meaning_ko": "건강 검진",
+    "frequency_tier": 2,
+    "source": "hackers800-voca"
+  },
+  {
+    "id": "toeic-p3-informative",
+    "part": 3,
+    "word": "informative",
+    "meaning_ko": "adj. 유익한",
+    "pos": "adjective",
+    "frequency_tier": 2,
+    "source": "hackers800-voca"
+  },
+  {
+    "id": "toeic-p3-confuse",
+    "part": 3,
+    "word": "confuse",
+    "meaning_ko": "v. 혼동하다",
+    "pos": "verb",
+    "frequency_tier": 2,
+    "source": "hackers800-voca"
+  },
+  {
+    "id": "toeic-p3-current",
+    "part": 3,
+    "word": "current",
+    "meaning_ko": "adj. 현재의, 지금의",
+    "pos": "adjective",
+    "frequency_tier": 2,
+    "source": "hackers800-voca"
+  },
+  {
+    "id": "toeic-p3-vacant",
+    "part": 3,
+    "word": "vacant",
+    "meaning_ko": "adj. 비어 있는",
+    "pos": "adjective",
+    "frequency_tier": 2,
+    "source": "hackers800-voca"
+  },
+  {
+    "id": "toeic-p3-assume",
+    "part": 3,
+    "word": "assume",
+    "meaning_ko": "v. (사실이라고) 생각하다, 추정하다",
+    "pos": "verb",
+    "frequency_tier": 2,
+    "source": "hackers800-voca"
+  },
+  {
+    "id": "toeic-p3-particularly",
+    "part": 3,
+    "word": "particularly",
+    "meaning_ko": "adv. 특히",
+    "pos": "adverb",
+    "frequency_tier": 2,
+    "source": "hackers800-voca"
+  },
+  {
+    "id": "toeic-p3-resident",
+    "part": 3,
+    "word": "resident",
+    "meaning_ko": "n. 주민",
+    "pos": "noun",
+    "frequency_tier": 2,
+    "source": "hackers800-voca"
+  },
+  {
+    "id": "toeic-p3-satisfy",
+    "part": 3,
+    "word": "satisfy",
+    "meaning_ko": "v. 만족시키다",
+    "pos": "verb",
+    "frequency_tier": 2,
+    "source": "hackers800-voca"
+  },
+  {
+    "id": "toeic-p3-effort",
+    "part": 3,
+    "word": "effort",
+    "meaning_ko": "n. 노력",
+    "pos": "noun",
+    "frequency_tier": 2,
+    "source": "hackers800-voca"
+  },
+  {
+    "id": "toeic-p3-mark",
+    "part": 3,
+    "word": "mark",
+    "meaning_ko": "v. 기념하다",
+    "pos": "verb",
+    "frequency_tier": 2,
+    "source": "hackers800-voca"
+  },
+  {
+    "id": "toeic-p3-occasion",
+    "part": 3,
+    "word": "occasion",
+    "meaning_ko": "n. 행사",
+    "pos": "noun",
+    "frequency_tier": 2,
+    "source": "hackers800-voca"
+  },
+  {
+    "id": "toeic-p3-in-case",
+    "part": 3,
+    "word": "in case",
+    "meaning_ko": "~할 경우에 대비해서",
+    "frequency_tier": 2,
+    "source": "hackers800-voca"
+  },
+  {
+    "id": "toeic-p3-energy-efficient",
+    "part": 3,
+    "word": "energy-efficient",
+    "meaning_ko": "adj. 에너지 효율적인",
+    "pos": "adjective",
+    "frequency_tier": 2,
+    "source": "hackers800-voca"
+  },
+  {
+    "id": "toeic-p3-gain",
+    "part": 3,
+    "word": "gain",
+    "meaning_ko": "v. 얻다",
+    "pos": "verb",
+    "frequency_tier": 2,
+    "source": "hackers800-voca"
+  },
+  {
+    "id": "toeic-p3-breakdown",
+    "part": 3,
+    "word": "breakdown",
+    "meaning_ko": "n. 내역, 명세, 고장",
+    "pos": "noun",
+    "frequency_tier": 2,
+    "source": "hackers800-voca"
+  },
+  {
+    "id": "toeic-p3-repair-shop",
+    "part": 3,
+    "word": "repair shop",
+    "meaning_ko": "정비소",
+    "frequency_tier": 2,
+    "source": "hackers800-voca"
+  },
+  {
+    "id": "toeic-p3-happen",
+    "part": 3,
+    "word": "happen",
+    "meaning_ko": "v. (일이) 있다, 발생하다",
+    "pos": "verb",
+    "frequency_tier": 2,
+    "source": "hackers800-voca"
+  },
+  {
+    "id": "toeic-p3-headquarters",
+    "part": 3,
+    "word": "headquarters",
+    "meaning_ko": "n. 본사",
+    "pos": "noun",
+    "frequency_tier": 2,
+    "source": "hackers800-voca"
+  },
+  {
+    "id": "toeic-p3-fund",
+    "part": 3,
+    "word": "fund",
+    "meaning_ko": "n. 자금",
+    "pos": "noun",
+    "frequency_tier": 2,
+    "source": "hackers800-voca"
+  },
+  {
+    "id": "toeic-p3-expedite",
+    "part": 3,
+    "word": "expedite",
+    "meaning_ko": "v. 신속히 처리하다",
+    "pos": "verb",
+    "frequency_tier": 2,
+    "source": "hackers800-voca"
+  },
+  {
+    "id": "toeic-p3-approval",
+    "part": 3,
+    "word": "approval",
+    "meaning_ko": "n. 승인",
+    "pos": "noun",
+    "frequency_tier": 2,
+    "source": "hackers800-voca"
+  },
+  {
+    "id": "toeic-p3-carry-on",
+    "part": 3,
+    "word": "carry on",
+    "meaning_ko": "진행되다",
+    "frequency_tier": 2,
+    "source": "hackers800-voca"
+  },
+  {
+    "id": "toeic-p3-preparation",
+    "part": 3,
+    "word": "preparation",
+    "meaning_ko": "n. 준비",
+    "pos": "noun",
+    "frequency_tier": 2,
+    "source": "hackers800-voca"
+  },
+  {
+    "id": "toeic-p3-properly",
+    "part": 3,
+    "word": "properly",
+    "meaning_ko": "adv. 제대로",
+    "pos": "adverb",
+    "frequency_tier": 2,
+    "source": "hackers800-voca"
+  },
+  {
+    "id": "toeic-p3-conclude",
+    "part": 3,
+    "word": "conclude",
+    "meaning_ko": "v. 끝나다",
+    "pos": "verb",
+    "frequency_tier": 2,
+    "source": "hackers800-voca"
+  },
+  {
+    "id": "toeic-p3-reservation",
+    "part": 3,
+    "word": "reservation",
+    "meaning_ko": "n. 예약",
+    "pos": "noun",
+    "frequency_tier": 2,
+    "source": "hackers800-voca"
+  },
+  {
+    "id": "toeic-p3-construction",
+    "part": 3,
+    "word": "construction",
+    "meaning_ko": "n. 공사",
+    "pos": "noun",
+    "frequency_tier": 2,
+    "source": "hackers800-voca"
+  },
+  {
+    "id": "toeic-p3-dish",
+    "part": 3,
+    "word": "dish",
+    "meaning_ko": "n. 요리",
+    "pos": "noun",
+    "frequency_tier": 2,
+    "source": "hackers800-voca"
+  },
+  {
+    "id": "toeic-p3-popular",
+    "part": 3,
+    "word": "popular",
+    "meaning_ko": "adj. 인기 많은",
+    "pos": "adjective",
+    "frequency_tier": 2,
+    "source": "hackers800-voca"
+  },
+  {
+    "id": "toeic-p3-suggest",
+    "part": 3,
+    "word": "suggest",
+    "meaning_ko": "v. 제안하다",
+    "pos": "verb",
+    "frequency_tier": 2,
+    "source": "hackers800-voca"
+  },
+  {
+    "id": "toeic-p3-parking-spot",
+    "part": 3,
+    "word": "parking spot",
+    "meaning_ko": "주차 공간",
+    "frequency_tier": 2,
+    "source": "hackers800-voca"
+  },
+  {
+    "id": "toeic-p3-inaccessible",
+    "part": 3,
+    "word": "inaccessible",
+    "meaning_ko": "adj. 접근 불가능한",
+    "pos": "adjective",
+    "frequency_tier": 2,
+    "source": "hackers800-voca"
+  }
+]

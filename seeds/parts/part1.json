@@ -1,0 +1,7005 @@
+[
+  {
+    "id": "toeic-p1-pavement",
+    "part": 1,
+    "word": "pavement",
+    "pos": "noun",
+    "meaning_ko": "포장도로",
+    "ipa": "/ˈpeɪvmənt/",
+    "pron_ko": "페이브먼트",
+    "example_en": "A man is walking on the pavement.",
+    "example_ko": "한 남자가 포장도로 위를 걷고 있다.",
+    "topic": [
+      "place",
+      "action"
+    ],
+    "frequency_tier": 1,
+    "synonyms": [
+      "sidewalk"
+    ],
+    "distractors": [
+      "payment",
+      "pamphlet",
+      "parliament"
+    ]
+  },
+  {
+    "id": "toeic-p1-stack",
+    "part": 1,
+    "word": "stack",
+    "pos": "verb",
+    "meaning_ko": "쌓다",
+    "ipa": "/stæk/",
+    "pron_ko": "스택",
+    "example_en": "He is stacking boxes in the warehouse.",
+    "example_ko": "그는 창고에서 상자를 쌓고 있다.",
+    "topic": [
+      "action",
+      "object"
+    ],
+    "frequency_tier": 1,
+    "synonyms": [
+      "pile"
+    ],
+    "distractors": [
+      "stake",
+      "stuck",
+      "stock"
+    ]
+  },
+  {
+    "id": "toeic-p1-lean",
+    "part": 1,
+    "word": "lean",
+    "pos": "verb",
+    "meaning_ko": "기대다",
+    "ipa": "/liːn/",
+    "pron_ko": "린",
+    "example_en": "She is leaning against the wall.",
+    "example_ko": "그녀는 벽에 기대어 있다.",
+    "topic": [
+      "action"
+    ],
+    "frequency_tier": 1,
+    "synonyms": [
+      "rest"
+    ],
+    "distractors": [
+      "learn",
+      "line",
+      "loan"
+    ]
+  },
+  {
+    "id": "toeic-p1-aisle",
+    "part": 1,
+    "word": "aisle",
+    "pos": "noun",
+    "meaning_ko": "통로",
+    "ipa": "/aɪl/",
+    "pron_ko": "아일",
+    "example_en": "A woman is pushing a cart down the aisle.",
+    "example_ko": "한 여자가 통로에서 카트를 밀고 있다.",
+    "topic": [
+      "place"
+    ],
+    "frequency_tier": 1,
+    "synonyms": [
+      "passageway"
+    ],
+    "distractors": [
+      "isle",
+      "ale",
+      "aid"
+    ]
+  },
+  {
+    "id": "toeic-p1-railing",
+    "part": 1,
+    "word": "railing",
+    "pos": "noun",
+    "meaning_ko": "난간",
+    "ipa": "/ˈreɪlɪŋ/",
+    "pron_ko": "레일링",
+    "example_en": "They are gripping the railing.",
+    "example_ko": "그들은 난간을 잡고 있다.",
+    "topic": [
+      "object",
+      "place"
+    ],
+    "frequency_tier": 2,
+    "synonyms": [
+      "handrail"
+    ],
+    "distractors": [
+      "rolling",
+      "ruling",
+      "raising"
+    ]
+  },
+  {
+    "id": "toeic-p1-pour",
+    "part": 1,
+    "word": "pour",
+    "pos": "verb",
+    "meaning_ko": "붓다",
+    "ipa": "/pɔːr/",
+    "pron_ko": "포어",
+    "example_en": "He is pouring coffee into a cup.",
+    "example_ko": "그는 컵에 커피를 붓고 있다.",
+    "topic": [
+      "action"
+    ],
+    "frequency_tier": 1,
+    "synonyms": [
+      "fill"
+    ],
+    "distractors": [
+      "pore",
+      "poor",
+      "pair"
+    ]
+  },
+  {
+    "id": "toeic-p1-load",
+    "part": 1,
+    "word": "load",
+    "pos": "verb",
+    "meaning_ko": "싣다",
+    "ipa": "/loʊd/",
+    "pron_ko": "로드",
+    "example_en": "Workers are loading a truck.",
+    "example_ko": "인부들이 트럭에 짐을 싣고 있다.",
+    "topic": [
+      "action",
+      "transport"
+    ],
+    "frequency_tier": 1,
+    "synonyms": [
+      "pack"
+    ],
+    "distractors": [
+      "lord",
+      "laid",
+      "lone"
+    ]
+  },
+  {
+    "id": "toeic-p1-sweep",
+    "part": 1,
+    "word": "sweep",
+    "pos": "verb",
+    "meaning_ko": "쓸다",
+    "ipa": "/swiːp/",
+    "pron_ko": "스윕",
+    "example_en": "She is sweeping the floor.",
+    "example_ko": "그녀는 바닥을 쓸고 있다.",
+    "topic": [
+      "action"
+    ],
+    "frequency_tier": 2,
+    "synonyms": [
+      "brush"
+    ],
+    "distractors": [
+      "sleep",
+      "steep",
+      "swept"
+    ]
+  },
+  {
+    "id": "toeic-p1-grasp",
+    "part": 1,
+    "word": "grasp",
+    "pos": "verb",
+    "meaning_ko": "꽉 잡다",
+    "ipa": "/ɡræsp/",
+    "pron_ko": "그래스프",
+    "example_en": "He is grasping a handle.",
+    "example_ko": "그는 손잡이를 꽉 잡고 있다.",
+    "topic": [
+      "action"
+    ],
+    "frequency_tier": 2,
+    "synonyms": [
+      "grip"
+    ],
+    "distractors": [
+      "grass",
+      "gasp",
+      "graph"
+    ]
+  },
+  {
+    "id": "toeic-p1-display",
+    "part": 1,
+    "word": "display",
+    "pos": "verb",
+    "meaning_ko": "진열하다",
+    "ipa": "/dɪˈspleɪ/",
+    "pron_ko": "디스플레이",
+    "example_en": "Merchandise is displayed in the window.",
+    "example_ko": "상품이 진열창에 진열되어 있다.",
+    "topic": [
+      "action",
+      "object"
+    ],
+    "frequency_tier": 1,
+    "synonyms": [
+      "exhibit"
+    ],
+    "distractors": [
+      "delay",
+      "deploy",
+      "dismay"
+    ]
+  },
+  {
+    "id": "toeic-p1-vehicle",
+    "part": 1,
+    "word": "vehicle",
+    "pos": "noun",
+    "meaning_ko": "차량",
+    "ipa": "/ˈviːɪkəl/",
+    "pron_ko": "비이클",
+    "example_en": "A vehicle is parked along the curb.",
+    "example_ko": "차량 한 대가 연석을 따라 주차되어 있다.",
+    "topic": [
+      "transport"
+    ],
+    "frequency_tier": 1,
+    "synonyms": [
+      "automobile"
+    ],
+    "distractors": [
+      "vacuum",
+      "vocal",
+      "village"
+    ]
+  },
+  {
+    "id": "toeic-p1-bend",
+    "part": 1,
+    "word": "bend",
+    "pos": "verb",
+    "meaning_ko": "굽히다",
+    "ipa": "/bend/",
+    "pron_ko": "벤드",
+    "example_en": "He is bending over to pick something up.",
+    "example_ko": "그는 무언가를 집기 위해 몸을 굽히고 있다.",
+    "topic": [
+      "action"
+    ],
+    "frequency_tier": 2,
+    "synonyms": [
+      "bow"
+    ],
+    "distractors": [
+      "band",
+      "bond",
+      "bind"
+    ]
+  },
+  {
+    "id": "toeic-p1-fountain",
+    "part": 1,
+    "word": "fountain",
+    "pos": "noun",
+    "meaning_ko": "분수",
+    "ipa": "/ˈfaʊntən/",
+    "pron_ko": "파운튼",
+    "example_en": "People are sitting near a fountain.",
+    "example_ko": "사람들이 분수 근처에 앉아 있다.",
+    "topic": [
+      "place",
+      "object"
+    ],
+    "frequency_tier": 2,
+    "synonyms": [
+      "spring"
+    ],
+    "distractors": [
+      "mountain",
+      "funnel",
+      "fortune"
+    ]
+  },
+  {
+    "id": "toeic-p1-uniform",
+    "part": 1,
+    "word": "uniform",
+    "pos": "noun",
+    "meaning_ko": "유니폼",
+    "ipa": "/ˈjuːnəfɔːrm/",
+    "pron_ko": "유니폼",
+    "example_en": "All the workers are wearing uniforms.",
+    "example_ko": "모든 작업자가 유니폼을 입고 있다.",
+    "topic": [
+      "clothing"
+    ],
+    "frequency_tier": 1,
+    "synonyms": [
+      "outfit"
+    ],
+    "distractors": [
+      "unify",
+      "unique",
+      "unison"
+    ]
+  },
+  {
+    "id": "toeic-p1-helmet",
+    "part": 1,
+    "word": "helmet",
+    "pos": "noun",
+    "meaning_ko": "헬멧",
+    "ipa": "/ˈhelmɪt/",
+    "pron_ko": "헬멧",
+    "example_en": "The cyclist is wearing a helmet.",
+    "example_ko": "자전거 타는 사람이 헬멧을 쓰고 있다.",
+    "topic": [
+      "clothing",
+      "object"
+    ],
+    "frequency_tier": 1,
+    "synonyms": [
+      "headgear"
+    ],
+    "distractors": [
+      "hamlet",
+      "helmsman",
+      "helpful"
+    ]
+  },
+  {
+    "id": "toeic-p1-crouch",
+    "part": 1,
+    "word": "crouch",
+    "pos": "verb",
+    "meaning_ko": "웅크리다",
+    "ipa": "/kraʊtʃ/",
+    "pron_ko": "크라우치",
+    "example_en": "A worker is crouching by the equipment.",
+    "example_ko": "작업자가 장비 옆에 웅크리고 있다.",
+    "topic": [
+      "action"
+    ],
+    "frequency_tier": 2,
+    "synonyms": [
+      "squat"
+    ],
+    "distractors": [
+      "couch",
+      "crunch",
+      "crawl"
+    ]
+  },
+  {
+    "id": "toeic-p1-kneel",
+    "part": 1,
+    "word": "kneel",
+    "pos": "verb",
+    "meaning_ko": "무릎 꿇다",
+    "ipa": "/niːl/",
+    "pron_ko": "닐",
+    "example_en": "She is kneeling on the floor.",
+    "example_ko": "그녀는 바닥에 무릎을 꿇고 있다.",
+    "topic": [
+      "action"
+    ],
+    "frequency_tier": 2,
+    "synonyms": [
+      "genuflect"
+    ],
+    "distractors": [
+      "knee",
+      "kneading",
+      "kneel"
+    ]
+  },
+  {
+    "id": "toeic-p1-reach",
+    "part": 1,
+    "word": "reach",
+    "pos": "verb",
+    "meaning_ko": "손을 뻗다",
+    "ipa": "/riːtʃ/",
+    "pron_ko": "리치",
+    "example_en": "He is reaching for a book on the shelf.",
+    "example_ko": "그는 선반의 책을 향해 손을 뻗고 있다.",
+    "topic": [
+      "action"
+    ],
+    "frequency_tier": 1,
+    "synonyms": [
+      "extend"
+    ],
+    "distractors": [
+      "rich",
+      "reset",
+      "reap"
+    ]
+  },
+  {
+    "id": "toeic-p1-gesture",
+    "part": 1,
+    "word": "gesture",
+    "pos": "verb",
+    "meaning_ko": "손짓하다",
+    "ipa": "/ˈdʒestʃər/",
+    "pron_ko": "제스처",
+    "example_en": "She is gesturing toward the screen.",
+    "example_ko": "그녀는 화면을 향해 손짓하고 있다.",
+    "topic": [
+      "action"
+    ],
+    "frequency_tier": 2,
+    "synonyms": [
+      "signal"
+    ],
+    "distractors": [
+      "guesture",
+      "gestate",
+      "gesso"
+    ]
+  },
+  {
+    "id": "toeic-p1-wave",
+    "part": 1,
+    "word": "wave",
+    "pos": "verb",
+    "meaning_ko": "손을 흔들다",
+    "ipa": "/weɪv/",
+    "pron_ko": "웨이브",
+    "example_en": "A passenger is waving from the platform.",
+    "example_ko": "승객이 플랫폼에서 손을 흔들고 있다.",
+    "topic": [
+      "action"
+    ],
+    "frequency_tier": 1,
+    "synonyms": [
+      "signal"
+    ],
+    "distractors": [
+      "weave",
+      "wove",
+      "woven"
+    ]
+  },
+  {
+    "id": "toeic-p1-smile",
+    "part": 1,
+    "word": "smile",
+    "pos": "verb",
+    "meaning_ko": "미소짓다",
+    "ipa": "/smaɪl/",
+    "pron_ko": "스마일",
+    "example_en": "The receptionist is smiling at a guest.",
+    "example_ko": "접수원이 손님에게 미소짓고 있다.",
+    "topic": [
+      "action"
+    ],
+    "frequency_tier": 1,
+    "synonyms": [
+      "grin"
+    ],
+    "distractors": [
+      "smell",
+      "smug",
+      "small"
+    ]
+  },
+  {
+    "id": "toeic-p1-type",
+    "part": 1,
+    "word": "type",
+    "pos": "verb",
+    "meaning_ko": "타자치다",
+    "ipa": "/taɪp/",
+    "pron_ko": "타입",
+    "example_en": "He is typing on a laptop.",
+    "example_ko": "그는 노트북에 타자를 치고 있다.",
+    "topic": [
+      "action"
+    ],
+    "frequency_tier": 1,
+    "synonyms": [
+      "keyboard"
+    ],
+    "distractors": [
+      "tape",
+      "type",
+      "tip"
+    ]
+  },
+  {
+    "id": "toeic-p1-examine",
+    "part": 1,
+    "word": "examine",
+    "pos": "verb",
+    "meaning_ko": "살펴보다",
+    "ipa": "/ɪɡˈzæmɪn/",
+    "pron_ko": "이그재민",
+    "example_en": "She is examining a document.",
+    "example_ko": "그녀는 서류를 살펴보고 있다.",
+    "topic": [
+      "action"
+    ],
+    "frequency_tier": 1,
+    "synonyms": [
+      "inspect"
+    ],
+    "distractors": [
+      "exam",
+      "examination",
+      "exhibit"
+    ]
+  },
+  {
+    "id": "toeic-p1-inspect",
+    "part": 1,
+    "word": "inspect",
+    "pos": "verb",
+    "meaning_ko": "점검하다",
+    "ipa": "/ɪnˈspekt/",
+    "pron_ko": "인스펙트",
+    "example_en": "An engineer is inspecting the machinery.",
+    "example_ko": "엔지니어가 기계를 점검하고 있다.",
+    "topic": [
+      "action"
+    ],
+    "frequency_tier": 1,
+    "synonyms": [
+      "check"
+    ],
+    "distractors": [
+      "insect",
+      "install",
+      "invest"
+    ]
+  },
+  {
+    "id": "toeic-p1-repair",
+    "part": 1,
+    "word": "repair",
+    "pos": "verb",
+    "meaning_ko": "수리하다",
+    "ipa": "/rɪˈpeər/",
+    "pron_ko": "리페어",
+    "example_en": "A technician is repairing the printer.",
+    "example_ko": "기술자가 프린터를 수리하고 있다.",
+    "topic": [
+      "action"
+    ],
+    "frequency_tier": 1,
+    "synonyms": [
+      "fix"
+    ],
+    "distractors": [
+      "repay",
+      "report",
+      "prepare"
+    ]
+  },
+  {
+    "id": "toeic-p1-mop",
+    "part": 1,
+    "word": "mop",
+    "pos": "verb",
+    "meaning_ko": "대걸레질하다",
+    "ipa": "/mɒp/",
+    "pron_ko": "맙",
+    "example_en": "A janitor is mopping the floor.",
+    "example_ko": "청소부가 바닥을 대걸레질하고 있다.",
+    "topic": [
+      "action"
+    ],
+    "frequency_tier": 2,
+    "synonyms": [
+      "wipe"
+    ],
+    "distractors": [
+      "map",
+      "mob",
+      "mock"
+    ]
+  },
+  {
+    "id": "toeic-p1-vacuum",
+    "part": 1,
+    "word": "vacuum",
+    "pos": "verb",
+    "meaning_ko": "진공청소기로 청소하다",
+    "ipa": "/ˈvækjuːm/",
+    "pron_ko": "배큠",
+    "example_en": "She is vacuuming the carpet.",
+    "example_ko": "그녀는 카펫을 진공청소기로 청소하고 있다.",
+    "topic": [
+      "action"
+    ],
+    "frequency_tier": 2,
+    "synonyms": [
+      "clean"
+    ],
+    "distractors": [
+      "vacant",
+      "vague",
+      "valid"
+    ]
+  },
+  {
+    "id": "toeic-p1-dust",
+    "part": 1,
+    "word": "dust",
+    "pos": "verb",
+    "meaning_ko": "먼지를 털다",
+    "ipa": "/dʌst/",
+    "pron_ko": "더스트",
+    "example_en": "He is dusting the shelves.",
+    "example_ko": "그는 선반의 먼지를 털고 있다.",
+    "topic": [
+      "action"
+    ],
+    "frequency_tier": 2,
+    "synonyms": [
+      "wipe"
+    ],
+    "distractors": [
+      "dusk",
+      "dust",
+      "dose"
+    ]
+  },
+  {
+    "id": "toeic-p1-water",
+    "part": 1,
+    "word": "water",
+    "pos": "verb",
+    "meaning_ko": "물을 주다",
+    "ipa": "/ˈwɔːtər/",
+    "pron_ko": "워터",
+    "example_en": "A gardener is watering the plants.",
+    "example_ko": "정원사가 식물에 물을 주고 있다.",
+    "topic": [
+      "action"
+    ],
+    "frequency_tier": 1,
+    "synonyms": [
+      "irrigate"
+    ],
+    "distractors": [
+      "wader",
+      "wonder",
+      "wander"
+    ]
+  },
+  {
+    "id": "toeic-p1-plant",
+    "part": 1,
+    "word": "plant",
+    "pos": "verb",
+    "meaning_ko": "심다",
+    "ipa": "/plænt/",
+    "pron_ko": "플랜트",
+    "example_en": "Volunteers are planting trees.",
+    "example_ko": "자원봉사자들이 나무를 심고 있다.",
+    "topic": [
+      "action"
+    ],
+    "frequency_tier": 1,
+    "synonyms": [
+      "sow"
+    ],
+    "distractors": [
+      "plan",
+      "plain",
+      "plate"
+    ]
+  },
+  {
+    "id": "toeic-p1-dig",
+    "part": 1,
+    "word": "dig",
+    "pos": "verb",
+    "meaning_ko": "파다",
+    "ipa": "/dɪɡ/",
+    "pron_ko": "디그",
+    "example_en": "Workers are digging a trench.",
+    "example_ko": "인부들이 도랑을 파고 있다.",
+    "topic": [
+      "action"
+    ],
+    "frequency_tier": 2,
+    "synonyms": [
+      "excavate"
+    ],
+    "distractors": [
+      "dug",
+      "dim",
+      "dip"
+    ]
+  },
+  {
+    "id": "toeic-p1-paint",
+    "part": 1,
+    "word": "paint",
+    "pos": "verb",
+    "meaning_ko": "페인트칠하다",
+    "ipa": "/peɪnt/",
+    "pron_ko": "페인트",
+    "example_en": "He is painting the fence.",
+    "example_ko": "그는 울타리에 페인트를 칠하고 있다.",
+    "topic": [
+      "action"
+    ],
+    "frequency_tier": 1,
+    "synonyms": [
+      "coat"
+    ],
+    "distractors": [
+      "point",
+      "pant",
+      "pint"
+    ]
+  },
+  {
+    "id": "toeic-p1-hammer",
+    "part": 1,
+    "word": "hammer",
+    "pos": "verb",
+    "meaning_ko": "망치질하다",
+    "ipa": "/ˈhæmər/",
+    "pron_ko": "해머",
+    "example_en": "A carpenter is hammering nails.",
+    "example_ko": "목수가 못을 망치질하고 있다.",
+    "topic": [
+      "action"
+    ],
+    "frequency_tier": 2,
+    "synonyms": [
+      "strike"
+    ],
+    "distractors": [
+      "hamper",
+      "harmer",
+      "hammock"
+    ]
+  },
+  {
+    "id": "toeic-p1-drill",
+    "part": 1,
+    "word": "drill",
+    "pos": "verb",
+    "meaning_ko": "드릴로 뚫다",
+    "ipa": "/drɪl/",
+    "pron_ko": "드릴",
+    "example_en": "She is drilling a hole.",
+    "example_ko": "그녀는 구멍을 뚫고 있다.",
+    "topic": [
+      "action"
+    ],
+    "frequency_tier": 2,
+    "synonyms": [
+      "bore"
+    ],
+    "distractors": [
+      "drip",
+      "trill",
+      "drape"
+    ]
+  },
+  {
+    "id": "toeic-p1-saw",
+    "part": 1,
+    "word": "saw",
+    "pos": "verb",
+    "meaning_ko": "톱질하다",
+    "ipa": "/sɔː/",
+    "pron_ko": "소",
+    "example_en": "He is sawing a board.",
+    "example_ko": "그는 판자를 톱질하고 있다.",
+    "topic": [
+      "action"
+    ],
+    "frequency_tier": 2,
+    "synonyms": [
+      "cut"
+    ],
+    "distractors": [
+      "sew",
+      "see",
+      "sore"
+    ]
+  },
+  {
+    "id": "toeic-p1-measure",
+    "part": 1,
+    "word": "measure",
+    "pos": "verb",
+    "meaning_ko": "측정하다",
+    "ipa": "/ˈmeʒər/",
+    "pron_ko": "메저",
+    "example_en": "An architect is measuring the wall.",
+    "example_ko": "건축가가 벽을 측정하고 있다.",
+    "topic": [
+      "action"
+    ],
+    "frequency_tier": 1,
+    "synonyms": [
+      "gauge"
+    ],
+    "distractors": [
+      "measure",
+      "major",
+      "manor"
+    ]
+  },
+  {
+    "id": "toeic-p1-assemble",
+    "part": 1,
+    "word": "assemble",
+    "pos": "verb",
+    "meaning_ko": "조립하다",
+    "ipa": "/əˈsembl/",
+    "pron_ko": "어셈블",
+    "example_en": "Workers are assembling furniture.",
+    "example_ko": "작업자들이 가구를 조립하고 있다.",
+    "topic": [
+      "action"
+    ],
+    "frequency_tier": 1,
+    "synonyms": [
+      "build"
+    ],
+    "distractors": [
+      "resemble",
+      "assess",
+      "assault"
+    ]
+  },
+  {
+    "id": "toeic-p1-install",
+    "part": 1,
+    "word": "install",
+    "pos": "verb",
+    "meaning_ko": "설치하다",
+    "ipa": "/ɪnˈstɔːl/",
+    "pron_ko": "인스톨",
+    "example_en": "A technician is installing the unit.",
+    "example_ko": "기술자가 장치를 설치하고 있다.",
+    "topic": [
+      "action"
+    ],
+    "frequency_tier": 1,
+    "synonyms": [
+      "fit"
+    ],
+    "distractors": [
+      "instill",
+      "insist",
+      "inspect"
+    ]
+  },
+  {
+    "id": "toeic-p1-mount",
+    "part": 1,
+    "word": "mount",
+    "pos": "verb",
+    "meaning_ko": "장착하다",
+    "ipa": "/maʊnt/",
+    "pron_ko": "마운트",
+    "example_en": "He is mounting a sign on the wall.",
+    "example_ko": "그는 벽에 표지판을 장착하고 있다.",
+    "topic": [
+      "action"
+    ],
+    "frequency_tier": 2,
+    "synonyms": [
+      "affix"
+    ],
+    "distractors": [
+      "amount",
+      "mount",
+      "month"
+    ]
+  },
+  {
+    "id": "toeic-p1-attach",
+    "part": 1,
+    "word": "attach",
+    "pos": "verb",
+    "meaning_ko": "붙이다",
+    "ipa": "/əˈtætʃ/",
+    "pron_ko": "어태치",
+    "example_en": "She is attaching a label.",
+    "example_ko": "그녀는 라벨을 붙이고 있다.",
+    "topic": [
+      "action"
+    ],
+    "frequency_tier": 1,
+    "synonyms": [
+      "affix"
+    ],
+    "distractors": [
+      "detach",
+      "attack",
+      "attain"
+    ]
+  },
+  {
+    "id": "toeic-p1-adjust",
+    "part": 1,
+    "word": "adjust",
+    "pos": "verb",
+    "meaning_ko": "조정하다",
+    "ipa": "/əˈdʒʌst/",
+    "pron_ko": "어저스트",
+    "example_en": "He is adjusting the microphone.",
+    "example_ko": "그는 마이크를 조정하고 있다.",
+    "topic": [
+      "action"
+    ],
+    "frequency_tier": 1,
+    "synonyms": [
+      "modify"
+    ],
+    "distractors": [
+      "adjust",
+      "adopt",
+      "adjudge"
+    ]
+  },
+  {
+    "id": "toeic-p1-climb",
+    "part": 1,
+    "word": "climb",
+    "pos": "verb",
+    "meaning_ko": "오르다",
+    "ipa": "/klaɪm/",
+    "pron_ko": "클라임",
+    "example_en": "A worker is climbing a ladder.",
+    "example_ko": "작업자가 사다리를 오르고 있다.",
+    "topic": [
+      "action"
+    ],
+    "frequency_tier": 1,
+    "synonyms": [
+      "ascend"
+    ],
+    "distractors": [
+      "claim",
+      "clime",
+      "climb"
+    ]
+  },
+  {
+    "id": "toeic-p1-descend",
+    "part": 1,
+    "word": "descend",
+    "pos": "verb",
+    "meaning_ko": "내려가다",
+    "ipa": "/dɪˈsend/",
+    "pron_ko": "디센드",
+    "example_en": "She is descending the stairs.",
+    "example_ko": "그녀는 계단을 내려가고 있다.",
+    "topic": [
+      "action"
+    ],
+    "frequency_tier": 2,
+    "synonyms": [
+      "go down"
+    ],
+    "distractors": [
+      "descend",
+      "descent",
+      "defend"
+    ]
+  },
+  {
+    "id": "toeic-p1-board",
+    "part": 1,
+    "word": "board",
+    "pos": "verb",
+    "meaning_ko": "탑승하다",
+    "ipa": "/bɔːrd/",
+    "pron_ko": "보드",
+    "example_en": "Passengers are boarding the train.",
+    "example_ko": "승객들이 기차에 탑승하고 있다.",
+    "topic": [
+      "action",
+      "transport"
+    ],
+    "frequency_tier": 1,
+    "synonyms": [
+      "get on"
+    ],
+    "distractors": [
+      "bored",
+      "broad",
+      "board"
+    ]
+  },
+  {
+    "id": "toeic-p1-disembark",
+    "part": 1,
+    "word": "disembark",
+    "pos": "verb",
+    "meaning_ko": "하차하다",
+    "ipa": "/ˌdɪsɪmˈbɑːrk/",
+    "pron_ko": "디셈바크",
+    "example_en": "Travelers are disembarking from the ferry.",
+    "example_ko": "여행객들이 페리에서 내리고 있다.",
+    "topic": [
+      "action",
+      "transport"
+    ],
+    "frequency_tier": 2,
+    "synonyms": [
+      "alight"
+    ],
+    "distractors": [
+      "embark",
+      "disengage",
+      "disable"
+    ]
+  },
+  {
+    "id": "toeic-p1-park",
+    "part": 1,
+    "word": "park",
+    "pos": "verb",
+    "meaning_ko": "주차하다",
+    "ipa": "/pɑːrk/",
+    "pron_ko": "파크",
+    "example_en": "A truck is parked along the street.",
+    "example_ko": "트럭 한 대가 거리를 따라 주차되어 있다.",
+    "topic": [
+      "action",
+      "transport"
+    ],
+    "frequency_tier": 1,
+    "synonyms": [
+      "stop"
+    ],
+    "distractors": [
+      "pack",
+      "park",
+      "peak"
+    ]
+  },
+  {
+    "id": "toeic-p1-ride",
+    "part": 1,
+    "word": "ride",
+    "pos": "verb",
+    "meaning_ko": "타다",
+    "ipa": "/raɪd/",
+    "pron_ko": "라이드",
+    "example_en": "A man is riding a bicycle.",
+    "example_ko": "한 남자가 자전거를 타고 있다.",
+    "topic": [
+      "action",
+      "transport"
+    ],
+    "frequency_tier": 1,
+    "synonyms": [
+      "travel"
+    ],
+    "distractors": [
+      "raid",
+      "ride",
+      "rude"
+    ]
+  },
+  {
+    "id": "toeic-p1-drive",
+    "part": 1,
+    "word": "drive",
+    "pos": "verb",
+    "meaning_ko": "운전하다",
+    "ipa": "/draɪv/",
+    "pron_ko": "드라이브",
+    "example_en": "She is driving along the highway.",
+    "example_ko": "그녀는 고속도로를 운전하고 있다.",
+    "topic": [
+      "action",
+      "transport"
+    ],
+    "frequency_tier": 1,
+    "synonyms": [
+      "steer"
+    ],
+    "distractors": [
+      "drove",
+      "drive",
+      "dive"
+    ]
+  },
+  {
+    "id": "toeic-p1-hang",
+    "part": 1,
+    "word": "hang",
+    "pos": "verb",
+    "meaning_ko": "걸다",
+    "ipa": "/hæŋ/",
+    "pron_ko": "행",
+    "example_en": "He is hanging a picture on the wall.",
+    "example_ko": "그는 벽에 그림을 걸고 있다.",
+    "topic": [
+      "action",
+      "object"
+    ],
+    "frequency_tier": 1,
+    "synonyms": [
+      "suspend"
+    ],
+    "distractors": [
+      "hand",
+      "hank",
+      "hung"
+    ]
+  },
+  {
+    "id": "toeic-p1-post",
+    "part": 1,
+    "word": "post",
+    "pos": "verb",
+    "meaning_ko": "게시하다",
+    "ipa": "/poʊst/",
+    "pron_ko": "포스트",
+    "example_en": "She is posting a notice on the board.",
+    "example_ko": "그녀는 게시판에 공지를 게시하고 있다.",
+    "topic": [
+      "action"
+    ],
+    "frequency_tier": 1,
+    "synonyms": [
+      "put up"
+    ],
+    "distractors": [
+      "post",
+      "past",
+      "pose"
+    ]
+  },
+  {
+    "id": "toeic-p1-arrange",
+    "part": 1,
+    "word": "arrange",
+    "pos": "verb",
+    "meaning_ko": "정리하다",
+    "ipa": "/əˈreɪndʒ/",
+    "pron_ko": "어레인지",
+    "example_en": "He is arranging flowers in a vase.",
+    "example_ko": "그는 꽃병에 꽃을 정리하고 있다.",
+    "topic": [
+      "action"
+    ],
+    "frequency_tier": 1,
+    "synonyms": [
+      "organize"
+    ],
+    "distractors": [
+      "arrange",
+      "arouse",
+      "rearrange"
+    ]
+  },
+  {
+    "id": "toeic-p1-sort",
+    "part": 1,
+    "word": "sort",
+    "pos": "verb",
+    "meaning_ko": "분류하다",
+    "ipa": "/sɔːrt/",
+    "pron_ko": "소트",
+    "example_en": "Workers are sorting packages.",
+    "example_ko": "작업자들이 소포를 분류하고 있다.",
+    "topic": [
+      "action"
+    ],
+    "frequency_tier": 1,
+    "synonyms": [
+      "classify"
+    ],
+    "distractors": [
+      "sort",
+      "sport",
+      "short"
+    ]
+  },
+  {
+    "id": "toeic-p1-wipe",
+    "part": 1,
+    "word": "wipe",
+    "pos": "verb",
+    "meaning_ko": "닦다",
+    "ipa": "/waɪp/",
+    "pron_ko": "와이프",
+    "example_en": "A waiter is wiping a table.",
+    "example_ko": "웨이터가 테이블을 닦고 있다.",
+    "topic": [
+      "action"
+    ],
+    "frequency_tier": 1,
+    "synonyms": [
+      "clean"
+    ],
+    "distractors": [
+      "wipe",
+      "wipe",
+      "wide"
+    ]
+  },
+  {
+    "id": "toeic-p1-polish",
+    "part": 1,
+    "word": "polish",
+    "pos": "verb",
+    "meaning_ko": "윤내다",
+    "ipa": "/ˈpɒlɪʃ/",
+    "pron_ko": "폴리시",
+    "example_en": "She is polishing the silverware.",
+    "example_ko": "그녀는 은식기를 윤내고 있다.",
+    "topic": [
+      "action"
+    ],
+    "frequency_tier": 2,
+    "synonyms": [
+      "shine"
+    ],
+    "distractors": [
+      "polish",
+      "punish",
+      "publish"
+    ]
+  },
+  {
+    "id": "toeic-p1-fold",
+    "part": 1,
+    "word": "fold",
+    "pos": "verb",
+    "meaning_ko": "접다",
+    "ipa": "/foʊld/",
+    "pron_ko": "폴드",
+    "example_en": "He is folding a newspaper.",
+    "example_ko": "그는 신문을 접고 있다.",
+    "topic": [
+      "action"
+    ],
+    "frequency_tier": 1,
+    "synonyms": [
+      "bend"
+    ],
+    "distractors": [
+      "fold",
+      "field",
+      "food"
+    ]
+  },
+  {
+    "id": "toeic-p1-unfold",
+    "part": 1,
+    "word": "unfold",
+    "pos": "verb",
+    "meaning_ko": "펼치다",
+    "ipa": "/ʌnˈfoʊld/",
+    "pron_ko": "언폴드",
+    "example_en": "She is unfolding a map.",
+    "example_ko": "그녀는 지도를 펼치고 있다.",
+    "topic": [
+      "action"
+    ],
+    "frequency_tier": 2,
+    "synonyms": [
+      "open"
+    ],
+    "distractors": [
+      "unfold",
+      "unsold",
+      "fold"
+    ]
+  },
+  {
+    "id": "toeic-p1-iron",
+    "part": 1,
+    "word": "iron",
+    "pos": "verb",
+    "meaning_ko": "다림질하다",
+    "ipa": "/ˈaɪərn/",
+    "pron_ko": "아이언",
+    "example_en": "He is ironing a shirt.",
+    "example_ko": "그는 셔츠를 다림질하고 있다.",
+    "topic": [
+      "action"
+    ],
+    "frequency_tier": 2,
+    "synonyms": [
+      "press"
+    ],
+    "distractors": [
+      "iron",
+      "irony",
+      "icon"
+    ]
+  },
+  {
+    "id": "toeic-p1-mow",
+    "part": 1,
+    "word": "mow",
+    "pos": "verb",
+    "meaning_ko": "잔디 깎다",
+    "ipa": "/moʊ/",
+    "pron_ko": "모우",
+    "example_en": "A gardener is mowing the lawn.",
+    "example_ko": "정원사가 잔디를 깎고 있다.",
+    "topic": [
+      "action"
+    ],
+    "frequency_tier": 2,
+    "synonyms": [
+      "trim"
+    ],
+    "distractors": [
+      "mow",
+      "mop",
+      "move"
+    ]
+  },
+  {
+    "id": "toeic-p1-rake",
+    "part": 1,
+    "word": "rake",
+    "pos": "verb",
+    "meaning_ko": "갈퀴질하다",
+    "ipa": "/reɪk/",
+    "pron_ko": "레이크",
+    "example_en": "She is raking leaves.",
+    "example_ko": "그녀는 낙엽을 갈퀴질하고 있다.",
+    "topic": [
+      "action"
+    ],
+    "frequency_tier": 2,
+    "synonyms": [
+      "gather"
+    ],
+    "distractors": [
+      "rack",
+      "wake",
+      "rake"
+    ]
+  },
+  {
+    "id": "toeic-p1-ladder",
+    "part": 1,
+    "word": "ladder",
+    "pos": "noun",
+    "meaning_ko": "사다리",
+    "ipa": "/ˈlædər/",
+    "pron_ko": "래더",
+    "example_en": "A man is climbing a ladder.",
+    "example_ko": "한 남자가 사다리를 오르고 있다.",
+    "topic": [
+      "object"
+    ],
+    "frequency_tier": 1,
+    "synonyms": [
+      "step"
+    ],
+    "distractors": [
+      "letter",
+      "latter",
+      "leader"
+    ]
+  },
+  {
+    "id": "toeic-p1-scaffold",
+    "part": 1,
+    "word": "scaffold",
+    "pos": "noun",
+    "meaning_ko": "비계",
+    "ipa": "/ˈskæfoʊld/",
+    "pron_ko": "스캐폴드",
+    "example_en": "Workers are standing on a scaffold.",
+    "example_ko": "작업자들이 비계 위에 서 있다.",
+    "topic": [
+      "object",
+      "place"
+    ],
+    "frequency_tier": 2,
+    "synonyms": [
+      "platform"
+    ],
+    "distractors": [
+      "scaffold",
+      "scaffolds",
+      "scaffolding"
+    ]
+  },
+  {
+    "id": "toeic-p1-warehouse",
+    "part": 1,
+    "word": "warehouse",
+    "pos": "noun",
+    "meaning_ko": "창고",
+    "ipa": "/ˈweərhaʊs/",
+    "pron_ko": "웨어하우스",
+    "example_en": "Boxes are being stored in the warehouse.",
+    "example_ko": "상자가 창고에 보관되고 있다.",
+    "topic": [
+      "place"
+    ],
+    "frequency_tier": 1,
+    "synonyms": [
+      "storage"
+    ],
+    "distractors": [
+      "warehouse",
+      "workhouse",
+      "warhouse"
+    ]
+  },
+  {
+    "id": "toeic-p1-dock",
+    "part": 1,
+    "word": "dock",
+    "pos": "noun",
+    "meaning_ko": "부두",
+    "ipa": "/dɒk/",
+    "pron_ko": "도크",
+    "example_en": "A ship is tied at the dock.",
+    "example_ko": "배가 부두에 묶여 있다.",
+    "topic": [
+      "place",
+      "transport"
+    ],
+    "frequency_tier": 1,
+    "synonyms": [
+      "pier"
+    ],
+    "distractors": [
+      "dot",
+      "dose",
+      "deck"
+    ]
+  },
+  {
+    "id": "toeic-p1-pier",
+    "part": 1,
+    "word": "pier",
+    "pos": "noun",
+    "meaning_ko": "부두",
+    "ipa": "/pɪər/",
+    "pron_ko": "피어",
+    "example_en": "People are fishing from the pier.",
+    "example_ko": "사람들이 부두에서 낚시하고 있다.",
+    "topic": [
+      "place",
+      "transport"
+    ],
+    "frequency_tier": 2,
+    "synonyms": [
+      "wharf"
+    ],
+    "distractors": [
+      "peer",
+      "pier",
+      "pearl"
+    ]
+  },
+  {
+    "id": "toeic-p1-crate",
+    "part": 1,
+    "word": "crate",
+    "pos": "noun",
+    "meaning_ko": "나무상자",
+    "ipa": "/kreɪt/",
+    "pron_ko": "크레이트",
+    "example_en": "Workers are unloading crates.",
+    "example_ko": "작업자들이 나무상자를 내리고 있다.",
+    "topic": [
+      "object"
+    ],
+    "frequency_tier": 2,
+    "synonyms": [
+      "box"
+    ],
+    "distractors": [
+      "create",
+      "crate",
+      "crater"
+    ]
+  },
+  {
+    "id": "toeic-p1-carton",
+    "part": 1,
+    "word": "carton",
+    "pos": "noun",
+    "meaning_ko": "판지상자",
+    "ipa": "/ˈkɑːrtən/",
+    "pron_ko": "카튼",
+    "example_en": "She is carrying a carton.",
+    "example_ko": "그녀는 판지상자를 나르고 있다.",
+    "topic": [
+      "object"
+    ],
+    "frequency_tier": 2,
+    "synonyms": [
+      "box"
+    ],
+    "distractors": [
+      "cartoon",
+      "carbon",
+      "caution"
+    ]
+  },
+  {
+    "id": "toeic-p1-cart",
+    "part": 1,
+    "word": "cart",
+    "pos": "noun",
+    "meaning_ko": "카트",
+    "ipa": "/kɑːrt/",
+    "pron_ko": "카트",
+    "example_en": "A worker is pushing a cart.",
+    "example_ko": "작업자가 카트를 밀고 있다.",
+    "topic": [
+      "object",
+      "transport"
+    ],
+    "frequency_tier": 1,
+    "synonyms": [
+      "trolley"
+    ],
+    "distractors": [
+      "cart",
+      "cast",
+      "cute"
+    ]
+  },
+  {
+    "id": "toeic-p1-trolley",
+    "part": 1,
+    "word": "trolley",
+    "pos": "noun",
+    "meaning_ko": "수레",
+    "ipa": "/ˈtrɒli/",
+    "pron_ko": "트롤리",
+    "example_en": "A trolley is full of luggage.",
+    "example_ko": "수레가 짐으로 가득 차 있다.",
+    "topic": [
+      "object",
+      "transport"
+    ],
+    "frequency_tier": 2,
+    "synonyms": [
+      "cart"
+    ],
+    "distractors": [
+      "trolley",
+      "trolleys",
+      "tray"
+    ]
+  },
+  {
+    "id": "toeic-p1-conveyor",
+    "part": 1,
+    "word": "conveyor",
+    "pos": "noun",
+    "meaning_ko": "컨베이어",
+    "ipa": "/kənˈveɪər/",
+    "pron_ko": "컨베이어",
+    "example_en": "Packages are moving on the conveyor.",
+    "example_ko": "소포들이 컨베이어 위에서 움직이고 있다.",
+    "topic": [
+      "object"
+    ],
+    "frequency_tier": 2,
+    "synonyms": [
+      "belt"
+    ],
+    "distractors": [
+      "conveyor",
+      "conveyance",
+      "conveyance"
+    ]
+  },
+  {
+    "id": "toeic-p1-forklift",
+    "part": 1,
+    "word": "forklift",
+    "pos": "noun",
+    "meaning_ko": "지게차",
+    "ipa": "/ˈfɔːrklɪft/",
+    "pron_ko": "포크리프트",
+    "example_en": "A worker is operating a forklift.",
+    "example_ko": "작업자가 지게차를 운전하고 있다.",
+    "topic": [
+      "object",
+      "transport"
+    ],
+    "frequency_tier": 2,
+    "synonyms": [
+      "lift truck"
+    ],
+    "distractors": [
+      "forklift",
+      "forklifts",
+      "forks"
+    ]
+  },
+  {
+    "id": "toeic-p1-luggage",
+    "part": 1,
+    "word": "luggage",
+    "pos": "noun",
+    "meaning_ko": "수하물",
+    "ipa": "/ˈlʌɡɪdʒ/",
+    "pron_ko": "러기지",
+    "example_en": "Travelers are picking up their luggage.",
+    "example_ko": "여행객들이 수하물을 찾고 있다.",
+    "topic": [
+      "object",
+      "transport"
+    ],
+    "frequency_tier": 1,
+    "synonyms": [
+      "baggage"
+    ],
+    "distractors": [
+      "luggage",
+      "leakage",
+      "linkage"
+    ]
+  },
+  {
+    "id": "toeic-p1-suitcase",
+    "part": 1,
+    "word": "suitcase",
+    "pos": "noun",
+    "meaning_ko": "여행가방",
+    "ipa": "/ˈsuːtkeɪs/",
+    "pron_ko": "숫케이스",
+    "example_en": "She is wheeling a suitcase.",
+    "example_ko": "그녀는 여행가방을 끌고 가고 있다.",
+    "topic": [
+      "object",
+      "transport"
+    ],
+    "frequency_tier": 1,
+    "synonyms": [
+      "bag"
+    ],
+    "distractors": [
+      "suitcase",
+      "suitcases",
+      "suite"
+    ]
+  },
+  {
+    "id": "toeic-p1-briefcase",
+    "part": 1,
+    "word": "briefcase",
+    "pos": "noun",
+    "meaning_ko": "서류가방",
+    "ipa": "/ˈbriːfkeɪs/",
+    "pron_ko": "브리프케이스",
+    "example_en": "He is holding a briefcase.",
+    "example_ko": "그는 서류가방을 들고 있다.",
+    "topic": [
+      "object"
+    ],
+    "frequency_tier": 1,
+    "synonyms": [
+      "bag"
+    ],
+    "distractors": [
+      "briefcase",
+      "briefcases",
+      "brief"
+    ]
+  },
+  {
+    "id": "toeic-p1-backpack",
+    "part": 1,
+    "word": "backpack",
+    "pos": "noun",
+    "meaning_ko": "배낭",
+    "ipa": "/ˈbækpæk/",
+    "pron_ko": "백팩",
+    "example_en": "A student is wearing a backpack.",
+    "example_ko": "학생이 배낭을 메고 있다.",
+    "topic": [
+      "object",
+      "clothing"
+    ],
+    "frequency_tier": 1,
+    "synonyms": [
+      "rucksack"
+    ],
+    "distractors": [
+      "backpack",
+      "backpacks",
+      "knapsack"
+    ]
+  },
+  {
+    "id": "toeic-p1-apron",
+    "part": 1,
+    "word": "apron",
+    "pos": "noun",
+    "meaning_ko": "앞치마",
+    "ipa": "/ˈeɪprən/",
+    "pron_ko": "에이프런",
+    "example_en": "The chef is wearing an apron.",
+    "example_ko": "요리사가 앞치마를 입고 있다.",
+    "topic": [
+      "clothing"
+    ],
+    "frequency_tier": 2,
+    "synonyms": [
+      "pinafore"
+    ],
+    "distractors": [
+      "apron",
+      "aprons",
+      "apple"
+    ]
+  },
+  {
+    "id": "toeic-p1-vest",
+    "part": 1,
+    "word": "vest",
+    "pos": "noun",
+    "meaning_ko": "조끼",
+    "ipa": "/vest/",
+    "pron_ko": "베스트",
+    "example_en": "Workers are wearing safety vests.",
+    "example_ko": "작업자들이 안전 조끼를 입고 있다.",
+    "topic": [
+      "clothing"
+    ],
+    "frequency_tier": 1,
+    "synonyms": [
+      "jacket"
+    ],
+    "distractors": [
+      "best",
+      "test",
+      "west"
+    ]
+  },
+  {
+    "id": "toeic-p1-glove",
+    "part": 1,
+    "word": "glove",
+    "pos": "noun",
+    "meaning_ko": "장갑",
+    "ipa": "/ɡlʌv/",
+    "pron_ko": "글러브",
+    "example_en": "She is wearing rubber gloves.",
+    "example_ko": "그녀는 고무 장갑을 끼고 있다.",
+    "topic": [
+      "clothing",
+      "object"
+    ],
+    "frequency_tier": 1,
+    "synonyms": [
+      "mitten"
+    ],
+    "distractors": [
+      "globe",
+      "gloves",
+      "grove"
+    ]
+  },
+  {
+    "id": "toeic-p1-goggles",
+    "part": 1,
+    "word": "goggles",
+    "pos": "noun",
+    "meaning_ko": "고글",
+    "ipa": "/ˈɡɒɡəlz/",
+    "pron_ko": "고글스",
+    "example_en": "He is wearing safety goggles.",
+    "example_ko": "그는 안전 고글을 쓰고 있다.",
+    "topic": [
+      "clothing",
+      "object"
+    ],
+    "frequency_tier": 2,
+    "synonyms": [
+      "glasses"
+    ],
+    "distractors": [
+      "goggle",
+      "gogles",
+      "googles"
+    ]
+  },
+  {
+    "id": "toeic-p1-eyewear",
+    "part": 1,
+    "word": "eyewear",
+    "pos": "noun",
+    "meaning_ko": "안경류",
+    "ipa": "/ˈaɪwer/",
+    "pron_ko": "아이웨어",
+    "example_en": "She is selecting eyewear.",
+    "example_ko": "그녀는 안경류를 고르고 있다.",
+    "topic": [
+      "clothing",
+      "object"
+    ],
+    "frequency_tier": 2,
+    "synonyms": [
+      "glasses"
+    ],
+    "distractors": [
+      "eyewear",
+      "eyewash",
+      "eyewears"
+    ]
+  },
+  {
+    "id": "toeic-p1-scarf",
+    "part": 1,
+    "word": "scarf",
+    "pos": "noun",
+    "meaning_ko": "스카프",
+    "ipa": "/skɑːrf/",
+    "pron_ko": "스카프",
+    "example_en": "A woman is tying a scarf.",
+    "example_ko": "한 여자가 스카프를 매고 있다.",
+    "topic": [
+      "clothing"
+    ],
+    "frequency_tier": 2,
+    "synonyms": [
+      "shawl"
+    ],
+    "distractors": [
+      "scarf",
+      "scrap",
+      "scarce"
+    ]
+  },
+  {
+    "id": "toeic-p1-coat",
+    "part": 1,
+    "word": "coat",
+    "pos": "noun",
+    "meaning_ko": "외투",
+    "ipa": "/koʊt/",
+    "pron_ko": "코트",
+    "example_en": "He is hanging up his coat.",
+    "example_ko": "그는 외투를 걸고 있다.",
+    "topic": [
+      "clothing"
+    ],
+    "frequency_tier": 1,
+    "synonyms": [
+      "jacket"
+    ],
+    "distractors": [
+      "coat",
+      "cost",
+      "cut"
+    ]
+  },
+  {
+    "id": "toeic-p1-blazer",
+    "part": 1,
+    "word": "blazer",
+    "pos": "noun",
+    "meaning_ko": "블레이저",
+    "ipa": "/ˈbleɪzər/",
+    "pron_ko": "블레이저",
+    "example_en": "She is wearing a blazer.",
+    "example_ko": "그녀는 블레이저를 입고 있다.",
+    "topic": [
+      "clothing"
+    ],
+    "frequency_tier": 2,
+    "synonyms": [
+      "jacket"
+    ],
+    "distractors": [
+      "blazer",
+      "blazing",
+      "blender"
+    ]
+  },
+  {
+    "id": "toeic-p1-podium",
+    "part": 1,
+    "word": "podium",
+    "pos": "noun",
+    "meaning_ko": "연단",
+    "ipa": "/ˈpoʊdiəm/",
+    "pron_ko": "포디엄",
+    "example_en": "A speaker is standing at the podium.",
+    "example_ko": "연설자가 연단에 서 있다.",
+    "topic": [
+      "object",
+      "place"
+    ],
+    "frequency_tier": 2,
+    "synonyms": [
+      "platform"
+    ],
+    "distractors": [
+      "podium",
+      "pollen",
+      "podcast"
+    ]
+  },
+  {
+    "id": "toeic-p1-microphone",
+    "part": 1,
+    "word": "microphone",
+    "pos": "noun",
+    "meaning_ko": "마이크",
+    "ipa": "/ˈmaɪkrəfoʊn/",
+    "pron_ko": "마이크로폰",
+    "example_en": "She is adjusting the microphone.",
+    "example_ko": "그녀는 마이크를 조정하고 있다.",
+    "topic": [
+      "object"
+    ],
+    "frequency_tier": 1,
+    "synonyms": [
+      "mic"
+    ],
+    "distractors": [
+      "microscope",
+      "microwave",
+      "microphone"
+    ]
+  },
+  {
+    "id": "toeic-p1-projector",
+    "part": 1,
+    "word": "projector",
+    "pos": "noun",
+    "meaning_ko": "프로젝터",
+    "ipa": "/prəˈdʒektər/",
+    "pron_ko": "프로젝터",
+    "example_en": "A projector is mounted on the ceiling.",
+    "example_ko": "프로젝터가 천장에 장착되어 있다.",
+    "topic": [
+      "object"
+    ],
+    "frequency_tier": 2,
+    "synonyms": [
+      "beamer"
+    ],
+    "distractors": [
+      "projector",
+      "project",
+      "protector"
+    ]
+  },
+  {
+    "id": "toeic-p1-blackboard",
+    "part": 1,
+    "word": "blackboard",
+    "pos": "noun",
+    "meaning_ko": "칠판",
+    "ipa": "/ˈblækbɔːrd/",
+    "pron_ko": "블랙보드",
+    "example_en": "A teacher is writing on the blackboard.",
+    "example_ko": "선생님이 칠판에 쓰고 있다.",
+    "topic": [
+      "object"
+    ],
+    "frequency_tier": 2,
+    "synonyms": [
+      "chalkboard"
+    ],
+    "distractors": [
+      "blackboard",
+      "backboard",
+      "cardboard"
+    ]
+  },
+  {
+    "id": "toeic-p1-whiteboard",
+    "part": 1,
+    "word": "whiteboard",
+    "pos": "noun",
+    "meaning_ko": "화이트보드",
+    "ipa": "/ˈwaɪtbɔːrd/",
+    "pron_ko": "화이트보드",
+    "example_en": "Notes are written on the whiteboard.",
+    "example_ko": "메모가 화이트보드에 적혀 있다.",
+    "topic": [
+      "object"
+    ],
+    "frequency_tier": 1,
+    "synonyms": [
+      "board"
+    ],
+    "distractors": [
+      "whiteboard",
+      "wheelboard",
+      "whitewash"
+    ]
+  },
+  {
+    "id": "toeic-p1-counter",
+    "part": 1,
+    "word": "counter",
+    "pos": "noun",
+    "meaning_ko": "계산대",
+    "ipa": "/ˈkaʊntər/",
+    "pron_ko": "카운터",
+    "example_en": "A clerk is standing behind the counter.",
+    "example_ko": "점원이 계산대 뒤에 서 있다.",
+    "topic": [
+      "place",
+      "object"
+    ],
+    "frequency_tier": 1,
+    "synonyms": [
+      "desk"
+    ],
+    "distractors": [
+      "counter",
+      "country",
+      "countdown"
+    ]
+  },
+  {
+    "id": "toeic-p1-cashier",
+    "part": 1,
+    "word": "cashier",
+    "pos": "noun",
+    "meaning_ko": "계산원",
+    "ipa": "/kæˈʃɪər/",
+    "pron_ko": "캐셔",
+    "example_en": "A cashier is scanning items.",
+    "example_ko": "계산원이 물품을 스캔하고 있다.",
+    "topic": [
+      "action",
+      "place"
+    ],
+    "frequency_tier": 1,
+    "synonyms": [
+      "clerk"
+    ],
+    "distractors": [
+      "cashier",
+      "cashbar",
+      "cashews"
+    ]
+  },
+  {
+    "id": "toeic-p1-register",
+    "part": 1,
+    "word": "register",
+    "pos": "noun",
+    "meaning_ko": "계산대",
+    "ipa": "/ˈredʒɪstər/",
+    "pron_ko": "레지스터",
+    "example_en": "The register is at the front.",
+    "example_ko": "계산대는 앞쪽에 있다.",
+    "topic": [
+      "object"
+    ],
+    "frequency_tier": 1,
+    "synonyms": [
+      "till"
+    ],
+    "distractors": [
+      "register",
+      "reggae",
+      "regiment"
+    ]
+  },
+  {
+    "id": "toeic-p1-merchandise",
+    "part": 1,
+    "word": "merchandise",
+    "pos": "noun",
+    "meaning_ko": "상품",
+    "ipa": "/ˈmɜːrtʃəndaɪz/",
+    "pron_ko": "머천다이즈",
+    "example_en": "Merchandise is on display.",
+    "example_ko": "상품이 진열되어 있다.",
+    "topic": [
+      "object"
+    ],
+    "frequency_tier": 1,
+    "synonyms": [
+      "goods"
+    ],
+    "distractors": [
+      "merchandise",
+      "merchants",
+      "merchandising"
+    ]
+  },
+  {
+    "id": "toeic-p1-shelf",
+    "part": 1,
+    "word": "shelf",
+    "pos": "noun",
+    "meaning_ko": "선반",
+    "ipa": "/ʃelf/",
+    "pron_ko": "쉘프",
+    "example_en": "Books are arranged on the shelf.",
+    "example_ko": "책이 선반에 정리되어 있다.",
+    "topic": [
+      "object",
+      "place"
+    ],
+    "frequency_tier": 1,
+    "synonyms": [
+      "rack"
+    ],
+    "distractors": [
+      "shelf",
+      "shell",
+      "self"
+    ]
+  },
+  {
+    "id": "toeic-p1-rack",
+    "part": 1,
+    "word": "rack",
+    "pos": "noun",
+    "meaning_ko": "선반",
+    "ipa": "/ræk/",
+    "pron_ko": "랙",
+    "example_en": "Coats are hanging on the rack.",
+    "example_ko": "외투가 선반에 걸려 있다.",
+    "topic": [
+      "object"
+    ],
+    "frequency_tier": 1,
+    "synonyms": [
+      "shelf"
+    ],
+    "distractors": [
+      "rack",
+      "rake",
+      "rock"
+    ]
+  },
+  {
+    "id": "toeic-p1-bin",
+    "part": 1,
+    "word": "bin",
+    "pos": "noun",
+    "meaning_ko": "쓰레기통",
+    "ipa": "/bɪn/",
+    "pron_ko": "빈",
+    "example_en": "A bin is next to the desk.",
+    "example_ko": "쓰레기통이 책상 옆에 있다.",
+    "topic": [
+      "object"
+    ],
+    "frequency_tier": 2,
+    "synonyms": [
+      "container"
+    ],
+    "distractors": [
+      "bin",
+      "bun",
+      "ban"
+    ]
+  },
+  {
+    "id": "toeic-p1-trash",
+    "part": 1,
+    "word": "trash",
+    "pos": "noun",
+    "meaning_ko": "쓰레기",
+    "ipa": "/træʃ/",
+    "pron_ko": "트래시",
+    "example_en": "He is taking out the trash.",
+    "example_ko": "그는 쓰레기를 내다 버리고 있다.",
+    "topic": [
+      "object",
+      "action"
+    ],
+    "frequency_tier": 1,
+    "synonyms": [
+      "garbage"
+    ],
+    "distractors": [
+      "trash",
+      "track",
+      "treat"
+    ]
+  },
+  {
+    "id": "toeic-p1-recycle",
+    "part": 1,
+    "word": "recycle",
+    "pos": "verb",
+    "meaning_ko": "재활용하다",
+    "ipa": "/riˈsaɪkəl/",
+    "pron_ko": "리사이클",
+    "example_en": "Workers are recycling paper.",
+    "example_ko": "작업자들이 종이를 재활용하고 있다.",
+    "topic": [
+      "action"
+    ],
+    "frequency_tier": 1,
+    "synonyms": [
+      "reuse"
+    ],
+    "distractors": [
+      "recycle",
+      "cycle",
+      "reckon"
+    ]
+  },
+  {
+    "id": "toeic-p1-dispense",
+    "part": 1,
+    "word": "dispense",
+    "pos": "verb",
+    "meaning_ko": "나누어 주다",
+    "ipa": "/dɪˈspens/",
+    "pron_ko": "디스펜스",
+    "example_en": "A machine is dispensing drinks.",
+    "example_ko": "기계가 음료를 나누어 주고 있다.",
+    "topic": [
+      "action"
+    ],
+    "frequency_tier": 2,
+    "synonyms": [
+      "distribute"
+    ],
+    "distractors": [
+      "dispense",
+      "disperse",
+      "dispatch"
+    ]
+  },
+  {
+    "id": "toeic-p1-serve",
+    "part": 1,
+    "word": "serve",
+    "pos": "verb",
+    "meaning_ko": "서빙하다",
+    "ipa": "/sɜːrv/",
+    "pron_ko": "서브",
+    "example_en": "A waiter is serving customers.",
+    "example_ko": "웨이터가 손님에게 서빙하고 있다.",
+    "topic": [
+      "action"
+    ],
+    "frequency_tier": 1,
+    "synonyms": [
+      "wait on"
+    ],
+    "distractors": [
+      "serve",
+      "server",
+      "severe"
+    ]
+  },
+  {
+    "id": "toeic-p1-clear",
+    "part": 1,
+    "word": "clear",
+    "pos": "verb",
+    "meaning_ko": "치우다",
+    "ipa": "/klɪər/",
+    "pron_ko": "클리어",
+    "example_en": "She is clearing the table.",
+    "example_ko": "그녀는 테이블을 치우고 있다.",
+    "topic": [
+      "action"
+    ],
+    "frequency_tier": 1,
+    "synonyms": [
+      "empty"
+    ],
+    "distractors": [
+      "clear",
+      "clean",
+      "cleric"
+    ]
+  },
+  {
+    "id": "toeic-p1-set",
+    "part": 1,
+    "word": "set",
+    "pos": "verb",
+    "meaning_ko": "차리다",
+    "ipa": "/set/",
+    "pron_ko": "셋",
+    "example_en": "He is setting the table.",
+    "example_ko": "그는 테이블을 차리고 있다.",
+    "topic": [
+      "action"
+    ],
+    "frequency_tier": 1,
+    "synonyms": [
+      "lay"
+    ],
+    "distractors": [
+      "set",
+      "sit",
+      "sat"
+    ]
+  },
+  {
+    "id": "toeic-p1-greet",
+    "part": 1,
+    "word": "greet",
+    "pos": "verb",
+    "meaning_ko": "맞이하다",
+    "ipa": "/ɡriːt/",
+    "pron_ko": "그릿",
+    "example_en": "A host is greeting guests.",
+    "example_ko": "주최자가 손님을 맞이하고 있다.",
+    "topic": [
+      "action"
+    ],
+    "frequency_tier": 1,
+    "synonyms": [
+      "welcome"
+    ],
+    "distractors": [
+      "greet",
+      "grit",
+      "great"
+    ]
+  },
+  {
+    "id": "toeic-p1-shake",
+    "part": 1,
+    "word": "shake",
+    "pos": "verb",
+    "meaning_ko": "흔들다",
+    "ipa": "/ʃeɪk/",
+    "pron_ko": "쉐이크",
+    "example_en": "They are shaking hands.",
+    "example_ko": "그들은 악수를 하고 있다.",
+    "topic": [
+      "action"
+    ],
+    "frequency_tier": 1,
+    "synonyms": [
+      "jiggle"
+    ],
+    "distractors": [
+      "shake",
+      "shape",
+      "stake"
+    ]
+  },
+  {
+    "id": "toeic-p1-hold",
+    "part": 1,
+    "word": "hold",
+    "pos": "verb",
+    "meaning_ko": "들다",
+    "ipa": "/hoʊld/",
+    "pron_ko": "홀드",
+    "example_en": "She is holding a clipboard.",
+    "example_ko": "그녀는 클립보드를 들고 있다.",
+    "topic": [
+      "action"
+    ],
+    "frequency_tier": 1,
+    "synonyms": [
+      "grasp"
+    ],
+    "distractors": [
+      "hold",
+      "halt",
+      "hood"
+    ]
+  },
+  {
+    "id": "toeic-p1-carry",
+    "part": 1,
+    "word": "carry",
+    "pos": "verb",
+    "meaning_ko": "나르다",
+    "ipa": "/ˈkæri/",
+    "pron_ko": "캐리",
+    "example_en": "Workers are carrying boxes.",
+    "example_ko": "작업자들이 상자를 나르고 있다.",
+    "topic": [
+      "action"
+    ],
+    "frequency_tier": 1,
+    "synonyms": [
+      "transport"
+    ],
+    "distractors": [
+      "carry",
+      "currency",
+      "career"
+    ]
+  },
+  {
+    "id": "toeic-p1-push",
+    "part": 1,
+    "word": "push",
+    "pos": "verb",
+    "meaning_ko": "밀다",
+    "ipa": "/pʊʃ/",
+    "pron_ko": "푸시",
+    "example_en": "A man is pushing a cart.",
+    "example_ko": "한 남자가 카트를 밀고 있다.",
+    "topic": [
+      "action"
+    ],
+    "frequency_tier": 1,
+    "synonyms": [
+      "shove"
+    ],
+    "distractors": [
+      "push",
+      "put",
+      "pull"
+    ]
+  },
+  {
+    "id": "toeic-p1-pull",
+    "part": 1,
+    "word": "pull",
+    "pos": "verb",
+    "meaning_ko": "당기다",
+    "ipa": "/pʊl/",
+    "pron_ko": "풀",
+    "example_en": "She is pulling a suitcase.",
+    "example_ko": "그녀는 여행가방을 당기고 있다.",
+    "topic": [
+      "action"
+    ],
+    "frequency_tier": 1,
+    "synonyms": [
+      "drag"
+    ],
+    "distractors": [
+      "pull",
+      "pool",
+      "peel"
+    ]
+  },
+  {
+    "id": "toeic-p1-lift",
+    "part": 1,
+    "word": "lift",
+    "pos": "verb",
+    "meaning_ko": "들어 올리다",
+    "ipa": "/lɪft/",
+    "pron_ko": "리프트",
+    "example_en": "A worker is lifting a box.",
+    "example_ko": "작업자가 상자를 들어 올리고 있다.",
+    "topic": [
+      "action"
+    ],
+    "frequency_tier": 1,
+    "synonyms": [
+      "raise"
+    ],
+    "distractors": [
+      "lift",
+      "left",
+      "lifted"
+    ]
+  },
+  {
+    "id": "toeic-p1-operate",
+    "part": 1,
+    "word": "operate",
+    "pos": "verb",
+    "meaning_ko": "조작하다",
+    "ipa": "/ˈɒpəreɪt/",
+    "pron_ko": "오퍼레이트",
+    "example_en": "He is operating a machine.",
+    "example_ko": "그는 기계를 조작하고 있다.",
+    "topic": [
+      "action"
+    ],
+    "frequency_tier": 1,
+    "synonyms": [
+      "run"
+    ],
+    "distractors": [
+      "operate",
+      "operation",
+      "opera"
+    ]
+  },
+  {
+    "id": "toeic-p1-scan",
+    "part": 1,
+    "word": "scan",
+    "pos": "verb",
+    "meaning_ko": "스캔하다",
+    "ipa": "/skæn/",
+    "pron_ko": "스캔",
+    "example_en": "She is scanning documents.",
+    "example_ko": "그녀는 서류를 스캔하고 있다.",
+    "topic": [
+      "action"
+    ],
+    "frequency_tier": 1,
+    "synonyms": [
+      "read"
+    ],
+    "distractors": [
+      "scan",
+      "scant",
+      "scant"
+    ]
+  },
+  {
+    "id": "toeic-p1-photocopy",
+    "part": 1,
+    "word": "photocopy",
+    "pos": "verb",
+    "meaning_ko": "복사하다",
+    "ipa": "/ˈfoʊtoʊˌkɒpi/",
+    "pron_ko": "포토카피",
+    "example_en": "An assistant is photocopying papers.",
+    "example_ko": "조수가 종이를 복사하고 있다.",
+    "topic": [
+      "action"
+    ],
+    "frequency_tier": 2,
+    "synonyms": [
+      "copy"
+    ],
+    "distractors": [
+      "photocopy",
+      "photograph",
+      "photovolt"
+    ]
+  },
+  {
+    "id": "toeic-p1-file",
+    "part": 1,
+    "word": "file",
+    "pos": "verb",
+    "meaning_ko": "서류를 정리하다",
+    "ipa": "/faɪl/",
+    "pron_ko": "파일",
+    "example_en": "A clerk is filing documents.",
+    "example_ko": "사무원이 서류를 정리하고 있다.",
+    "topic": [
+      "action"
+    ],
+    "frequency_tier": 1,
+    "synonyms": [
+      "organize"
+    ],
+    "distractors": [
+      "file",
+      "fail",
+      "fill"
+    ]
+  },
+  {
+    "id": "toeic-p1-staple",
+    "part": 1,
+    "word": "staple",
+    "pos": "verb",
+    "meaning_ko": "스테이플로 묶다",
+    "ipa": "/ˈsteɪpəl/",
+    "pron_ko": "스테이플",
+    "example_en": "She is stapling reports.",
+    "example_ko": "그녀는 보고서를 스테이플로 묶고 있다.",
+    "topic": [
+      "action"
+    ],
+    "frequency_tier": 2,
+    "synonyms": [
+      "fasten"
+    ],
+    "distractors": [
+      "staple",
+      "simple",
+      "stable"
+    ]
+  },
+  {
+    "id": "toeic-p1-sign",
+    "part": 1,
+    "word": "sign",
+    "pos": "verb",
+    "meaning_ko": "서명하다",
+    "ipa": "/saɪn/",
+    "pron_ko": "사인",
+    "example_en": "He is signing a contract.",
+    "example_ko": "그는 계약서에 서명하고 있다.",
+    "topic": [
+      "action"
+    ],
+    "frequency_tier": 1,
+    "synonyms": [
+      "endorse"
+    ],
+    "distractors": [
+      "sign",
+      "sing",
+      "sigh"
+    ]
+  },
+  {
+    "id": "toeic-p1-present",
+    "part": 1,
+    "word": "present",
+    "pos": "verb",
+    "meaning_ko": "발표하다",
+    "ipa": "/prɪˈzent/",
+    "pron_ko": "프리젠트",
+    "example_en": "She is presenting a report.",
+    "example_ko": "그녀는 보고서를 발표하고 있다.",
+    "topic": [
+      "action"
+    ],
+    "frequency_tier": 1,
+    "synonyms": [
+      "show"
+    ],
+    "distractors": [
+      "present",
+      "prevent",
+      "preset"
+    ]
+  },
+  {
+    "id": "toeic-p1-point",
+    "part": 1,
+    "word": "point",
+    "pos": "verb",
+    "meaning_ko": "가리키다",
+    "ipa": "/pɔɪnt/",
+    "pron_ko": "포인트",
+    "example_en": "He is pointing at the screen.",
+    "example_ko": "그는 화면을 가리키고 있다.",
+    "topic": [
+      "action"
+    ],
+    "frequency_tier": 1,
+    "synonyms": [
+      "indicate"
+    ],
+    "distractors": [
+      "point",
+      "paint",
+      "pint"
+    ]
+  },
+  {
+    "id": "toeic-p1-write",
+    "part": 1,
+    "word": "write",
+    "pos": "verb",
+    "meaning_ko": "쓰다",
+    "ipa": "/raɪt/",
+    "pron_ko": "라이트",
+    "example_en": "She is writing in a notebook.",
+    "example_ko": "그녀는 공책에 쓰고 있다.",
+    "topic": [
+      "action"
+    ],
+    "frequency_tier": 1,
+    "synonyms": [
+      "note"
+    ],
+    "distractors": [
+      "wright",
+      "right",
+      "write"
+    ]
+  },
+  {
+    "id": "toeic-p1-read",
+    "part": 1,
+    "word": "read",
+    "pos": "verb",
+    "meaning_ko": "읽다",
+    "ipa": "/riːd/",
+    "pron_ko": "리드",
+    "example_en": "A passenger is reading a book.",
+    "example_ko": "승객이 책을 읽고 있다.",
+    "topic": [
+      "action"
+    ],
+    "frequency_tier": 1,
+    "synonyms": [
+      "peruse"
+    ],
+    "distractors": [
+      "read",
+      "red",
+      "ride"
+    ]
+  },
+  {
+    "id": "toeic-p1-listen",
+    "part": 1,
+    "word": "listen",
+    "pos": "verb",
+    "meaning_ko": "듣다",
+    "ipa": "/ˈlɪsən/",
+    "pron_ko": "리슨",
+    "example_en": "People are listening to the speaker.",
+    "example_ko": "사람들이 연설자의 말을 듣고 있다.",
+    "topic": [
+      "action"
+    ],
+    "frequency_tier": 1,
+    "synonyms": [
+      "hear"
+    ],
+    "distractors": [
+      "listen",
+      "listing",
+      "lessen"
+    ]
+  },
+  {
+    "id": "toeic-p1-speak",
+    "part": 1,
+    "word": "speak",
+    "pos": "verb",
+    "meaning_ko": "말하다",
+    "ipa": "/spiːk/",
+    "pron_ko": "스픽",
+    "example_en": "She is speaking on the phone.",
+    "example_ko": "그녀는 전화 통화 중이다.",
+    "topic": [
+      "action"
+    ],
+    "frequency_tier": 1,
+    "synonyms": [
+      "talk"
+    ],
+    "distractors": [
+      "speak",
+      "speck",
+      "spoke"
+    ]
+  },
+  {
+    "id": "toeic-p1-converse",
+    "part": 1,
+    "word": "converse",
+    "pos": "verb",
+    "meaning_ko": "대화하다",
+    "ipa": "/kənˈvɜːrs/",
+    "pron_ko": "컨버스",
+    "example_en": "Two colleagues are conversing.",
+    "example_ko": "두 동료가 대화하고 있다.",
+    "topic": [
+      "action"
+    ],
+    "frequency_tier": 2,
+    "synonyms": [
+      "chat"
+    ],
+    "distractors": [
+      "converse",
+      "conserve",
+      "conference"
+    ]
+  },
+  {
+    "id": "toeic-p1-discuss",
+    "part": 1,
+    "word": "discuss",
+    "pos": "verb",
+    "meaning_ko": "논의하다",
+    "ipa": "/dɪˈskʌs/",
+    "pron_ko": "디스커스",
+    "example_en": "They are discussing the plan.",
+    "example_ko": "그들은 계획을 논의하고 있다.",
+    "topic": [
+      "action"
+    ],
+    "frequency_tier": 1,
+    "synonyms": [
+      "talk over"
+    ],
+    "distractors": [
+      "discuss",
+      "disgust",
+      "district"
+    ]
+  },
+  {
+    "id": "toeic-p1-hand",
+    "part": 1,
+    "word": "hand",
+    "pos": "verb",
+    "meaning_ko": "건네다",
+    "ipa": "/hænd/",
+    "pron_ko": "핸드",
+    "example_en": "She is handing over a folder.",
+    "example_ko": "그녀는 폴더를 건네고 있다.",
+    "topic": [
+      "action"
+    ],
+    "frequency_tier": 1,
+    "synonyms": [
+      "pass"
+    ],
+    "distractors": [
+      "hand",
+      "hint",
+      "hood"
+    ]
+  },
+  {
+    "id": "toeic-p1-pass",
+    "part": 1,
+    "word": "pass",
+    "pos": "verb",
+    "meaning_ko": "건네다",
+    "ipa": "/pæs/",
+    "pron_ko": "패스",
+    "example_en": "He is passing a document.",
+    "example_ko": "그는 서류를 건네고 있다.",
+    "topic": [
+      "action"
+    ],
+    "frequency_tier": 1,
+    "synonyms": [
+      "hand"
+    ],
+    "distractors": [
+      "pass",
+      "past",
+      "pose"
+    ]
+  },
+  {
+    "id": "toeic-p1-walk",
+    "part": 1,
+    "word": "walk",
+    "pos": "verb",
+    "meaning_ko": "걷다",
+    "ipa": "/wɔːk/",
+    "pron_ko": "워크",
+    "example_en": "Pedestrians are walking down the street.",
+    "example_ko": "보행자들이 거리를 걷고 있다.",
+    "topic": [
+      "action"
+    ],
+    "frequency_tier": 1,
+    "synonyms": [
+      "stride"
+    ],
+    "distractors": [
+      "walk",
+      "work",
+      "wok"
+    ]
+  },
+  {
+    "id": "toeic-p1-stand",
+    "part": 1,
+    "word": "stand",
+    "pos": "verb",
+    "meaning_ko": "서다",
+    "ipa": "/stænd/",
+    "pron_ko": "스탠드",
+    "example_en": "Customers are standing in line.",
+    "example_ko": "손님들이 줄을 서 있다.",
+    "topic": [
+      "action"
+    ],
+    "frequency_tier": 1,
+    "synonyms": [
+      "upright"
+    ],
+    "distractors": [
+      "stand",
+      "stunned",
+      "stained"
+    ]
+  },
+  {
+    "id": "toeic-p1-sit",
+    "part": 1,
+    "word": "sit",
+    "pos": "verb",
+    "meaning_ko": "앉다",
+    "ipa": "/sɪt/",
+    "pron_ko": "싯",
+    "example_en": "Participants are sitting at the table.",
+    "example_ko": "참가자들이 테이블에 앉아 있다.",
+    "topic": [
+      "action"
+    ],
+    "frequency_tier": 1,
+    "synonyms": [
+      "seat"
+    ],
+    "distractors": [
+      "sit",
+      "sat",
+      "set"
+    ]
+  },
+  {
+    "id": "toeic-p1-face",
+    "part": 1,
+    "word": "face",
+    "pos": "verb",
+    "meaning_ko": "마주보다",
+    "ipa": "/feɪs/",
+    "pron_ko": "페이스",
+    "example_en": "Two men are facing each other.",
+    "example_ko": "두 남자가 서로 마주보고 있다.",
+    "topic": [
+      "action"
+    ],
+    "frequency_tier": 1,
+    "synonyms": [
+      "confront"
+    ],
+    "distractors": [
+      "face",
+      "fact",
+      "fade"
+    ]
+  },
+  {
+    "id": "toeic-p1-look",
+    "part": 1,
+    "word": "look",
+    "pos": "verb",
+    "meaning_ko": "보다",
+    "ipa": "/lʊk/",
+    "pron_ko": "룩",
+    "example_en": "She is looking at her watch.",
+    "example_ko": "그녀는 시계를 보고 있다.",
+    "topic": [
+      "action"
+    ],
+    "frequency_tier": 1,
+    "synonyms": [
+      "glance"
+    ],
+    "distractors": [
+      "look",
+      "lock",
+      "leak"
+    ]
+  },
+  {
+    "id": "toeic-p1-watch",
+    "part": 1,
+    "word": "watch",
+    "pos": "verb",
+    "meaning_ko": "지켜보다",
+    "ipa": "/wɒtʃ/",
+    "pron_ko": "워치",
+    "example_en": "Spectators are watching a game.",
+    "example_ko": "관중이 경기를 지켜보고 있다.",
+    "topic": [
+      "action"
+    ],
+    "frequency_tier": 1,
+    "synonyms": [
+      "observe"
+    ],
+    "distractors": [
+      "watch",
+      "wash",
+      "witch"
+    ]
+  },
+  {
+    "id": "toeic-p1-observe",
+    "part": 1,
+    "word": "observe",
+    "pos": "verb",
+    "meaning_ko": "관찰하다",
+    "ipa": "/əbˈzɜːrv/",
+    "pron_ko": "옵저브",
+    "example_en": "A scientist is observing samples.",
+    "example_ko": "과학자가 시료를 관찰하고 있다.",
+    "topic": [
+      "action"
+    ],
+    "frequency_tier": 1,
+    "synonyms": [
+      "watch"
+    ],
+    "distractors": [
+      "observe",
+      "obscure",
+      "observe"
+    ]
+  },
+  {
+    "id": "toeic-p1-study",
+    "part": 1,
+    "word": "study",
+    "pos": "verb",
+    "meaning_ko": "공부하다",
+    "ipa": "/ˈstʌdi/",
+    "pron_ko": "스터디",
+    "example_en": "Students are studying together.",
+    "example_ko": "학생들이 함께 공부하고 있다.",
+    "topic": [
+      "action"
+    ],
+    "frequency_tier": 1,
+    "synonyms": [
+      "learn"
+    ],
+    "distractors": [
+      "study",
+      "sturdy",
+      "steady"
+    ]
+  },
+  {
+    "id": "toeic-p1-teach",
+    "part": 1,
+    "word": "teach",
+    "pos": "verb",
+    "meaning_ko": "가르치다",
+    "ipa": "/tiːtʃ/",
+    "pron_ko": "티치",
+    "example_en": "An instructor is teaching the class.",
+    "example_ko": "강사가 수업을 가르치고 있다.",
+    "topic": [
+      "action"
+    ],
+    "frequency_tier": 1,
+    "synonyms": [
+      "instruct"
+    ],
+    "distractors": [
+      "teach",
+      "touch",
+      "tech"
+    ]
+  },
+  {
+    "id": "toeic-p1-instruct",
+    "part": 1,
+    "word": "instruct",
+    "pos": "verb",
+    "meaning_ko": "지시하다",
+    "ipa": "/ɪnˈstrʌkt/",
+    "pron_ko": "인스트럭트",
+    "example_en": "A coach is instructing the team.",
+    "example_ko": "코치가 팀에게 지시하고 있다.",
+    "topic": [
+      "action"
+    ],
+    "frequency_tier": 1,
+    "synonyms": [
+      "direct"
+    ],
+    "distractors": [
+      "instruct",
+      "instinct",
+      "instruct"
+    ]
+  },
+  {
+    "id": "toeic-p1-demonstrate",
+    "part": 1,
+    "word": "demonstrate",
+    "pos": "verb",
+    "meaning_ko": "시연하다",
+    "ipa": "/ˈdemənstreɪt/",
+    "pron_ko": "데먼스트레이트",
+    "example_en": "A presenter is demonstrating a product.",
+    "example_ko": "발표자가 제품을 시연하고 있다.",
+    "topic": [
+      "action"
+    ],
+    "frequency_tier": 1,
+    "synonyms": [
+      "show"
+    ],
+    "distractors": [
+      "demonstrate",
+      "demonstration",
+      "demolish"
+    ]
+  },
+  {
+    "id": "toeic-p1-hand-out",
+    "part": 1,
+    "word": "hand out",
+    "pos": "verb",
+    "meaning_ko": "나눠주다",
+    "ipa": "/hænd aʊt/",
+    "pron_ko": "핸드 아웃",
+    "example_en": "She is handing out brochures.",
+    "example_ko": "그녀는 안내책자를 나눠주고 있다.",
+    "topic": [
+      "action"
+    ],
+    "frequency_tier": 2,
+    "synonyms": [
+      "distribute"
+    ],
+    "distractors": [
+      "handout",
+      "handout",
+      "handouts"
+    ]
+  },
+  {
+    "id": "toeic-p1-collect",
+    "part": 1,
+    "word": "collect",
+    "pos": "verb",
+    "meaning_ko": "걷어가다",
+    "ipa": "/kəˈlekt/",
+    "pron_ko": "컬렉트",
+    "example_en": "An attendant is collecting tickets.",
+    "example_ko": "안내원이 티켓을 걷어가고 있다.",
+    "topic": [
+      "action"
+    ],
+    "frequency_tier": 1,
+    "synonyms": [
+      "gather"
+    ],
+    "distractors": [
+      "collect",
+      "connect",
+      "correct"
+    ]
+  },
+  {
+    "id": "toeic-p1-gather",
+    "part": 1,
+    "word": "gather",
+    "pos": "verb",
+    "meaning_ko": "모이다",
+    "ipa": "/ˈɡæðər/",
+    "pron_ko": "개더",
+    "example_en": "People are gathering in the lobby.",
+    "example_ko": "사람들이 로비에 모이고 있다.",
+    "topic": [
+      "action"
+    ],
+    "frequency_tier": 1,
+    "synonyms": [
+      "assemble"
+    ],
+    "distractors": [
+      "gather",
+      "gathering",
+      "gauge"
+    ]
+  },
+  {
+    "id": "toeic-p1-line",
+    "part": 1,
+    "word": "line",
+    "pos": "noun",
+    "meaning_ko": "줄",
+    "ipa": "/laɪn/",
+    "pron_ko": "라인",
+    "example_en": "Customers are waiting in line.",
+    "example_ko": "손님들이 줄을 서서 기다리고 있다.",
+    "topic": [
+      "place",
+      "object"
+    ],
+    "frequency_tier": 1,
+    "synonyms": [
+      "queue"
+    ],
+    "distractors": [
+      "line",
+      "lane",
+      "lone"
+    ]
+  },
+  {
+    "id": "toeic-p1-queue",
+    "part": 1,
+    "word": "queue",
+    "pos": "noun",
+    "meaning_ko": "줄",
+    "ipa": "/kjuː/",
+    "pron_ko": "큐",
+    "example_en": "A queue has formed outside the shop.",
+    "example_ko": "가게 밖에 줄이 생겼다.",
+    "topic": [
+      "place",
+      "object"
+    ],
+    "frequency_tier": 2,
+    "synonyms": [
+      "line"
+    ],
+    "distractors": [
+      "queue",
+      "cue",
+      "quay"
+    ]
+  },
+  {
+    "id": "toeic-p1-entrance",
+    "part": 1,
+    "word": "entrance",
+    "pos": "noun",
+    "meaning_ko": "입구",
+    "ipa": "/ˈentrəns/",
+    "pron_ko": "엔트런스",
+    "example_en": "People are gathering at the entrance.",
+    "example_ko": "사람들이 입구에 모이고 있다.",
+    "topic": [
+      "place"
+    ],
+    "frequency_tier": 1,
+    "synonyms": [
+      "doorway"
+    ],
+    "distractors": [
+      "entrance",
+      "entries",
+      "attendance"
+    ]
+  },
+  {
+    "id": "toeic-p1-exit",
+    "part": 1,
+    "word": "exit",
+    "pos": "noun",
+    "meaning_ko": "출구",
+    "ipa": "/ˈeksɪt/",
+    "pron_ko": "엑싯",
+    "example_en": "An exit sign is above the door.",
+    "example_ko": "출구 표시가 문 위에 있다.",
+    "topic": [
+      "place"
+    ],
+    "frequency_tier": 1,
+    "synonyms": [
+      "way out"
+    ],
+    "distractors": [
+      "exit",
+      "edit",
+      "exec"
+    ]
+  },
+  {
+    "id": "toeic-p1-doorway",
+    "part": 1,
+    "word": "doorway",
+    "pos": "noun",
+    "meaning_ko": "문간",
+    "ipa": "/ˈdɔːrweɪ/",
+    "pron_ko": "도어웨이",
+    "example_en": "A man is standing in the doorway.",
+    "example_ko": "한 남자가 문간에 서 있다.",
+    "topic": [
+      "place"
+    ],
+    "frequency_tier": 2,
+    "synonyms": [
+      "entrance"
+    ],
+    "distractors": [
+      "doorway",
+      "gateway",
+      "driveway"
+    ]
+  },
+  {
+    "id": "toeic-p1-hallway",
+    "part": 1,
+    "word": "hallway",
+    "pos": "noun",
+    "meaning_ko": "복도",
+    "ipa": "/ˈhɔːlweɪ/",
+    "pron_ko": "홀웨이",
+    "example_en": "Employees are walking down the hallway.",
+    "example_ko": "직원들이 복도를 걸어가고 있다.",
+    "topic": [
+      "place"
+    ],
+    "frequency_tier": 1,
+    "synonyms": [
+      "corridor"
+    ],
+    "distractors": [
+      "hallway",
+      "highway",
+      "halfway"
+    ]
+  },
+  {
+    "id": "toeic-p1-corridor",
+    "part": 1,
+    "word": "corridor",
+    "pos": "noun",
+    "meaning_ko": "복도",
+    "ipa": "/ˈkɒrɪdɔːr/",
+    "pron_ko": "코리도어",
+    "example_en": "The corridor is empty.",
+    "example_ko": "복도가 비어 있다.",
+    "topic": [
+      "place"
+    ],
+    "frequency_tier": 2,
+    "synonyms": [
+      "hallway"
+    ],
+    "distractors": [
+      "corridor",
+      "carrier",
+      "condor"
+    ]
+  },
+  {
+    "id": "toeic-p1-lobby",
+    "part": 1,
+    "word": "lobby",
+    "pos": "noun",
+    "meaning_ko": "로비",
+    "ipa": "/ˈlɒbi/",
+    "pron_ko": "로비",
+    "example_en": "Guests are sitting in the lobby.",
+    "example_ko": "손님들이 로비에 앉아 있다.",
+    "topic": [
+      "place"
+    ],
+    "frequency_tier": 1,
+    "synonyms": [
+      "foyer"
+    ],
+    "distractors": [
+      "lobby",
+      "hobby",
+      "lobster"
+    ]
+  },
+  {
+    "id": "toeic-p1-reception",
+    "part": 1,
+    "word": "reception",
+    "pos": "noun",
+    "meaning_ko": "접수처",
+    "ipa": "/rɪˈsepʃən/",
+    "pron_ko": "리셉션",
+    "example_en": "The reception is on the first floor.",
+    "example_ko": "접수처는 1층에 있다.",
+    "topic": [
+      "place"
+    ],
+    "frequency_tier": 1,
+    "synonyms": [
+      "front desk"
+    ],
+    "distractors": [
+      "reception",
+      "receptive",
+      "receipt"
+    ]
+  },
+  {
+    "id": "toeic-p1-foyer",
+    "part": 1,
+    "word": "foyer",
+    "pos": "noun",
+    "meaning_ko": "현관",
+    "ipa": "/ˈfɔɪər/",
+    "pron_ko": "포이어",
+    "example_en": "Posters are displayed in the foyer.",
+    "example_ko": "포스터가 현관에 전시되어 있다.",
+    "topic": [
+      "place"
+    ],
+    "frequency_tier": 2,
+    "synonyms": [
+      "lobby"
+    ],
+    "distractors": [
+      "foyer",
+      "fryer",
+      "forge"
+    ]
+  },
+  {
+    "id": "toeic-p1-staircase",
+    "part": 1,
+    "word": "staircase",
+    "pos": "noun",
+    "meaning_ko": "계단",
+    "ipa": "/ˈsterˌkeɪs/",
+    "pron_ko": "스테어케이스",
+    "example_en": "A staircase leads to the upper floor.",
+    "example_ko": "계단이 위층으로 이어진다.",
+    "topic": [
+      "place"
+    ],
+    "frequency_tier": 2,
+    "synonyms": [
+      "stairs"
+    ],
+    "distractors": [
+      "staircase",
+      "suitcase",
+      "stairwell"
+    ]
+  },
+  {
+    "id": "toeic-p1-escalator",
+    "part": 1,
+    "word": "escalator",
+    "pos": "noun",
+    "meaning_ko": "에스컬레이터",
+    "ipa": "/ˈeskəleɪtər/",
+    "pron_ko": "에스컬레이터",
+    "example_en": "Shoppers are riding the escalator.",
+    "example_ko": "쇼핑객들이 에스컬레이터를 타고 있다.",
+    "topic": [
+      "place",
+      "object"
+    ],
+    "frequency_tier": 1,
+    "synonyms": [
+      "moving stairs"
+    ],
+    "distractors": [
+      "escalator",
+      "elevator",
+      "escalation"
+    ]
+  },
+  {
+    "id": "toeic-p1-elevator",
+    "part": 1,
+    "word": "elevator",
+    "pos": "noun",
+    "meaning_ko": "엘리베이터",
+    "ipa": "/ˈeləveɪtər/",
+    "pron_ko": "엘리베이터",
+    "example_en": "People are waiting for the elevator.",
+    "example_ko": "사람들이 엘리베이터를 기다리고 있다.",
+    "topic": [
+      "place",
+      "object"
+    ],
+    "frequency_tier": 1,
+    "synonyms": [
+      "lift"
+    ],
+    "distractors": [
+      "elevator",
+      "escalator",
+      "elevation"
+    ]
+  },
+  {
+    "id": "toeic-p1-balcony",
+    "part": 1,
+    "word": "balcony",
+    "pos": "noun",
+    "meaning_ko": "발코니",
+    "ipa": "/ˈbælkəni/",
+    "pron_ko": "발코니",
+    "example_en": "A man is standing on the balcony.",
+    "example_ko": "한 남자가 발코니에 서 있다.",
+    "topic": [
+      "place"
+    ],
+    "frequency_tier": 2,
+    "synonyms": [
+      "terrace"
+    ],
+    "distractors": [
+      "balcony",
+      "balcony",
+      "balconies"
+    ]
+  },
+  {
+    "id": "toeic-p1-terrace",
+    "part": 1,
+    "word": "terrace",
+    "pos": "noun",
+    "meaning_ko": "테라스",
+    "ipa": "/ˈterəs/",
+    "pron_ko": "테러스",
+    "example_en": "Tables are set on the terrace.",
+    "example_ko": "테라스에 테이블이 놓여 있다.",
+    "topic": [
+      "place"
+    ],
+    "frequency_tier": 2,
+    "synonyms": [
+      "patio"
+    ],
+    "distractors": [
+      "terrace",
+      "terrain",
+      "trance"
+    ]
+  },
+  {
+    "id": "toeic-p1-patio",
+    "part": 1,
+    "word": "patio",
+    "pos": "noun",
+    "meaning_ko": "파티오",
+    "ipa": "/ˈpætioʊ/",
+    "pron_ko": "패티오",
+    "example_en": "Diners are seated on the patio.",
+    "example_ko": "손님들이 파티오에 앉아 있다.",
+    "topic": [
+      "place"
+    ],
+    "frequency_tier": 2,
+    "synonyms": [
+      "terrace"
+    ],
+    "distractors": [
+      "patio",
+      "panio",
+      "pation"
+    ]
+  },
+  {
+    "id": "toeic-p1-garage",
+    "part": 1,
+    "word": "garage",
+    "pos": "noun",
+    "meaning_ko": "차고",
+    "ipa": "/ɡəˈrɑːʒ/",
+    "pron_ko": "개라지",
+    "example_en": "A car is parked in the garage.",
+    "example_ko": "차가 차고에 주차되어 있다.",
+    "topic": [
+      "place",
+      "transport"
+    ],
+    "frequency_tier": 1,
+    "synonyms": [
+      "carport"
+    ],
+    "distractors": [
+      "garage",
+      "barrage",
+      "courage"
+    ]
+  },
+  {
+    "id": "toeic-p1-parking-lot",
+    "part": 1,
+    "word": "parking lot",
+    "pos": "noun",
+    "meaning_ko": "주차장",
+    "ipa": "/ˈpɑːrkɪŋ lɒt/",
+    "pron_ko": "파킹 랏",
+    "example_en": "Cars fill the parking lot.",
+    "example_ko": "주차장이 차로 가득 차 있다.",
+    "topic": [
+      "place",
+      "transport"
+    ],
+    "frequency_tier": 1,
+    "synonyms": [
+      "car park"
+    ],
+    "distractors": [
+      "park lot",
+      "park lot",
+      "parking lots"
+    ]
+  },
+  {
+    "id": "toeic-p1-crosswalk",
+    "part": 1,
+    "word": "crosswalk",
+    "pos": "noun",
+    "meaning_ko": "횡단보도",
+    "ipa": "/ˈkrɒsˌwɔːk/",
+    "pron_ko": "크로스워크",
+    "example_en": "Pedestrians are crossing the crosswalk.",
+    "example_ko": "보행자들이 횡단보도를 건너고 있다.",
+    "topic": [
+      "place",
+      "transport"
+    ],
+    "frequency_tier": 1,
+    "synonyms": [
+      "pedestrian crossing"
+    ],
+    "distractors": [
+      "crosswalk",
+      "crosswalks",
+      "crossroad"
+    ]
+  },
+  {
+    "id": "toeic-p1-intersection",
+    "part": 1,
+    "word": "intersection",
+    "pos": "noun",
+    "meaning_ko": "교차로",
+    "ipa": "/ˌɪntərˈsekʃən/",
+    "pron_ko": "인터섹션",
+    "example_en": "Cars are stopped at the intersection.",
+    "example_ko": "차들이 교차로에 멈춰 있다.",
+    "topic": [
+      "place",
+      "transport"
+    ],
+    "frequency_tier": 1,
+    "synonyms": [
+      "junction"
+    ],
+    "distractors": [
+      "intersection",
+      "intersect",
+      "introspect"
+    ]
+  },
+  {
+    "id": "toeic-p1-traffic-light",
+    "part": 1,
+    "word": "traffic light",
+    "pos": "noun",
+    "meaning_ko": "신호등",
+    "ipa": "/ˈtræfɪk laɪt/",
+    "pron_ko": "트래픽 라이트",
+    "example_en": "The traffic light is green.",
+    "example_ko": "신호등이 초록불이다.",
+    "topic": [
+      "object",
+      "transport"
+    ],
+    "frequency_tier": 1,
+    "synonyms": [
+      "signal"
+    ],
+    "distractors": [
+      "stoplight",
+      "stoplight",
+      "signal"
+    ]
+  },
+  {
+    "id": "toeic-p1-pedestrian",
+    "part": 1,
+    "word": "pedestrian",
+    "pos": "noun",
+    "meaning_ko": "보행자",
+    "ipa": "/pəˈdestriən/",
+    "pron_ko": "페데스트리언",
+    "example_en": "Pedestrians are crossing the street.",
+    "example_ko": "보행자들이 길을 건너고 있다.",
+    "topic": [
+      "place",
+      "transport"
+    ],
+    "frequency_tier": 2,
+    "synonyms": [
+      "walker"
+    ],
+    "distractors": [
+      "pedestrian",
+      "pedestal",
+      "peddler"
+    ]
+  },
+  {
+    "id": "toeic-p1-sidewalk",
+    "part": 1,
+    "word": "sidewalk",
+    "pos": "noun",
+    "meaning_ko": "인도",
+    "ipa": "/ˈsaɪdwɔːk/",
+    "pron_ko": "사이드워크",
+    "example_en": "A cyclist is riding on the sidewalk.",
+    "example_ko": "자전거 타는 사람이 인도를 달리고 있다.",
+    "topic": [
+      "place",
+      "transport"
+    ],
+    "frequency_tier": 1,
+    "synonyms": [
+      "pavement"
+    ],
+    "distractors": [
+      "sidewalk",
+      "sideway",
+      "sidetrack"
+    ]
+  },
+  {
+    "id": "toeic-p1-curb",
+    "part": 1,
+    "word": "curb",
+    "pos": "noun",
+    "meaning_ko": "연석",
+    "ipa": "/kɜːrb/",
+    "pron_ko": "커브",
+    "example_en": "A vehicle is parked along the curb.",
+    "example_ko": "차량 한 대가 연석을 따라 주차되어 있다.",
+    "topic": [
+      "place",
+      "transport"
+    ],
+    "frequency_tier": 2,
+    "synonyms": [
+      "edge"
+    ],
+    "distractors": [
+      "curb",
+      "curve",
+      "curd"
+    ]
+  },
+  {
+    "id": "toeic-p1-lane",
+    "part": 1,
+    "word": "lane",
+    "pos": "noun",
+    "meaning_ko": "차선",
+    "ipa": "/leɪn/",
+    "pron_ko": "레인",
+    "example_en": "A truck is driving in the lane.",
+    "example_ko": "트럭이 차선을 따라 달리고 있다.",
+    "topic": [
+      "place",
+      "transport"
+    ],
+    "frequency_tier": 1,
+    "synonyms": [
+      "path"
+    ],
+    "distractors": [
+      "lane",
+      "line",
+      "loan"
+    ]
+  },
+  {
+    "id": "toeic-p1-bridge",
+    "part": 1,
+    "word": "bridge",
+    "pos": "noun",
+    "meaning_ko": "다리",
+    "ipa": "/brɪdʒ/",
+    "pron_ko": "브리지",
+    "example_en": "Cars are crossing the bridge.",
+    "example_ko": "차들이 다리를 건너고 있다.",
+    "topic": [
+      "place",
+      "transport"
+    ],
+    "frequency_tier": 1,
+    "synonyms": [
+      "span"
+    ],
+    "distractors": [
+      "bridge",
+      "breeze",
+      "bride"
+    ]
+  },
+  {
+    "id": "toeic-p1-tunnel",
+    "part": 1,
+    "word": "tunnel",
+    "pos": "noun",
+    "meaning_ko": "터널",
+    "ipa": "/ˈtʌnəl/",
+    "pron_ko": "터널",
+    "example_en": "A train is entering the tunnel.",
+    "example_ko": "기차가 터널에 들어가고 있다.",
+    "topic": [
+      "place",
+      "transport"
+    ],
+    "frequency_tier": 2,
+    "synonyms": [
+      "passage"
+    ],
+    "distractors": [
+      "tunnel",
+      "tunnels",
+      "funnel"
+    ]
+  },
+  {
+    "id": "toeic-p1-station",
+    "part": 1,
+    "word": "station",
+    "pos": "noun",
+    "meaning_ko": "역",
+    "ipa": "/ˈsteɪʃən/",
+    "pron_ko": "스테이션",
+    "example_en": "Passengers are waiting at the station.",
+    "example_ko": "승객들이 역에서 기다리고 있다.",
+    "topic": [
+      "place",
+      "transport"
+    ],
+    "frequency_tier": 1,
+    "synonyms": [
+      "depot"
+    ],
+    "distractors": [
+      "station",
+      "stations",
+      "stationary"
+    ]
+  },
+  {
+    "id": "toeic-p1-platform",
+    "part": 1,
+    "word": "platform",
+    "pos": "noun",
+    "meaning_ko": "승강장",
+    "ipa": "/ˈplætfɔːrm/",
+    "pron_ko": "플랫폼",
+    "example_en": "A train is arriving at the platform.",
+    "example_ko": "기차가 승강장에 도착하고 있다.",
+    "topic": [
+      "place",
+      "transport"
+    ],
+    "frequency_tier": 1,
+    "synonyms": [
+      "deck"
+    ],
+    "distractors": [
+      "platform",
+      "platforms",
+      "placement"
+    ]
+  },
+  {
+    "id": "toeic-p1-terminal",
+    "part": 1,
+    "word": "terminal",
+    "pos": "noun",
+    "meaning_ko": "터미널",
+    "ipa": "/ˈtɜːrmɪnəl/",
+    "pron_ko": "터미널",
+    "example_en": "Travelers are at the terminal.",
+    "example_ko": "여행객들이 터미널에 있다.",
+    "topic": [
+      "place",
+      "transport"
+    ],
+    "frequency_tier": 1,
+    "synonyms": [
+      "depot"
+    ],
+    "distractors": [
+      "terminal",
+      "terminate",
+      "terminus"
+    ]
+  },
+  {
+    "id": "toeic-p1-runway",
+    "part": 1,
+    "word": "runway",
+    "pos": "noun",
+    "meaning_ko": "활주로",
+    "ipa": "/ˈrʌnweɪ/",
+    "pron_ko": "런웨이",
+    "example_en": "An airplane is on the runway.",
+    "example_ko": "비행기가 활주로에 있다.",
+    "topic": [
+      "place",
+      "transport"
+    ],
+    "frequency_tier": 2,
+    "synonyms": [
+      "strip"
+    ],
+    "distractors": [
+      "runway",
+      "runaway",
+      "runways"
+    ]
+  },
+  {
+    "id": "toeic-p1-harbor",
+    "part": 1,
+    "word": "harbor",
+    "pos": "noun",
+    "meaning_ko": "항구",
+    "ipa": "/ˈhɑːrbər/",
+    "pron_ko": "하버",
+    "example_en": "Boats are docked at the harbor.",
+    "example_ko": "배들이 항구에 정박해 있다.",
+    "topic": [
+      "place",
+      "transport"
+    ],
+    "frequency_tier": 2,
+    "synonyms": [
+      "port"
+    ],
+    "distractors": [
+      "harbor",
+      "harvest",
+      "harbor"
+    ]
+  },
+  {
+    "id": "toeic-p1-port",
+    "part": 1,
+    "word": "port",
+    "pos": "noun",
+    "meaning_ko": "항구",
+    "ipa": "/pɔːrt/",
+    "pron_ko": "포트",
+    "example_en": "A cargo ship is at the port.",
+    "example_ko": "화물선이 항구에 있다.",
+    "topic": [
+      "place",
+      "transport"
+    ],
+    "frequency_tier": 1,
+    "synonyms": [
+      "harbor"
+    ],
+    "distractors": [
+      "port",
+      "past",
+      "pork"
+    ]
+  },
+  {
+    "id": "toeic-p1-waterfront",
+    "part": 1,
+    "word": "waterfront",
+    "pos": "noun",
+    "meaning_ko": "해변가",
+    "ipa": "/ˈwɔːtərfrʌnt/",
+    "pron_ko": "워터프런트",
+    "example_en": "People are walking along the waterfront.",
+    "example_ko": "사람들이 해변가를 따라 걷고 있다.",
+    "topic": [
+      "place"
+    ],
+    "frequency_tier": 2,
+    "synonyms": [
+      "shoreline"
+    ],
+    "distractors": [
+      "waterfront",
+      "waterway",
+      "waterproof"
+    ]
+  },
+  {
+    "id": "toeic-p1-garden",
+    "part": 1,
+    "word": "garden",
+    "pos": "noun",
+    "meaning_ko": "정원",
+    "ipa": "/ˈɡɑːrdən/",
+    "pron_ko": "가든",
+    "example_en": "Flowers are blooming in the garden.",
+    "example_ko": "정원에 꽃이 피고 있다.",
+    "topic": [
+      "place"
+    ],
+    "frequency_tier": 1,
+    "synonyms": [
+      "yard"
+    ],
+    "distractors": [
+      "garden",
+      "gardener",
+      "garbage"
+    ]
+  },
+  {
+    "id": "toeic-p1-lawn",
+    "part": 1,
+    "word": "lawn",
+    "pos": "noun",
+    "meaning_ko": "잔디밭",
+    "ipa": "/lɔːn/",
+    "pron_ko": "론",
+    "example_en": "Children are playing on the lawn.",
+    "example_ko": "아이들이 잔디밭에서 놀고 있다.",
+    "topic": [
+      "place"
+    ],
+    "frequency_tier": 1,
+    "synonyms": [
+      "grass"
+    ],
+    "distractors": [
+      "lawn",
+      "loan",
+      "lone"
+    ]
+  },
+  {
+    "id": "toeic-p1-yard",
+    "part": 1,
+    "word": "yard",
+    "pos": "noun",
+    "meaning_ko": "마당",
+    "ipa": "/jɑːrd/",
+    "pron_ko": "야드",
+    "example_en": "A dog is running in the yard.",
+    "example_ko": "개가 마당에서 뛰고 있다.",
+    "topic": [
+      "place"
+    ],
+    "frequency_tier": 1,
+    "synonyms": [
+      "garden"
+    ],
+    "distractors": [
+      "yard",
+      "year",
+      "yore"
+    ]
+  },
+  {
+    "id": "toeic-p1-rooftop",
+    "part": 1,
+    "word": "rooftop",
+    "pos": "noun",
+    "meaning_ko": "옥상",
+    "ipa": "/ˈruːftɒp/",
+    "pron_ko": "루프탑",
+    "example_en": "Workers are on the rooftop.",
+    "example_ko": "작업자들이 옥상에 있다.",
+    "topic": [
+      "place"
+    ],
+    "frequency_tier": 2,
+    "synonyms": [
+      "roof"
+    ],
+    "distractors": [
+      "rooftop",
+      "workshop",
+      "rooftops"
+    ]
+  },
+  {
+    "id": "toeic-p1-basement",
+    "part": 1,
+    "word": "basement",
+    "pos": "noun",
+    "meaning_ko": "지하",
+    "ipa": "/ˈbeɪsmənt/",
+    "pron_ko": "베이스먼트",
+    "example_en": "Storage is in the basement.",
+    "example_ko": "창고는 지하에 있다.",
+    "topic": [
+      "place"
+    ],
+    "frequency_tier": 2,
+    "synonyms": [
+      "cellar"
+    ],
+    "distractors": [
+      "basement",
+      "baseline",
+      "pavement"
+    ]
+  },
+  {
+    "id": "toeic-p1-ceiling",
+    "part": 1,
+    "word": "ceiling",
+    "pos": "noun",
+    "meaning_ko": "천장",
+    "ipa": "/ˈsiːlɪŋ/",
+    "pron_ko": "실링",
+    "example_en": "A fan is hanging from the ceiling.",
+    "example_ko": "선풍기가 천장에 매달려 있다.",
+    "topic": [
+      "place",
+      "object"
+    ],
+    "frequency_tier": 1,
+    "synonyms": [
+      "roof"
+    ],
+    "distractors": [
+      "ceiling",
+      "sealing",
+      "filing"
+    ]
+  },
+  {
+    "id": "toeic-p1-floor",
+    "part": 1,
+    "word": "floor",
+    "pos": "noun",
+    "meaning_ko": "바닥",
+    "ipa": "/flɔːr/",
+    "pron_ko": "플로어",
+    "example_en": "The floor has just been mopped.",
+    "example_ko": "바닥이 방금 닦였다.",
+    "topic": [
+      "place"
+    ],
+    "frequency_tier": 1,
+    "synonyms": [
+      "ground"
+    ],
+    "distractors": [
+      "flour",
+      "floor",
+      "flood"
+    ]
+  },
+  {
+    "id": "toeic-p1-wall",
+    "part": 1,
+    "word": "wall",
+    "pos": "noun",
+    "meaning_ko": "벽",
+    "ipa": "/wɔːl/",
+    "pron_ko": "월",
+    "example_en": "A clock is mounted on the wall.",
+    "example_ko": "시계가 벽에 장착되어 있다.",
+    "topic": [
+      "place",
+      "object"
+    ],
+    "frequency_tier": 1,
+    "synonyms": [
+      "partition"
+    ],
+    "distractors": [
+      "wall",
+      "wail",
+      "will"
+    ]
+  },
+  {
+    "id": "toeic-p1-ceiling-fan",
+    "part": 1,
+    "word": "ceiling fan",
+    "pos": "noun",
+    "meaning_ko": "천장 선풍기",
+    "ipa": "/ˈsiːlɪŋ fæn/",
+    "pron_ko": "실링 팬",
+    "example_en": "A ceiling fan is rotating.",
+    "example_ko": "천장 선풍기가 돌고 있다.",
+    "topic": [
+      "object"
+    ],
+    "frequency_tier": 2,
+    "synonyms": [
+      "fan"
+    ],
+    "distractors": [
+      "ceiling fan",
+      "ceiling fans",
+      "table fan"
+    ]
+  },
+  {
+    "id": "toeic-p1-lamp",
+    "part": 1,
+    "word": "lamp",
+    "pos": "noun",
+    "meaning_ko": "램프",
+    "ipa": "/læmp/",
+    "pron_ko": "램프",
+    "example_en": "A lamp is on the desk.",
+    "example_ko": "램프가 책상 위에 있다.",
+    "topic": [
+      "object"
+    ],
+    "frequency_tier": 1,
+    "synonyms": [
+      "light"
+    ],
+    "distractors": [
+      "lamp",
+      "lump",
+      "limp"
+    ]
+  },
+  {
+    "id": "toeic-p1-monitor",
+    "part": 1,
+    "word": "monitor",
+    "pos": "noun",
+    "meaning_ko": "모니터",
+    "ipa": "/ˈmɒnɪtər/",
+    "pron_ko": "모니터",
+    "example_en": "Two monitors are on the workstation.",
+    "example_ko": "두 대의 모니터가 워크스테이션에 있다.",
+    "topic": [
+      "object"
+    ],
+    "frequency_tier": 1,
+    "synonyms": [
+      "screen"
+    ],
+    "distractors": [
+      "monitor",
+      "monitored",
+      "monastery"
+    ]
+  },
+  {
+    "id": "toeic-p1-printer",
+    "part": 1,
+    "word": "printer",
+    "pos": "noun",
+    "meaning_ko": "프린터",
+    "ipa": "/ˈprɪntər/",
+    "pron_ko": "프린터",
+    "example_en": "A printer is producing copies.",
+    "example_ko": "프린터가 복사본을 출력하고 있다.",
+    "topic": [
+      "object"
+    ],
+    "frequency_tier": 1,
+    "synonyms": [
+      "machine"
+    ],
+    "distractors": [
+      "printer",
+      "painter",
+      "pointer"
+    ]
+  },
+  {
+    "id": "toeic-p1-desk",
+    "part": 1,
+    "word": "desk",
+    "pos": "noun",
+    "meaning_ko": "책상",
+    "ipa": "/desk/",
+    "pron_ko": "데스크",
+    "example_en": "Papers are scattered on the desk.",
+    "example_ko": "서류가 책상에 흩어져 있다.",
+    "topic": [
+      "object",
+      "place"
+    ],
+    "frequency_tier": 1,
+    "synonyms": [
+      "workspace"
+    ],
+    "distractors": [
+      "desk",
+      "disk",
+      "dust"
+    ]
+  },
+  {
+    "id": "toeic-p1-chair",
+    "part": 1,
+    "word": "chair",
+    "pos": "noun",
+    "meaning_ko": "의자",
+    "ipa": "/tʃeər/",
+    "pron_ko": "체어",
+    "example_en": "Chairs are arranged in a row.",
+    "example_ko": "의자들이 일렬로 배열되어 있다.",
+    "topic": [
+      "object"
+    ],
+    "frequency_tier": 1,
+    "synonyms": [
+      "seat"
+    ],
+    "distractors": [
+      "chair",
+      "chairs",
+      "cheer"
+    ]
+  },
+  {
+    "id": "toeic-p1-cabinet",
+    "part": 1,
+    "word": "cabinet",
+    "pos": "noun",
+    "meaning_ko": "캐비닛",
+    "ipa": "/ˈkæbɪnət/",
+    "pron_ko": "캐비닛",
+    "example_en": "Files are stored in the cabinet.",
+    "example_ko": "파일이 캐비닛에 보관되어 있다.",
+    "topic": [
+      "object"
+    ],
+    "frequency_tier": 1,
+    "synonyms": [
+      "cupboard"
+    ],
+    "distractors": [
+      "cabinet",
+      "cabinets",
+      "cabin"
+    ]
+  },
+  {
+    "id": "toeic-p1-drawer",
+    "part": 1,
+    "word": "drawer",
+    "pos": "noun",
+    "meaning_ko": "서랍",
+    "ipa": "/drɔːr/",
+    "pron_ko": "드로어",
+    "example_en": "She is opening a drawer.",
+    "example_ko": "그녀는 서랍을 열고 있다.",
+    "topic": [
+      "object"
+    ],
+    "frequency_tier": 1,
+    "synonyms": [
+      "compartment"
+    ],
+    "distractors": [
+      "drawer",
+      "drawers",
+      "drawing"
+    ]
+  },
+  {
+    "id": "toeic-p1-clipboard",
+    "part": 1,
+    "word": "clipboard",
+    "pos": "noun",
+    "meaning_ko": "클립보드",
+    "ipa": "/ˈklɪpbɔːrd/",
+    "pron_ko": "클립보드",
+    "example_en": "A nurse is holding a clipboard.",
+    "example_ko": "간호사가 클립보드를 들고 있다.",
+    "topic": [
+      "object"
+    ],
+    "frequency_tier": 2,
+    "synonyms": [
+      "holder"
+    ],
+    "distractors": [
+      "clipboard",
+      "cardboard",
+      "chalkboard"
+    ]
+  },
+  {
+    "id": "toeic-p1-plant-2",
+    "part": 1,
+    "word": "plant",
+    "pos": "noun",
+    "meaning_ko": "식물",
+    "ipa": "/plænt/",
+    "pron_ko": "플랜트",
+    "example_en": "A potted plant is by the window.",
+    "example_ko": "화분이 창가에 있다.",
+    "topic": [
+      "object"
+    ],
+    "frequency_tier": 1,
+    "synonyms": [
+      "vegetation"
+    ],
+    "distractors": [
+      "plant",
+      "plain",
+      "plate"
+    ]
+  },
+  {
+    "id": "toeic-p1-vase",
+    "part": 1,
+    "word": "vase",
+    "pos": "noun",
+    "meaning_ko": "꽃병",
+    "ipa": "/veɪs/",
+    "pron_ko": "베이스",
+    "example_en": "Flowers are in a vase.",
+    "example_ko": "꽃이 꽃병에 있다.",
+    "topic": [
+      "object"
+    ],
+    "frequency_tier": 2,
+    "synonyms": [
+      "jar"
+    ],
+    "distractors": [
+      "vase",
+      "vast",
+      "base"
+    ]
+  },
+  {
+    "id": "toeic-p1-painting",
+    "part": 1,
+    "word": "painting",
+    "pos": "noun",
+    "meaning_ko": "그림",
+    "ipa": "/ˈpeɪntɪŋ/",
+    "pron_ko": "페인팅",
+    "example_en": "A painting hangs above the sofa.",
+    "example_ko": "그림이 소파 위에 걸려 있다.",
+    "topic": [
+      "object"
+    ],
+    "frequency_tier": 1,
+    "synonyms": [
+      "artwork"
+    ],
+    "distractors": [
+      "painting",
+      "paintings",
+      "panting"
+    ]
+  },
+  {
+    "id": "toeic-p1-frame",
+    "part": 1,
+    "word": "frame",
+    "pos": "noun",
+    "meaning_ko": "액자",
+    "ipa": "/freɪm/",
+    "pron_ko": "프레임",
+    "example_en": "The picture is in a wooden frame.",
+    "example_ko": "그림이 나무 액자 안에 있다.",
+    "topic": [
+      "object"
+    ],
+    "frequency_tier": 1,
+    "synonyms": [
+      "border"
+    ],
+    "distractors": [
+      "frame",
+      "fame",
+      "flame"
+    ]
+  },
+  {
+    "id": "toeic-p1-mirror",
+    "part": 1,
+    "word": "mirror",
+    "pos": "noun",
+    "meaning_ko": "거울",
+    "ipa": "/ˈmɪrər/",
+    "pron_ko": "미러",
+    "example_en": "She is looking into the mirror.",
+    "example_ko": "그녀는 거울을 보고 있다.",
+    "topic": [
+      "object"
+    ],
+    "frequency_tier": 1,
+    "synonyms": [
+      "reflector"
+    ],
+    "distractors": [
+      "mirror",
+      "mirage",
+      "miser"
+    ]
+  },
+  {
+    "id": "toeic-p1-window",
+    "part": 1,
+    "word": "window",
+    "pos": "noun",
+    "meaning_ko": "창문",
+    "ipa": "/ˈwɪndoʊ/",
+    "pron_ko": "윈도우",
+    "example_en": "Sunlight is coming through the window.",
+    "example_ko": "햇빛이 창문을 통해 들어오고 있다.",
+    "topic": [
+      "object",
+      "place"
+    ],
+    "frequency_tier": 1,
+    "synonyms": [
+      "opening"
+    ],
+    "distractors": [
+      "window",
+      "winnow",
+      "winter"
+    ]
+  },
+  {
+    "id": "toeic-p1-curtain",
+    "part": 1,
+    "word": "curtain",
+    "pos": "noun",
+    "meaning_ko": "커튼",
+    "ipa": "/ˈkɜːrtən/",
+    "pron_ko": "커튼",
+    "example_en": "The curtain is open.",
+    "example_ko": "커튼이 열려 있다.",
+    "topic": [
+      "object"
+    ],
+    "frequency_tier": 1,
+    "synonyms": [
+      "drape"
+    ],
+    "distractors": [
+      "curtain",
+      "certain",
+      "cartoon"
+    ]
+  },
+  {
+    "id": "toeic-p1-blind",
+    "part": 1,
+    "word": "blind",
+    "pos": "noun",
+    "meaning_ko": "블라인드",
+    "ipa": "/blaɪnd/",
+    "pron_ko": "블라인드",
+    "example_en": "The blinds are partially closed.",
+    "example_ko": "블라인드가 부분적으로 닫혀 있다.",
+    "topic": [
+      "object"
+    ],
+    "frequency_tier": 2,
+    "synonyms": [
+      "shade"
+    ],
+    "distractors": [
+      "blind",
+      "bind",
+      "bland"
+    ]
+  },
+  {
+    "id": "toeic-p1-sign-2",
+    "part": 1,
+    "word": "sign",
+    "pos": "noun",
+    "meaning_ko": "표지판",
+    "ipa": "/saɪn/",
+    "pron_ko": "사인",
+    "example_en": "A sign indicates the direction.",
+    "example_ko": "표지판이 방향을 가리키고 있다.",
+    "topic": [
+      "object"
+    ],
+    "frequency_tier": 1,
+    "synonyms": [
+      "placard"
+    ],
+    "distractors": [
+      "sign",
+      "sing",
+      "sigh"
+    ]
+  },
+  {
+    "id": "toeic-p1-banner",
+    "part": 1,
+    "word": "banner",
+    "pos": "noun",
+    "meaning_ko": "현수막",
+    "ipa": "/ˈbænər/",
+    "pron_ko": "배너",
+    "example_en": "A banner is hanging above.",
+    "example_ko": "현수막이 위에 걸려 있다.",
+    "topic": [
+      "object"
+    ],
+    "frequency_tier": 2,
+    "synonyms": [
+      "flag"
+    ],
+    "distractors": [
+      "banner",
+      "banter",
+      "bonnet"
+    ]
+  },
+  {
+    "id": "toeic-p1-flag",
+    "part": 1,
+    "word": "flag",
+    "pos": "noun",
+    "meaning_ko": "깃발",
+    "ipa": "/flæɡ/",
+    "pron_ko": "플래그",
+    "example_en": "Flags are flying outside.",
+    "example_ko": "깃발이 바깥에서 펄럭이고 있다.",
+    "topic": [
+      "object"
+    ],
+    "frequency_tier": 1,
+    "synonyms": [
+      "banner"
+    ],
+    "distractors": [
+      "flag",
+      "flask",
+      "flat"
+    ]
+  },
+  {
+    "id": "toeic-p1-poster",
+    "part": 1,
+    "word": "poster",
+    "pos": "noun",
+    "meaning_ko": "포스터",
+    "ipa": "/ˈpoʊstər/",
+    "pron_ko": "포스터",
+    "example_en": "Posters are pinned on the board.",
+    "example_ko": "포스터가 게시판에 핀으로 꽂혀 있다.",
+    "topic": [
+      "object"
+    ],
+    "frequency_tier": 1,
+    "synonyms": [
+      "placard"
+    ],
+    "distractors": [
+      "poster",
+      "porter",
+      "polster"
+    ]
+  },
+  {
+    "id": "toeic-p1-notice",
+    "part": 1,
+    "word": "notice",
+    "pos": "noun",
+    "meaning_ko": "공고",
+    "ipa": "/ˈnoʊtɪs/",
+    "pron_ko": "노티스",
+    "example_en": "A notice is on the door.",
+    "example_ko": "공고가 문에 붙어 있다.",
+    "topic": [
+      "object"
+    ],
+    "frequency_tier": 1,
+    "synonyms": [
+      "announcement"
+    ],
+    "distractors": [
+      "notice",
+      "novice",
+      "noticed"
+    ]
+  },
+  {
+    "id": "toeic-p1-brochure",
+    "part": 1,
+    "word": "brochure",
+    "pos": "noun",
+    "meaning_ko": "브로셔",
+    "ipa": "/broʊˈʃʊər/",
+    "pron_ko": "브로셔",
+    "example_en": "Brochures are on the counter.",
+    "example_ko": "브로셔가 카운터에 놓여 있다.",
+    "topic": [
+      "object"
+    ],
+    "frequency_tier": 1,
+    "synonyms": [
+      "pamphlet"
+    ],
+    "distractors": [
+      "brochure",
+      "broachure",
+      "brochures"
+    ]
+  },
+  {
+    "id": "toeic-p1-pamphlet",
+    "part": 1,
+    "word": "pamphlet",
+    "pos": "noun",
+    "meaning_ko": "팸플릿",
+    "ipa": "/ˈpæmflət/",
+    "pron_ko": "팸플릿",
+    "example_en": "A pamphlet is being handed out.",
+    "example_ko": "팸플릿이 배포되고 있다.",
+    "topic": [
+      "object"
+    ],
+    "frequency_tier": 2,
+    "synonyms": [
+      "booklet"
+    ],
+    "distractors": [
+      "pamphlet",
+      "pamphlets",
+      "pavement"
+    ]
+  },
+  {
+    "id": "toeic-p1-flyer",
+    "part": 1,
+    "word": "flyer",
+    "pos": "noun",
+    "meaning_ko": "전단지",
+    "ipa": "/ˈflaɪər/",
+    "pron_ko": "플라이어",
+    "example_en": "Flyers are stacked at the entrance.",
+    "example_ko": "전단지가 입구에 쌓여 있다.",
+    "topic": [
+      "object"
+    ],
+    "frequency_tier": 2,
+    "synonyms": [
+      "leaflet"
+    ],
+    "distractors": [
+      "flyer",
+      "flier",
+      "flyers"
+    ]
+  },
+  {
+    "id": "toeic-p1-envelope",
+    "part": 1,
+    "word": "envelope",
+    "pos": "noun",
+    "meaning_ko": "봉투",
+    "ipa": "/ˈenvəloʊp/",
+    "pron_ko": "엔벨로프",
+    "example_en": "An envelope is on the desk.",
+    "example_ko": "봉투가 책상 위에 있다.",
+    "topic": [
+      "object"
+    ],
+    "frequency_tier": 1,
+    "synonyms": [
+      "cover"
+    ],
+    "distractors": [
+      "envelope",
+      "envelop",
+      "envelopes"
+    ]
+  },
+  {
+    "id": "toeic-p1-stamp",
+    "part": 1,
+    "word": "stamp",
+    "pos": "noun",
+    "meaning_ko": "우표",
+    "ipa": "/stæmp/",
+    "pron_ko": "스탬프",
+    "example_en": "She is putting a stamp on the letter.",
+    "example_ko": "그녀는 편지에 우표를 붙이고 있다.",
+    "topic": [
+      "object"
+    ],
+    "frequency_tier": 2,
+    "synonyms": [
+      "seal"
+    ],
+    "distractors": [
+      "stamp",
+      "stomp",
+      "stump"
+    ]
+  },
+  {
+    "id": "toeic-p1-equipment",
+    "part": 1,
+    "word": "equipment",
+    "pos": "noun",
+    "meaning_ko": "장비",
+    "ipa": "/ɪˈkwɪpmənt/",
+    "pron_ko": "이큅먼트",
+    "example_en": "Workers are setting up equipment.",
+    "example_ko": "작업자들이 장비를 설치하고 있다.",
+    "topic": [
+      "object"
+    ],
+    "frequency_tier": 1,
+    "synonyms": [
+      "gear"
+    ],
+    "distractors": [
+      "equipment",
+      "equipments",
+      "equipping"
+    ]
+  },
+  {
+    "id": "toeic-p1-tool",
+    "part": 1,
+    "word": "tool",
+    "pos": "noun",
+    "meaning_ko": "도구",
+    "ipa": "/tuːl/",
+    "pron_ko": "툴",
+    "example_en": "Tools are arranged on the bench.",
+    "example_ko": "도구가 작업대에 정리되어 있다.",
+    "topic": [
+      "object"
+    ],
+    "frequency_tier": 1,
+    "synonyms": [
+      "instrument"
+    ],
+    "distractors": [
+      "tool",
+      "tools",
+      "toll"
+    ]
+  },
+  {
+    "id": "toeic-p1-instrument",
+    "part": 1,
+    "word": "instrument",
+    "pos": "noun",
+    "meaning_ko": "기구",
+    "ipa": "/ˈɪnstrəmənt/",
+    "pron_ko": "인스트러먼트",
+    "example_en": "A musician is playing an instrument.",
+    "example_ko": "음악가가 악기를 연주하고 있다.",
+    "topic": [
+      "object"
+    ],
+    "frequency_tier": 1,
+    "synonyms": [
+      "tool"
+    ],
+    "distractors": [
+      "instrument",
+      "instruments",
+      "installment"
+    ]
+  },
+  {
+    "id": "toeic-p1-device",
+    "part": 1,
+    "word": "device",
+    "pos": "noun",
+    "meaning_ko": "장치",
+    "ipa": "/dɪˈvaɪs/",
+    "pron_ko": "디바이스",
+    "example_en": "She is using a handheld device.",
+    "example_ko": "그녀는 휴대용 장치를 사용하고 있다.",
+    "topic": [
+      "object"
+    ],
+    "frequency_tier": 1,
+    "synonyms": [
+      "gadget"
+    ],
+    "distractors": [
+      "device",
+      "devise",
+      "advice"
+    ]
+  },
+  {
+    "id": "toeic-p1-appliance",
+    "part": 1,
+    "word": "appliance",
+    "pos": "noun",
+    "meaning_ko": "가전제품",
+    "ipa": "/əˈplaɪəns/",
+    "pron_ko": "어플라이언스",
+    "example_en": "Kitchen appliances are on display.",
+    "example_ko": "주방 가전제품이 전시되어 있다.",
+    "topic": [
+      "object"
+    ],
+    "frequency_tier": 1,
+    "synonyms": [
+      "machine"
+    ],
+    "distractors": [
+      "appliance",
+      "application",
+      "alliance"
+    ]
+  },
+  {
+    "id": "toeic-p1-machinery",
+    "part": 1,
+    "word": "machinery",
+    "pos": "noun",
+    "meaning_ko": "기계류",
+    "ipa": "/məˈʃiːnəri/",
+    "pron_ko": "머시너리",
+    "example_en": "Heavy machinery is being operated.",
+    "example_ko": "중장비가 가동되고 있다.",
+    "topic": [
+      "object"
+    ],
+    "frequency_tier": 2,
+    "synonyms": [
+      "equipment"
+    ],
+    "distractors": [
+      "machinery",
+      "machine",
+      "machines"
+    ]
+  },
+  {
+    "id": "toeic-p1-conveyor-belt",
+    "part": 1,
+    "word": "conveyor belt",
+    "pos": "noun",
+    "meaning_ko": "컨베이어 벨트",
+    "ipa": "/kənˈveɪər belt/",
+    "pron_ko": "컨베이어 벨트",
+    "example_en": "Items are moving along the conveyor belt.",
+    "example_ko": "물품이 컨베이어 벨트를 따라 움직이고 있다.",
+    "topic": [
+      "object"
+    ],
+    "frequency_tier": 2,
+    "synonyms": [
+      "belt"
+    ],
+    "distractors": [
+      "conveyor belt",
+      "conveyors",
+      "conveyance"
+    ]
+  },
+  {
+    "id": "toeic-p1-bookshelf",
+    "part": 1,
+    "word": "bookshelf",
+    "pos": "noun",
+    "meaning_ko": "책장",
+    "ipa": "/ˈbʊkʃelf/",
+    "pron_ko": "북쉘프",
+    "example_en": "Books fill the bookshelf.",
+    "example_ko": "책이 책장을 가득 채우고 있다.",
+    "topic": [
+      "object"
+    ],
+    "frequency_tier": 1,
+    "synonyms": [
+      "shelf"
+    ],
+    "distractors": [
+      "bookshelf",
+      "bookshelves",
+      "bookend"
+    ]
+  },
+  {
+    "id": "toeic-p1-painting-brush",
+    "part": 1,
+    "word": "painting brush",
+    "pos": "noun",
+    "meaning_ko": "페인트 브러시",
+    "ipa": "/ˈpeɪntɪŋ brʌʃ/",
+    "pron_ko": "페인팅 브러시",
+    "example_en": "He is dipping a painting brush.",
+    "example_ko": "그는 페인트 브러시를 적시고 있다.",
+    "topic": [
+      "object"
+    ],
+    "frequency_tier": 2,
+    "synonyms": [
+      "brush"
+    ],
+    "distractors": [
+      "brush",
+      "painter",
+      "paint"
+    ]
+  },
+  {
+    "id": "toeic-p1-nail",
+    "part": 1,
+    "word": "nail",
+    "pos": "noun",
+    "meaning_ko": "못",
+    "ipa": "/neɪl/",
+    "pron_ko": "네일",
+    "example_en": "He is hammering nails.",
+    "example_ko": "그는 못을 박고 있다.",
+    "topic": [
+      "object"
+    ],
+    "frequency_tier": 2,
+    "synonyms": [
+      "spike"
+    ],
+    "distractors": [
+      "nail",
+      "nails",
+      "hail"
+    ]
+  },
+  {
+    "id": "toeic-p1-screwdriver",
+    "part": 1,
+    "word": "screwdriver",
+    "pos": "noun",
+    "meaning_ko": "드라이버",
+    "ipa": "/ˈskruːdraɪvər/",
+    "pron_ko": "스크류드라이버",
+    "example_en": "He is using a screwdriver.",
+    "example_ko": "그는 드라이버를 사용하고 있다.",
+    "topic": [
+      "object"
+    ],
+    "frequency_tier": 2,
+    "synonyms": [
+      "tool"
+    ],
+    "distractors": [
+      "screwdriver",
+      "screwdrivers",
+      "screwed"
+    ]
+  },
+  {
+    "id": "toeic-p1-wrench",
+    "part": 1,
+    "word": "wrench",
+    "pos": "noun",
+    "meaning_ko": "렌치",
+    "ipa": "/rentʃ/",
+    "pron_ko": "렌치",
+    "example_en": "A mechanic is holding a wrench.",
+    "example_ko": "정비공이 렌치를 들고 있다.",
+    "topic": [
+      "object"
+    ],
+    "frequency_tier": 2,
+    "synonyms": [
+      "spanner"
+    ],
+    "distractors": [
+      "wrench",
+      "drench",
+      "trench"
+    ]
+  },
+  {
+    "id": "toeic-p1-hose",
+    "part": 1,
+    "word": "hose",
+    "pos": "noun",
+    "meaning_ko": "호스",
+    "ipa": "/hoʊz/",
+    "pron_ko": "호즈",
+    "example_en": "A worker is using a hose.",
+    "example_ko": "작업자가 호스를 사용하고 있다.",
+    "topic": [
+      "object"
+    ],
+    "frequency_tier": 2,
+    "synonyms": [
+      "tube"
+    ],
+    "distractors": [
+      "hose",
+      "hoses",
+      "hosed"
+    ]
+  },
+  {
+    "id": "toeic-p1-broom",
+    "part": 1,
+    "word": "broom",
+    "pos": "noun",
+    "meaning_ko": "빗자루",
+    "ipa": "/bruːm/",
+    "pron_ko": "브룸",
+    "example_en": "A janitor is using a broom.",
+    "example_ko": "청소부가 빗자루를 사용하고 있다.",
+    "topic": [
+      "object"
+    ],
+    "frequency_tier": 2,
+    "synonyms": [
+      "brush"
+    ],
+    "distractors": [
+      "broom",
+      "brood",
+      "bloom"
+    ]
+  },
+  {
+    "id": "toeic-p1-bucket",
+    "part": 1,
+    "word": "bucket",
+    "pos": "noun",
+    "meaning_ko": "양동이",
+    "ipa": "/ˈbʌkɪt/",
+    "pron_ko": "버킷",
+    "example_en": "A bucket is on the ground.",
+    "example_ko": "양동이가 바닥에 있다.",
+    "topic": [
+      "object"
+    ],
+    "frequency_tier": 1,
+    "synonyms": [
+      "pail"
+    ],
+    "distractors": [
+      "bucket",
+      "buckle",
+      "basket"
+    ]
+  },
+  {
+    "id": "toeic-p1-ladder-rung",
+    "part": 1,
+    "word": "ladder rung",
+    "pos": "noun",
+    "meaning_ko": "사다리 가로대",
+    "ipa": "/ˈlædər rʌŋ/",
+    "pron_ko": "래더 렁",
+    "example_en": "His foot is on the ladder rung.",
+    "example_ko": "그의 발이 사다리 가로대에 있다.",
+    "topic": [
+      "object"
+    ],
+    "frequency_tier": 2,
+    "synonyms": [
+      "step"
+    ],
+    "distractors": [
+      "ladder",
+      "rung",
+      "lung"
+    ]
+  },
+  {
+    "id": "toeic-p1-stepladder",
+    "part": 1,
+    "word": "stepladder",
+    "pos": "noun",
+    "meaning_ko": "사다리",
+    "ipa": "/ˈstepˌlædər/",
+    "pron_ko": "스텝래더",
+    "example_en": "A stepladder is set up.",
+    "example_ko": "사다리가 설치되어 있다.",
+    "topic": [
+      "object"
+    ],
+    "frequency_tier": 2,
+    "synonyms": [
+      "ladder"
+    ],
+    "distractors": [
+      "stepladder",
+      "stepladders",
+      "stepfather"
+    ]
+  },
+  {
+    "id": "toeic-p1-railing-2",
+    "part": 1,
+    "word": "railing",
+    "pos": "noun",
+    "meaning_ko": "난간",
+    "ipa": "/ˈreɪlɪŋ/",
+    "pron_ko": "레일링",
+    "example_en": "Pedestrians are grabbing the railing.",
+    "example_ko": "보행자들이 난간을 잡고 있다.",
+    "topic": [
+      "object"
+    ],
+    "frequency_tier": 2,
+    "synonyms": [
+      "handrail"
+    ],
+    "distractors": [
+      "rolling",
+      "rallying",
+      "ruling"
+    ]
+  },
+  {
+    "id": "toeic-p1-bench",
+    "part": 1,
+    "word": "bench",
+    "pos": "noun",
+    "meaning_ko": "벤치",
+    "ipa": "/bentʃ/",
+    "pron_ko": "벤치",
+    "example_en": "A man is resting on a bench.",
+    "example_ko": "한 남자가 벤치에서 쉬고 있다.",
+    "topic": [
+      "object",
+      "place"
+    ],
+    "frequency_tier": 1,
+    "synonyms": [
+      "seat"
+    ],
+    "distractors": [
+      "bench",
+      "bunch",
+      "branch"
+    ]
+  },
+  {
+    "id": "toeic-p1-statue",
+    "part": 1,
+    "word": "statue",
+    "pos": "noun",
+    "meaning_ko": "조각상",
+    "ipa": "/ˈstætʃuː/",
+    "pron_ko": "스태츄",
+    "example_en": "A statue stands in the plaza.",
+    "example_ko": "조각상이 광장에 서 있다.",
+    "topic": [
+      "object",
+      "place"
+    ],
+    "frequency_tier": 1,
+    "synonyms": [
+      "sculpture"
+    ],
+    "distractors": [
+      "statue",
+      "status",
+      "statute"
+    ]
+  },
+  {
+    "id": "toeic-p1-monument",
+    "part": 1,
+    "word": "monument",
+    "pos": "noun",
+    "meaning_ko": "기념물",
+    "ipa": "/ˈmɒnjəmənt/",
+    "pron_ko": "모뉴먼트",
+    "example_en": "Tourists are photographing the monument.",
+    "example_ko": "관광객들이 기념물을 사진 찍고 있다.",
+    "topic": [
+      "object",
+      "place"
+    ],
+    "frequency_tier": 2,
+    "synonyms": [
+      "memorial"
+    ],
+    "distractors": [
+      "monument",
+      "moment",
+      "movement"
+    ]
+  },
+  {
+    "id": "toeic-p1-plaza",
+    "part": 1,
+    "word": "plaza",
+    "pos": "noun",
+    "meaning_ko": "광장",
+    "ipa": "/ˈplɑːzə/",
+    "pron_ko": "플라자",
+    "example_en": "People are gathered in the plaza.",
+    "example_ko": "사람들이 광장에 모여 있다.",
+    "topic": [
+      "place"
+    ],
+    "frequency_tier": 1,
+    "synonyms": [
+      "square"
+    ],
+    "distractors": [
+      "plaza",
+      "piazza",
+      "pizza"
+    ]
+  },
+  {
+    "id": "toeic-p1-square",
+    "part": 1,
+    "word": "square",
+    "pos": "noun",
+    "meaning_ko": "광장",
+    "ipa": "/skweər/",
+    "pron_ko": "스퀘어",
+    "example_en": "Performers are entertaining in the square.",
+    "example_ko": "연주자들이 광장에서 공연하고 있다.",
+    "topic": [
+      "place"
+    ],
+    "frequency_tier": 1,
+    "synonyms": [
+      "plaza"
+    ],
+    "distractors": [
+      "square",
+      "squad",
+      "squat"
+    ]
+  },
+  {
+    "id": "toeic-p1-dock-worker",
+    "part": 1,
+    "word": "dock worker",
+    "pos": "noun",
+    "meaning_ko": "부두 노동자",
+    "ipa": "/dɒk ˈwɜːrkər/",
+    "pron_ko": "도크 워커",
+    "example_en": "Dock workers are unloading cargo.",
+    "example_ko": "부두 노동자들이 화물을 내리고 있다.",
+    "topic": [
+      "action",
+      "place"
+    ],
+    "frequency_tier": 2,
+    "synonyms": [
+      "longshoreman"
+    ],
+    "distractors": [
+      "dockworker",
+      "dockworkers",
+      "dockyard"
+    ]
+  },
+  {
+    "id": "toeic-p1-longshoreman",
+    "part": 1,
+    "word": "longshoreman",
+    "pos": "noun",
+    "meaning_ko": "부두 노동자",
+    "ipa": "/ˈlɒŋˌʃɔːrmən/",
+    "pron_ko": "롱쇼어맨",
+    "example_en": "Longshoremen are working at the port.",
+    "example_ko": "부두 노동자들이 항구에서 일하고 있다.",
+    "topic": [
+      "action",
+      "place"
+    ],
+    "frequency_tier": 3,
+    "synonyms": [
+      "dock worker"
+    ],
+    "distractors": [
+      "longshore",
+      "longshoreman",
+      "longshoremen"
+    ]
+  },
+  {
+    "id": "toeic-p1-railway",
+    "part": 1,
+    "word": "railway",
+    "pos": "noun",
+    "meaning_ko": "철도",
+    "ipa": "/ˈreɪlweɪ/",
+    "pron_ko": "레일웨이",
+    "example_en": "A train is moving along the railway.",
+    "example_ko": "기차가 철도를 따라 움직이고 있다.",
+    "topic": [
+      "place",
+      "transport"
+    ],
+    "frequency_tier": 1,
+    "synonyms": [
+      "track"
+    ],
+    "distractors": [
+      "railway",
+      "railways",
+      "raceway"
+    ]
+  },
+  {
+    "id": "toeic-p1-track",
+    "part": 1,
+    "word": "track",
+    "pos": "noun",
+    "meaning_ko": "선로",
+    "ipa": "/træk/",
+    "pron_ko": "트랙",
+    "example_en": "Workers are inspecting the track.",
+    "example_ko": "작업자들이 선로를 점검하고 있다.",
+    "topic": [
+      "place",
+      "transport"
+    ],
+    "frequency_tier": 1,
+    "synonyms": [
+      "rail"
+    ],
+    "distractors": [
+      "track",
+      "tract",
+      "truck"
+    ]
+  },
+  {
+    "id": "toeic-p1-locomotive",
+    "part": 1,
+    "word": "locomotive",
+    "pos": "noun",
+    "meaning_ko": "기관차",
+    "ipa": "/ˌloʊkəˈmoʊtɪv/",
+    "pron_ko": "로코모티브",
+    "example_en": "A locomotive is pulling cars.",
+    "example_ko": "기관차가 차량을 끌고 있다.",
+    "topic": [
+      "object",
+      "transport"
+    ],
+    "frequency_tier": 2,
+    "synonyms": [
+      "engine"
+    ],
+    "distractors": [
+      "locomotive",
+      "locomotion",
+      "locomotor"
+    ]
+  },
+  {
+    "id": "toeic-p1-freight",
+    "part": 1,
+    "word": "freight",
+    "pos": "noun",
+    "meaning_ko": "화물",
+    "ipa": "/freɪt/",
+    "pron_ko": "프레이트",
+    "example_en": "Freight is being loaded.",
+    "example_ko": "화물이 실리고 있다.",
+    "topic": [
+      "object",
+      "transport"
+    ],
+    "frequency_tier": 2,
+    "synonyms": [
+      "cargo"
+    ],
+    "distractors": [
+      "freight",
+      "fright",
+      "freight"
+    ]
+  },
+  {
+    "id": "toeic-p1-cargo",
+    "part": 1,
+    "word": "cargo",
+    "pos": "noun",
+    "meaning_ko": "화물",
+    "ipa": "/ˈkɑːrɡoʊ/",
+    "pron_ko": "카고",
+    "example_en": "Cargo is stored on the ship.",
+    "example_ko": "화물이 배에 보관되어 있다.",
+    "topic": [
+      "object",
+      "transport"
+    ],
+    "frequency_tier": 1,
+    "synonyms": [
+      "freight"
+    ],
+    "distractors": [
+      "cargo",
+      "cargos",
+      "cargill"
+    ]
+  },
+  {
+    "id": "toeic-p1-crane",
+    "part": 1,
+    "word": "crane",
+    "pos": "noun",
+    "meaning_ko": "크레인",
+    "ipa": "/kreɪn/",
+    "pron_ko": "크레인",
+    "example_en": "A crane is lifting steel beams.",
+    "example_ko": "크레인이 철강 빔을 들어 올리고 있다.",
+    "topic": [
+      "object",
+      "transport"
+    ],
+    "frequency_tier": 2,
+    "synonyms": [
+      "hoist"
+    ],
+    "distractors": [
+      "crane",
+      "crank",
+      "crone"
+    ]
+  },
+  {
+    "id": "toeic-p1-scoop",
+    "part": 1,
+    "word": "scoop",
+    "pos": "verb",
+    "meaning_ko": "퍼내다",
+    "ipa": "/skuːp/",
+    "pron_ko": "스쿱",
+    "example_en": "He is scooping snow off the ground.",
+    "example_ko": "그는 눈을 바닥에서 퍼내고 있다.",
+    "topic": [
+      "action"
+    ],
+    "frequency_tier": 2,
+    "synonyms": [
+      "shovel"
+    ],
+    "distractors": [
+      "scoop",
+      "stoop",
+      "swap"
+    ]
+  },
+  {
+    "id": "toeic-p1-trim",
+    "part": 1,
+    "word": "trim",
+    "pos": "verb",
+    "meaning_ko": "다듬다",
+    "ipa": "/trɪm/",
+    "pron_ko": "트림",
+    "example_en": "A gardener is trimming bushes.",
+    "example_ko": "정원사가 덤불을 다듬고 있다.",
+    "topic": [
+      "action"
+    ],
+    "frequency_tier": 2,
+    "synonyms": [
+      "prune"
+    ],
+    "distractors": [
+      "trim",
+      "tram",
+      "trip"
+    ]
+  },
+  {
+    "id": "toeic-p1-prune",
+    "part": 1,
+    "word": "prune",
+    "pos": "verb",
+    "meaning_ko": "가지치기하다",
+    "ipa": "/pruːn/",
+    "pron_ko": "프룬",
+    "example_en": "She is pruning the hedge.",
+    "example_ko": "그녀는 산울타리를 가지치기하고 있다.",
+    "topic": [
+      "action"
+    ],
+    "frequency_tier": 2,
+    "synonyms": [
+      "trim"
+    ],
+    "distractors": [
+      "prune",
+      "prone",
+      "prude"
+    ]
+  },
+  {
+    "id": "toeic-p1-sweep-up",
+    "part": 1,
+    "word": "sweep up",
+    "pos": "verb",
+    "meaning_ko": "쓸어 모으다",
+    "ipa": "/swiːp ʌp/",
+    "pron_ko": "스윕 업",
+    "example_en": "A custodian is sweeping up debris.",
+    "example_ko": "관리인이 쓰레기를 쓸어 모으고 있다.",
+    "topic": [
+      "action"
+    ],
+    "frequency_tier": 2,
+    "synonyms": [
+      "clear"
+    ],
+    "distractors": [
+      "sweep",
+      "swept",
+      "swap"
+    ]
+  },
+  {
+    "id": "toeic-p1-scrub",
+    "part": 1,
+    "word": "scrub",
+    "pos": "verb",
+    "meaning_ko": "문지르다",
+    "ipa": "/skrʌb/",
+    "pron_ko": "스크럽",
+    "example_en": "She is scrubbing the sink.",
+    "example_ko": "그녀는 싱크대를 문지르고 있다.",
+    "topic": [
+      "action"
+    ],
+    "frequency_tier": 2,
+    "synonyms": [
+      "clean"
+    ],
+    "distractors": [
+      "scrub",
+      "scram",
+      "scrap"
+    ]
+  },
+  {
+    "id": "toeic-p1-rinse",
+    "part": 1,
+    "word": "rinse",
+    "pos": "verb",
+    "meaning_ko": "헹구다",
+    "ipa": "/rɪns/",
+    "pron_ko": "린스",
+    "example_en": "He is rinsing dishes.",
+    "example_ko": "그는 접시를 헹구고 있다.",
+    "topic": [
+      "action"
+    ],
+    "frequency_tier": 2,
+    "synonyms": [
+      "wash"
+    ],
+    "distractors": [
+      "rinse",
+      "rinsed",
+      "rinses"
+    ]
+  },
+  {
+    "id": "toeic-p1-season",
+    "part": 1,
+    "word": "season",
+    "pos": "verb",
+    "meaning_ko": "양념하다",
+    "ipa": "/ˈsiːzən/",
+    "pron_ko": "시즌",
+    "example_en": "A chef is seasoning food.",
+    "example_ko": "요리사가 음식에 양념하고 있다.",
+    "topic": [
+      "action"
+    ],
+    "frequency_tier": 2,
+    "synonyms": [
+      "flavor"
+    ],
+    "distractors": [
+      "season",
+      "seasoned",
+      "reason"
+    ]
+  },
+  {
+    "id": "toeic-p1-chop",
+    "part": 1,
+    "word": "chop",
+    "pos": "verb",
+    "meaning_ko": "썰다",
+    "ipa": "/tʃɒp/",
+    "pron_ko": "찹",
+    "example_en": "She is chopping vegetables.",
+    "example_ko": "그녀는 채소를 썰고 있다.",
+    "topic": [
+      "action"
+    ],
+    "frequency_tier": 2,
+    "synonyms": [
+      "cut"
+    ],
+    "distractors": [
+      "chop",
+      "chip",
+      "chap"
+    ]
+  },
+  {
+    "id": "toeic-p1-slice",
+    "part": 1,
+    "word": "slice",
+    "pos": "verb",
+    "meaning_ko": "얇게 썰다",
+    "ipa": "/slaɪs/",
+    "pron_ko": "슬라이스",
+    "example_en": "He is slicing bread.",
+    "example_ko": "그는 빵을 얇게 썰고 있다.",
+    "topic": [
+      "action"
+    ],
+    "frequency_tier": 2,
+    "synonyms": [
+      "cut"
+    ],
+    "distractors": [
+      "slice",
+      "slick",
+      "slime"
+    ]
+  },
+  {
+    "id": "toeic-p1-stir",
+    "part": 1,
+    "word": "stir",
+    "pos": "verb",
+    "meaning_ko": "젓다",
+    "ipa": "/stɜːr/",
+    "pron_ko": "스터",
+    "example_en": "She is stirring the soup.",
+    "example_ko": "그녀는 수프를 젓고 있다.",
+    "topic": [
+      "action"
+    ],
+    "frequency_tier": 2,
+    "synonyms": [
+      "mix"
+    ],
+    "distractors": [
+      "stir",
+      "star",
+      "stair"
+    ]
+  },
+  {
+    "id": "toeic-p1-knead",
+    "part": 1,
+    "word": "knead",
+    "pos": "verb",
+    "meaning_ko": "반죽하다",
+    "ipa": "/niːd/",
+    "pron_ko": "니드",
+    "example_en": "A baker is kneading dough.",
+    "example_ko": "제빵사가 반죽을 반죽하고 있다.",
+    "topic": [
+      "action"
+    ],
+    "frequency_tier": 2,
+    "synonyms": [
+      "work"
+    ],
+    "distractors": [
+      "knead",
+      "kneel",
+      "need"
+    ]
+  },
+  {
+    "id": "toeic-p1-bake",
+    "part": 1,
+    "word": "bake",
+    "pos": "verb",
+    "meaning_ko": "굽다",
+    "ipa": "/beɪk/",
+    "pron_ko": "베이크",
+    "example_en": "A baker is baking bread.",
+    "example_ko": "제빵사가 빵을 굽고 있다.",
+    "topic": [
+      "action"
+    ],
+    "frequency_tier": 1,
+    "synonyms": [
+      "cook"
+    ],
+    "distractors": [
+      "bake",
+      "bike",
+      "back"
+    ]
+  },
+  {
+    "id": "toeic-p1-brew",
+    "part": 1,
+    "word": "brew",
+    "pos": "verb",
+    "meaning_ko": "끓이다",
+    "ipa": "/bruː/",
+    "pron_ko": "브루",
+    "example_en": "A barista is brewing coffee.",
+    "example_ko": "바리스타가 커피를 끓이고 있다.",
+    "topic": [
+      "action"
+    ],
+    "frequency_tier": 2,
+    "synonyms": [
+      "make"
+    ],
+    "distractors": [
+      "brew",
+      "blew",
+      "brow"
+    ]
+  },
+  {
+    "id": "toeic-p1-fold-2",
+    "part": 1,
+    "word": "fold",
+    "pos": "verb",
+    "meaning_ko": "개다",
+    "ipa": "/foʊld/",
+    "pron_ko": "폴드",
+    "example_en": "She is folding laundry.",
+    "example_ko": "그녀는 빨래를 개고 있다.",
+    "topic": [
+      "action"
+    ],
+    "frequency_tier": 1,
+    "synonyms": [
+      "crease"
+    ],
+    "distractors": [
+      "fold",
+      "fold",
+      "food"
+    ]
+  },
+  {
+    "id": "toeic-p1-kneel-down",
+    "part": 1,
+    "word": "kneel down",
+    "pos": "verb",
+    "meaning_ko": "무릎 꿇다",
+    "ipa": "/niːl daʊn/",
+    "pron_ko": "닐 다운",
+    "example_en": "A worker is kneeling down to fix the pipe.",
+    "example_ko": "작업자가 무릎을 꿇고 파이프를 수리하고 있다.",
+    "topic": [
+      "action"
+    ],
+    "frequency_tier": 2,
+    "synonyms": [
+      "genuflect"
+    ],
+    "distractors": [
+      "kneel",
+      "knell",
+      "knelt"
+    ]
+  },
+  {
+    "id": "toeic-p1-examine-closely",
+    "part": 1,
+    "word": "examine closely",
+    "pos": "verb",
+    "meaning_ko": "자세히 살펴보다",
+    "ipa": "/ɪɡˈzæmɪn ˈkloʊsli/",
+    "pron_ko": "이그재민 클로슬리",
+    "example_en": "She is examining the document closely.",
+    "example_ko": "그녀는 서류를 자세히 살펴보고 있다.",
+    "topic": [
+      "action"
+    ],
+    "frequency_tier": 2,
+    "synonyms": [
+      "scrutinize"
+    ],
+    "distractors": [
+      "examine",
+      "exhibit",
+      "exhume"
+    ]
+  },
+  {
+    "id": "toeic-p1-pour-out",
+    "part": 1,
+    "word": "pour out",
+    "pos": "verb",
+    "meaning_ko": "따르다",
+    "ipa": "/pɔːr aʊt/",
+    "pron_ko": "포어 아웃",
+    "example_en": "A waiter is pouring out wine.",
+    "example_ko": "웨이터가 와인을 따르고 있다.",
+    "topic": [
+      "action"
+    ],
+    "frequency_tier": 2,
+    "synonyms": [
+      "empty"
+    ],
+    "distractors": [
+      "pour",
+      "pore",
+      "poor"
+    ]
+  },
+  {
+    "id": "toeic-p1-pile-up",
+    "part": 1,
+    "word": "pile up",
+    "pos": "verb",
+    "meaning_ko": "쌓아 올리다",
+    "ipa": "/paɪl ʌp/",
+    "pron_ko": "파일 업",
+    "example_en": "Workers are piling up bricks.",
+    "example_ko": "작업자들이 벽돌을 쌓아 올리고 있다.",
+    "topic": [
+      "action"
+    ],
+    "frequency_tier": 2,
+    "synonyms": [
+      "stack"
+    ],
+    "distractors": [
+      "pile",
+      "pail",
+      "pole"
+    ]
+  },
+  {
+    "id": "toeic-p1-hand-over",
+    "part": 1,
+    "word": "hand over",
+    "pos": "verb",
+    "meaning_ko": "건네주다",
+    "ipa": "/hænd ˈoʊvər/",
+    "pron_ko": "핸드 오버",
+    "example_en": "She is handing over a package.",
+    "example_ko": "그녀는 소포를 건네주고 있다.",
+    "topic": [
+      "action"
+    ],
+    "frequency_tier": 1,
+    "synonyms": [
+      "deliver"
+    ],
+    "distractors": [
+      "handover",
+      "handover",
+      "handful"
+    ]
+  },
+  {
+    "id": "toeic-p1-get-on",
+    "part": 1,
+    "word": "get on",
+    "pos": "verb",
+    "meaning_ko": "타다",
+    "ipa": "/ɡet ɒn/",
+    "pron_ko": "겟 온",
+    "example_en": "Passengers are getting on the bus.",
+    "example_ko": "승객들이 버스에 타고 있다.",
+    "topic": [
+      "action",
+      "transport"
+    ],
+    "frequency_tier": 1,
+    "synonyms": [
+      "board"
+    ],
+    "distractors": [
+      "get on",
+      "get off",
+      "get out"
+    ]
+  },
+  {
+    "id": "toeic-p1-get-off",
+    "part": 1,
+    "word": "get off",
+    "pos": "verb",
+    "meaning_ko": "내리다",
+    "ipa": "/ɡet ɒf/",
+    "pron_ko": "겟 오프",
+    "example_en": "People are getting off the train.",
+    "example_ko": "사람들이 기차에서 내리고 있다.",
+    "topic": [
+      "action",
+      "transport"
+    ],
+    "frequency_tier": 1,
+    "synonyms": [
+      "disembark"
+    ],
+    "distractors": [
+      "get off",
+      "get on",
+      "getaway"
+    ]
+  },
+  {
+    "id": "toeic-p1-look-out",
+    "part": 1,
+    "word": "look out",
+    "pos": "verb",
+    "meaning_ko": "바라보다",
+    "ipa": "/lʊk aʊt/",
+    "pron_ko": "룩 아웃",
+    "example_en": "A guard is looking out the window.",
+    "example_ko": "경비원이 창문 밖을 바라보고 있다.",
+    "topic": [
+      "action"
+    ],
+    "frequency_tier": 2,
+    "synonyms": [
+      "gaze"
+    ],
+    "distractors": [
+      "lookout",
+      "lookout",
+      "lookouts"
+    ]
+  },
+  {
+    "id": "toeic-p1-hang-up",
+    "part": 1,
+    "word": "hang up",
+    "pos": "verb",
+    "meaning_ko": "걸다",
+    "ipa": "/hæŋ ʌp/",
+    "pron_ko": "행 업",
+    "example_en": "He is hanging up his coat.",
+    "example_ko": "그는 외투를 걸고 있다.",
+    "topic": [
+      "action"
+    ],
+    "frequency_tier": 1,
+    "synonyms": [
+      "suspend"
+    ],
+    "distractors": [
+      "hangup",
+      "hung up",
+      "hang on"
+    ]
+  },
+  {
+    "id": "toeic-p1-set-up",
+    "part": 1,
+    "word": "set up",
+    "pos": "verb",
+    "meaning_ko": "설치하다",
+    "ipa": "/set ʌp/",
+    "pron_ko": "셋 업",
+    "example_en": "Crews are setting up the stage.",
+    "example_ko": "작업반이 무대를 설치하고 있다.",
+    "topic": [
+      "action"
+    ],
+    "frequency_tier": 1,
+    "synonyms": [
+      "arrange"
+    ],
+    "distractors": [
+      "setup",
+      "setups",
+      "set up"
+    ]
+  },
+  {
+    "id": "toeic-p1-take-down",
+    "part": 1,
+    "word": "take down",
+    "pos": "verb",
+    "meaning_ko": "치우다",
+    "ipa": "/teɪk daʊn/",
+    "pron_ko": "테이크 다운",
+    "example_en": "Workers are taking down a banner.",
+    "example_ko": "작업자들이 현수막을 치우고 있다.",
+    "topic": [
+      "action"
+    ],
+    "frequency_tier": 2,
+    "synonyms": [
+      "remove"
+    ],
+    "distractors": [
+      "takedown",
+      "takeoff",
+      "takeout"
+    ]
+  },
+  {
+    "id": "toeic-p1-hand-cart",
+    "part": 1,
+    "word": "hand cart",
+    "pos": "noun",
+    "meaning_ko": "손수레",
+    "ipa": "/hænd kɑːrt/",
+    "pron_ko": "핸드 카트",
+    "example_en": "He is pushing a hand cart.",
+    "example_ko": "그는 손수레를 밀고 있다.",
+    "topic": [
+      "object",
+      "transport"
+    ],
+    "frequency_tier": 2,
+    "synonyms": [
+      "trolley"
+    ],
+    "distractors": [
+      "handcart",
+      "handcar",
+      "handcraft"
+    ]
+  },
+  {
+    "id": "toeic-p1-dolly",
+    "part": 1,
+    "word": "dolly",
+    "pos": "noun",
+    "meaning_ko": "손수레",
+    "ipa": "/ˈdɒli/",
+    "pron_ko": "돌리",
+    "example_en": "A delivery man is using a dolly.",
+    "example_ko": "택배 기사가 손수레를 사용하고 있다.",
+    "topic": [
+      "object",
+      "transport"
+    ],
+    "frequency_tier": 3,
+    "synonyms": [
+      "hand truck"
+    ],
+    "distractors": [
+      "dolly",
+      "daily",
+      "doll"
+    ]
+  },
+  {
+    "id": "toeic-p1-safety-vest",
+    "part": 1,
+    "word": "safety vest",
+    "pos": "noun",
+    "meaning_ko": "안전 조끼",
+    "ipa": "/ˈseɪfti vest/",
+    "pron_ko": "세이프티 베스트",
+    "example_en": "Workers are wearing safety vests.",
+    "example_ko": "작업자들이 안전 조끼를 입고 있다.",
+    "topic": [
+      "clothing"
+    ],
+    "frequency_tier": 2,
+    "synonyms": [
+      "vest"
+    ],
+    "distractors": [
+      "safety vest",
+      "safety net",
+      "safety pin"
+    ]
+  },
+  {
+    "id": "toeic-p1-hard-hat",
+    "part": 1,
+    "word": "hard hat",
+    "pos": "noun",
+    "meaning_ko": "안전모",
+    "ipa": "/hɑːrd hæt/",
+    "pron_ko": "하드 햇",
+    "example_en": "Construction workers are wearing hard hats.",
+    "example_ko": "건설 노동자들이 안전모를 쓰고 있다.",
+    "topic": [
+      "clothing",
+      "object"
+    ],
+    "frequency_tier": 1,
+    "synonyms": [
+      "helmet"
+    ],
+    "distractors": [
+      "hard hat",
+      "hardhat",
+      "hardhats"
+    ]
+  },
+  {
+    "id": "toeic-p1-trash-can",
+    "part": 1,
+    "word": "trash can",
+    "pos": "noun",
+    "meaning_ko": "쓰레기통",
+    "ipa": "/træʃ kæn/",
+    "pron_ko": "트래시 캔",
+    "example_en": "A trash can is on the corner.",
+    "example_ko": "쓰레기통이 모서리에 있다.",
+    "topic": [
+      "object"
+    ],
+    "frequency_tier": 1,
+    "synonyms": [
+      "bin"
+    ],
+    "distractors": [
+      "trash can",
+      "tin can",
+      "trash"
+    ]
+  },
+  {
+    "id": "toeic-p1-planter",
+    "part": 1,
+    "word": "planter",
+    "pos": "noun",
+    "meaning_ko": "화분",
+    "ipa": "/ˈplæntər/",
+    "pron_ko": "플랜터",
+    "example_en": "Flowers are growing in a planter.",
+    "example_ko": "꽃이 화분에서 자라고 있다.",
+    "topic": [
+      "object"
+    ],
+    "frequency_tier": 2,
+    "synonyms": [
+      "pot"
+    ],
+    "distractors": [
+      "planter",
+      "painter",
+      "printer"
+    ]
+  },
+  {
+    "id": "toeic-p1-hedge",
+    "part": 1,
+    "word": "hedge",
+    "pos": "noun",
+    "meaning_ko": "산울타리",
+    "ipa": "/hedʒ/",
+    "pron_ko": "헤지",
+    "example_en": "A gardener is trimming the hedge.",
+    "example_ko": "정원사가 산울타리를 다듬고 있다.",
+    "topic": [
+      "place",
+      "object"
+    ],
+    "frequency_tier": 2,
+    "synonyms": [
+      "bush"
+    ],
+    "distractors": [
+      "hedge",
+      "hedges",
+      "edge"
+    ]
+  },
+  {
+    "id": "toeic-p1-bush",
+    "part": 1,
+    "word": "bush",
+    "pos": "noun",
+    "meaning_ko": "덤불",
+    "ipa": "/bʊʃ/",
+    "pron_ko": "부시",
+    "example_en": "Bushes line the walkway.",
+    "example_ko": "덤불이 보도를 따라 늘어서 있다.",
+    "topic": [
+      "place",
+      "object"
+    ],
+    "frequency_tier": 1,
+    "synonyms": [
+      "shrub"
+    ],
+    "distractors": [
+      "bush",
+      "brush",
+      "bash"
+    ]
+  },
+  {
+    "id": "toeic-p1-path",
+    "part": 1,
+    "word": "path",
+    "pos": "noun",
+    "meaning_ko": "산책로",
+    "ipa": "/pæθ/",
+    "pron_ko": "패스",
+    "example_en": "People are walking on the path.",
+    "example_ko": "사람들이 산책로를 걷고 있다.",
+    "topic": [
+      "place"
+    ],
+    "frequency_tier": 1,
+    "synonyms": [
+      "trail"
+    ],
+    "distractors": [
+      "path",
+      "past",
+      "paste"
+    ]
+  },
+  {
+    "id": "toeic-p1-walkway",
+    "part": 1,
+    "word": "walkway",
+    "pos": "noun",
+    "meaning_ko": "보도",
+    "ipa": "/ˈwɔːkweɪ/",
+    "pron_ko": "워크웨이",
+    "example_en": "A walkway connects the buildings.",
+    "example_ko": "보도가 건물들을 연결한다.",
+    "topic": [
+      "place"
+    ],
+    "frequency_tier": 2,
+    "synonyms": [
+      "path"
+    ],
+    "distractors": [
+      "walkway",
+      "walkways",
+      "hallway"
+    ]
+  },
+  {
+    "id": "toeic-p1-dock-cart",
+    "part": 1,
+    "word": "dock cart",
+    "pos": "noun",
+    "meaning_ko": "부두 카트",
+    "ipa": "/dɒk kɑːrt/",
+    "pron_ko": "도크 카트",
+    "example_en": "A dock cart is loaded with crates.",
+    "example_ko": "부두 카트가 나무상자로 가득 차 있다.",
+    "topic": [
+      "object",
+      "transport"
+    ],
+    "frequency_tier": 3,
+    "synonyms": [
+      "cart"
+    ],
+    "distractors": [
+      "dock cart",
+      "dockcart",
+      "carts"
+    ]
+  },
+  {
+    "id": "toeic-p1-hose-down",
+    "part": 1,
+    "word": "hose down",
+    "pos": "verb",
+    "meaning_ko": "호스로 씻다",
+    "ipa": "/hoʊz daʊn/",
+    "pron_ko": "호즈 다운",
+    "example_en": "He is hosing down the deck.",
+    "example_ko": "그는 갑판을 호스로 씻고 있다.",
+    "topic": [
+      "action"
+    ],
+    "frequency_tier": 2,
+    "synonyms": [
+      "wash"
+    ],
+    "distractors": [
+      "hose",
+      "haze",
+      "house"
+    ]
+  },
+  {
+    "id": "toeic-p1-rake-leaves",
+    "part": 1,
+    "word": "rake leaves",
+    "pos": "verb",
+    "meaning_ko": "낙엽 갈퀴질하다",
+    "ipa": "/reɪk liːvz/",
+    "pron_ko": "레이크 리브즈",
+    "example_en": "She is raking leaves into a pile.",
+    "example_ko": "그녀는 낙엽을 갈퀴질해 더미로 만들고 있다.",
+    "topic": [
+      "action"
+    ],
+    "frequency_tier": 2,
+    "synonyms": [
+      "gather"
+    ],
+    "distractors": [
+      "rake",
+      "rack",
+      "rake"
+    ]
+  },
+  {
+    "id": "toeic-p1-tend",
+    "part": 1,
+    "word": "tend",
+    "pos": "verb",
+    "meaning_ko": "돌보다",
+    "ipa": "/tend/",
+    "pron_ko": "텐드",
+    "example_en": "A gardener is tending plants.",
+    "example_ko": "정원사가 식물을 돌보고 있다.",
+    "topic": [
+      "action"
+    ],
+    "frequency_tier": 2,
+    "synonyms": [
+      "care for"
+    ],
+    "distractors": [
+      "tend",
+      "tent",
+      "trend"
+    ]
+  },
+  {
+    "id": "toeic-p1-inspect-closely",
+    "part": 1,
+    "word": "inspect closely",
+    "pos": "verb",
+    "meaning_ko": "면밀히 점검하다",
+    "ipa": "/ɪnˈspekt ˈkloʊsli/",
+    "pron_ko": "인스펙트 클로슬리",
+    "example_en": "Engineers are inspecting the pipes closely.",
+    "example_ko": "엔지니어들이 파이프를 면밀히 점검하고 있다.",
+    "topic": [
+      "action"
+    ],
+    "frequency_tier": 2,
+    "synonyms": [
+      "check"
+    ],
+    "distractors": [
+      "inspect",
+      "inflect",
+      "insist"
+    ]
+  },
+  {
+    "id": "toeic-p1-look-in",
+    "part": 1,
+    "word": "look in",
+    "meaning_ko": "~을 들여다보다",
+    "frequency_tier": 2,
+    "source": "hackers800-voca"
+  },
+  {
+    "id": "toeic-p1-grocery",
+    "part": 1,
+    "word": "grocery",
+    "meaning_ko": "n. 식료품",
+    "pos": "noun",
+    "frequency_tier": 2,
+    "source": "hackers800-voca"
+  },
+  {
+    "id": "toeic-p1-sort-through",
+    "part": 1,
+    "word": "sort through",
+    "meaning_ko": "~을 분류하다",
+    "frequency_tier": 2,
+    "source": "hackers800-voca"
+  },
+  {
+    "id": "toeic-p1-remove",
+    "part": 1,
+    "word": "remove",
+    "meaning_ko": "v. 벗다, 제거하다",
+    "pos": "verb",
+    "frequency_tier": 2,
+    "source": "hackers800-voca"
+  },
+  {
+    "id": "toeic-p1-windowsill",
+    "part": 1,
+    "word": "windowsill",
+    "meaning_ko": "n. 창턱",
+    "pos": "noun",
+    "frequency_tier": 2,
+    "source": "hackers800-voca"
+  },
+  {
+    "id": "toeic-p1-put-on",
+    "part": 1,
+    "word": "put on",
+    "meaning_ko": "~을 끼다, 입다",
+    "frequency_tier": 2,
+    "source": "hackers800-voca"
+  },
+  {
+    "id": "toeic-p1-turn-on",
+    "part": 1,
+    "word": "turn on",
+    "meaning_ko": "~을 켜다",
+    "frequency_tier": 2,
+    "source": "hackers800-voca"
+  },
+  {
+    "id": "toeic-p1-pile",
+    "part": 1,
+    "word": "pile",
+    "meaning_ko": "v. 쌓다",
+    "pos": "verb",
+    "frequency_tier": 2,
+    "source": "hackers800-voca"
+  },
+  {
+    "id": "toeic-p1-pin",
+    "part": 1,
+    "word": "pin",
+    "meaning_ko": "v. 고정하다",
+    "pos": "verb",
+    "frequency_tier": 2,
+    "source": "hackers800-voca"
+  },
+  {
+    "id": "toeic-p1-get-onto",
+    "part": 1,
+    "word": "get onto",
+    "meaning_ko": "~에 타다",
+    "frequency_tier": 2,
+    "source": "hackers800-voca"
+  },
+  {
+    "id": "toeic-p1-unpack",
+    "part": 1,
+    "word": "unpack",
+    "meaning_ko": "v. (짐을) 풀다",
+    "pos": "verb",
+    "frequency_tier": 2,
+    "source": "hackers800-voca"
+  },
+  {
+    "id": "toeic-p1-pick-up",
+    "part": 1,
+    "word": "pick up",
+    "meaning_ko": "~을 줍다",
+    "frequency_tier": 2,
+    "source": "hackers800-voca"
+  },
+  {
+    "id": "toeic-p1-along",
+    "part": 1,
+    "word": "along",
+    "meaning_ko": "prep. ~을 따라",
+    "pos": "preposition",
+    "frequency_tier": 2,
+    "source": "hackers800-voca"
+  },
+  {
+    "id": "toeic-p1-railroad-track",
+    "part": 1,
+    "word": "railroad track",
+    "meaning_ko": "철로",
+    "frequency_tier": 2,
+    "source": "hackers800-voca"
+  },
+  {
+    "id": "toeic-p1-rest",
+    "part": 1,
+    "word": "rest",
+    "meaning_ko": "v. 얹혀 있다, 기대다",
+    "pos": "verb",
+    "frequency_tier": 2,
+    "source": "hackers800-voca"
+  },
+  {
+    "id": "toeic-p1-light-fixture",
+    "part": 1,
+    "word": "light fixture",
+    "meaning_ko": "조명 기구",
+    "frequency_tier": 2,
+    "source": "hackers800-voca"
+  },
+  {
+    "id": "toeic-p1-climb-down",
+    "part": 1,
+    "word": "climb down",
+    "meaning_ko": "~을 내려가다",
+    "frequency_tier": 2,
+    "source": "hackers800-voca"
+  },
+  {
+    "id": "toeic-p1-step-into",
+    "part": 1,
+    "word": "step into",
+    "meaning_ko": "~에 들어가다",
+    "frequency_tier": 2,
+    "source": "hackers800-voca"
+  },
+  {
+    "id": "toeic-p1-parking-garage",
+    "part": 1,
+    "word": "parking garage",
+    "meaning_ko": "주차장",
+    "frequency_tier": 2,
+    "source": "hackers800-voca"
+  },
+  {
+    "id": "toeic-p1-cupboard",
+    "part": 1,
+    "word": "cupboard",
+    "meaning_ko": "n. 찬장",
+    "pos": "noun",
+    "frequency_tier": 2,
+    "source": "hackers800-voca"
+  },
+  {
+    "id": "toeic-p1-occupy",
+    "part": 1,
+    "word": "occupy",
+    "meaning_ko": "v. 사용하고 있다, 차지하다",
+    "pos": "verb",
+    "frequency_tier": 2,
+    "source": "hackers800-voca"
+  },
+  {
+    "id": "toeic-p1-diner",
+    "part": 1,
+    "word": "diner",
+    "meaning_ko": "n. 식사하는 사람",
+    "pos": "noun",
+    "frequency_tier": 2,
+    "source": "hackers800-voca"
+  },
+  {
+    "id": "toeic-p1-bend-over",
+    "part": 1,
+    "word": "bend over",
+    "meaning_ko": "허리를 굽히다, 몸을 앞으로 숙이다",
+    "frequency_tier": 2,
+    "source": "hackers800-voca"
+  },
+  {
+    "id": "toeic-p1-fence",
+    "part": 1,
+    "word": "fence",
+    "meaning_ko": "n. 울타리",
+    "pos": "noun",
+    "frequency_tier": 2,
+    "source": "hackers800-voca"
+  },
+  {
+    "id": "toeic-p1-wheelbarrow",
+    "part": 1,
+    "word": "wheelbarrow",
+    "meaning_ko": "n. 수레",
+    "pos": "noun",
+    "frequency_tier": 2,
+    "source": "hackers800-voca"
+  },
+  {
+    "id": "toeic-p1-lightbulb",
+    "part": 1,
+    "word": "lightbulb",
+    "meaning_ko": "n. 전구",
+    "pos": "noun",
+    "frequency_tier": 2,
+    "source": "hackers800-voca"
+  },
+  {
+    "id": "toeic-p1-lean-against",
+    "part": 1,
+    "word": "lean against",
+    "meaning_ko": "~에 기대다",
+    "frequency_tier": 2,
+    "source": "hackers800-voca"
+  },
+  {
+    "id": "toeic-p1-container",
+    "part": 1,
+    "word": "container",
+    "meaning_ko": "n. 용기, 그릇",
+    "pos": "noun",
+    "frequency_tier": 2,
+    "source": "hackers800-voca"
+  },
+  {
+    "id": "toeic-p1-set-a-table",
+    "part": 1,
+    "word": "set a table",
+    "meaning_ko": "식탁을 차리다",
+    "frequency_tier": 2,
+    "source": "hackers800-voca"
+  },
+  {
+    "id": "toeic-p1-workspace",
+    "part": 1,
+    "word": "workspace",
+    "meaning_ko": "n. 작업 공간, 업무 공간",
+    "pos": "noun",
+    "frequency_tier": 2,
+    "source": "hackers800-voca"
+  },
+  {
+    "id": "toeic-p1-reach-for",
+    "part": 1,
+    "word": "reach for",
+    "meaning_ko": "~을 향해 손을 뻗다",
+    "frequency_tier": 2,
+    "source": "hackers800-voca"
+  },
+  {
+    "id": "toeic-p1-prop-against",
+    "part": 1,
+    "word": "prop against",
+    "meaning_ko": "~에 기대어 놓다, 받쳐 놓다",
+    "frequency_tier": 2,
+    "source": "hackers800-voca"
+  },
+  {
+    "id": "toeic-p1-armchair",
+    "part": 1,
+    "word": "armchair",
+    "meaning_ko": "n. 안락의자",
+    "pos": "noun",
+    "frequency_tier": 2,
+    "source": "hackers800-voca"
+  },
+  {
+    "id": "toeic-p1-display-stand",
+    "part": 1,
+    "word": "display stand",
+    "meaning_ko": "n. 진열대",
+    "pos": "noun",
+    "frequency_tier": 2,
+    "source": "hackers800-voca"
+  },
+  {
+    "id": "toeic-p1-empty",
+    "part": 1,
+    "word": "empty",
+    "meaning_ko": "adj. 비어 있는, 빈",
+    "pos": "adjective",
+    "frequency_tier": 2,
+    "source": "hackers800-voca"
+  },
+  {
+    "id": "toeic-p1-a-row-of",
+    "part": 1,
+    "word": "a row of",
+    "meaning_ko": "일렬로 줄지어",
+    "frequency_tier": 2,
+    "source": "hackers800-voca"
+  },
+  {
+    "id": "toeic-p1-seating",
+    "part": 1,
+    "word": "seating",
+    "meaning_ko": "n. 좌석, 자리",
+    "pos": "noun",
+    "frequency_tier": 2,
+    "source": "hackers800-voca"
+  },
+  {
+    "id": "toeic-p1-store",
+    "part": 1,
+    "word": "store",
+    "meaning_ko": "v. 보관하다",
+    "pos": "verb",
+    "frequency_tier": 2,
+    "source": "hackers800-voca"
+  },
+  {
+    "id": "toeic-p1-scatter",
+    "part": 1,
+    "word": "scatter",
+    "meaning_ko": "v. 흩어지다",
+    "pos": "verb",
+    "frequency_tier": 2,
+    "source": "hackers800-voca"
+  },
+  {
+    "id": "toeic-p1-electrical-outlet",
+    "part": 1,
+    "word": "electrical outlet",
+    "meaning_ko": "n. 콘센트",
+    "pos": "noun",
+    "frequency_tier": 2,
+    "source": "hackers800-voca"
+  },
+  {
+    "id": "toeic-p1-wooden",
+    "part": 1,
+    "word": "wooden",
+    "meaning_ko": "adj. 나무로 된, 목재의",
+    "pos": "adjective",
+    "frequency_tier": 2,
+    "source": "hackers800-voca"
+  },
+  {
+    "id": "toeic-p1-replace",
+    "part": 1,
+    "word": "replace",
+    "meaning_ko": "v. 교체하다",
+    "pos": "verb",
+    "frequency_tier": 2,
+    "source": "hackers800-voca"
+  },
+  {
+    "id": "toeic-p1-tablecloth",
+    "part": 1,
+    "word": "tablecloth",
+    "meaning_ko": "n. 식탁보",
+    "pos": "noun",
+    "frequency_tier": 2,
+    "source": "hackers800-voca"
+  },
+  {
+    "id": "toeic-p1-cast",
+    "part": 1,
+    "word": "cast",
+    "meaning_ko": "v. (그림자를) 드리우다",
+    "pos": "verb",
+    "frequency_tier": 2,
+    "source": "hackers800-voca"
+  },
+  {
+    "id": "toeic-p1-position",
+    "part": 1,
+    "word": "position",
+    "meaning_ko": "v. 배치하다, 자리를 잡다",
+    "pos": "verb",
+    "frequency_tier": 2,
+    "source": "hackers800-voca"
+  },
+  {
+    "id": "toeic-p1-side-by-side",
+    "part": 1,
+    "word": "side by side",
+    "meaning_ko": "나란히",
+    "frequency_tier": 2,
+    "source": "hackers800-voca"
+  },
+  {
+    "id": "toeic-p1-trash-bin",
+    "part": 1,
+    "word": "trash bin",
+    "meaning_ko": "n. 쓰레기통",
+    "pos": "noun",
+    "frequency_tier": 2,
+    "source": "hackers800-voca"
+  },
+  {
+    "id": "toeic-p1-lane-marking",
+    "part": 1,
+    "word": "lane marking",
+    "meaning_ko": "n. 차선 표시",
+    "pos": "noun",
+    "frequency_tier": 2,
+    "source": "hackers800-voca"
+  },
+  {
+    "id": "toeic-p1-roadway",
+    "part": 1,
+    "word": "roadway",
+    "meaning_ko": "n. 도로",
+    "pos": "noun",
+    "frequency_tier": 2,
+    "source": "hackers800-voca"
+  },
+  {
+    "id": "toeic-p1-waterway",
+    "part": 1,
+    "word": "waterway",
+    "meaning_ko": "n. (강, 운하 등의) 수로",
+    "pos": "noun",
+    "frequency_tier": 2,
+    "source": "hackers800-voca"
+  },
+  {
+    "id": "toeic-p1-canal",
+    "part": 1,
+    "word": "canal",
+    "meaning_ko": "n. 운하",
+    "pos": "noun",
+    "frequency_tier": 2,
+    "source": "hackers800-voca"
+  },
+  {
+    "id": "toeic-p1-flow",
+    "part": 1,
+    "word": "flow",
+    "meaning_ko": "v. 흐르다",
+    "pos": "verb",
+    "frequency_tier": 2,
+    "source": "hackers800-voca"
+  },
+  {
+    "id": "toeic-p1-tow",
+    "part": 1,
+    "word": "tow",
+    "meaning_ko": "v. 견인하다",
+    "pos": "verb",
+    "frequency_tier": 2,
+    "source": "hackers800-voca"
+  },
+  {
+    "id": "toeic-p1-leave",
+    "part": 1,
+    "word": "leave",
+    "meaning_ko": "v. 남겨두다",
+    "pos": "verb",
+    "frequency_tier": 2,
+    "source": "hackers800-voca"
+  },
+  {
+    "id": "toeic-p1-shovel",
+    "part": 1,
+    "word": "shovel",
+    "meaning_ko": "v. 삽질하다",
+    "pos": "verb",
+    "frequency_tier": 2,
+    "source": "hackers800-voca"
+  },
+  {
+    "id": "toeic-p1-soil",
+    "part": 1,
+    "word": "soil",
+    "meaning_ko": "n. 흙",
+    "pos": "noun",
+    "frequency_tier": 2,
+    "source": "hackers800-voca"
+  },
+  {
+    "id": "toeic-p1-erect",
+    "part": 1,
+    "word": "erect",
+    "meaning_ko": "v. (똑바로) 세우다",
+    "pos": "verb",
+    "frequency_tier": 2,
+    "source": "hackers800-voca"
+  },
+  {
+    "id": "toeic-p1-block",
+    "part": 1,
+    "word": "block",
+    "meaning_ko": "v. 막다",
+    "pos": "verb",
+    "frequency_tier": 2,
+    "source": "hackers800-voca"
+  },
+  {
+    "id": "toeic-p1-pool",
+    "part": 1,
+    "word": "pool",
+    "meaning_ko": "v. 물웅덩이를 만들다",
+    "pos": "verb",
+    "frequency_tier": 2,
+    "source": "hackers800-voca"
+  },
+  {
+    "id": "toeic-p1-branch",
+    "part": 1,
+    "word": "branch",
+    "meaning_ko": "n. 나뭇가지",
+    "pos": "noun",
+    "frequency_tier": 2,
+    "source": "hackers800-voca"
+  },
+  {
+    "id": "toeic-p1-secure",
+    "part": 1,
+    "word": "secure",
+    "meaning_ko": "v. 고정하다",
+    "pos": "verb",
+    "frequency_tier": 2,
+    "source": "hackers800-voca"
+  },
+  {
+    "id": "toeic-p1-handlebar",
+    "part": 1,
+    "word": "handlebar",
+    "meaning_ko": "n. (자전거의) 핸들",
+    "pos": "noun",
+    "frequency_tier": 2,
+    "source": "hackers800-voca"
+  },
+  {
+    "id": "toeic-p1-material",
+    "part": 1,
+    "word": "material",
+    "meaning_ko": "n. 자료",
+    "pos": "noun",
+    "frequency_tier": 2,
+    "source": "hackers800-voca"
+  },
+  {
+    "id": "toeic-p1-countertop",
+    "part": 1,
+    "word": "countertop",
+    "meaning_ko": "n. 조리대",
+    "pos": "noun",
+    "frequency_tier": 2,
+    "source": "hackers800-voca"
+  }
+]

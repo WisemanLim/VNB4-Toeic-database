@@ -1,0 +1,363 @@
+[
+  {
+    "id": "toeic-sw-p1-d1-1",
+    "part": 1,
+    "day": 1,
+    "order": 1,
+    "prompt": "She's ____.",
+    "answer": "examining a grocery item",
+    "full_sentence": "She's examining a grocery item.",
+    "translation_ko": "그녀는 식료품 제품을 살펴보고 있다.",
+    "tokens": [
+      "examining",
+      "a",
+      "grocery",
+      "item"
+    ]
+  },
+  {
+    "id": "toeic-sw-p1-d1-2",
+    "part": 1,
+    "day": 1,
+    "order": 2,
+    "prompt": "A man is ____.",
+    "answer": "painting a wall with a brush",
+    "full_sentence": "A man is painting a wall with a brush.",
+    "translation_ko": "한 남자가 벽을 붓으로 페인트칠하고 있다.",
+    "tokens": [
+      "painting",
+      "a",
+      "wall",
+      "with",
+      "a",
+      "brush"
+    ]
+  },
+  {
+    "id": "toeic-sw-p1-d1-3",
+    "part": 1,
+    "day": 1,
+    "order": 3,
+    "prompt": "The woman is ____.",
+    "answer": "resting her arm on a chair",
+    "full_sentence": "The woman is resting her arm on a chair.",
+    "translation_ko": "여자가 의자에 팔을 얹고 있다.",
+    "tokens": [
+      "resting",
+      "her",
+      "arm",
+      "on",
+      "a",
+      "chair"
+    ]
+  },
+  {
+    "id": "toeic-sw-p1-d1-4",
+    "part": 1,
+    "day": 1,
+    "order": 4,
+    "prompt": "Some people are ____.",
+    "answer": "standing in line to board an airplane",
+    "full_sentence": "Some people are standing in line to board an airplane.",
+    "translation_ko": "몇몇 사람들이 비행기에 탑승하기 위해 줄을 서 있다.",
+    "tokens": [
+      "standing",
+      "in",
+      "line",
+      "to",
+      "board",
+      "an",
+      "airplane"
+    ]
+  },
+  {
+    "id": "toeic-sw-p1-d1-5",
+    "part": 1,
+    "day": 1,
+    "order": 5,
+    "prompt": "Some tables ____.",
+    "answer": "are occupied by diners",
+    "full_sentence": "Some tables are occupied by diners.",
+    "translation_ko": "몇몇 테이블은 식사하는 사람들에 의해 사용되고 있다.",
+    "tokens": [
+      "are",
+      "occupied",
+      "by",
+      "diners"
+    ]
+  },
+  {
+    "id": "toeic-sw-p1-d1-6",
+    "part": 1,
+    "day": 1,
+    "order": 6,
+    "prompt": "The workers are ____.",
+    "answer": "moving a piece of furniture",
+    "full_sentence": "The workers are moving a piece of furniture.",
+    "translation_ko": "작업자들이 가구를 옮기고 있다.",
+    "tokens": [
+      "moving",
+      "a",
+      "piece",
+      "of",
+      "furniture"
+    ]
+  },
+  {
+    "id": "toeic-sw-p1-d1-7",
+    "part": 1,
+    "day": 1,
+    "order": 7,
+    "prompt": "They're ____.",
+    "answer": "each pulling their suitcases",
+    "full_sentence": "They're each pulling their suitcases.",
+    "translation_ko": "그들은 각자 여행 가방을 끌고 있다.",
+    "tokens": [
+      "each",
+      "pulling",
+      "their",
+      "suitcases"
+    ]
+  },
+  {
+    "id": "toeic-sw-p1-d1-8",
+    "part": 1,
+    "day": 1,
+    "order": 8,
+    "prompt": "A chart ____.",
+    "answer": "has been drawn on a whiteboard",
+    "full_sentence": "A chart has been drawn on a whiteboard.",
+    "translation_ko": "화이트보드에 차트가 그려져 있다.",
+    "tokens": [
+      "has",
+      "been",
+      "drawn",
+      "on",
+      "a",
+      "whiteboard"
+    ]
+  },
+  {
+    "id": "toeic-sw-p1-d1-9",
+    "part": 1,
+    "day": 1,
+    "order": 9,
+    "prompt": "There are ____.",
+    "answer": "some musicians performing outside",
+    "full_sentence": "There are some musicians performing outside.",
+    "translation_ko": "밖에서 공연을 하고 있는 음악가들이 있다.",
+    "tokens": [
+      "some",
+      "musicians",
+      "performing",
+      "outside"
+    ]
+  },
+  {
+    "id": "toeic-sw-p1-d1-10",
+    "part": 1,
+    "day": 1,
+    "order": 10,
+    "prompt": "There is ____.",
+    "answer": "a folding chair propped against a stone wall",
+    "full_sentence": "There is a folding chair propped against a stone wall.",
+    "translation_ko": "돌담에 기대어 있는 접이식 의자가 있다.",
+    "tokens": [
+      "a",
+      "folding",
+      "chair",
+      "propped",
+      "against",
+      "a",
+      "stone",
+      "wall"
+    ]
+  },
+  {
+    "id": "toeic-sw-p1-d2-1",
+    "part": 1,
+    "day": 2,
+    "order": 1,
+    "prompt": "Some ____.",
+    "answer": "flower arrangements are on a display stand",
+    "full_sentence": "Some flower arrangements are on a display stand.",
+    "translation_ko": "진열대 위에 꽃꽂이들이 있다.",
+    "tokens": [
+      "flower",
+      "arrangements",
+      "are",
+      "on",
+      "a",
+      "display",
+      "stand"
+    ]
+  },
+  {
+    "id": "toeic-sw-p1-d2-2",
+    "part": 1,
+    "day": 2,
+    "order": 2,
+    "prompt": "There are ____.",
+    "answer": "lamps lighting a seating area",
+    "full_sentence": "There are lamps lighting a seating area.",
+    "translation_ko": "몇몇 좌석 공간을 비추는 전등이 있다.",
+    "tokens": [
+      "lamps",
+      "lighting",
+      "a",
+      "seating",
+      "area"
+    ]
+  },
+  {
+    "id": "toeic-sw-p1-d2-3",
+    "part": 1,
+    "day": 2,
+    "order": 3,
+    "prompt": "Some ____.",
+    "answer": "boxes have been stacked on top of each other",
+    "full_sentence": "Some boxes have been stacked on top of each other.",
+    "translation_ko": "몇몇 상자들이 차곡차곡 쌓여 있다.",
+    "tokens": [
+      "boxes",
+      "have",
+      "been",
+      "stacked",
+      "on",
+      "top",
+      "of",
+      "each",
+      "other"
+    ]
+  },
+  {
+    "id": "toeic-sw-p1-d2-4",
+    "part": 1,
+    "day": 2,
+    "order": 4,
+    "prompt": "There are ____.",
+    "answer": "benches positioned side by side",
+    "full_sentence": "There are benches positioned side by side.",
+    "translation_ko": "벤치들이 나란히 배치되어 있다.",
+    "tokens": [
+      "benches",
+      "positioned",
+      "side",
+      "by",
+      "side"
+    ]
+  },
+  {
+    "id": "toeic-sw-p1-d2-5",
+    "part": 1,
+    "day": 2,
+    "order": 5,
+    "prompt": "Some ____.",
+    "answer": "cranes are erected at a construction site",
+    "full_sentence": "Some cranes are erected at a construction site.",
+    "translation_ko": "몇몇 크레인이 건설 현장에 세워져 있다.",
+    "tokens": [
+      "cranes",
+      "are",
+      "erected",
+      "at",
+      "a",
+      "construction",
+      "site"
+    ]
+  },
+  {
+    "id": "toeic-sw-p1-d2-6",
+    "part": 1,
+    "day": 2,
+    "order": 6,
+    "prompt": "There are ____.",
+    "answer": "doors on both sides of a corridor",
+    "full_sentence": "There are doors on both sides of a corridor.",
+    "translation_ko": "복도 양쪽에 문이 있다.",
+    "tokens": [
+      "doors",
+      "on",
+      "both",
+      "sides",
+      "of",
+      "a",
+      "corridor"
+    ]
+  },
+  {
+    "id": "toeic-sw-p1-d2-7",
+    "part": 1,
+    "day": 2,
+    "order": 7,
+    "prompt": "A cart ____.",
+    "answer": "has been left near the vehicle",
+    "full_sentence": "A cart has been left near the vehicle.",
+    "translation_ko": "차량 근처에 카트가 남겨져 있다.",
+    "tokens": [
+      "has",
+      "been",
+      "left",
+      "near",
+      "the",
+      "vehicle"
+    ]
+  },
+  {
+    "id": "toeic-sw-p1-d2-8",
+    "part": 1,
+    "day": 2,
+    "order": 8,
+    "prompt": "There is ____.",
+    "answer": "a product rack standing on a sidewalk",
+    "full_sentence": "There is a product rack standing on a sidewalk.",
+    "translation_ko": "인도에 세워진 제품 선반이 있다.",
+    "tokens": [
+      "a",
+      "product",
+      "rack",
+      "standing",
+      "on",
+      "a",
+      "sidewalk"
+    ]
+  },
+  {
+    "id": "toeic-sw-p1-d2-9",
+    "part": 1,
+    "day": 2,
+    "order": 9,
+    "prompt": "Containers ____.",
+    "answer": "have been arranged on a shelf",
+    "full_sentence": "Containers have been arranged on a shelf.",
+    "translation_ko": "선반에 용기들이 정리되어 있다.",
+    "tokens": [
+      "have",
+      "been",
+      "arranged",
+      "on",
+      "a",
+      "shelf"
+    ]
+  },
+  {
+    "id": "toeic-sw-p1-d2-10",
+    "part": 1,
+    "day": 2,
+    "order": 10,
+    "prompt": "Some ____.",
+    "answer": "cooking utensils are being washed in a sink",
+    "full_sentence": "Some cooking utensils are being washed in a sink.",
+    "translation_ko": "몇몇 조리 기구가 싱크대에서 세척되고 있다.",
+    "tokens": [
+      "cooking",
+      "utensils",
+      "are",
+      "being",
+      "washed",
+      "in",
+      "a",
+      "sink"
+    ]
+  }
+]

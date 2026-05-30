@@ -1,0 +1,248 @@
+// Local dev schema — SQLite (no Docker required)
+// Limitations vs prod schema: no native enums, no Json, no pgvector, String[] as JSON text
+// For production PostgreSQL use prisma/schema.prisma
+
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "sqlite"
+  url      = env("DATABASE_URL")
+}
+
+// =====================================================
+// Auth & Users
+// =====================================================
+
+model User {
+  id            String    @id @default(cuid())
+  email         String    @unique
+  emailVerified DateTime?
+  name          String?
+  avatarUrl     String?
+  role          String    @default("user")   // "user" | "admin" | "editor"
+  passwordHash  String?
+  locale        String    @default("ko")
+  createdAt     DateTime  @default(now())
+  updatedAt     DateTime  @updatedAt
+  deletedAt     DateTime?
+
+  identities  AuthIdentity[]
+  progresses  Progress[]
+  notes       Note[]
+  bookmarks   Bookmark[]
+  sessions    Session[]
+  curriculums Curriculum[]
+
+  @@index([email])
+}
+
+model AuthIdentity {
+  id         String   @id @default(cuid())
+  userId     String
+  provider   String   // "google" | "apple" | "kakao" | "email"
+  providerId String
+  createdAt  DateTime @default(now())
+  user       User     @relation(fields: [userId], references: [id], onDelete: Cascade)
+
+  @@unique([provider, providerId])
+  @@index([userId])
+}
+
+model Session {
+  id           String   @id @default(cuid())
+  userId       String
+  refreshToken String   @unique
+  userAgent    String?
+  ip           String?
+  expiresAt    DateTime
+  createdAt    DateTime @default(now())
+  user         User     @relation(fields: [userId], references: [id], onDelete: Cascade)
+
+  @@index([userId])
+}
+
+// =====================================================
+// Content — Words / Lessons
+// =====================================================
+
+model Word {
+  id            String    @id
+  part          String    // "P1".."P7"
+  word          String
+  pos           String?
+  meaningKo     String
+  ipa           String?
+  pronKo        String?
+  exampleEn     String?
+  exampleKo     String?
+  topic         String    @default("[]")  // JSON string[]
+  frequencyTier Int       @default(2)
+  imagePrompt   String?
+  imageUrl      String?
+  synonyms      String    @default("[]")  // JSON string[]
+  distractors   String    @default("[]")  // JSON string[]
+  createdAt     DateTime  @default(now())
+  updatedAt     DateTime  @updatedAt
+  deletedAt     DateTime?
+
+  audio       AudioAsset[]
+  lessonWords LessonWord[]
+  progresses  Progress[]
+  notes       Note[]
+  bookmarks   Bookmark[]
+
+  @@unique([part, word])
+  @@index([part])
+  @@index([frequencyTier])
+}
+
+model AudioAsset {
+  id         String   @id @default(cuid())
+  wordId     String
+  locale     String   // "en_US" | "en_GB" | "en_AU"
+  provider   String   // "azure" | "polly" | "google" | "piper"
+  voiceId    String
+  url        String
+  durationMs Int?
+  createdAt  DateTime @default(now())
+  word       Word     @relation(fields: [wordId], references: [id], onDelete: Cascade)
+
+  @@unique([wordId, locale, provider])
+  @@index([wordId])
+}
+
+model Lesson {
+  id          String    @id @default(cuid())
+  part        String    // "P1".."P7"
+  title       String
+  description String?
+  orderIndex  Int       @default(0)
+  publishedAt DateTime?
+  createdAt   DateTime  @default(now())
+  updatedAt   DateTime  @updatedAt
+
+  words      LessonWord[]
+  progresses Progress[]
+
+  @@index([part, orderIndex])
+}
+
+model LessonWord {
+  lessonId String
+  wordId   String
+  position Int
+  lesson   Lesson @relation(fields: [lessonId], references: [id], onDelete: Cascade)
+  word     Word   @relation(fields: [wordId], references: [id], onDelete: Cascade)
+
+  @@id([lessonId, wordId])
+  @@index([lessonId, position])
+}
+
+// =====================================================
+// Learning — Progress, SRS, Notes
+// =====================================================
+
+model Progress {
+  id           String    @id @default(cuid())
+  userId       String
+  wordId       String
+  lessonId     String?
+  state        String    @default("new")  // "new" | "learning" | "review" | "mastered"
+  easeFactor   Float     @default(2.5)
+  intervalDays Int       @default(0)
+  repetitions  Int       @default(0)
+  lapses       Int       @default(0)
+  lastReview   DateTime?
+  dueAt        DateTime  @default(now())
+  correctCount Int       @default(0)
+  wrongCount   Int       @default(0)
+  createdAt    DateTime  @default(now())
+  updatedAt    DateTime  @updatedAt
+
+  user   User    @relation(fields: [userId], references: [id], onDelete: Cascade)
+  word   Word    @relation(fields: [wordId], references: [id], onDelete: Cascade)
+  lesson Lesson? @relation(fields: [lessonId], references: [id], onDelete: SetNull)
+
+  @@unique([userId, wordId])
+  @@index([userId, dueAt])
+  @@index([userId, state])
+}
+
+model Note {
+  id        String   @id @default(cuid())
+  userId    String
+  wordId    String
+  body      String
+  tags      String   @default("[]")  // JSON string[]
+  createdAt DateTime @default(now())
+  updatedAt DateTime @updatedAt
+
+  user User @relation(fields: [userId], references: [id], onDelete: Cascade)
+  word Word @relation(fields: [wordId], references: [id], onDelete: Cascade)
+
+  @@index([userId, wordId])
+}
+
+model Bookmark {
+  userId    String
+  wordId    String
+  createdAt DateTime @default(now())
+
+  user User @relation(fields: [userId], references: [id], onDelete: Cascade)
+  word Word @relation(fields: [wordId], references: [id], onDelete: Cascade)
+
+  @@id([userId, wordId])
+}
+
+model Curriculum {
+  id          String    @id @default(cuid())
+  userId      String
+  name        String
+  examDate    DateTime?
+  dailyTarget Int       @default(20)
+  createdAt   DateTime  @default(now())
+  updatedAt   DateTime  @updatedAt
+  user        User      @relation(fields: [userId], references: [id], onDelete: Cascade)
+
+  @@index([userId])
+}
+
+// =====================================================
+// Ops — Jobs
+// =====================================================
+
+model Job {
+  id        String    @id @default(cuid())
+  kind      String    // "tts_batch" | "image_gen" | "seed_import" | "license_report"
+  status    String    @default("queued")  // "queued" | "running" | "succeeded" | "failed"
+  payload   String    // JSON text
+  result    String?   // JSON text
+  error     String?
+  attempts  Int       @default(0)
+  startedAt DateTime?
+  endedAt   DateTime?
+  createdAt DateTime  @default(now())
+
+  @@index([kind, status])
+  @@index([createdAt])
+}
+
+// 문장쓰기(단어 고르기) + 쉐도잉 — SQLite: part→String, tokens→JSON text
+model SentenceItem {
+  id            String    @id
+  part          String // "P1".."P4"
+  day           Int
+  orderIndex    Int
+  prompt        String
+  answer        String
+  fullSentence  String
+  translationKo String
+  tokens        String    @default("[]") // JSON string[]
+  createdAt     DateTime  @default(now())
+  updatedAt     DateTime  @updatedAt
+  deletedAt     DateTime?
+
+  @@index([part, day, orderIndex])
+}

@@ -1,0 +1,306 @@
+// Prisma schema — TOEIC vocab platform
+// Apache-2.0 (Prisma toolkit)
+
+generator client {
+  provider        = "prisma-client-js"
+  previewFeatures = ["postgresqlExtensions"]
+}
+
+datasource db {
+  provider   = "postgresql"
+  url        = env("DATABASE_URL")
+  extensions = [pgvector(map: "vector")]
+}
+
+// =====================================================
+// Auth & Users
+// =====================================================
+
+enum Provider {
+  google
+  apple
+  kakao
+  email
+}
+
+enum Role {
+  user
+  admin
+  editor
+}
+
+model User {
+  id            String    @id @default(cuid())
+  email         String    @unique
+  emailVerified DateTime?
+  name          String?
+  avatarUrl     String?
+  role          Role      @default(user)
+  passwordHash  String?
+  locale        String    @default("ko")
+  createdAt     DateTime  @default(now())
+  updatedAt     DateTime  @updatedAt
+  deletedAt     DateTime?
+
+  identities  AuthIdentity[]
+  progresses  Progress[]
+  notes       Note[]
+  bookmarks   Bookmark[]
+  sessions    Session[]
+  curriculums Curriculum[]
+
+  @@index([email])
+}
+
+model AuthIdentity {
+  id         String   @id @default(cuid())
+  userId     String
+  provider   Provider
+  providerId String
+  createdAt  DateTime @default(now())
+  user       User     @relation(fields: [userId], references: [id], onDelete: Cascade)
+
+  @@unique([provider, providerId])
+  @@index([userId])
+}
+
+model Session {
+  id           String   @id @default(cuid())
+  userId       String
+  refreshToken String   @unique
+  userAgent    String?
+  ip           String?
+  expiresAt    DateTime
+  createdAt    DateTime @default(now())
+  user         User     @relation(fields: [userId], references: [id], onDelete: Cascade)
+
+  @@index([userId])
+}
+
+// =====================================================
+// Content — Words / Lessons
+// =====================================================
+
+enum Part {
+  P1
+  P2
+  P3
+  P4
+  P5
+  P6
+  P7
+}
+
+model Word {
+  id            String    @id // e.g. "toeic-p3-deadline"
+  part          Part
+  word          String
+  pos           String?
+  meaningKo     String
+  ipa           String?
+  pronKo        String?
+  exampleEn     String?
+  exampleKo     String?
+  topic         String[]
+  frequencyTier Int       @default(2)
+  imagePrompt   String?
+  imageUrl      String?
+  synonyms      String[]
+  distractors   String[]
+  createdAt     DateTime  @default(now())
+  updatedAt     DateTime  @updatedAt
+  deletedAt     DateTime?
+
+  audio       AudioAsset[]
+  lessonWords LessonWord[]
+  progresses  Progress[]
+  notes       Note[]
+  bookmarks   Bookmark[]
+
+  @@unique([part, word])
+  @@index([part])
+  @@index([frequencyTier])
+}
+
+enum Locale {
+  en_US
+  en_GB
+  en_AU
+}
+
+enum TtsProvider {
+  azure
+  polly
+  google
+  piper
+}
+
+model AudioAsset {
+  id         String      @id @default(cuid())
+  wordId     String
+  locale     Locale
+  provider   TtsProvider
+  voiceId    String
+  url        String
+  durationMs Int?
+  createdAt  DateTime    @default(now())
+  word       Word        @relation(fields: [wordId], references: [id], onDelete: Cascade)
+
+  @@unique([wordId, locale, provider])
+  @@index([wordId])
+}
+
+model Lesson {
+  id          String    @id @default(cuid())
+  part        Part
+  title       String
+  description String?
+  orderIndex  Int       @default(0)
+  publishedAt DateTime?
+  createdAt   DateTime  @default(now())
+  updatedAt   DateTime  @updatedAt
+
+  words      LessonWord[]
+  progresses Progress[]
+
+  @@index([part, orderIndex])
+}
+
+model LessonWord {
+  lessonId String
+  wordId   String
+  position Int
+  lesson   Lesson @relation(fields: [lessonId], references: [id], onDelete: Cascade)
+  word     Word   @relation(fields: [wordId], references: [id], onDelete: Cascade)
+
+  @@id([lessonId, wordId])
+  @@index([lessonId, position])
+}
+
+// =====================================================
+// Learning — Progress, SRS, Notes
+// =====================================================
+
+enum SrsState {
+  new
+  learning
+  review
+  mastered
+}
+
+model Progress {
+  id           String    @id @default(cuid())
+  userId       String
+  wordId       String
+  lessonId     String?
+  state        SrsState  @default(new)
+  easeFactor   Float     @default(2.5)
+  intervalDays Int       @default(0)
+  repetitions  Int       @default(0)
+  lapses       Int       @default(0)
+  lastReview   DateTime?
+  dueAt        DateTime  @default(now())
+  correctCount Int       @default(0)
+  wrongCount   Int       @default(0)
+  createdAt    DateTime  @default(now())
+  updatedAt    DateTime  @updatedAt
+
+  user   User    @relation(fields: [userId], references: [id], onDelete: Cascade)
+  word   Word    @relation(fields: [wordId], references: [id], onDelete: Cascade)
+  lesson Lesson? @relation(fields: [lessonId], references: [id], onDelete: SetNull)
+
+  @@unique([userId, wordId])
+  @@index([userId, dueAt])
+  @@index([userId, state])
+}
+
+model Note {
+  id        String   @id @default(cuid())
+  userId    String
+  wordId    String
+  body      String
+  tags      String[]
+  createdAt DateTime @default(now())
+  updatedAt DateTime @updatedAt
+
+  user User @relation(fields: [userId], references: [id], onDelete: Cascade)
+  word Word @relation(fields: [wordId], references: [id], onDelete: Cascade)
+
+  @@index([userId, wordId])
+}
+
+model Bookmark {
+  userId    String
+  wordId    String
+  createdAt DateTime @default(now())
+
+  user User @relation(fields: [userId], references: [id], onDelete: Cascade)
+  word Word @relation(fields: [wordId], references: [id], onDelete: Cascade)
+
+  @@id([userId, wordId])
+}
+
+model Curriculum {
+  id          String    @id @default(cuid())
+  userId      String
+  name        String
+  examDate    DateTime?
+  dailyTarget Int       @default(20)
+  createdAt   DateTime  @default(now())
+  updatedAt   DateTime  @updatedAt
+  user        User      @relation(fields: [userId], references: [id], onDelete: Cascade)
+
+  @@index([userId])
+}
+
+// =====================================================
+// Ops — Jobs, Audit
+// =====================================================
+
+enum JobKind {
+  tts_batch
+  image_gen
+  seed_import
+  license_report
+}
+
+enum JobStatus {
+  queued
+  running
+  succeeded
+  failed
+}
+
+model Job {
+  id        String    @id @default(cuid())
+  kind      JobKind
+  status    JobStatus @default(queued)
+  payload   Json
+  result    Json?
+  error     String?
+  attempts  Int       @default(0)
+  startedAt DateTime?
+  endedAt   DateTime?
+  createdAt DateTime  @default(now())
+
+  @@index([kind, status])
+  @@index([createdAt])
+}
+
+// 문장쓰기(단어 고르기) + 쉐도잉 — Hackers 800+ 받아쓰기/쉐도잉 워크북 (Parts 1–4).
+model SentenceItem {
+  id            String    @id // e.g. "toeic-sw-p1-d1-1"
+  part          Part
+  day           Int
+  orderIndex    Int
+  prompt        String // 빈칸(____) 포함 문장
+  answer        String // 빈칸 정답 (멀티블랭크는 " / " 구분)
+  fullSentence  String
+  translationKo String
+  tokens        String[] // 단어 고르기 토큰 (정답 단어들)
+  createdAt     DateTime  @default(now())
+  updatedAt     DateTime  @updatedAt
+  deletedAt     DateTime?
+
+  @@index([part, day, orderIndex])
+}

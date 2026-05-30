@@ -1,0 +1,4 @@
+# pnpm 11+ settings. Single-package project. See https://pnpm.io/settings
+#
+# 알려진 native deps (prisma engines, esbuild) install/postinstall 허용.
+dangerouslyAllowAllBuilds: true

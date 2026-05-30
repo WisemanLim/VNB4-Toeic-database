@@ -1,0 +1,7538 @@
+[
+  {
+    "id": "toeic-p6-however",
+    "part": 6,
+    "word": "however",
+    "pos": "conjunction",
+    "meaning_ko": "그러나",
+    "ipa": "/haʊˈevər/",
+    "pron_ko": "하우에버",
+    "example_en": "However, sales remained strong.",
+    "example_ko": "그러나 매출은 강세를 유지했습니다.",
+    "topic": [
+      "transition"
+    ],
+    "frequency_tier": 1,
+    "synonyms": [
+      "but"
+    ],
+    "distractors": [
+      "however",
+      "whoever",
+      "whatever"
+    ]
+  },
+  {
+    "id": "toeic-p6-therefore",
+    "part": 6,
+    "word": "therefore",
+    "pos": "conjunction",
+    "meaning_ko": "그러므로",
+    "ipa": "/ˈðerfɔːr/",
+    "pron_ko": "데어포어",
+    "example_en": "Therefore, we recommend approval.",
+    "example_ko": "그러므로 승인을 권장합니다.",
+    "topic": [
+      "transition"
+    ],
+    "frequency_tier": 1,
+    "synonyms": [
+      "thus"
+    ],
+    "distractors": [
+      "therefore",
+      "thereof",
+      "therein"
+    ]
+  },
+  {
+    "id": "toeic-p6-moreover",
+    "part": 6,
+    "word": "moreover",
+    "pos": "adverb",
+    "meaning_ko": "게다가",
+    "ipa": "/mɔːˈroʊvər/",
+    "pron_ko": "모어오버",
+    "example_en": "Moreover, costs are lower.",
+    "example_ko": "게다가 비용도 낮습니다.",
+    "topic": [
+      "transition"
+    ],
+    "frequency_tier": 1,
+    "synonyms": [
+      "furthermore"
+    ],
+    "distractors": [
+      "moreover",
+      "moreover",
+      "moreso"
+    ]
+  },
+  {
+    "id": "toeic-p6-furthermore",
+    "part": 6,
+    "word": "furthermore",
+    "pos": "adverb",
+    "meaning_ko": "더욱이",
+    "ipa": "/ˌfɜːrðərˈmɔːr/",
+    "pron_ko": "퍼더모어",
+    "example_en": "Furthermore, the team agreed.",
+    "example_ko": "더욱이 팀이 동의했습니다.",
+    "topic": [
+      "transition"
+    ],
+    "frequency_tier": 1,
+    "synonyms": [
+      "moreover"
+    ],
+    "distractors": [
+      "furthermore",
+      "further",
+      "farther"
+    ]
+  },
+  {
+    "id": "toeic-p6-in-addition",
+    "part": 6,
+    "word": "in addition",
+    "pos": "phrase",
+    "meaning_ko": "게다가",
+    "ipa": "/ɪn əˈdɪʃən/",
+    "pron_ko": "인 어디션",
+    "example_en": "In addition, we'll provide training.",
+    "example_ko": "게다가 우리는 교육을 제공합니다.",
+    "topic": [
+      "transition"
+    ],
+    "frequency_tier": 1,
+    "synonyms": [
+      "also"
+    ],
+    "distractors": [
+      "addition",
+      "additional",
+      "additions"
+    ]
+  },
+  {
+    "id": "toeic-p6-additionally",
+    "part": 6,
+    "word": "additionally",
+    "pos": "adverb",
+    "meaning_ko": "추가로",
+    "ipa": "/əˈdɪʃənəli/",
+    "pron_ko": "어디셔널리",
+    "example_en": "Additionally, parking is free.",
+    "example_ko": "추가로 주차는 무료입니다.",
+    "topic": [
+      "transition"
+    ],
+    "frequency_tier": 1,
+    "synonyms": [
+      "besides"
+    ],
+    "distractors": [
+      "additionally",
+      "addition",
+      "additional"
+    ]
+  },
+  {
+    "id": "toeic-p6-besides",
+    "part": 6,
+    "word": "besides",
+    "pos": "adverb",
+    "meaning_ko": "게다가",
+    "ipa": "/bɪˈsaɪdz/",
+    "pron_ko": "비사이즈",
+    "example_en": "Besides, the price is reasonable.",
+    "example_ko": "게다가 가격이 합리적입니다.",
+    "topic": [
+      "transition"
+    ],
+    "frequency_tier": 1,
+    "synonyms": [
+      "furthermore"
+    ],
+    "distractors": [
+      "besides",
+      "inside",
+      "outside"
+    ]
+  },
+  {
+    "id": "toeic-p6-also",
+    "part": 6,
+    "word": "also",
+    "pos": "adverb",
+    "meaning_ko": "또한",
+    "ipa": "/ˈɔːlsoʊ/",
+    "pron_ko": "올소",
+    "example_en": "She is also our lead designer.",
+    "example_ko": "그녀는 또한 우리 수석 디자이너입니다.",
+    "topic": [
+      "transition"
+    ],
+    "frequency_tier": 1,
+    "synonyms": [
+      "too"
+    ],
+    "distractors": [
+      "also",
+      "always",
+      "alto"
+    ]
+  },
+  {
+    "id": "toeic-p6-too",
+    "part": 6,
+    "word": "too",
+    "pos": "adverb",
+    "meaning_ko": "또한",
+    "ipa": "/tuː/",
+    "pron_ko": "투",
+    "example_en": "He attended the meeting too.",
+    "example_ko": "그도 회의에 참석했습니다.",
+    "topic": [
+      "transition"
+    ],
+    "frequency_tier": 1,
+    "synonyms": [
+      "also"
+    ],
+    "distractors": [
+      "too",
+      "to",
+      "two"
+    ]
+  },
+  {
+    "id": "toeic-p6-in-contrast",
+    "part": 6,
+    "word": "in contrast",
+    "pos": "phrase",
+    "meaning_ko": "대조적으로",
+    "ipa": "/ɪn ˈkɒntræst/",
+    "pron_ko": "인 컨트래스트",
+    "example_en": "In contrast, last year's sales fell.",
+    "example_ko": "대조적으로 작년 매출은 줄었습니다.",
+    "topic": [
+      "transition"
+    ],
+    "frequency_tier": 1,
+    "synonyms": [
+      "on the contrary"
+    ],
+    "distractors": [
+      "contrast",
+      "contrasts",
+      "contract"
+    ]
+  },
+  {
+    "id": "toeic-p6-on-the-contrary",
+    "part": 6,
+    "word": "on the contrary",
+    "pos": "phrase",
+    "meaning_ko": "반대로",
+    "ipa": "/ɒn ðə ˈkɒntreri/",
+    "pron_ko": "온 더 컨트레리",
+    "example_en": "On the contrary, demand has grown.",
+    "example_ko": "반대로 수요는 증가했습니다.",
+    "topic": [
+      "transition"
+    ],
+    "frequency_tier": 1,
+    "synonyms": [
+      "in contrast"
+    ],
+    "distractors": [
+      "contrary",
+      "contraries",
+      "contradictory"
+    ]
+  },
+  {
+    "id": "toeic-p6-on-the-other-hand",
+    "part": 6,
+    "word": "on the other hand",
+    "pos": "phrase",
+    "meaning_ko": "반면에",
+    "ipa": "/ɒn ði ˈʌðər hænd/",
+    "pron_ko": "온 디 어더 핸드",
+    "example_en": "On the other hand, costs rose.",
+    "example_ko": "반면에 비용은 올랐습니다.",
+    "topic": [
+      "transition"
+    ],
+    "frequency_tier": 1,
+    "synonyms": [
+      "however"
+    ],
+    "distractors": [
+      "other hand",
+      "on the other",
+      "on hand"
+    ]
+  },
+  {
+    "id": "toeic-p6-conversely",
+    "part": 6,
+    "word": "conversely",
+    "pos": "adverb",
+    "meaning_ko": "반대로",
+    "ipa": "/ˈkɒnvɜːrsli/",
+    "pron_ko": "컨버슬리",
+    "example_en": "Conversely, exports declined.",
+    "example_ko": "반대로 수출은 감소했습니다.",
+    "topic": [
+      "transition"
+    ],
+    "frequency_tier": 2,
+    "synonyms": [
+      "oppositely"
+    ],
+    "distractors": [
+      "conversely",
+      "conversation",
+      "conversely"
+    ]
+  },
+  {
+    "id": "toeic-p6-alternatively",
+    "part": 6,
+    "word": "alternatively",
+    "pos": "adverb",
+    "meaning_ko": "대안적으로",
+    "ipa": "/ɔːlˈtɜːrnətɪvli/",
+    "pron_ko": "올터너티블리",
+    "example_en": "Alternatively, you may email us.",
+    "example_ko": "대안적으로 이메일을 보내실 수 있습니다.",
+    "topic": [
+      "transition"
+    ],
+    "frequency_tier": 1,
+    "synonyms": [
+      "otherwise"
+    ],
+    "distractors": [
+      "alternatively",
+      "alternative",
+      "alternate"
+    ]
+  },
+  {
+    "id": "toeic-p6-otherwise",
+    "part": 6,
+    "word": "otherwise",
+    "pos": "adverb",
+    "meaning_ko": "그렇지 않으면",
+    "ipa": "/ˈʌðərwaɪz/",
+    "pron_ko": "어더와이즈",
+    "example_en": "Submit by Friday; otherwise, the application is void.",
+    "example_ko": "금요일까지 제출하세요; 그렇지 않으면 무효입니다.",
+    "topic": [
+      "transition"
+    ],
+    "frequency_tier": 1,
+    "synonyms": [
+      "or else"
+    ],
+    "distractors": [
+      "other",
+      "others",
+      "therefore"
+    ]
+  },
+  {
+    "id": "toeic-p6-instead",
+    "part": 6,
+    "word": "instead",
+    "pos": "adverb",
+    "meaning_ko": "대신에",
+    "ipa": "/ɪnˈsted/",
+    "pron_ko": "인스테드",
+    "example_en": "Use email instead.",
+    "example_ko": "대신 이메일을 사용하세요.",
+    "topic": [
+      "transition"
+    ],
+    "frequency_tier": 1,
+    "synonyms": [
+      "in place of"
+    ],
+    "distractors": [
+      "instead",
+      "inset",
+      "inside"
+    ]
+  },
+  {
+    "id": "toeic-p6-similarly",
+    "part": 6,
+    "word": "similarly",
+    "pos": "adverb",
+    "meaning_ko": "마찬가지로",
+    "ipa": "/ˈsɪmələrli/",
+    "pron_ko": "시밀러리",
+    "example_en": "Similarly, our competitors raised prices.",
+    "example_ko": "마찬가지로 경쟁사도 가격을 인상했습니다.",
+    "topic": [
+      "transition"
+    ],
+    "frequency_tier": 1,
+    "synonyms": [
+      "likewise"
+    ],
+    "distractors": [
+      "similarly",
+      "similar",
+      "simulate"
+    ]
+  },
+  {
+    "id": "toeic-p6-likewise",
+    "part": 6,
+    "word": "likewise",
+    "pos": "adverb",
+    "meaning_ko": "마찬가지로",
+    "ipa": "/ˈlaɪkwaɪz/",
+    "pron_ko": "라이크와이즈",
+    "example_en": "Likewise, returns are accepted.",
+    "example_ko": "마찬가지로 반품은 받아들여집니다.",
+    "topic": [
+      "transition"
+    ],
+    "frequency_tier": 1,
+    "synonyms": [
+      "similarly"
+    ],
+    "distractors": [
+      "likewise",
+      "like",
+      "likely"
+    ]
+  },
+  {
+    "id": "toeic-p6-equally",
+    "part": 6,
+    "word": "equally",
+    "pos": "adverb",
+    "meaning_ko": "똑같이",
+    "ipa": "/ˈiːkwəli/",
+    "pron_ko": "이퀄리",
+    "example_en": "Equally important is quality.",
+    "example_ko": "품질도 똑같이 중요합니다.",
+    "topic": [
+      "transition"
+    ],
+    "frequency_tier": 1,
+    "synonyms": [
+      "similarly"
+    ],
+    "distractors": [
+      "equally",
+      "equal",
+      "legally"
+    ]
+  },
+  {
+    "id": "toeic-p6-comparably",
+    "part": 6,
+    "word": "comparably",
+    "pos": "adverb",
+    "meaning_ko": "비슷하게",
+    "ipa": "/ˈkɒmpərəbli/",
+    "pron_ko": "컴퍼러블리",
+    "example_en": "Comparably priced products.",
+    "example_ko": "비슷한 가격의 제품.",
+    "topic": [
+      "transition"
+    ],
+    "frequency_tier": 2,
+    "synonyms": [
+      "similarly"
+    ],
+    "distractors": [
+      "comparably",
+      "comparable",
+      "comparably"
+    ]
+  },
+  {
+    "id": "toeic-p6-consequently",
+    "part": 6,
+    "word": "consequently",
+    "pos": "adverb",
+    "meaning_ko": "결과적으로",
+    "ipa": "/ˈkɒnsɪkwəntli/",
+    "pron_ko": "컨시퀀틀리",
+    "example_en": "Consequently, profits soared.",
+    "example_ko": "결과적으로 이익이 급등했습니다.",
+    "topic": [
+      "transition"
+    ],
+    "frequency_tier": 1,
+    "synonyms": [
+      "as a result"
+    ],
+    "distractors": [
+      "consequently",
+      "consequent",
+      "consequence"
+    ]
+  },
+  {
+    "id": "toeic-p6-as-a-result",
+    "part": 6,
+    "word": "as a result",
+    "pos": "phrase",
+    "meaning_ko": "결과적으로",
+    "ipa": "/əz ə rɪˈzʌlt/",
+    "pron_ko": "애즈 어 리절트",
+    "example_en": "As a result, the project was delayed.",
+    "example_ko": "결과적으로 프로젝트는 지연되었습니다.",
+    "topic": [
+      "transition"
+    ],
+    "frequency_tier": 1,
+    "synonyms": [
+      "consequently"
+    ],
+    "distractors": [
+      "result",
+      "results",
+      "resulted"
+    ]
+  },
+  {
+    "id": "toeic-p6-accordingly",
+    "part": 6,
+    "word": "accordingly",
+    "pos": "adverb",
+    "meaning_ko": "그에 따라",
+    "ipa": "/əˈkɔːrdɪŋli/",
+    "pron_ko": "어코딩리",
+    "example_en": "Plan accordingly.",
+    "example_ko": "그에 따라 계획하세요.",
+    "topic": [
+      "transition"
+    ],
+    "frequency_tier": 1,
+    "synonyms": [
+      "correspondingly"
+    ],
+    "distractors": [
+      "accordingly",
+      "according",
+      "accordance"
+    ]
+  },
+  {
+    "id": "toeic-p6-hence",
+    "part": 6,
+    "word": "hence",
+    "pos": "adverb",
+    "meaning_ko": "그러므로",
+    "ipa": "/hens/",
+    "pron_ko": "헨스",
+    "example_en": "Hence, the policy change.",
+    "example_ko": "그러므로 정책이 변경되었습니다.",
+    "topic": [
+      "transition"
+    ],
+    "frequency_tier": 1,
+    "synonyms": [
+      "therefore"
+    ],
+    "distractors": [
+      "hence",
+      "hens",
+      "whence"
+    ]
+  },
+  {
+    "id": "toeic-p6-thus",
+    "part": 6,
+    "word": "thus",
+    "pos": "adverb",
+    "meaning_ko": "따라서",
+    "ipa": "/ðʌs/",
+    "pron_ko": "더스",
+    "example_en": "Thus, we adjusted our forecast.",
+    "example_ko": "따라서 우리는 예측을 조정했습니다.",
+    "topic": [
+      "transition"
+    ],
+    "frequency_tier": 1,
+    "synonyms": [
+      "therefore"
+    ],
+    "distractors": [
+      "thus",
+      "this",
+      "theses"
+    ]
+  },
+  {
+    "id": "toeic-p6-for-example",
+    "part": 6,
+    "word": "for example",
+    "pos": "phrase",
+    "meaning_ko": "예를 들어",
+    "ipa": "/fɔːr ɪɡˈzɑːmpəl/",
+    "pron_ko": "포 이그잼플",
+    "example_en": "For example, smart devices.",
+    "example_ko": "예를 들어 스마트 기기.",
+    "topic": [
+      "transition"
+    ],
+    "frequency_tier": 1,
+    "synonyms": [
+      "for instance"
+    ],
+    "distractors": [
+      "example",
+      "examples",
+      "exemplary"
+    ]
+  },
+  {
+    "id": "toeic-p6-for-instance",
+    "part": 6,
+    "word": "for instance",
+    "pos": "phrase",
+    "meaning_ko": "예를 들어",
+    "ipa": "/fɔːr ˈɪnstəns/",
+    "pron_ko": "포 인스턴스",
+    "example_en": "For instance, our store in Seoul.",
+    "example_ko": "예를 들어 우리 서울 매장.",
+    "topic": [
+      "transition"
+    ],
+    "frequency_tier": 1,
+    "synonyms": [
+      "for example"
+    ],
+    "distractors": [
+      "instance",
+      "instances",
+      "insistence"
+    ]
+  },
+  {
+    "id": "toeic-p6-such-as",
+    "part": 6,
+    "word": "such as",
+    "pos": "phrase",
+    "meaning_ko": "~과 같은",
+    "ipa": "/sʌtʃ æz/",
+    "pron_ko": "서치 애즈",
+    "example_en": "Items such as books and pens.",
+    "example_ko": "책과 펜 같은 물품.",
+    "topic": [
+      "transition"
+    ],
+    "frequency_tier": 1,
+    "synonyms": [
+      "like"
+    ],
+    "distractors": [
+      "such",
+      "sucker",
+      "search"
+    ]
+  },
+  {
+    "id": "toeic-p6-namely",
+    "part": 6,
+    "word": "namely",
+    "pos": "adverb",
+    "meaning_ko": "즉",
+    "ipa": "/ˈneɪmli/",
+    "pron_ko": "네임리",
+    "example_en": "Three flavors, namely vanilla, chocolate, and mint.",
+    "example_ko": "세 가지 맛, 즉 바닐라, 초콜릿, 민트.",
+    "topic": [
+      "transition"
+    ],
+    "frequency_tier": 1,
+    "synonyms": [
+      "specifically"
+    ],
+    "distractors": [
+      "namely",
+      "mainly",
+      "nightly"
+    ]
+  },
+  {
+    "id": "toeic-p6-specifically",
+    "part": 6,
+    "word": "specifically",
+    "pos": "adverb",
+    "meaning_ko": "구체적으로",
+    "ipa": "/spəˈsɪfɪkli/",
+    "pron_ko": "스페시피컬리",
+    "example_en": "Specifically, our marketing team.",
+    "example_ko": "구체적으로 우리 마케팅 팀.",
+    "topic": [
+      "transition"
+    ],
+    "frequency_tier": 1,
+    "synonyms": [
+      "namely"
+    ],
+    "distractors": [
+      "specifically",
+      "specific",
+      "spectacularly"
+    ]
+  },
+  {
+    "id": "toeic-p6-particularly",
+    "part": 6,
+    "word": "particularly",
+    "pos": "adverb",
+    "meaning_ko": "특히",
+    "ipa": "/pərˈtɪkjələrli/",
+    "pron_ko": "파티큘러리",
+    "example_en": "Particularly during holidays.",
+    "example_ko": "특히 휴일 동안.",
+    "topic": [
+      "transition"
+    ],
+    "frequency_tier": 1,
+    "synonyms": [
+      "especially"
+    ],
+    "distractors": [
+      "particularly",
+      "particular",
+      "articulate"
+    ]
+  },
+  {
+    "id": "toeic-p6-in-particular",
+    "part": 6,
+    "word": "in particular",
+    "pos": "phrase",
+    "meaning_ko": "특히",
+    "ipa": "/ɪn pərˈtɪkjələr/",
+    "pron_ko": "인 파티큘러",
+    "example_en": "In particular, the engineering team.",
+    "example_ko": "특히 엔지니어링 팀.",
+    "topic": [
+      "transition"
+    ],
+    "frequency_tier": 1,
+    "synonyms": [
+      "especially"
+    ],
+    "distractors": [
+      "particular",
+      "particulars",
+      "particularly"
+    ]
+  },
+  {
+    "id": "toeic-p6-especially",
+    "part": 6,
+    "word": "especially",
+    "pos": "adverb",
+    "meaning_ko": "특히",
+    "ipa": "/ɪˈspeʃəli/",
+    "pron_ko": "이스페셜리",
+    "example_en": "Especially in winter.",
+    "example_ko": "특히 겨울에.",
+    "topic": [
+      "transition"
+    ],
+    "frequency_tier": 1,
+    "synonyms": [
+      "particularly"
+    ],
+    "distractors": [
+      "especially",
+      "specially",
+      "essentially"
+    ]
+  },
+  {
+    "id": "toeic-p6-in-fact",
+    "part": 6,
+    "word": "in fact",
+    "pos": "phrase",
+    "meaning_ko": "사실",
+    "ipa": "/ɪn fækt/",
+    "pron_ko": "인 팩트",
+    "example_en": "In fact, demand has doubled.",
+    "example_ko": "사실 수요가 두 배가 되었습니다.",
+    "topic": [
+      "transition"
+    ],
+    "frequency_tier": 1,
+    "synonyms": [
+      "indeed"
+    ],
+    "distractors": [
+      "fact",
+      "facts",
+      "facto"
+    ]
+  },
+  {
+    "id": "toeic-p6-indeed",
+    "part": 6,
+    "word": "indeed",
+    "pos": "adverb",
+    "meaning_ko": "정말로",
+    "ipa": "/ɪnˈdiːd/",
+    "pron_ko": "인디드",
+    "example_en": "Indeed, the results are impressive.",
+    "example_ko": "정말로 결과가 인상적입니다.",
+    "topic": [
+      "transition"
+    ],
+    "frequency_tier": 1,
+    "synonyms": [
+      "in fact"
+    ],
+    "distractors": [
+      "indeed",
+      "index",
+      "hindered"
+    ]
+  },
+  {
+    "id": "toeic-p6-actually",
+    "part": 6,
+    "word": "actually",
+    "pos": "adverb",
+    "meaning_ko": "실제로",
+    "ipa": "/ˈæktʃuəli/",
+    "pron_ko": "액추얼리",
+    "example_en": "Actually, the meeting was canceled.",
+    "example_ko": "실제로 회의는 취소되었습니다.",
+    "topic": [
+      "transition"
+    ],
+    "frequency_tier": 1,
+    "synonyms": [
+      "in fact"
+    ],
+    "distractors": [
+      "actually",
+      "actuality",
+      "actively"
+    ]
+  },
+  {
+    "id": "toeic-p6-certainly",
+    "part": 6,
+    "word": "certainly",
+    "pos": "adverb",
+    "meaning_ko": "확실히",
+    "ipa": "/ˈsɜːrtənli/",
+    "pron_ko": "서튼리",
+    "example_en": "Certainly an improvement.",
+    "example_ko": "확실히 개선되었습니다.",
+    "topic": [
+      "transition"
+    ],
+    "frequency_tier": 1,
+    "synonyms": [
+      "definitely"
+    ],
+    "distractors": [
+      "certainly",
+      "certain",
+      "certainty"
+    ]
+  },
+  {
+    "id": "toeic-p6-notably",
+    "part": 6,
+    "word": "notably",
+    "pos": "adverb",
+    "meaning_ko": "주목할 만하게",
+    "ipa": "/ˈnoʊtəbli/",
+    "pron_ko": "노터블리",
+    "example_en": "Notably absent today.",
+    "example_ko": "오늘 주목할 만하게 결석.",
+    "topic": [
+      "transition"
+    ],
+    "frequency_tier": 1,
+    "synonyms": [
+      "particularly"
+    ],
+    "distractors": [
+      "notably",
+      "noticeable",
+      "notable"
+    ]
+  },
+  {
+    "id": "toeic-p6-meanwhile",
+    "part": 6,
+    "word": "meanwhile",
+    "pos": "adverb",
+    "meaning_ko": "한편",
+    "ipa": "/ˈmiːnwaɪl/",
+    "pron_ko": "민와일",
+    "example_en": "Meanwhile, the team waited.",
+    "example_ko": "한편 팀은 기다렸습니다.",
+    "topic": [
+      "transition"
+    ],
+    "frequency_tier": 1,
+    "synonyms": [
+      "in the meantime"
+    ],
+    "distractors": [
+      "meanwhile",
+      "meanwhile",
+      "meanwhile"
+    ]
+  },
+  {
+    "id": "toeic-p6-in-the-meantime",
+    "part": 6,
+    "word": "in the meantime",
+    "pos": "phrase",
+    "meaning_ko": "그 사이에",
+    "ipa": "/ɪn ðə ˈmiːntaɪm/",
+    "pron_ko": "인 더 민타임",
+    "example_en": "In the meantime, contact support.",
+    "example_ko": "그 사이에 지원팀에 연락하세요.",
+    "topic": [
+      "transition"
+    ],
+    "frequency_tier": 1,
+    "synonyms": [
+      "meanwhile"
+    ],
+    "distractors": [
+      "meantime",
+      "meantime",
+      "meanwhile"
+    ]
+  },
+  {
+    "id": "toeic-p6-simultaneously",
+    "part": 6,
+    "word": "simultaneously",
+    "pos": "adverb",
+    "meaning_ko": "동시에",
+    "ipa": "/ˌsɪməlˈteɪniəsli/",
+    "pron_ko": "사이멀테이니어슬리",
+    "example_en": "Simultaneously, the alarm sounded.",
+    "example_ko": "동시에 경보가 울렸습니다.",
+    "topic": [
+      "transition"
+    ],
+    "frequency_tier": 2,
+    "synonyms": [
+      "at the same time"
+    ],
+    "distractors": [
+      "simultaneously",
+      "simultaneous",
+      "spontaneously"
+    ]
+  },
+  {
+    "id": "toeic-p6-eventually",
+    "part": 6,
+    "word": "eventually",
+    "pos": "adverb",
+    "meaning_ko": "결국",
+    "ipa": "/ɪˈventʃuəli/",
+    "pron_ko": "이벤추얼리",
+    "example_en": "Eventually, the dispute was resolved.",
+    "example_ko": "결국 분쟁이 해결되었습니다.",
+    "topic": [
+      "transition"
+    ],
+    "frequency_tier": 1,
+    "synonyms": [
+      "finally"
+    ],
+    "distractors": [
+      "eventually",
+      "event",
+      "evidently"
+    ]
+  },
+  {
+    "id": "toeic-p6-subsequently",
+    "part": 6,
+    "word": "subsequently",
+    "pos": "adverb",
+    "meaning_ko": "그 후에",
+    "ipa": "/ˈsʌbsɪkwəntli/",
+    "pron_ko": "섭시퀀틀리",
+    "example_en": "Subsequently, prices stabilized.",
+    "example_ko": "그 후 가격이 안정되었습니다.",
+    "topic": [
+      "transition"
+    ],
+    "frequency_tier": 1,
+    "synonyms": [
+      "afterward"
+    ],
+    "distractors": [
+      "subsequently",
+      "subsequent",
+      "subsidiary"
+    ]
+  },
+  {
+    "id": "toeic-p6-previously",
+    "part": 6,
+    "word": "previously",
+    "pos": "adverb",
+    "meaning_ko": "이전에",
+    "ipa": "/ˈpriːviəsli/",
+    "pron_ko": "프리비어슬리",
+    "example_en": "Previously mentioned in the report.",
+    "example_ko": "보고서에 이전에 언급됨.",
+    "topic": [
+      "transition"
+    ],
+    "frequency_tier": 1,
+    "synonyms": [
+      "formerly"
+    ],
+    "distractors": [
+      "previously",
+      "previous",
+      "previousness"
+    ]
+  },
+  {
+    "id": "toeic-p6-formerly",
+    "part": 6,
+    "word": "formerly",
+    "pos": "adverb",
+    "meaning_ko": "이전에",
+    "ipa": "/ˈfɔːrmərli/",
+    "pron_ko": "포멀리",
+    "example_en": "Formerly known as ABC Corp.",
+    "example_ko": "이전에 ABC Corp으로 알려진.",
+    "topic": [
+      "transition"
+    ],
+    "frequency_tier": 1,
+    "synonyms": [
+      "previously"
+    ],
+    "distractors": [
+      "formerly",
+      "formally",
+      "farmer"
+    ]
+  },
+  {
+    "id": "toeic-p6-currently",
+    "part": 6,
+    "word": "currently",
+    "pos": "adverb",
+    "meaning_ko": "현재",
+    "ipa": "/ˈkɜːrəntli/",
+    "pron_ko": "커런틀리",
+    "example_en": "Currently, the system is down.",
+    "example_ko": "현재 시스템이 다운되었습니다.",
+    "topic": [
+      "transition"
+    ],
+    "frequency_tier": 1,
+    "synonyms": [
+      "now"
+    ],
+    "distractors": [
+      "currently",
+      "current",
+      "currency"
+    ]
+  },
+  {
+    "id": "toeic-p6-presently",
+    "part": 6,
+    "word": "presently",
+    "pos": "adverb",
+    "meaning_ko": "현재",
+    "ipa": "/ˈprezəntli/",
+    "pron_ko": "프레슨틀리",
+    "example_en": "Presently engaged in research.",
+    "example_ko": "현재 연구에 종사 중.",
+    "topic": [
+      "transition"
+    ],
+    "frequency_tier": 2,
+    "synonyms": [
+      "currently"
+    ],
+    "distractors": [
+      "presently",
+      "recently",
+      "present"
+    ]
+  },
+  {
+    "id": "toeic-p6-henceforth",
+    "part": 6,
+    "word": "henceforth",
+    "pos": "adverb",
+    "meaning_ko": "앞으로",
+    "ipa": "/ˌhensˈfɔːrθ/",
+    "pron_ko": "헨스포쓰",
+    "example_en": "Henceforth, all reports go to legal.",
+    "example_ko": "앞으로 모든 보고서는 법무팀에 보냅니다.",
+    "topic": [
+      "transition"
+    ],
+    "frequency_tier": 2,
+    "synonyms": [
+      "from now on"
+    ],
+    "distractors": [
+      "henceforth",
+      "here on",
+      "hence"
+    ]
+  },
+  {
+    "id": "toeic-p6-hereafter",
+    "part": 6,
+    "word": "hereafter",
+    "pos": "adverb",
+    "meaning_ko": "이후",
+    "ipa": "/hɪərˈæftər/",
+    "pron_ko": "히어애프터",
+    "example_en": "Hereafter referred to as Buyer.",
+    "example_ko": "이후 구매자로 칭함.",
+    "topic": [
+      "transition"
+    ],
+    "frequency_tier": 2,
+    "synonyms": [
+      "from now on"
+    ],
+    "distractors": [
+      "hereafter",
+      "thereafter",
+      "herein"
+    ]
+  },
+  {
+    "id": "toeic-p6-thereafter",
+    "part": 6,
+    "word": "thereafter",
+    "pos": "adverb",
+    "meaning_ko": "그 후",
+    "ipa": "/ðerˈæftər/",
+    "pron_ko": "데어애프터",
+    "example_en": "Thereafter, sales increased.",
+    "example_ko": "그 후 매출이 증가했습니다.",
+    "topic": [
+      "transition"
+    ],
+    "frequency_tier": 2,
+    "synonyms": [
+      "afterward"
+    ],
+    "distractors": [
+      "thereafter",
+      "hereafter",
+      "thereafter"
+    ]
+  },
+  {
+    "id": "toeic-p6-afterward",
+    "part": 6,
+    "word": "afterward",
+    "pos": "adverb",
+    "meaning_ko": "그 후에",
+    "ipa": "/ˈæftərwərd/",
+    "pron_ko": "애프터워드",
+    "example_en": "Afterward, the meeting ended.",
+    "example_ko": "그 후 회의가 끝났습니다.",
+    "topic": [
+      "transition"
+    ],
+    "frequency_tier": 1,
+    "synonyms": [
+      "later"
+    ],
+    "distractors": [
+      "afterward",
+      "afterwards",
+      "afterthought"
+    ]
+  },
+  {
+    "id": "toeic-p6-nevertheless",
+    "part": 6,
+    "word": "nevertheless",
+    "pos": "adverb",
+    "meaning_ko": "그럼에도 불구하고",
+    "ipa": "/ˌnevərðəˈles/",
+    "pron_ko": "네버더레스",
+    "example_en": "Nevertheless, the project succeeded.",
+    "example_ko": "그럼에도 불구하고 프로젝트는 성공했습니다.",
+    "topic": [
+      "transition"
+    ],
+    "frequency_tier": 1,
+    "synonyms": [
+      "however"
+    ],
+    "distractors": [
+      "nevertheless",
+      "never",
+      "nethermost"
+    ]
+  },
+  {
+    "id": "toeic-p6-nonetheless",
+    "part": 6,
+    "word": "nonetheless",
+    "pos": "adverb",
+    "meaning_ko": "그럼에도 불구하고",
+    "ipa": "/ˌnʌnðəˈles/",
+    "pron_ko": "넌더레스",
+    "example_en": "Nonetheless, we will proceed.",
+    "example_ko": "그럼에도 불구하고 진행할 것입니다.",
+    "topic": [
+      "transition"
+    ],
+    "frequency_tier": 1,
+    "synonyms": [
+      "nevertheless"
+    ],
+    "distractors": [
+      "nonetheless",
+      "nothingness",
+      "nightless"
+    ]
+  },
+  {
+    "id": "toeic-p6-regardless",
+    "part": 6,
+    "word": "regardless",
+    "pos": "adverb",
+    "meaning_ko": "상관없이",
+    "ipa": "/rɪˈɡɑːrdləs/",
+    "pron_ko": "리가드레스",
+    "example_en": "Regardless of weather, the event continues.",
+    "example_ko": "날씨에 상관없이 행사는 계속됩니다.",
+    "topic": [
+      "transition"
+    ],
+    "frequency_tier": 1,
+    "synonyms": [
+      "in any case"
+    ],
+    "distractors": [
+      "regardless",
+      "regards",
+      "regarding"
+    ]
+  },
+  {
+    "id": "toeic-p6-notwithstanding",
+    "part": 6,
+    "word": "notwithstanding",
+    "pos": "preposition",
+    "meaning_ko": "~에도 불구하고",
+    "ipa": "/ˌnɒtwɪθˈstændɪŋ/",
+    "pron_ko": "낫위드스탠딩",
+    "example_en": "Notwithstanding the delays, we delivered.",
+    "example_ko": "지연에도 불구하고 배송했습니다.",
+    "topic": [
+      "transition"
+    ],
+    "frequency_tier": 2,
+    "synonyms": [
+      "despite"
+    ],
+    "distractors": [
+      "notwithstanding",
+      "notable",
+      "outstanding"
+    ]
+  },
+  {
+    "id": "toeic-p6-granted",
+    "part": 6,
+    "word": "granted",
+    "pos": "adverb",
+    "meaning_ko": "물론",
+    "ipa": "/ˈɡrɑːntɪd/",
+    "pron_ko": "그란티드",
+    "example_en": "Granted, the deal is risky.",
+    "example_ko": "물론 거래에 위험이 있습니다.",
+    "topic": [
+      "transition"
+    ],
+    "frequency_tier": 2,
+    "synonyms": [
+      "admittedly"
+    ],
+    "distractors": [
+      "granted",
+      "grants",
+      "granite"
+    ]
+  },
+  {
+    "id": "toeic-p6-admittedly",
+    "part": 6,
+    "word": "admittedly",
+    "pos": "adverb",
+    "meaning_ko": "인정하건대",
+    "ipa": "/ədˈmɪtɪdli/",
+    "pron_ko": "어드미티드리",
+    "example_en": "Admittedly, the project is delayed.",
+    "example_ko": "인정하건대 프로젝트가 지연되었습니다.",
+    "topic": [
+      "transition"
+    ],
+    "frequency_tier": 2,
+    "synonyms": [
+      "granted"
+    ],
+    "distractors": [
+      "admittedly",
+      "admittance",
+      "advisedly"
+    ]
+  },
+  {
+    "id": "toeic-p6-in-summary",
+    "part": 6,
+    "word": "in summary",
+    "pos": "phrase",
+    "meaning_ko": "요약하면",
+    "ipa": "/ɪn ˈsʌməri/",
+    "pron_ko": "인 서머리",
+    "example_en": "In summary, profits exceeded targets.",
+    "example_ko": "요약하면 이익이 목표를 초과했습니다.",
+    "topic": [
+      "transition"
+    ],
+    "frequency_tier": 1,
+    "synonyms": [
+      "to sum up"
+    ],
+    "distractors": [
+      "summary",
+      "summaries",
+      "summer"
+    ]
+  },
+  {
+    "id": "toeic-p6-to-sum-up",
+    "part": 6,
+    "word": "to sum up",
+    "pos": "phrase",
+    "meaning_ko": "요약하면",
+    "ipa": "/tə sʌm ʌp/",
+    "pron_ko": "투 섬 업",
+    "example_en": "To sum up, three key points.",
+    "example_ko": "요약하면 세 가지 요점.",
+    "topic": [
+      "transition"
+    ],
+    "frequency_tier": 1,
+    "synonyms": [
+      "in conclusion"
+    ],
+    "distractors": [
+      "sum up",
+      "summary",
+      "some up"
+    ]
+  },
+  {
+    "id": "toeic-p6-in-conclusion",
+    "part": 6,
+    "word": "in conclusion",
+    "pos": "phrase",
+    "meaning_ko": "결론적으로",
+    "ipa": "/ɪn kənˈkluːʒən/",
+    "pron_ko": "인 컨클루전",
+    "example_en": "In conclusion, we recommend approval.",
+    "example_ko": "결론적으로 승인을 권장합니다.",
+    "topic": [
+      "transition"
+    ],
+    "frequency_tier": 1,
+    "synonyms": [
+      "to conclude"
+    ],
+    "distractors": [
+      "conclusion",
+      "exclusion",
+      "inclusion"
+    ]
+  },
+  {
+    "id": "toeic-p6-to-conclude",
+    "part": 6,
+    "word": "to conclude",
+    "pos": "phrase",
+    "meaning_ko": "결론지으면",
+    "ipa": "/tə kənˈkluːd/",
+    "pron_ko": "투 컨클루드",
+    "example_en": "To conclude, our team agrees.",
+    "example_ko": "결론지으면 우리 팀은 동의합니다.",
+    "topic": [
+      "transition"
+    ],
+    "frequency_tier": 1,
+    "synonyms": [
+      "in conclusion"
+    ],
+    "distractors": [
+      "conclude",
+      "exclude",
+      "include"
+    ]
+  },
+  {
+    "id": "toeic-p6-finally",
+    "part": 6,
+    "word": "finally",
+    "pos": "adverb",
+    "meaning_ko": "마침내",
+    "ipa": "/ˈfaɪnəli/",
+    "pron_ko": "파이널리",
+    "example_en": "Finally, please sign the form.",
+    "example_ko": "마지막으로 양식에 서명해 주세요.",
+    "topic": [
+      "transition"
+    ],
+    "frequency_tier": 1,
+    "synonyms": [
+      "lastly"
+    ],
+    "distractors": [
+      "finally",
+      "finely",
+      "family"
+    ]
+  },
+  {
+    "id": "toeic-p6-lastly",
+    "part": 6,
+    "word": "lastly",
+    "pos": "adverb",
+    "meaning_ko": "마지막으로",
+    "ipa": "/ˈlæstli/",
+    "pron_ko": "라스틀리",
+    "example_en": "Lastly, thank you all.",
+    "example_ko": "마지막으로 모두 감사합니다.",
+    "topic": [
+      "transition"
+    ],
+    "frequency_tier": 1,
+    "synonyms": [
+      "finally"
+    ],
+    "distractors": [
+      "lastly",
+      "lastly",
+      "lest"
+    ]
+  },
+  {
+    "id": "toeic-p6-firstly",
+    "part": 6,
+    "word": "firstly",
+    "pos": "adverb",
+    "meaning_ko": "첫째로",
+    "ipa": "/ˈfɜːrstli/",
+    "pron_ko": "퍼스틀리",
+    "example_en": "Firstly, review the data.",
+    "example_ko": "첫째 데이터를 검토하세요.",
+    "topic": [
+      "transition"
+    ],
+    "frequency_tier": 1,
+    "synonyms": [
+      "first"
+    ],
+    "distractors": [
+      "firstly",
+      "first",
+      "fiercely"
+    ]
+  },
+  {
+    "id": "toeic-p6-secondly",
+    "part": 6,
+    "word": "secondly",
+    "pos": "adverb",
+    "meaning_ko": "둘째로",
+    "ipa": "/ˈsekəndli/",
+    "pron_ko": "세컨들리",
+    "example_en": "Secondly, prepare the slides.",
+    "example_ko": "둘째 슬라이드를 준비하세요.",
+    "topic": [
+      "transition"
+    ],
+    "frequency_tier": 1,
+    "synonyms": [
+      "second"
+    ],
+    "distractors": [
+      "secondly",
+      "second",
+      "secondary"
+    ]
+  },
+  {
+    "id": "toeic-p6-thirdly",
+    "part": 6,
+    "word": "thirdly",
+    "pos": "adverb",
+    "meaning_ko": "셋째로",
+    "ipa": "/ˈθɜːrdli/",
+    "pron_ko": "써드리",
+    "example_en": "Thirdly, rehearse the speech.",
+    "example_ko": "셋째 연설을 연습하세요.",
+    "topic": [
+      "transition"
+    ],
+    "frequency_tier": 1,
+    "synonyms": [
+      "third"
+    ],
+    "distractors": [
+      "thirdly",
+      "third",
+      "thirstily"
+    ]
+  },
+  {
+    "id": "toeic-p6-first-of-all",
+    "part": 6,
+    "word": "first of all",
+    "pos": "phrase",
+    "meaning_ko": "우선",
+    "ipa": "/fɜːrst əv ɔːl/",
+    "pron_ko": "퍼스트 오브 올",
+    "example_en": "First of all, welcome.",
+    "example_ko": "우선 환영합니다.",
+    "topic": [
+      "transition"
+    ],
+    "frequency_tier": 1,
+    "synonyms": [
+      "to begin"
+    ],
+    "distractors": [
+      "first of all",
+      "firstly",
+      "first off"
+    ]
+  },
+  {
+    "id": "toeic-p6-to-begin-with",
+    "part": 6,
+    "word": "to begin with",
+    "pos": "phrase",
+    "meaning_ko": "우선",
+    "ipa": "/tə bɪˈɡɪn wɪð/",
+    "pron_ko": "투 비긴 위드",
+    "example_en": "To begin with, let's introduce the team.",
+    "example_ko": "우선 팀을 소개합시다.",
+    "topic": [
+      "transition"
+    ],
+    "frequency_tier": 1,
+    "synonyms": [
+      "firstly"
+    ],
+    "distractors": [
+      "begin",
+      "beginning",
+      "begun"
+    ]
+  },
+  {
+    "id": "toeic-p6-such",
+    "part": 6,
+    "word": "such",
+    "pos": "determiner",
+    "meaning_ko": "그러한",
+    "ipa": "/sʌtʃ/",
+    "pron_ko": "서치",
+    "example_en": "Such measures are necessary.",
+    "example_ko": "그러한 조치가 필요합니다.",
+    "topic": [
+      "reference"
+    ],
+    "frequency_tier": 1,
+    "synonyms": [
+      "like"
+    ],
+    "distractors": [
+      "such",
+      "sucker",
+      "search"
+    ]
+  },
+  {
+    "id": "toeic-p6-this",
+    "part": 6,
+    "word": "this",
+    "pos": "determiner",
+    "meaning_ko": "이것",
+    "ipa": "/ðɪs/",
+    "pron_ko": "디스",
+    "example_en": "This proposal makes sense.",
+    "example_ko": "이 제안은 타당합니다.",
+    "topic": [
+      "reference"
+    ],
+    "frequency_tier": 1,
+    "synonyms": [
+      "that"
+    ],
+    "distractors": [
+      "this",
+      "these",
+      "those"
+    ]
+  },
+  {
+    "id": "toeic-p6-that",
+    "part": 6,
+    "word": "that",
+    "pos": "determiner",
+    "meaning_ko": "그것",
+    "ipa": "/ðæt/",
+    "pron_ko": "댓",
+    "example_en": "That report was helpful.",
+    "example_ko": "그 보고서는 유용했습니다.",
+    "topic": [
+      "reference"
+    ],
+    "frequency_tier": 1,
+    "synonyms": [
+      "this"
+    ],
+    "distractors": [
+      "that",
+      "those",
+      "than"
+    ]
+  },
+  {
+    "id": "toeic-p6-these",
+    "part": 6,
+    "word": "these",
+    "pos": "determiner",
+    "meaning_ko": "이것들",
+    "ipa": "/ðiːz/",
+    "pron_ko": "디즈",
+    "example_en": "These figures are concerning.",
+    "example_ko": "이 수치들이 우려스럽습니다.",
+    "topic": [
+      "reference"
+    ],
+    "frequency_tier": 1,
+    "synonyms": [
+      "those"
+    ],
+    "distractors": [
+      "these",
+      "those",
+      "this"
+    ]
+  },
+  {
+    "id": "toeic-p6-those",
+    "part": 6,
+    "word": "those",
+    "pos": "determiner",
+    "meaning_ko": "그것들",
+    "ipa": "/ðoʊz/",
+    "pron_ko": "도즈",
+    "example_en": "Those policies were updated.",
+    "example_ko": "그 정책들은 업데이트되었습니다.",
+    "topic": [
+      "reference"
+    ],
+    "frequency_tier": 1,
+    "synonyms": [
+      "these"
+    ],
+    "distractors": [
+      "those",
+      "these",
+      "toes"
+    ]
+  },
+  {
+    "id": "toeic-p6-the-former",
+    "part": 6,
+    "word": "the former",
+    "pos": "phrase",
+    "meaning_ko": "전자",
+    "ipa": "/ðə ˈfɔːrmər/",
+    "pron_ko": "더 포머",
+    "example_en": "The former option is cheaper.",
+    "example_ko": "전자가 더 저렴합니다.",
+    "topic": [
+      "reference"
+    ],
+    "frequency_tier": 1,
+    "synonyms": [
+      "first"
+    ],
+    "distractors": [
+      "former",
+      "formerly",
+      "farmer"
+    ]
+  },
+  {
+    "id": "toeic-p6-the-latter",
+    "part": 6,
+    "word": "the latter",
+    "pos": "phrase",
+    "meaning_ko": "후자",
+    "ipa": "/ðə ˈlætər/",
+    "pron_ko": "더 래터",
+    "example_en": "The latter is more reliable.",
+    "example_ko": "후자가 더 신뢰할 수 있습니다.",
+    "topic": [
+      "reference"
+    ],
+    "frequency_tier": 1,
+    "synonyms": [
+      "second"
+    ],
+    "distractors": [
+      "latter",
+      "later",
+      "letter"
+    ]
+  },
+  {
+    "id": "toeic-p6-the-above",
+    "part": 6,
+    "word": "the above",
+    "pos": "phrase",
+    "meaning_ko": "위의",
+    "ipa": "/ði əˈbʌv/",
+    "pron_ko": "디 어버브",
+    "example_en": "The above terms apply.",
+    "example_ko": "위의 조건이 적용됩니다.",
+    "topic": [
+      "reference"
+    ],
+    "frequency_tier": 1,
+    "synonyms": [
+      "foregoing"
+    ],
+    "distractors": [
+      "above",
+      "aboveboard",
+      "aboveall"
+    ]
+  },
+  {
+    "id": "toeic-p6-the-following",
+    "part": 6,
+    "word": "the following",
+    "pos": "phrase",
+    "meaning_ko": "다음의",
+    "ipa": "/ðə ˈfɒloʊɪŋ/",
+    "pron_ko": "더 팔로잉",
+    "example_en": "The following items are required.",
+    "example_ko": "다음 항목들이 필요합니다.",
+    "topic": [
+      "reference"
+    ],
+    "frequency_tier": 1,
+    "synonyms": [
+      "these"
+    ],
+    "distractors": [
+      "following",
+      "follow",
+      "fellow"
+    ]
+  },
+  {
+    "id": "toeic-p6-aforementioned",
+    "part": 6,
+    "word": "aforementioned",
+    "pos": "adjective",
+    "meaning_ko": "앞서 언급한",
+    "ipa": "/əˈfɔːrˌmenʃənd/",
+    "pron_ko": "어포멘션드",
+    "example_en": "The aforementioned policy applies.",
+    "example_ko": "앞서 언급한 정책이 적용됩니다.",
+    "topic": [
+      "reference"
+    ],
+    "frequency_tier": 2,
+    "synonyms": [
+      "above"
+    ],
+    "distractors": [
+      "aforementioned",
+      "aforement",
+      "forementioned"
+    ]
+  },
+  {
+    "id": "toeic-p6-herein",
+    "part": 6,
+    "word": "herein",
+    "pos": "adverb",
+    "meaning_ko": "여기에",
+    "ipa": "/hɪərˈɪn/",
+    "pron_ko": "히어인",
+    "example_en": "Terms herein are binding.",
+    "example_ko": "여기에 명시된 조건은 구속력이 있습니다.",
+    "topic": [
+      "reference"
+    ],
+    "frequency_tier": 2,
+    "synonyms": [
+      "in this"
+    ],
+    "distractors": [
+      "herein",
+      "wherein",
+      "therein"
+    ]
+  },
+  {
+    "id": "toeic-p6-hereby",
+    "part": 6,
+    "word": "hereby",
+    "pos": "adverb",
+    "meaning_ko": "이로써",
+    "ipa": "/hɪərˈbaɪ/",
+    "pron_ko": "히어바이",
+    "example_en": "I hereby authorize the payment.",
+    "example_ko": "이로써 지불을 승인합니다.",
+    "topic": [
+      "reference"
+    ],
+    "frequency_tier": 2,
+    "synonyms": [
+      "by this"
+    ],
+    "distractors": [
+      "hereby",
+      "whereby",
+      "thereby"
+    ]
+  },
+  {
+    "id": "toeic-p6-thereby",
+    "part": 6,
+    "word": "thereby",
+    "pos": "adverb",
+    "meaning_ko": "그에 의하여",
+    "ipa": "/ðerˈbaɪ/",
+    "pron_ko": "데어바이",
+    "example_en": "Thereby reducing costs.",
+    "example_ko": "그에 의하여 비용을 줄입니다.",
+    "topic": [
+      "reference"
+    ],
+    "frequency_tier": 2,
+    "synonyms": [
+      "by that"
+    ],
+    "distractors": [
+      "thereby",
+      "whereby",
+      "hereby"
+    ]
+  },
+  {
+    "id": "toeic-p6-whereby",
+    "part": 6,
+    "word": "whereby",
+    "pos": "adverb",
+    "meaning_ko": "그에 의해",
+    "ipa": "/werˈbaɪ/",
+    "pron_ko": "웨어바이",
+    "example_en": "A method whereby we save.",
+    "example_ko": "우리가 절약하는 방법.",
+    "topic": [
+      "reference"
+    ],
+    "frequency_tier": 2,
+    "synonyms": [
+      "by which"
+    ],
+    "distractors": [
+      "whereby",
+      "hereby",
+      "thereby"
+    ]
+  },
+  {
+    "id": "toeic-p6-therein",
+    "part": 6,
+    "word": "therein",
+    "pos": "adverb",
+    "meaning_ko": "그 안에",
+    "ipa": "/ðerˈɪn/",
+    "pron_ko": "데어인",
+    "example_en": "The clause therein states.",
+    "example_ko": "그 안의 조항이 명시합니다.",
+    "topic": [
+      "reference"
+    ],
+    "frequency_tier": 2,
+    "synonyms": [
+      "in there"
+    ],
+    "distractors": [
+      "therein",
+      "herein",
+      "wherein"
+    ]
+  },
+  {
+    "id": "toeic-p6-wherein",
+    "part": 6,
+    "word": "wherein",
+    "pos": "adverb",
+    "meaning_ko": "어디에서",
+    "ipa": "/werˈɪn/",
+    "pron_ko": "웨어인",
+    "example_en": "The case wherein we agree.",
+    "example_ko": "우리가 동의하는 경우.",
+    "topic": [
+      "reference"
+    ],
+    "frequency_tier": 3,
+    "synonyms": [
+      "in which"
+    ],
+    "distractors": [
+      "wherein",
+      "herein",
+      "therein"
+    ]
+  },
+  {
+    "id": "toeic-p6-with-respect-to",
+    "part": 6,
+    "word": "with respect to",
+    "pos": "phrase",
+    "meaning_ko": "~에 관하여",
+    "ipa": "/wɪð rɪˈspekt tə/",
+    "pron_ko": "위드 리스펙트 투",
+    "example_en": "With respect to your concerns.",
+    "example_ko": "당신의 우려에 관하여.",
+    "topic": [
+      "letter"
+    ],
+    "frequency_tier": 1,
+    "synonyms": [
+      "regarding"
+    ],
+    "distractors": [
+      "respect",
+      "respectful",
+      "respective"
+    ]
+  },
+  {
+    "id": "toeic-p6-with-regard-to",
+    "part": 6,
+    "word": "with regard to",
+    "pos": "phrase",
+    "meaning_ko": "~에 관하여",
+    "ipa": "/wɪð rɪˈɡɑːrd tə/",
+    "pron_ko": "위드 리가드 투",
+    "example_en": "With regard to the policy.",
+    "example_ko": "정책에 관하여.",
+    "topic": [
+      "letter"
+    ],
+    "frequency_tier": 1,
+    "synonyms": [
+      "regarding"
+    ],
+    "distractors": [
+      "regard",
+      "regards",
+      "regarding"
+    ]
+  },
+  {
+    "id": "toeic-p6-in-regards-to",
+    "part": 6,
+    "word": "in regards to",
+    "pos": "phrase",
+    "meaning_ko": "~에 관하여",
+    "ipa": "/ɪn rɪˈɡɑːrdz tə/",
+    "pron_ko": "인 리가즈 투",
+    "example_en": "In regards to our meeting.",
+    "example_ko": "우리 회의에 관하여.",
+    "topic": [
+      "letter"
+    ],
+    "frequency_tier": 1,
+    "synonyms": [
+      "regarding"
+    ],
+    "distractors": [
+      "regards",
+      "regard",
+      "regarding"
+    ]
+  },
+  {
+    "id": "toeic-p6-concerning",
+    "part": 6,
+    "word": "concerning",
+    "pos": "preposition",
+    "meaning_ko": "~에 관하여",
+    "ipa": "/kənˈsɜːrnɪŋ/",
+    "pron_ko": "컨서닝",
+    "example_en": "Concerning the proposal.",
+    "example_ko": "제안에 관하여.",
+    "topic": [
+      "letter"
+    ],
+    "frequency_tier": 1,
+    "synonyms": [
+      "regarding"
+    ],
+    "distractors": [
+      "concerning",
+      "concerned",
+      "concern"
+    ]
+  },
+  {
+    "id": "toeic-p6-regarding",
+    "part": 6,
+    "word": "regarding",
+    "pos": "preposition",
+    "meaning_ko": "~에 관하여",
+    "ipa": "/rɪˈɡɑːrdɪŋ/",
+    "pron_ko": "리가딩",
+    "example_en": "Regarding your email.",
+    "example_ko": "당신의 이메일에 관하여.",
+    "topic": [
+      "letter"
+    ],
+    "frequency_tier": 1,
+    "synonyms": [
+      "about"
+    ],
+    "distractors": [
+      "regarding",
+      "regards",
+      "regard"
+    ]
+  },
+  {
+    "id": "toeic-p6-as-for",
+    "part": 6,
+    "word": "as for",
+    "pos": "phrase",
+    "meaning_ko": "~에 대해 말하자면",
+    "ipa": "/æz fɔːr/",
+    "pron_ko": "애즈 포",
+    "example_en": "As for the budget, we need more.",
+    "example_ko": "예산에 대해 말하자면 더 필요합니다.",
+    "topic": [
+      "letter"
+    ],
+    "frequency_tier": 1,
+    "synonyms": [
+      "about"
+    ],
+    "distractors": [
+      "as for",
+      "as forth",
+      "as far"
+    ]
+  },
+  {
+    "id": "toeic-p6-as-to",
+    "part": 6,
+    "word": "as to",
+    "pos": "phrase",
+    "meaning_ko": "~에 관해",
+    "ipa": "/æz tə/",
+    "pron_ko": "애즈 투",
+    "example_en": "As to the timeline.",
+    "example_ko": "일정에 관해.",
+    "topic": [
+      "letter"
+    ],
+    "frequency_tier": 1,
+    "synonyms": [
+      "about"
+    ],
+    "distractors": [
+      "as to",
+      "as too",
+      "as do"
+    ]
+  },
+  {
+    "id": "toeic-p6-to-whom-it-may-concern",
+    "part": 6,
+    "word": "to whom it may concern",
+    "pos": "phrase",
+    "meaning_ko": "담당자께",
+    "ipa": "/tə huːm ɪt meɪ kənˈsɜːrn/",
+    "pron_ko": "투 훔 잇 메이 컨선",
+    "example_en": "To whom it may concern, this letter confirms.",
+    "example_ko": "담당자께, 이 편지는 확인합니다.",
+    "topic": [
+      "letter"
+    ],
+    "frequency_tier": 1,
+    "synonyms": [
+      "dear sir/madam"
+    ],
+    "distractors": [
+      "whom",
+      "whose",
+      "when"
+    ]
+  },
+  {
+    "id": "toeic-p6-dear-sir",
+    "part": 6,
+    "word": "dear sir",
+    "pos": "phrase",
+    "meaning_ko": "친애하는 신사분께",
+    "ipa": "/dɪər sɜːr/",
+    "pron_ko": "디어 서",
+    "example_en": "Dear sir, regarding your inquiry.",
+    "example_ko": "친애하는 분께, 귀하의 문의에 관하여.",
+    "topic": [
+      "letter"
+    ],
+    "frequency_tier": 1,
+    "synonyms": [
+      "sir"
+    ],
+    "distractors": [
+      "dear",
+      "hear",
+      "deer"
+    ]
+  },
+  {
+    "id": "toeic-p6-dear-madam",
+    "part": 6,
+    "word": "dear madam",
+    "pos": "phrase",
+    "meaning_ko": "친애하는 여사님께",
+    "ipa": "/dɪər ˈmædəm/",
+    "pron_ko": "디어 매덤",
+    "example_en": "Dear madam, thank you for your letter.",
+    "example_ko": "친애하는 여사님께, 편지에 감사드립니다.",
+    "topic": [
+      "letter"
+    ],
+    "frequency_tier": 1,
+    "synonyms": [
+      "madam"
+    ],
+    "distractors": [
+      "madam",
+      "madame",
+      "madame"
+    ]
+  },
+  {
+    "id": "toeic-p6-sincerely",
+    "part": 6,
+    "word": "sincerely",
+    "pos": "adverb",
+    "meaning_ko": "진심으로",
+    "ipa": "/sɪnˈsɪərli/",
+    "pron_ko": "신시얼리",
+    "example_en": "Sincerely, John Smith.",
+    "example_ko": "진심으로, 존 스미스.",
+    "topic": [
+      "letter"
+    ],
+    "frequency_tier": 1,
+    "synonyms": [
+      "yours truly"
+    ],
+    "distractors": [
+      "sincerely",
+      "sincere",
+      "severely"
+    ]
+  },
+  {
+    "id": "toeic-p6-regards",
+    "part": 6,
+    "word": "regards",
+    "pos": "noun",
+    "meaning_ko": "안부",
+    "ipa": "/rɪˈɡɑːrdz/",
+    "pron_ko": "리가즈",
+    "example_en": "Best regards, Anna.",
+    "example_ko": "안녕히 계세요, 안나.",
+    "topic": [
+      "letter"
+    ],
+    "frequency_tier": 1,
+    "synonyms": [
+      "wishes"
+    ],
+    "distractors": [
+      "regards",
+      "regard",
+      "regarding"
+    ]
+  },
+  {
+    "id": "toeic-p6-yours-truly",
+    "part": 6,
+    "word": "yours truly",
+    "pos": "phrase",
+    "meaning_ko": "진심으로",
+    "ipa": "/jɔːrz ˈtruːli/",
+    "pron_ko": "요어즈 트룰리",
+    "example_en": "Yours truly, the manager.",
+    "example_ko": "진심으로, 매니저.",
+    "topic": [
+      "letter"
+    ],
+    "frequency_tier": 1,
+    "synonyms": [
+      "sincerely"
+    ],
+    "distractors": [
+      "yours truly",
+      "truly",
+      "truth"
+    ]
+  },
+  {
+    "id": "toeic-p6-respectfully",
+    "part": 6,
+    "word": "respectfully",
+    "pos": "adverb",
+    "meaning_ko": "정중히",
+    "ipa": "/rɪˈspektfəli/",
+    "pron_ko": "리스펙트풀리",
+    "example_en": "Respectfully submitted.",
+    "example_ko": "정중히 제출합니다.",
+    "topic": [
+      "letter"
+    ],
+    "frequency_tier": 1,
+    "synonyms": [
+      "politely"
+    ],
+    "distractors": [
+      "respectfully",
+      "respect",
+      "respectful"
+    ]
+  },
+  {
+    "id": "toeic-p6-attached",
+    "part": 6,
+    "word": "attached",
+    "pos": "adjective",
+    "meaning_ko": "첨부된",
+    "ipa": "/əˈtætʃt/",
+    "pron_ko": "어태치드",
+    "example_en": "Please find attached.",
+    "example_ko": "첨부 파일을 확인해 주세요.",
+    "topic": [
+      "letter"
+    ],
+    "frequency_tier": 1,
+    "synonyms": [
+      "enclosed"
+    ],
+    "distractors": [
+      "attached",
+      "attaching",
+      "attaches"
+    ]
+  },
+  {
+    "id": "toeic-p6-enclosed",
+    "part": 6,
+    "word": "enclosed",
+    "pos": "adjective",
+    "meaning_ko": "동봉된",
+    "ipa": "/ɪnˈkloʊzd/",
+    "pron_ko": "인클로즈드",
+    "example_en": "Enclosed is the form.",
+    "example_ko": "양식이 동봉되어 있습니다.",
+    "topic": [
+      "letter"
+    ],
+    "frequency_tier": 1,
+    "synonyms": [
+      "attached"
+    ],
+    "distractors": [
+      "enclosed",
+      "enclose",
+      "enclosure"
+    ]
+  },
+  {
+    "id": "toeic-p6-please-find",
+    "part": 6,
+    "word": "please find",
+    "pos": "phrase",
+    "meaning_ko": "확인해 주세요",
+    "ipa": "/pliːz faɪnd/",
+    "pron_ko": "플리즈 파인드",
+    "example_en": "Please find the attached document.",
+    "example_ko": "첨부된 문서를 확인해 주세요.",
+    "topic": [
+      "letter"
+    ],
+    "frequency_tier": 1,
+    "synonyms": [
+      "see attached"
+    ],
+    "distractors": [
+      "please find",
+      "please",
+      "find"
+    ]
+  },
+  {
+    "id": "toeic-p6-looking-forward-to",
+    "part": 6,
+    "word": "looking forward to",
+    "pos": "phrase",
+    "meaning_ko": "고대하다",
+    "ipa": "/ˈlʊkɪŋ ˈfɔːrwərd tə/",
+    "pron_ko": "루킹 포워드 투",
+    "example_en": "Looking forward to your reply.",
+    "example_ko": "답변을 고대합니다.",
+    "topic": [
+      "letter"
+    ],
+    "frequency_tier": 1,
+    "synonyms": [
+      "anticipating"
+    ],
+    "distractors": [
+      "forward",
+      "forwarding",
+      "forward"
+    ]
+  },
+  {
+    "id": "toeic-p6-we-are-pleased-to",
+    "part": 6,
+    "word": "we are pleased to",
+    "pos": "phrase",
+    "meaning_ko": "기쁘게도",
+    "ipa": "/wiː ɑːr pliːzd tə/",
+    "pron_ko": "위 아 플리즈드 투",
+    "example_en": "We are pleased to announce.",
+    "example_ko": "기쁘게 발표합니다.",
+    "topic": [
+      "letter"
+    ],
+    "frequency_tier": 1,
+    "synonyms": [
+      "happy to"
+    ],
+    "distractors": [
+      "pleased",
+      "pleasure",
+      "please"
+    ]
+  },
+  {
+    "id": "toeic-p6-we-regret-to",
+    "part": 6,
+    "word": "we regret to",
+    "pos": "phrase",
+    "meaning_ko": "유감스럽게도",
+    "ipa": "/wiː rɪˈɡret tə/",
+    "pron_ko": "위 리그렛 투",
+    "example_en": "We regret to inform you.",
+    "example_ko": "유감스럽게도 알려드립니다.",
+    "topic": [
+      "letter"
+    ],
+    "frequency_tier": 1,
+    "synonyms": [
+      "sorry to"
+    ],
+    "distractors": [
+      "regret",
+      "regrets",
+      "regards"
+    ]
+  },
+  {
+    "id": "toeic-p6-we-apologize-for",
+    "part": 6,
+    "word": "we apologize for",
+    "pos": "phrase",
+    "meaning_ko": "사과드립니다",
+    "ipa": "/wiː əˈpɒlədʒaɪz fɔːr/",
+    "pron_ko": "위 어팔러자이즈 포",
+    "example_en": "We apologize for the inconvenience.",
+    "example_ko": "불편을 끼쳐 사과드립니다.",
+    "topic": [
+      "letter"
+    ],
+    "frequency_tier": 1,
+    "synonyms": [
+      "sorry"
+    ],
+    "distractors": [
+      "apologize",
+      "apology",
+      "apologise"
+    ]
+  },
+  {
+    "id": "toeic-p6-thank-you-for",
+    "part": 6,
+    "word": "thank you for",
+    "pos": "phrase",
+    "meaning_ko": "감사드립니다",
+    "ipa": "/θæŋk juː fɔːr/",
+    "pron_ko": "땡큐 포",
+    "example_en": "Thank you for your patience.",
+    "example_ko": "인내해 주셔서 감사합니다.",
+    "topic": [
+      "letter"
+    ],
+    "frequency_tier": 1,
+    "synonyms": [
+      "appreciate"
+    ],
+    "distractors": [
+      "thank you",
+      "thanks",
+      "thanking"
+    ]
+  },
+  {
+    "id": "toeic-p6-please-note",
+    "part": 6,
+    "word": "please note",
+    "pos": "phrase",
+    "meaning_ko": "주의해 주세요",
+    "ipa": "/pliːz noʊt/",
+    "pron_ko": "플리즈 노트",
+    "example_en": "Please note the new hours.",
+    "example_ko": "새 시간을 주의해 주세요.",
+    "topic": [
+      "letter"
+    ],
+    "frequency_tier": 1,
+    "synonyms": [
+      "kindly note"
+    ],
+    "distractors": [
+      "please note",
+      "please",
+      "note"
+    ]
+  },
+  {
+    "id": "toeic-p6-kindly-note",
+    "part": 6,
+    "word": "kindly note",
+    "pos": "phrase",
+    "meaning_ko": "유의해 주세요",
+    "ipa": "/ˈkaɪndli noʊt/",
+    "pron_ko": "카인들리 노트",
+    "example_en": "Kindly note the changes.",
+    "example_ko": "변경 사항을 유의해 주세요.",
+    "topic": [
+      "letter"
+    ],
+    "frequency_tier": 1,
+    "synonyms": [
+      "please note"
+    ],
+    "distractors": [
+      "kindly",
+      "kind",
+      "kindly"
+    ]
+  },
+  {
+    "id": "toeic-p6-be-advised",
+    "part": 6,
+    "word": "be advised",
+    "pos": "phrase",
+    "meaning_ko": "공지합니다",
+    "ipa": "/biː ədˈvaɪzd/",
+    "pron_ko": "비 어드바이즈드",
+    "example_en": "Please be advised of the closure.",
+    "example_ko": "폐쇄를 공지합니다.",
+    "topic": [
+      "letter"
+    ],
+    "frequency_tier": 1,
+    "synonyms": [
+      "be informed"
+    ],
+    "distractors": [
+      "advised",
+      "advise",
+      "advising"
+    ]
+  },
+  {
+    "id": "toeic-p6-be-aware",
+    "part": 6,
+    "word": "be aware",
+    "pos": "phrase",
+    "meaning_ko": "유의하세요",
+    "ipa": "/biː əˈwer/",
+    "pron_ko": "비 어웨어",
+    "example_en": "Please be aware of the policy.",
+    "example_ko": "정책에 유의하세요.",
+    "topic": [
+      "letter"
+    ],
+    "frequency_tier": 1,
+    "synonyms": [
+      "note"
+    ],
+    "distractors": [
+      "aware",
+      "awareness",
+      "award"
+    ]
+  },
+  {
+    "id": "toeic-p6-be-informed",
+    "part": 6,
+    "word": "be informed",
+    "pos": "phrase",
+    "meaning_ko": "공지합니다",
+    "ipa": "/biː ɪnˈfɔːrmd/",
+    "pron_ko": "비 인폼드",
+    "example_en": "Please be informed of the meeting.",
+    "example_ko": "회의를 공지합니다.",
+    "topic": [
+      "letter"
+    ],
+    "frequency_tier": 1,
+    "synonyms": [
+      "be advised"
+    ],
+    "distractors": [
+      "informed",
+      "inform",
+      "reformed"
+    ]
+  },
+  {
+    "id": "toeic-p6-be-reminded",
+    "part": 6,
+    "word": "be reminded",
+    "pos": "phrase",
+    "meaning_ko": "상기시켜 드립니다",
+    "ipa": "/biː rɪˈmaɪndɪd/",
+    "pron_ko": "비 리마인디드",
+    "example_en": "Be reminded of the deadline.",
+    "example_ko": "마감일을 상기시켜 드립니다.",
+    "topic": [
+      "letter"
+    ],
+    "frequency_tier": 1,
+    "synonyms": [
+      "remember"
+    ],
+    "distractors": [
+      "reminded",
+      "reminder",
+      "reminding"
+    ]
+  },
+  {
+    "id": "toeic-p6-as-you-know",
+    "part": 6,
+    "word": "as you know",
+    "pos": "phrase",
+    "meaning_ko": "아시다시피",
+    "ipa": "/əz juː noʊ/",
+    "pron_ko": "애즈 유 노",
+    "example_en": "As you know, we're expanding.",
+    "example_ko": "아시다시피 우리는 확장 중입니다.",
+    "topic": [
+      "letter"
+    ],
+    "frequency_tier": 1,
+    "synonyms": [
+      "as known"
+    ],
+    "distractors": [
+      "as you know",
+      "as you",
+      "know"
+    ]
+  },
+  {
+    "id": "toeic-p6-as-previously-mentioned",
+    "part": 6,
+    "word": "as previously mentioned",
+    "pos": "phrase",
+    "meaning_ko": "앞서 언급했듯이",
+    "ipa": "/əz ˈpriːviəsli ˈmenʃənd/",
+    "pron_ko": "애즈 프리비어슬리 멘션드",
+    "example_en": "As previously mentioned, the rule applies.",
+    "example_ko": "앞서 언급했듯이 규칙이 적용됩니다.",
+    "topic": [
+      "letter"
+    ],
+    "frequency_tier": 2,
+    "synonyms": [
+      "as said"
+    ],
+    "distractors": [
+      "previously",
+      "previous",
+      "previously"
+    ]
+  },
+  {
+    "id": "toeic-p6-as-mentioned-above",
+    "part": 6,
+    "word": "as mentioned above",
+    "pos": "phrase",
+    "meaning_ko": "위에서 언급한 대로",
+    "ipa": "/əz ˈmenʃənd əˈbʌv/",
+    "pron_ko": "애즈 멘션드 어버브",
+    "example_en": "As mentioned above, fees are waived.",
+    "example_ko": "위에서 언급한 대로 수수료가 면제됩니다.",
+    "topic": [
+      "letter"
+    ],
+    "frequency_tier": 1,
+    "synonyms": [
+      "as noted"
+    ],
+    "distractors": [
+      "mentioned",
+      "mentions",
+      "mentioning"
+    ]
+  },
+  {
+    "id": "toeic-p6-on-behalf-of",
+    "part": 6,
+    "word": "on behalf of",
+    "pos": "phrase",
+    "meaning_ko": "~을 대신하여",
+    "ipa": "/ɒn bɪˈhæf əv/",
+    "pron_ko": "온 비해프 오브",
+    "example_en": "On behalf of the team.",
+    "example_ko": "팀을 대신하여.",
+    "topic": [
+      "letter"
+    ],
+    "frequency_tier": 1,
+    "synonyms": [
+      "representing"
+    ],
+    "distractors": [
+      "behalf",
+      "halve",
+      "behoove"
+    ]
+  },
+  {
+    "id": "toeic-p6-on-the-part-of",
+    "part": 6,
+    "word": "on the part of",
+    "pos": "phrase",
+    "meaning_ko": "~의 측에서",
+    "ipa": "/ɒn ðə pɑːrt əv/",
+    "pron_ko": "온 더 파트 오브",
+    "example_en": "An error on the part of the vendor.",
+    "example_ko": "공급업체 측의 오류.",
+    "topic": [
+      "letter"
+    ],
+    "frequency_tier": 2,
+    "synonyms": [
+      "by"
+    ],
+    "distractors": [
+      "part of",
+      "partly",
+      "party"
+    ]
+  },
+  {
+    "id": "toeic-p6-with-reference-to",
+    "part": 6,
+    "word": "with reference to",
+    "pos": "phrase",
+    "meaning_ko": "~과 관련하여",
+    "ipa": "/wɪð ˈrefərəns tə/",
+    "pron_ko": "위드 레퍼런스 투",
+    "example_en": "With reference to your letter.",
+    "example_ko": "귀하의 편지와 관련하여.",
+    "topic": [
+      "letter"
+    ],
+    "frequency_tier": 1,
+    "synonyms": [
+      "regarding"
+    ],
+    "distractors": [
+      "reference",
+      "references",
+      "reverence"
+    ]
+  },
+  {
+    "id": "toeic-p6-pursuant-to",
+    "part": 6,
+    "word": "pursuant to",
+    "pos": "phrase",
+    "meaning_ko": "~에 따라",
+    "ipa": "/pərˈsuːənt tə/",
+    "pron_ko": "퍼수언트 투",
+    "example_en": "Pursuant to the agreement.",
+    "example_ko": "협약에 따라.",
+    "topic": [
+      "letter"
+    ],
+    "frequency_tier": 2,
+    "synonyms": [
+      "under"
+    ],
+    "distractors": [
+      "pursuant",
+      "pursuit",
+      "pursuance"
+    ]
+  },
+  {
+    "id": "toeic-p6-in-accordance-with",
+    "part": 6,
+    "word": "in accordance with",
+    "pos": "phrase",
+    "meaning_ko": "~에 따라",
+    "ipa": "/ɪn əˈkɔːrdəns wɪð/",
+    "pron_ko": "인 어코던스 위드",
+    "example_en": "In accordance with policy.",
+    "example_ko": "정책에 따라.",
+    "topic": [
+      "letter"
+    ],
+    "frequency_tier": 1,
+    "synonyms": [
+      "per"
+    ],
+    "distractors": [
+      "accordance",
+      "accordingly",
+      "accordance"
+    ]
+  },
+  {
+    "id": "toeic-p6-per",
+    "part": 6,
+    "word": "per",
+    "pos": "preposition",
+    "meaning_ko": "~당",
+    "ipa": "/pɜːr/",
+    "pron_ko": "퍼",
+    "example_en": "Per our policy.",
+    "example_ko": "우리 정책에 따라.",
+    "topic": [
+      "letter"
+    ],
+    "frequency_tier": 1,
+    "synonyms": [
+      "as per"
+    ],
+    "distractors": [
+      "per",
+      "pear",
+      "pier"
+    ]
+  },
+  {
+    "id": "toeic-p6-as-per",
+    "part": 6,
+    "word": "as per",
+    "pos": "phrase",
+    "meaning_ko": "~에 따라",
+    "ipa": "/əz pɜːr/",
+    "pron_ko": "애즈 퍼",
+    "example_en": "As per your request.",
+    "example_ko": "귀하의 요청에 따라.",
+    "topic": [
+      "letter"
+    ],
+    "frequency_tier": 1,
+    "synonyms": [
+      "per"
+    ],
+    "distractors": [
+      "per",
+      "as per",
+      "aspire"
+    ]
+  },
+  {
+    "id": "toeic-p6-subject-to",
+    "part": 6,
+    "word": "subject to",
+    "pos": "phrase",
+    "meaning_ko": "~의 대상이 되는",
+    "ipa": "/ˈsʌbdʒekt tə/",
+    "pron_ko": "서브젝트 투",
+    "example_en": "Subject to approval.",
+    "example_ko": "승인의 대상이 됨.",
+    "topic": [
+      "letter"
+    ],
+    "frequency_tier": 1,
+    "synonyms": [
+      "contingent on"
+    ],
+    "distractors": [
+      "subject",
+      "subjected",
+      "object"
+    ]
+  },
+  {
+    "id": "toeic-p6-contingent-on",
+    "part": 6,
+    "word": "contingent on",
+    "pos": "phrase",
+    "meaning_ko": "~에 따라",
+    "ipa": "/kənˈtɪndʒənt ɒn/",
+    "pron_ko": "컨틴전트 온",
+    "example_en": "Contingent on board approval.",
+    "example_ko": "이사회 승인에 따라.",
+    "topic": [
+      "letter"
+    ],
+    "frequency_tier": 2,
+    "synonyms": [
+      "depending on"
+    ],
+    "distractors": [
+      "contingent",
+      "contingency",
+      "contingents"
+    ]
+  },
+  {
+    "id": "toeic-p6-provided-that",
+    "part": 6,
+    "word": "provided that",
+    "pos": "phrase",
+    "meaning_ko": "~라는 조건으로",
+    "ipa": "/prəˈvaɪdɪd ðæt/",
+    "pron_ko": "프로바이디드 댓",
+    "example_en": "Provided that funds are available.",
+    "example_ko": "자금이 있다는 조건으로.",
+    "topic": [
+      "letter"
+    ],
+    "frequency_tier": 1,
+    "synonyms": [
+      "if"
+    ],
+    "distractors": [
+      "provided",
+      "provides",
+      "provider"
+    ]
+  },
+  {
+    "id": "toeic-p6-given-that",
+    "part": 6,
+    "word": "given that",
+    "pos": "phrase",
+    "meaning_ko": "~을 고려하면",
+    "ipa": "/ˈɡɪvən ðæt/",
+    "pron_ko": "기븐 댓",
+    "example_en": "Given that demand is high.",
+    "example_ko": "수요가 높음을 고려하면.",
+    "topic": [
+      "letter"
+    ],
+    "frequency_tier": 1,
+    "synonyms": [
+      "since"
+    ],
+    "distractors": [
+      "given that",
+      "given",
+      "giving"
+    ]
+  },
+  {
+    "id": "toeic-p6-assuming-that",
+    "part": 6,
+    "word": "assuming that",
+    "pos": "phrase",
+    "meaning_ko": "~라고 가정하면",
+    "ipa": "/əˈsuːmɪŋ ðæt/",
+    "pron_ko": "어수밍 댓",
+    "example_en": "Assuming that all approve.",
+    "example_ko": "모두가 승인한다고 가정하면.",
+    "topic": [
+      "letter"
+    ],
+    "frequency_tier": 1,
+    "synonyms": [
+      "if"
+    ],
+    "distractors": [
+      "assuming",
+      "assume",
+      "assumed"
+    ]
+  },
+  {
+    "id": "toeic-p6-supposing-that",
+    "part": 6,
+    "word": "supposing that",
+    "pos": "phrase",
+    "meaning_ko": "~라고 한다면",
+    "ipa": "/səˈpoʊzɪŋ ðæt/",
+    "pron_ko": "서포징 댓",
+    "example_en": "Supposing that we agree.",
+    "example_ko": "우리가 동의한다고 한다면.",
+    "topic": [
+      "letter"
+    ],
+    "frequency_tier": 2,
+    "synonyms": [
+      "if"
+    ],
+    "distractors": [
+      "supposing",
+      "suppose",
+      "disposing"
+    ]
+  },
+  {
+    "id": "toeic-p6-unless",
+    "part": 6,
+    "word": "unless",
+    "pos": "conjunction",
+    "meaning_ko": "~하지 않는 한",
+    "ipa": "/ʌnˈles/",
+    "pron_ko": "언레스",
+    "example_en": "Unless otherwise stated.",
+    "example_ko": "달리 명시되지 않는 한.",
+    "topic": [
+      "letter"
+    ],
+    "frequency_tier": 1,
+    "synonyms": [
+      "if not"
+    ],
+    "distractors": [
+      "unless",
+      "unrest",
+      "undress"
+    ]
+  },
+  {
+    "id": "toeic-p6-until",
+    "part": 6,
+    "word": "until",
+    "pos": "conjunction",
+    "meaning_ko": "~할 때까지",
+    "ipa": "/ʌnˈtɪl/",
+    "pron_ko": "언틸",
+    "example_en": "Wait until further notice.",
+    "example_ko": "추후 공지가 있을 때까지 기다리세요.",
+    "topic": [
+      "letter"
+    ],
+    "frequency_tier": 1,
+    "synonyms": [
+      "till"
+    ],
+    "distractors": [
+      "until",
+      "untill",
+      "unto"
+    ]
+  },
+  {
+    "id": "toeic-p6-while",
+    "part": 6,
+    "word": "while",
+    "pos": "conjunction",
+    "meaning_ko": "~하는 동안",
+    "ipa": "/waɪl/",
+    "pron_ko": "와일",
+    "example_en": "While reviewing the data, errors were found.",
+    "example_ko": "데이터를 검토하는 동안 오류가 발견되었습니다.",
+    "topic": [
+      "letter"
+    ],
+    "frequency_tier": 1,
+    "synonyms": [
+      "during"
+    ],
+    "distractors": [
+      "while",
+      "wile",
+      "whale"
+    ]
+  },
+  {
+    "id": "toeic-p6-whereas",
+    "part": 6,
+    "word": "whereas",
+    "pos": "conjunction",
+    "meaning_ko": "반면에",
+    "ipa": "/werˈæz/",
+    "pron_ko": "웨어즈",
+    "example_en": "Whereas sales fell, profits rose.",
+    "example_ko": "매출은 줄었지만 이익은 올랐습니다.",
+    "topic": [
+      "letter"
+    ],
+    "frequency_tier": 1,
+    "synonyms": [
+      "while"
+    ],
+    "distractors": [
+      "whereas",
+      "whereby",
+      "where"
+    ]
+  },
+  {
+    "id": "toeic-p6-although",
+    "part": 6,
+    "word": "although",
+    "pos": "conjunction",
+    "meaning_ko": "비록 ~이지만",
+    "ipa": "/ɔːlˈðoʊ/",
+    "pron_ko": "올도",
+    "example_en": "Although it rained, we proceeded.",
+    "example_ko": "비가 왔지만 진행했습니다.",
+    "topic": [
+      "letter"
+    ],
+    "frequency_tier": 1,
+    "synonyms": [
+      "though"
+    ],
+    "distractors": [
+      "although",
+      "though",
+      "altogether"
+    ]
+  },
+  {
+    "id": "toeic-p6-though",
+    "part": 6,
+    "word": "though",
+    "pos": "conjunction",
+    "meaning_ko": "비록 ~이지만",
+    "ipa": "/ðoʊ/",
+    "pron_ko": "도",
+    "example_en": "Though tired, she continued.",
+    "example_ko": "비록 피곤했지만 그녀는 계속했습니다.",
+    "topic": [
+      "letter"
+    ],
+    "frequency_tier": 1,
+    "synonyms": [
+      "although"
+    ],
+    "distractors": [
+      "though",
+      "thought",
+      "tough"
+    ]
+  },
+  {
+    "id": "toeic-p6-even-though",
+    "part": 6,
+    "word": "even though",
+    "pos": "phrase",
+    "meaning_ko": "비록 ~일지라도",
+    "ipa": "/ˈiːvən ðoʊ/",
+    "pron_ko": "이븐 도",
+    "example_en": "Even though it's late, let's start.",
+    "example_ko": "늦었더라도 시작합시다.",
+    "topic": [
+      "letter"
+    ],
+    "frequency_tier": 1,
+    "synonyms": [
+      "although"
+    ],
+    "distractors": [
+      "even though",
+      "even",
+      "though"
+    ]
+  },
+  {
+    "id": "toeic-p6-if",
+    "part": 6,
+    "word": "if",
+    "pos": "conjunction",
+    "meaning_ko": "만약",
+    "ipa": "/ɪf/",
+    "pron_ko": "이프",
+    "example_en": "If approved, the project starts Monday.",
+    "example_ko": "승인되면 프로젝트는 월요일에 시작됩니다.",
+    "topic": [
+      "letter"
+    ],
+    "frequency_tier": 1,
+    "synonyms": [
+      "provided"
+    ],
+    "distractors": [
+      "if",
+      "of",
+      "it"
+    ]
+  },
+  {
+    "id": "toeic-p6-whether",
+    "part": 6,
+    "word": "whether",
+    "pos": "conjunction",
+    "meaning_ko": "~인지 아닌지",
+    "ipa": "/ˈweðər/",
+    "pron_ko": "웨더",
+    "example_en": "Whether or not it rains, we proceed.",
+    "example_ko": "비가 오든 안 오든 우리는 진행합니다.",
+    "topic": [
+      "letter"
+    ],
+    "frequency_tier": 1,
+    "synonyms": [
+      "if"
+    ],
+    "distractors": [
+      "whether",
+      "weather",
+      "wither"
+    ]
+  },
+  {
+    "id": "toeic-p6-until-further-notice",
+    "part": 6,
+    "word": "until further notice",
+    "pos": "phrase",
+    "meaning_ko": "추후 공지가 있을 때까지",
+    "ipa": "/ənˈtɪl ˈfɜːrðər ˈnoʊtɪs/",
+    "pron_ko": "언틸 퍼더 노티스",
+    "example_en": "The office is closed until further notice.",
+    "example_ko": "사무실은 추후 공지가 있을 때까지 폐쇄됩니다.",
+    "topic": [
+      "letter"
+    ],
+    "frequency_tier": 1,
+    "synonyms": [
+      "indefinitely"
+    ],
+    "distractors": [
+      "further notice",
+      "notice",
+      "further"
+    ]
+  },
+  {
+    "id": "toeic-p6-effective-immediately",
+    "part": 6,
+    "word": "effective immediately",
+    "pos": "phrase",
+    "meaning_ko": "즉시 시행되는",
+    "ipa": "/ɪˈfektɪv ɪˈmiːdiətli/",
+    "pron_ko": "이펙티브 이미디어틀리",
+    "example_en": "Effective immediately, masks required.",
+    "example_ko": "즉시 시행되는 마스크 착용 의무.",
+    "topic": [
+      "letter"
+    ],
+    "frequency_tier": 1,
+    "synonyms": [
+      "immediate"
+    ],
+    "distractors": [
+      "effective immediately",
+      "effectively",
+      "immediate"
+    ]
+  },
+  {
+    "id": "toeic-p6-as-of",
+    "part": 6,
+    "word": "as of",
+    "pos": "phrase",
+    "meaning_ko": "~부로",
+    "ipa": "/æz əv/",
+    "pron_ko": "애즈 오브",
+    "example_en": "As of Monday, prices change.",
+    "example_ko": "월요일부터 가격이 변경됩니다.",
+    "topic": [
+      "letter"
+    ],
+    "frequency_tier": 1,
+    "synonyms": [
+      "from"
+    ],
+    "distractors": [
+      "as of",
+      "as off",
+      "axes"
+    ]
+  },
+  {
+    "id": "toeic-p6-starting-from",
+    "part": 6,
+    "word": "starting from",
+    "pos": "phrase",
+    "meaning_ko": "~부터 시작",
+    "ipa": "/ˈstɑːrtɪŋ frəm/",
+    "pron_ko": "스타팅 프럼",
+    "example_en": "Starting from next week.",
+    "example_ko": "다음 주부터 시작.",
+    "topic": [
+      "letter"
+    ],
+    "frequency_tier": 1,
+    "synonyms": [
+      "beginning"
+    ],
+    "distractors": [
+      "starting",
+      "started",
+      "starting"
+    ]
+  },
+  {
+    "id": "toeic-p6-beginning-with",
+    "part": 6,
+    "word": "beginning with",
+    "pos": "phrase",
+    "meaning_ko": "~부터",
+    "ipa": "/bɪˈɡɪnɪŋ wɪð/",
+    "pron_ko": "비기닝 위드",
+    "example_en": "Beginning with January.",
+    "example_ko": "1월부터.",
+    "topic": [
+      "letter"
+    ],
+    "frequency_tier": 1,
+    "synonyms": [
+      "starting"
+    ],
+    "distractors": [
+      "beginning",
+      "began",
+      "begun"
+    ]
+  },
+  {
+    "id": "toeic-p6-up-to",
+    "part": 6,
+    "word": "up to",
+    "pos": "phrase",
+    "meaning_ko": "~까지",
+    "ipa": "/ʌp tə/",
+    "pron_ko": "업 투",
+    "example_en": "Up to 50% off.",
+    "example_ko": "최대 50% 할인.",
+    "topic": [
+      "letter"
+    ],
+    "frequency_tier": 1,
+    "synonyms": [
+      "as much as"
+    ],
+    "distractors": [
+      "up to",
+      "update",
+      "upper"
+    ]
+  },
+  {
+    "id": "toeic-p6-at-least",
+    "part": 6,
+    "word": "at least",
+    "pos": "phrase",
+    "meaning_ko": "적어도",
+    "ipa": "/ət liːst/",
+    "pron_ko": "앳 리스트",
+    "example_en": "At least two weeks notice.",
+    "example_ko": "적어도 2주 전 통지.",
+    "topic": [
+      "letter"
+    ],
+    "frequency_tier": 1,
+    "synonyms": [
+      "minimum"
+    ],
+    "distractors": [
+      "at least",
+      "atleast",
+      "all least"
+    ]
+  },
+  {
+    "id": "toeic-p6-at-most",
+    "part": 6,
+    "word": "at most",
+    "pos": "phrase",
+    "meaning_ko": "최대",
+    "ipa": "/ət moʊst/",
+    "pron_ko": "앳 모스트",
+    "example_en": "At most three guests.",
+    "example_ko": "최대 손님 3명.",
+    "topic": [
+      "letter"
+    ],
+    "frequency_tier": 1,
+    "synonyms": [
+      "maximum"
+    ],
+    "distractors": [
+      "at most",
+      "all most",
+      "attest"
+    ]
+  },
+  {
+    "id": "toeic-p6-more-than",
+    "part": 6,
+    "word": "more than",
+    "pos": "phrase",
+    "meaning_ko": "~이상",
+    "ipa": "/mɔːr ðæn/",
+    "pron_ko": "모어 댄",
+    "example_en": "More than 100 attendees.",
+    "example_ko": "100명 이상의 참석자.",
+    "topic": [
+      "letter"
+    ],
+    "frequency_tier": 1,
+    "synonyms": [
+      "over"
+    ],
+    "distractors": [
+      "more than",
+      "moreover",
+      "more"
+    ]
+  },
+  {
+    "id": "toeic-p6-less-than",
+    "part": 6,
+    "word": "less than",
+    "pos": "phrase",
+    "meaning_ko": "~미만",
+    "ipa": "/les ðæn/",
+    "pron_ko": "레스 댄",
+    "example_en": "Less than expected.",
+    "example_ko": "예상보다 적은.",
+    "topic": [
+      "letter"
+    ],
+    "frequency_tier": 1,
+    "synonyms": [
+      "under"
+    ],
+    "distractors": [
+      "less than",
+      "fewer",
+      "lest"
+    ]
+  },
+  {
+    "id": "toeic-p6-up-to-date",
+    "part": 6,
+    "word": "up to date",
+    "pos": "phrase",
+    "meaning_ko": "최신의",
+    "ipa": "/ʌp tə deɪt/",
+    "pron_ko": "업 투 데이트",
+    "example_en": "Keep up to date.",
+    "example_ko": "최신 상태를 유지하세요.",
+    "topic": [
+      "letter"
+    ],
+    "frequency_tier": 1,
+    "synonyms": [
+      "current"
+    ],
+    "distractors": [
+      "up to date",
+      "update",
+      "outdated"
+    ]
+  },
+  {
+    "id": "toeic-p6-out-of-date",
+    "part": 6,
+    "word": "out of date",
+    "pos": "phrase",
+    "meaning_ko": "구식의",
+    "ipa": "/aʊt əv deɪt/",
+    "pron_ko": "아웃 오브 데이트",
+    "example_en": "The system is out of date.",
+    "example_ko": "시스템이 구식입니다.",
+    "topic": [
+      "letter"
+    ],
+    "frequency_tier": 1,
+    "synonyms": [
+      "outdated"
+    ],
+    "distractors": [
+      "out of date",
+      "outdated",
+      "update"
+    ]
+  },
+  {
+    "id": "toeic-p6-on-the-agenda",
+    "part": 6,
+    "word": "on the agenda",
+    "pos": "phrase",
+    "meaning_ko": "의제에 있는",
+    "ipa": "/ɒn ði əˈdʒendə/",
+    "pron_ko": "온 디 어젠다",
+    "example_en": "Three items on the agenda.",
+    "example_ko": "의제에 3개 항목.",
+    "topic": [
+      "letter"
+    ],
+    "frequency_tier": 1,
+    "synonyms": [
+      "scheduled"
+    ],
+    "distractors": [
+      "agenda",
+      "agendum",
+      "agendas"
+    ]
+  },
+  {
+    "id": "toeic-p6-off-the-record",
+    "part": 6,
+    "word": "off the record",
+    "pos": "phrase",
+    "meaning_ko": "비공식으로",
+    "ipa": "/ɒf ðə ˈrekɔːrd/",
+    "pron_ko": "오프 더 레코드",
+    "example_en": "Off the record, sales dropped.",
+    "example_ko": "비공식으로 매출이 떨어졌습니다.",
+    "topic": [
+      "letter"
+    ],
+    "frequency_tier": 2,
+    "synonyms": [
+      "unofficially"
+    ],
+    "distractors": [
+      "record",
+      "recorded",
+      "recording"
+    ]
+  },
+  {
+    "id": "toeic-p6-on-track",
+    "part": 6,
+    "word": "on track",
+    "pos": "phrase",
+    "meaning_ko": "순조롭게 진행 중",
+    "ipa": "/ɒn træk/",
+    "pron_ko": "온 트랙",
+    "example_en": "The project is on track.",
+    "example_ko": "프로젝트가 순조롭게 진행되고 있습니다.",
+    "topic": [
+      "letter"
+    ],
+    "frequency_tier": 1,
+    "synonyms": [
+      "on schedule"
+    ],
+    "distractors": [
+      "on track",
+      "attract",
+      "on truck"
+    ]
+  },
+  {
+    "id": "toeic-p6-off-track",
+    "part": 6,
+    "word": "off track",
+    "pos": "phrase",
+    "meaning_ko": "어긋난",
+    "ipa": "/ɒf træk/",
+    "pron_ko": "오프 트랙",
+    "example_en": "The plan is off track.",
+    "example_ko": "계획이 어긋났습니다.",
+    "topic": [
+      "letter"
+    ],
+    "frequency_tier": 1,
+    "synonyms": [
+      "derailed"
+    ],
+    "distractors": [
+      "off track",
+      "of track",
+      "off truck"
+    ]
+  },
+  {
+    "id": "toeic-p6-on-schedule",
+    "part": 6,
+    "word": "on schedule",
+    "pos": "phrase",
+    "meaning_ko": "일정대로",
+    "ipa": "/ɒn ˈskedʒuːl/",
+    "pron_ko": "온 스케줄",
+    "example_en": "Delivery is on schedule.",
+    "example_ko": "배송은 일정대로입니다.",
+    "topic": [
+      "letter"
+    ],
+    "frequency_tier": 1,
+    "synonyms": [
+      "on time"
+    ],
+    "distractors": [
+      "schedule",
+      "scheduled",
+      "schedules"
+    ]
+  },
+  {
+    "id": "toeic-p6-behind-schedule",
+    "part": 6,
+    "word": "behind schedule",
+    "pos": "phrase",
+    "meaning_ko": "일정에 뒤처진",
+    "ipa": "/bɪˈhaɪnd ˈskedʒuːl/",
+    "pron_ko": "비하인드 스케줄",
+    "example_en": "We're behind schedule.",
+    "example_ko": "우리는 일정에 뒤처져 있습니다.",
+    "topic": [
+      "letter"
+    ],
+    "frequency_tier": 1,
+    "synonyms": [
+      "late"
+    ],
+    "distractors": [
+      "behind schedule",
+      "behind",
+      "schedule"
+    ]
+  },
+  {
+    "id": "toeic-p6-ahead-of-schedule",
+    "part": 6,
+    "word": "ahead of schedule",
+    "pos": "phrase",
+    "meaning_ko": "일정보다 앞선",
+    "ipa": "/əˈhed əv ˈskedʒuːl/",
+    "pron_ko": "어헤드 오브 스케줄",
+    "example_en": "Finished ahead of schedule.",
+    "example_ko": "일정보다 앞서 끝났습니다.",
+    "topic": [
+      "letter"
+    ],
+    "frequency_tier": 1,
+    "synonyms": [
+      "early"
+    ],
+    "distractors": [
+      "ahead schedule",
+      "ahead",
+      "schedule"
+    ]
+  },
+  {
+    "id": "toeic-p6-in-time",
+    "part": 6,
+    "word": "in time",
+    "pos": "phrase",
+    "meaning_ko": "제 시간에",
+    "ipa": "/ɪn taɪm/",
+    "pron_ko": "인 타임",
+    "example_en": "Just in time for the deadline.",
+    "example_ko": "마감 시간에 딱 맞춰.",
+    "topic": [
+      "letter"
+    ],
+    "frequency_tier": 1,
+    "synonyms": [
+      "on time"
+    ],
+    "distractors": [
+      "in time",
+      "on time",
+      "out of time"
+    ]
+  },
+  {
+    "id": "toeic-p6-on-time",
+    "part": 6,
+    "word": "on time",
+    "pos": "phrase",
+    "meaning_ko": "제 시간에",
+    "ipa": "/ɒn taɪm/",
+    "pron_ko": "온 타임",
+    "example_en": "Trains depart on time.",
+    "example_ko": "기차는 제 시간에 출발합니다.",
+    "topic": [
+      "letter"
+    ],
+    "frequency_tier": 1,
+    "synonyms": [
+      "punctually"
+    ],
+    "distractors": [
+      "on time",
+      "in time",
+      "over time"
+    ]
+  },
+  {
+    "id": "toeic-p6-just-in-time",
+    "part": 6,
+    "word": "just in time",
+    "pos": "phrase",
+    "meaning_ko": "간신히 제 시간에",
+    "ipa": "/dʒʌst ɪn taɪm/",
+    "pron_ko": "저스트 인 타임",
+    "example_en": "Arrived just in time.",
+    "example_ko": "간신히 제 시간에 도착했습니다.",
+    "topic": [
+      "letter"
+    ],
+    "frequency_tier": 1,
+    "synonyms": [
+      "barely"
+    ],
+    "distractors": [
+      "just in time",
+      "just",
+      "in time"
+    ]
+  },
+  {
+    "id": "toeic-p6-at-all",
+    "part": 6,
+    "word": "at all",
+    "pos": "phrase",
+    "meaning_ko": "전혀",
+    "ipa": "/ət ɔːl/",
+    "pron_ko": "앳 올",
+    "example_en": "Not at all difficult.",
+    "example_ko": "전혀 어렵지 않습니다.",
+    "topic": [
+      "letter"
+    ],
+    "frequency_tier": 1,
+    "synonyms": [
+      "in any way"
+    ],
+    "distractors": [
+      "at all",
+      "at all costs",
+      "attain"
+    ]
+  },
+  {
+    "id": "toeic-p6-after-all",
+    "part": 6,
+    "word": "after all",
+    "pos": "phrase",
+    "meaning_ko": "결국",
+    "ipa": "/ˈæftər ɔːl/",
+    "pron_ko": "애프터 올",
+    "example_en": "After all, customers come first.",
+    "example_ko": "결국 고객이 먼저입니다.",
+    "topic": [
+      "letter"
+    ],
+    "frequency_tier": 1,
+    "synonyms": [
+      "in the end"
+    ],
+    "distractors": [
+      "after all",
+      "after",
+      "all"
+    ]
+  },
+  {
+    "id": "toeic-p6-above-all",
+    "part": 6,
+    "word": "above all",
+    "pos": "phrase",
+    "meaning_ko": "무엇보다",
+    "ipa": "/əˈbʌv ɔːl/",
+    "pron_ko": "어버브 올",
+    "example_en": "Above all, safety matters.",
+    "example_ko": "무엇보다 안전이 중요합니다.",
+    "topic": [
+      "letter"
+    ],
+    "frequency_tier": 1,
+    "synonyms": [
+      "most importantly"
+    ],
+    "distractors": [
+      "above all",
+      "above",
+      "aboveboard"
+    ]
+  },
+  {
+    "id": "toeic-p6-first-and-foremost",
+    "part": 6,
+    "word": "first and foremost",
+    "pos": "phrase",
+    "meaning_ko": "무엇보다 먼저",
+    "ipa": "/fɜːrst ənd ˈfɔːrmoʊst/",
+    "pron_ko": "퍼스트 앤 포모스트",
+    "example_en": "First and foremost, thanks.",
+    "example_ko": "무엇보다 먼저 감사합니다.",
+    "topic": [
+      "letter"
+    ],
+    "frequency_tier": 1,
+    "synonyms": [
+      "primarily"
+    ],
+    "distractors": [
+      "foremost",
+      "first",
+      "foremost"
+    ]
+  },
+  {
+    "id": "toeic-p6-by-all-means",
+    "part": 6,
+    "word": "by all means",
+    "pos": "phrase",
+    "meaning_ko": "꼭",
+    "ipa": "/baɪ ɔːl miːnz/",
+    "pron_ko": "바이 올 민즈",
+    "example_en": "By all means, attend.",
+    "example_ko": "꼭 참석하세요.",
+    "topic": [
+      "letter"
+    ],
+    "frequency_tier": 1,
+    "synonyms": [
+      "certainly"
+    ],
+    "distractors": [
+      "all means",
+      "by all means",
+      "means"
+    ]
+  },
+  {
+    "id": "toeic-p6-for-the-time-being",
+    "part": 6,
+    "word": "for the time being",
+    "pos": "phrase",
+    "meaning_ko": "당분간",
+    "ipa": "/fɔːr ðə taɪm ˈbiːɪŋ/",
+    "pron_ko": "포 더 타임 빙",
+    "example_en": "For the time being, work from home.",
+    "example_ko": "당분간 재택근무.",
+    "topic": [
+      "letter"
+    ],
+    "frequency_tier": 1,
+    "synonyms": [
+      "temporarily"
+    ],
+    "distractors": [
+      "for time being",
+      "time being",
+      "being"
+    ]
+  },
+  {
+    "id": "toeic-p6-in-the-long-run",
+    "part": 6,
+    "word": "in the long run",
+    "pos": "phrase",
+    "meaning_ko": "장기적으로",
+    "ipa": "/ɪn ðə lɒŋ rʌn/",
+    "pron_ko": "인 더 롱 런",
+    "example_en": "In the long run, savings add up.",
+    "example_ko": "장기적으로 절약이 쌓입니다.",
+    "topic": [
+      "letter"
+    ],
+    "frequency_tier": 1,
+    "synonyms": [
+      "ultimately"
+    ],
+    "distractors": [
+      "long run",
+      "long",
+      "run"
+    ]
+  },
+  {
+    "id": "toeic-p6-in-the-short-term",
+    "part": 6,
+    "word": "in the short term",
+    "pos": "phrase",
+    "meaning_ko": "단기적으로",
+    "ipa": "/ɪn ðə ʃɔːrt tɜːrm/",
+    "pron_ko": "인 더 쇼트 텀",
+    "example_en": "In the short term, costs rise.",
+    "example_ko": "단기적으로 비용이 오릅니다.",
+    "topic": [
+      "letter"
+    ],
+    "frequency_tier": 1,
+    "synonyms": [
+      "short-term"
+    ],
+    "distractors": [
+      "short term",
+      "short-term",
+      "long term"
+    ]
+  },
+  {
+    "id": "toeic-p6-in-light-of",
+    "part": 6,
+    "word": "in light of",
+    "pos": "phrase",
+    "meaning_ko": "~을 고려하여",
+    "ipa": "/ɪn laɪt əv/",
+    "pron_ko": "인 라이트 오브",
+    "example_en": "In light of recent events.",
+    "example_ko": "최근 사건을 고려하여.",
+    "topic": [
+      "letter"
+    ],
+    "frequency_tier": 2,
+    "synonyms": [
+      "considering"
+    ],
+    "distractors": [
+      "light",
+      "lighten",
+      "inlight"
+    ]
+  },
+  {
+    "id": "toeic-p6-in-view-of",
+    "part": 6,
+    "word": "in view of",
+    "pos": "phrase",
+    "meaning_ko": "~을 고려하여",
+    "ipa": "/ɪn vjuː əv/",
+    "pron_ko": "인 뷰 오브",
+    "example_en": "In view of the situation.",
+    "example_ko": "상황을 고려하여.",
+    "topic": [
+      "letter"
+    ],
+    "frequency_tier": 2,
+    "synonyms": [
+      "given"
+    ],
+    "distractors": [
+      "view",
+      "views",
+      "viewer"
+    ]
+  },
+  {
+    "id": "toeic-p6-with-this-in-mind",
+    "part": 6,
+    "word": "with this in mind",
+    "pos": "phrase",
+    "meaning_ko": "이를 염두에 두고",
+    "ipa": "/wɪð ðɪs ɪn maɪnd/",
+    "pron_ko": "위드 디스 인 마인드",
+    "example_en": "With this in mind, let's proceed.",
+    "example_ko": "이를 염두에 두고 진행합시다.",
+    "topic": [
+      "letter"
+    ],
+    "frequency_tier": 2,
+    "synonyms": [
+      "considering this"
+    ],
+    "distractors": [
+      "mind",
+      "minded",
+      "reminded"
+    ]
+  },
+  {
+    "id": "toeic-p6-that-being-said",
+    "part": 6,
+    "word": "that being said",
+    "pos": "phrase",
+    "meaning_ko": "그렇긴 해도",
+    "ipa": "/ðæt ˈbiːɪŋ sed/",
+    "pron_ko": "댓 빙 세드",
+    "example_en": "That being said, exceptions exist.",
+    "example_ko": "그렇긴 해도 예외가 있습니다.",
+    "topic": [
+      "letter"
+    ],
+    "frequency_tier": 1,
+    "synonyms": [
+      "however"
+    ],
+    "distractors": [
+      "said",
+      "sad",
+      "seed"
+    ]
+  },
+  {
+    "id": "toeic-p6-having-said-that",
+    "part": 6,
+    "word": "having said that",
+    "pos": "phrase",
+    "meaning_ko": "그렇긴 해도",
+    "ipa": "/ˈhævɪŋ sed ðæt/",
+    "pron_ko": "해빙 세드 댓",
+    "example_en": "Having said that, results may vary.",
+    "example_ko": "그렇긴 해도 결과는 다양할 수 있습니다.",
+    "topic": [
+      "letter"
+    ],
+    "frequency_tier": 1,
+    "synonyms": [
+      "however"
+    ],
+    "distractors": [
+      "having said",
+      "said",
+      "saying"
+    ]
+  },
+  {
+    "id": "toeic-p6-for-the-most-part",
+    "part": 6,
+    "word": "for the most part",
+    "pos": "phrase",
+    "meaning_ko": "대부분",
+    "ipa": "/fɔːr ðə moʊst pɑːrt/",
+    "pron_ko": "포 더 모스트 파트",
+    "example_en": "For the most part, customers approve.",
+    "example_ko": "대부분 고객들이 찬성합니다.",
+    "topic": [
+      "letter"
+    ],
+    "frequency_tier": 1,
+    "synonyms": [
+      "mostly"
+    ],
+    "distractors": [
+      "most part",
+      "mostly",
+      "outpart"
+    ]
+  },
+  {
+    "id": "toeic-p6-by-and-large",
+    "part": 6,
+    "word": "by and large",
+    "pos": "phrase",
+    "meaning_ko": "대체로",
+    "ipa": "/baɪ ənd lɑːrdʒ/",
+    "pron_ko": "바이 앤 라지",
+    "example_en": "By and large, sales are steady.",
+    "example_ko": "대체로 매출이 안정적입니다.",
+    "topic": [
+      "letter"
+    ],
+    "frequency_tier": 2,
+    "synonyms": [
+      "generally"
+    ],
+    "distractors": [
+      "large",
+      "by and",
+      "enlarged"
+    ]
+  },
+  {
+    "id": "toeic-p6-on-the-whole",
+    "part": 6,
+    "word": "on the whole",
+    "pos": "phrase",
+    "meaning_ko": "전반적으로",
+    "ipa": "/ɒn ðə hoʊl/",
+    "pron_ko": "온 더 홀",
+    "example_en": "On the whole, the launch succeeded.",
+    "example_ko": "전반적으로 출시가 성공했습니다.",
+    "topic": [
+      "letter"
+    ],
+    "frequency_tier": 1,
+    "synonyms": [
+      "overall"
+    ],
+    "distractors": [
+      "whole",
+      "whole",
+      "hole"
+    ]
+  },
+  {
+    "id": "toeic-p6-overall",
+    "part": 6,
+    "word": "overall",
+    "pos": "adverb",
+    "meaning_ko": "전반적으로",
+    "ipa": "/ˌoʊvərˈɔːl/",
+    "pron_ko": "오버올",
+    "example_en": "Overall, the year was strong.",
+    "example_ko": "전반적으로 한 해는 강했습니다.",
+    "topic": [
+      "letter"
+    ],
+    "frequency_tier": 1,
+    "synonyms": [
+      "in general"
+    ],
+    "distractors": [
+      "overall",
+      "over all",
+      "overhaul"
+    ]
+  },
+  {
+    "id": "toeic-p6-generally-speaking",
+    "part": 6,
+    "word": "generally speaking",
+    "pos": "phrase",
+    "meaning_ko": "일반적으로 말해서",
+    "ipa": "/ˈdʒenərəli ˈspiːkɪŋ/",
+    "pron_ko": "제너럴리 스피킹",
+    "example_en": "Generally speaking, fees apply.",
+    "example_ko": "일반적으로 말해서 수수료가 적용됩니다.",
+    "topic": [
+      "letter"
+    ],
+    "frequency_tier": 1,
+    "synonyms": [
+      "in general"
+    ],
+    "distractors": [
+      "generally",
+      "general",
+      "generally"
+    ]
+  },
+  {
+    "id": "toeic-p6-strictly-speaking",
+    "part": 6,
+    "word": "strictly speaking",
+    "pos": "phrase",
+    "meaning_ko": "엄밀히 말하면",
+    "ipa": "/ˈstrɪktli ˈspiːkɪŋ/",
+    "pron_ko": "스트릭틀리 스피킹",
+    "example_en": "Strictly speaking, it's not allowed.",
+    "example_ko": "엄밀히 말하면 허용되지 않습니다.",
+    "topic": [
+      "letter"
+    ],
+    "frequency_tier": 2,
+    "synonyms": [
+      "technically"
+    ],
+    "distractors": [
+      "strictly",
+      "strict",
+      "striking"
+    ]
+  },
+  {
+    "id": "toeic-p6-technically-speaking",
+    "part": 6,
+    "word": "technically speaking",
+    "pos": "phrase",
+    "meaning_ko": "엄밀히 말하면",
+    "ipa": "/ˈteknɪkli ˈspiːkɪŋ/",
+    "pron_ko": "테크니컬리 스피킹",
+    "example_en": "Technically speaking, it's overdue.",
+    "example_ko": "엄밀히 말하면 기한이 지났습니다.",
+    "topic": [
+      "letter"
+    ],
+    "frequency_tier": 2,
+    "synonyms": [
+      "strictly"
+    ],
+    "distractors": [
+      "technically",
+      "technique",
+      "technically"
+    ]
+  },
+  {
+    "id": "toeic-p6-frankly",
+    "part": 6,
+    "word": "frankly",
+    "pos": "adverb",
+    "meaning_ko": "솔직히",
+    "ipa": "/ˈfræŋkli/",
+    "pron_ko": "프랭클리",
+    "example_en": "Frankly, the proposal needs work.",
+    "example_ko": "솔직히 제안은 보완이 필요합니다.",
+    "topic": [
+      "letter"
+    ],
+    "frequency_tier": 1,
+    "synonyms": [
+      "honestly"
+    ],
+    "distractors": [
+      "frankly",
+      "frank",
+      "franchise"
+    ]
+  },
+  {
+    "id": "toeic-p6-honestly",
+    "part": 6,
+    "word": "honestly",
+    "pos": "adverb",
+    "meaning_ko": "솔직히",
+    "ipa": "/ˈɒnɪstli/",
+    "pron_ko": "어니스틀리",
+    "example_en": "Honestly, I prefer the first plan.",
+    "example_ko": "솔직히 첫 계획이 더 좋습니다.",
+    "topic": [
+      "letter"
+    ],
+    "frequency_tier": 1,
+    "synonyms": [
+      "frankly"
+    ],
+    "distractors": [
+      "honestly",
+      "honest",
+      "hopefully"
+    ]
+  },
+  {
+    "id": "toeic-p6-clearly",
+    "part": 6,
+    "word": "clearly",
+    "pos": "adverb",
+    "meaning_ko": "분명히",
+    "ipa": "/ˈklɪərli/",
+    "pron_ko": "클리얼리",
+    "example_en": "Clearly, more data is needed.",
+    "example_ko": "분명히 더 많은 데이터가 필요합니다.",
+    "topic": [
+      "letter"
+    ],
+    "frequency_tier": 1,
+    "synonyms": [
+      "obviously"
+    ],
+    "distractors": [
+      "clearly",
+      "nearly",
+      "dearly"
+    ]
+  },
+  {
+    "id": "toeic-p6-obviously",
+    "part": 6,
+    "word": "obviously",
+    "pos": "adverb",
+    "meaning_ko": "분명히",
+    "ipa": "/ˈɒbviəsli/",
+    "pron_ko": "어비어슬리",
+    "example_en": "Obviously, the rule applies.",
+    "example_ko": "분명히 규칙이 적용됩니다.",
+    "topic": [
+      "letter"
+    ],
+    "frequency_tier": 1,
+    "synonyms": [
+      "clearly"
+    ],
+    "distractors": [
+      "obviously",
+      "obvious",
+      "opaque"
+    ]
+  },
+  {
+    "id": "toeic-p6-evidently",
+    "part": 6,
+    "word": "evidently",
+    "pos": "adverb",
+    "meaning_ko": "분명히",
+    "ipa": "/ˈevɪdəntli/",
+    "pron_ko": "에비던틀리",
+    "example_en": "Evidently, demand has grown.",
+    "example_ko": "분명히 수요가 증가했습니다.",
+    "topic": [
+      "letter"
+    ],
+    "frequency_tier": 1,
+    "synonyms": [
+      "clearly"
+    ],
+    "distractors": [
+      "evidently",
+      "evident",
+      "providently"
+    ]
+  },
+  {
+    "id": "toeic-p6-presumably",
+    "part": 6,
+    "word": "presumably",
+    "pos": "adverb",
+    "meaning_ko": "아마도",
+    "ipa": "/prɪˈzuːməbli/",
+    "pron_ko": "프리주머블리",
+    "example_en": "Presumably, the report is ready.",
+    "example_ko": "아마도 보고서가 준비되어 있습니다.",
+    "topic": [
+      "letter"
+    ],
+    "frequency_tier": 1,
+    "synonyms": [
+      "likely"
+    ],
+    "distractors": [
+      "presumably",
+      "presume",
+      "consumably"
+    ]
+  },
+  {
+    "id": "toeic-p6-supposedly",
+    "part": 6,
+    "word": "supposedly",
+    "pos": "adverb",
+    "meaning_ko": "아마도",
+    "ipa": "/səˈpoʊzɪdli/",
+    "pron_ko": "서포지들리",
+    "example_en": "Supposedly the best option.",
+    "example_ko": "아마도 최선의 선택.",
+    "topic": [
+      "letter"
+    ],
+    "frequency_tier": 2,
+    "synonyms": [
+      "reportedly"
+    ],
+    "distractors": [
+      "supposedly",
+      "supposed",
+      "exposedly"
+    ]
+  },
+  {
+    "id": "toeic-p6-reportedly",
+    "part": 6,
+    "word": "reportedly",
+    "pos": "adverb",
+    "meaning_ko": "보도된 바에 따르면",
+    "ipa": "/rɪˈpɔːrtɪdli/",
+    "pron_ko": "리포티드리",
+    "example_en": "Reportedly, the company is expanding.",
+    "example_ko": "보도된 바에 따르면 회사는 확장 중입니다.",
+    "topic": [
+      "letter"
+    ],
+    "frequency_tier": 1,
+    "synonyms": [
+      "allegedly"
+    ],
+    "distractors": [
+      "reportedly",
+      "reported",
+      "exportedly"
+    ]
+  },
+  {
+    "id": "toeic-p6-allegedly",
+    "part": 6,
+    "word": "allegedly",
+    "pos": "adverb",
+    "meaning_ko": "주장에 따르면",
+    "ipa": "/əˈledʒɪdli/",
+    "pron_ko": "얼레지들리",
+    "example_en": "Allegedly, the vendor breached the contract.",
+    "example_ko": "주장에 따르면 공급업체가 계약을 위반했습니다.",
+    "topic": [
+      "letter"
+    ],
+    "frequency_tier": 1,
+    "synonyms": [
+      "reportedly"
+    ],
+    "distractors": [
+      "allegedly",
+      "alleged",
+      "allegiance"
+    ]
+  },
+  {
+    "id": "toeic-p6-undoubtedly",
+    "part": 6,
+    "word": "undoubtedly",
+    "pos": "adverb",
+    "meaning_ko": "의심할 여지없이",
+    "ipa": "/ʌnˈdaʊtɪdli/",
+    "pron_ko": "언다우티드리",
+    "example_en": "Undoubtedly, this is the best option.",
+    "example_ko": "의심할 여지없이 이것이 최선의 선택입니다.",
+    "topic": [
+      "letter"
+    ],
+    "frequency_tier": 1,
+    "synonyms": [
+      "surely"
+    ],
+    "distractors": [
+      "undoubtedly",
+      "undoubted",
+      "untroubled"
+    ]
+  },
+  {
+    "id": "toeic-p6-ostensibly",
+    "part": 6,
+    "word": "ostensibly",
+    "pos": "adverb",
+    "meaning_ko": "표면적으로",
+    "ipa": "/ɒˈstensəbli/",
+    "pron_ko": "오스텐서블리",
+    "example_en": "Ostensibly for marketing purposes.",
+    "example_ko": "표면적으로 마케팅 목적.",
+    "topic": [
+      "letter"
+    ],
+    "frequency_tier": 2,
+    "synonyms": [
+      "apparently"
+    ],
+    "distractors": [
+      "ostensibly",
+      "ostensible",
+      "extensively"
+    ]
+  },
+  {
+    "id": "toeic-p6-seemingly",
+    "part": 6,
+    "word": "seemingly",
+    "pos": "adverb",
+    "meaning_ko": "겉으로 보기에",
+    "ipa": "/ˈsiːmɪŋli/",
+    "pron_ko": "시밍리",
+    "example_en": "Seemingly impossible at first.",
+    "example_ko": "처음에는 불가능해 보였다.",
+    "topic": [
+      "letter"
+    ],
+    "frequency_tier": 1,
+    "synonyms": [
+      "apparently"
+    ],
+    "distractors": [
+      "seemingly",
+      "seeming",
+      "swimingly"
+    ]
+  },
+  {
+    "id": "toeic-p6-apparently",
+    "part": 6,
+    "word": "apparently",
+    "pos": "adverb",
+    "meaning_ko": "겉으로 보기에",
+    "ipa": "/əˈpærəntli/",
+    "pron_ko": "어패런틀리",
+    "example_en": "Apparently the meeting is canceled.",
+    "example_ko": "겉보기에 회의가 취소된 듯합니다.",
+    "topic": [
+      "letter"
+    ],
+    "frequency_tier": 1,
+    "synonyms": [
+      "seemingly"
+    ],
+    "distractors": [
+      "apparently",
+      "apparent",
+      "appearance"
+    ]
+  },
+  {
+    "id": "toeic-p6-clearly-enough",
+    "part": 6,
+    "word": "clearly enough",
+    "pos": "phrase",
+    "meaning_ko": "충분히 명확하게",
+    "ipa": "/ˈklɪərli ɪˈnʌf/",
+    "pron_ko": "클리얼리 이너프",
+    "example_en": "Clearly enough, the policy worked.",
+    "example_ko": "충분히 명확하게 정책이 작동했습니다.",
+    "topic": [
+      "letter"
+    ],
+    "frequency_tier": 2,
+    "synonyms": [
+      "obviously"
+    ],
+    "distractors": [
+      "clearly",
+      "enough",
+      "tough"
+    ]
+  },
+  {
+    "id": "toeic-p6-strange-to-say",
+    "part": 6,
+    "word": "strange to say",
+    "pos": "phrase",
+    "meaning_ko": "이상하게도",
+    "ipa": "/streɪndʒ tə seɪ/",
+    "pron_ko": "스트레인지 투 세이",
+    "example_en": "Strange to say, sales dropped.",
+    "example_ko": "이상하게도 매출이 떨어졌습니다.",
+    "topic": [
+      "letter"
+    ],
+    "frequency_tier": 2,
+    "synonyms": [
+      "oddly"
+    ],
+    "distractors": [
+      "strange",
+      "stranger",
+      "strange"
+    ]
+  },
+  {
+    "id": "toeic-p6-needless-to-say",
+    "part": 6,
+    "word": "needless to say",
+    "pos": "phrase",
+    "meaning_ko": "두말할 필요 없이",
+    "ipa": "/ˈniːdləs tə seɪ/",
+    "pron_ko": "니드레스 투 세이",
+    "example_en": "Needless to say, we apologize.",
+    "example_ko": "두말할 필요 없이 사과드립니다.",
+    "topic": [
+      "letter"
+    ],
+    "frequency_tier": 1,
+    "synonyms": [
+      "obviously"
+    ],
+    "distractors": [
+      "needless",
+      "need less",
+      "needless"
+    ]
+  },
+  {
+    "id": "toeic-p6-not-to-mention",
+    "part": 6,
+    "word": "not to mention",
+    "pos": "phrase",
+    "meaning_ko": "말할 것도 없고",
+    "ipa": "/nɒt tə ˈmenʃən/",
+    "pron_ko": "낫 투 멘션",
+    "example_en": "Not to mention the costs.",
+    "example_ko": "비용은 말할 것도 없고.",
+    "topic": [
+      "letter"
+    ],
+    "frequency_tier": 1,
+    "synonyms": [
+      "plus"
+    ],
+    "distractors": [
+      "mention",
+      "mentioned",
+      "mentioning"
+    ]
+  },
+  {
+    "id": "toeic-p6-in-particular-2",
+    "part": 6,
+    "word": "in particular",
+    "pos": "phrase",
+    "meaning_ko": "특히",
+    "ipa": "/ɪn pərˈtɪkjələr/",
+    "pron_ko": "인 파티큘러",
+    "example_en": "In particular, IT was praised.",
+    "example_ko": "특히 IT 부서가 칭찬받았습니다.",
+    "topic": [
+      "letter"
+    ],
+    "frequency_tier": 1,
+    "synonyms": [
+      "especially"
+    ],
+    "distractors": [
+      "particular",
+      "particulars",
+      "particularly"
+    ]
+  },
+  {
+    "id": "toeic-p6-by-way-of",
+    "part": 6,
+    "word": "by way of",
+    "pos": "phrase",
+    "meaning_ko": "~의 방법으로",
+    "ipa": "/baɪ weɪ əv/",
+    "pron_ko": "바이 웨이 오브",
+    "example_en": "By way of introduction, this is John.",
+    "example_ko": "소개로, 이 분은 존입니다.",
+    "topic": [
+      "letter"
+    ],
+    "frequency_tier": 2,
+    "synonyms": [
+      "as"
+    ],
+    "distractors": [
+      "by way",
+      "the way",
+      "away"
+    ]
+  },
+  {
+    "id": "toeic-p6-by-means-of",
+    "part": 6,
+    "word": "by means of",
+    "pos": "phrase",
+    "meaning_ko": "~을 통해",
+    "ipa": "/baɪ miːnz əv/",
+    "pron_ko": "바이 민즈 오브",
+    "example_en": "By means of email.",
+    "example_ko": "이메일을 통해.",
+    "topic": [
+      "letter"
+    ],
+    "frequency_tier": 2,
+    "synonyms": [
+      "through"
+    ],
+    "distractors": [
+      "means",
+      "by means",
+      "in means"
+    ]
+  },
+  {
+    "id": "toeic-p6-through",
+    "part": 6,
+    "word": "through",
+    "pos": "preposition",
+    "meaning_ko": "~을 통해",
+    "ipa": "/θruː/",
+    "pron_ko": "쓰루",
+    "example_en": "Through cooperation, we succeed.",
+    "example_ko": "협력을 통해 성공합니다.",
+    "topic": [
+      "letter"
+    ],
+    "frequency_tier": 1,
+    "synonyms": [
+      "via"
+    ],
+    "distractors": [
+      "through",
+      "tough",
+      "trough"
+    ]
+  },
+  {
+    "id": "toeic-p6-via",
+    "part": 6,
+    "word": "via",
+    "pos": "preposition",
+    "meaning_ko": "~을 통해",
+    "ipa": "/ˈvaɪə/",
+    "pron_ko": "비아",
+    "example_en": "Send via courier.",
+    "example_ko": "택배를 통해 보내세요.",
+    "topic": [
+      "letter"
+    ],
+    "frequency_tier": 1,
+    "synonyms": [
+      "through"
+    ],
+    "distractors": [
+      "via",
+      "aviary",
+      "viable"
+    ]
+  },
+  {
+    "id": "toeic-p6-in-case",
+    "part": 6,
+    "word": "in case",
+    "pos": "phrase",
+    "meaning_ko": "~의 경우에",
+    "ipa": "/ɪn keɪs/",
+    "pron_ko": "인 케이스",
+    "example_en": "In case of emergency, dial 911.",
+    "example_ko": "비상시 911에 전화하세요.",
+    "topic": [
+      "letter"
+    ],
+    "frequency_tier": 1,
+    "synonyms": [
+      "if"
+    ],
+    "distractors": [
+      "in case",
+      "incase",
+      "inset"
+    ]
+  },
+  {
+    "id": "toeic-p6-in-case-of",
+    "part": 6,
+    "word": "in case of",
+    "pos": "phrase",
+    "meaning_ko": "~의 경우",
+    "ipa": "/ɪn keɪs əv/",
+    "pron_ko": "인 케이스 오브",
+    "example_en": "In case of fire, use stairs.",
+    "example_ko": "화재 시 계단을 이용하세요.",
+    "topic": [
+      "letter"
+    ],
+    "frequency_tier": 1,
+    "synonyms": [
+      "if"
+    ],
+    "distractors": [
+      "in case",
+      "case of",
+      "cases"
+    ]
+  },
+  {
+    "id": "toeic-p6-for-the-purpose-of",
+    "part": 6,
+    "word": "for the purpose of",
+    "pos": "phrase",
+    "meaning_ko": "~의 목적으로",
+    "ipa": "/fɔːr ðə ˈpɜːrpəs əv/",
+    "pron_ko": "포 더 퍼퍼스 오브",
+    "example_en": "For the purpose of clarity.",
+    "example_ko": "명확성의 목적으로.",
+    "topic": [
+      "letter"
+    ],
+    "frequency_tier": 1,
+    "synonyms": [
+      "in order to"
+    ],
+    "distractors": [
+      "purpose",
+      "purposes",
+      "propose"
+    ]
+  },
+  {
+    "id": "toeic-p6-in-order-to",
+    "part": 6,
+    "word": "in order to",
+    "pos": "phrase",
+    "meaning_ko": "~하기 위해",
+    "ipa": "/ɪn ˈɔːrdər tə/",
+    "pron_ko": "인 오더 투",
+    "example_en": "In order to save costs.",
+    "example_ko": "비용 절감을 위해.",
+    "topic": [
+      "letter"
+    ],
+    "frequency_tier": 1,
+    "synonyms": [
+      "so as to"
+    ],
+    "distractors": [
+      "order to",
+      "order",
+      "orderly"
+    ]
+  },
+  {
+    "id": "toeic-p6-so-as-to",
+    "part": 6,
+    "word": "so as to",
+    "pos": "phrase",
+    "meaning_ko": "~하기 위해",
+    "ipa": "/soʊ əz tə/",
+    "pron_ko": "소 애즈 투",
+    "example_en": "Arrive early so as to find parking.",
+    "example_ko": "주차 자리를 찾기 위해 일찍 도착하세요.",
+    "topic": [
+      "letter"
+    ],
+    "frequency_tier": 1,
+    "synonyms": [
+      "in order to"
+    ],
+    "distractors": [
+      "so as",
+      "so as to",
+      "so do"
+    ]
+  },
+  {
+    "id": "toeic-p6-so-that",
+    "part": 6,
+    "word": "so that",
+    "pos": "phrase",
+    "meaning_ko": "~할 수 있도록",
+    "ipa": "/soʊ ðæt/",
+    "pron_ko": "소 댓",
+    "example_en": "Plan ahead so that we save.",
+    "example_ko": "절약할 수 있도록 미리 계획하세요.",
+    "topic": [
+      "letter"
+    ],
+    "frequency_tier": 1,
+    "synonyms": [
+      "in order that"
+    ],
+    "distractors": [
+      "so that",
+      "so what",
+      "so on"
+    ]
+  },
+  {
+    "id": "toeic-p6-now-that",
+    "part": 6,
+    "word": "now that",
+    "pos": "phrase",
+    "meaning_ko": "이제 ~이므로",
+    "ipa": "/naʊ ðæt/",
+    "pron_ko": "나우 댓",
+    "example_en": "Now that we've started, let's continue.",
+    "example_ko": "이제 시작했으니 계속합시다.",
+    "topic": [
+      "letter"
+    ],
+    "frequency_tier": 1,
+    "synonyms": [
+      "since"
+    ],
+    "distractors": [
+      "now that",
+      "know that",
+      "note that"
+    ]
+  },
+  {
+    "id": "toeic-p6-once",
+    "part": 6,
+    "word": "once",
+    "pos": "conjunction",
+    "meaning_ko": "일단 ~하면",
+    "ipa": "/wʌns/",
+    "pron_ko": "원스",
+    "example_en": "Once approved, we proceed.",
+    "example_ko": "일단 승인되면 진행합니다.",
+    "topic": [
+      "letter"
+    ],
+    "frequency_tier": 1,
+    "synonyms": [
+      "as soon as"
+    ],
+    "distractors": [
+      "once",
+      "wins",
+      "onset"
+    ]
+  },
+  {
+    "id": "toeic-p6-as-soon-as",
+    "part": 6,
+    "word": "as soon as",
+    "pos": "phrase",
+    "meaning_ko": "~하자마자",
+    "ipa": "/əz suːn əz/",
+    "pron_ko": "애즈 순 애즈",
+    "example_en": "As soon as possible.",
+    "example_ko": "가능한 한 빨리.",
+    "topic": [
+      "letter"
+    ],
+    "frequency_tier": 1,
+    "synonyms": [
+      "once"
+    ],
+    "distractors": [
+      "as soon",
+      "soon as",
+      "as soon as"
+    ]
+  },
+  {
+    "id": "toeic-p6-just-as",
+    "part": 6,
+    "word": "just as",
+    "pos": "phrase",
+    "meaning_ko": "~와 마찬가지로",
+    "ipa": "/dʒʌst əz/",
+    "pron_ko": "저스트 애즈",
+    "example_en": "Just as planned.",
+    "example_ko": "계획한 대로.",
+    "topic": [
+      "letter"
+    ],
+    "frequency_tier": 1,
+    "synonyms": [
+      "like"
+    ],
+    "distractors": [
+      "just as",
+      "just",
+      "justice"
+    ]
+  },
+  {
+    "id": "toeic-p6-ever-since",
+    "part": 6,
+    "word": "ever since",
+    "pos": "phrase",
+    "meaning_ko": "~이래로 줄곧",
+    "ipa": "/ˈevər sɪns/",
+    "pron_ko": "에버 신스",
+    "example_en": "Ever since 2020, we've grown.",
+    "example_ko": "2020년 이래로 줄곧 우리는 성장했습니다.",
+    "topic": [
+      "letter"
+    ],
+    "frequency_tier": 1,
+    "synonyms": [
+      "since"
+    ],
+    "distractors": [
+      "ever since",
+      "even since",
+      "ever"
+    ]
+  },
+  {
+    "id": "toeic-p6-by-the-time",
+    "part": 6,
+    "word": "by the time",
+    "pos": "phrase",
+    "meaning_ko": "~할 때쯤이면",
+    "ipa": "/baɪ ðə taɪm/",
+    "pron_ko": "바이 더 타임",
+    "example_en": "By the time we arrived, it ended.",
+    "example_ko": "우리가 도착했을 때쯤에는 끝났습니다.",
+    "topic": [
+      "letter"
+    ],
+    "frequency_tier": 1,
+    "synonyms": [
+      "when"
+    ],
+    "distractors": [
+      "by time",
+      "by the time",
+      "biotime"
+    ]
+  },
+  {
+    "id": "toeic-p6-at-the-time",
+    "part": 6,
+    "word": "at the time",
+    "pos": "phrase",
+    "meaning_ko": "당시에",
+    "ipa": "/ət ðə taɪm/",
+    "pron_ko": "앳 더 타임",
+    "example_en": "At the time, demand was high.",
+    "example_ko": "당시 수요가 높았습니다.",
+    "topic": [
+      "letter"
+    ],
+    "frequency_tier": 1,
+    "synonyms": [
+      "then"
+    ],
+    "distractors": [
+      "at the time",
+      "at time",
+      "on time"
+    ]
+  },
+  {
+    "id": "toeic-p6-at-this-point",
+    "part": 6,
+    "word": "at this point",
+    "pos": "phrase",
+    "meaning_ko": "이 시점에서",
+    "ipa": "/ət ðɪs pɔɪnt/",
+    "pron_ko": "앳 디스 포인트",
+    "example_en": "At this point, we have data.",
+    "example_ko": "이 시점에서 데이터가 있습니다.",
+    "topic": [
+      "letter"
+    ],
+    "frequency_tier": 1,
+    "synonyms": [
+      "now"
+    ],
+    "distractors": [
+      "this point",
+      "at point",
+      "this time"
+    ]
+  },
+  {
+    "id": "toeic-p6-at-that-point",
+    "part": 6,
+    "word": "at that point",
+    "pos": "phrase",
+    "meaning_ko": "그 시점에서",
+    "ipa": "/ət ðæt pɔɪnt/",
+    "pron_ko": "앳 댓 포인트",
+    "example_en": "At that point, costs rose.",
+    "example_ko": "그 시점에서 비용이 올랐습니다.",
+    "topic": [
+      "letter"
+    ],
+    "frequency_tier": 1,
+    "synonyms": [
+      "then"
+    ],
+    "distractors": [
+      "that point",
+      "at point",
+      "that time"
+    ]
+  },
+  {
+    "id": "toeic-p6-in-such-a-case",
+    "part": 6,
+    "word": "in such a case",
+    "pos": "phrase",
+    "meaning_ko": "그런 경우에",
+    "ipa": "/ɪn sʌtʃ ə keɪs/",
+    "pron_ko": "인 서치 어 케이스",
+    "example_en": "In such a case, contact us.",
+    "example_ko": "그런 경우 연락하세요.",
+    "topic": [
+      "letter"
+    ],
+    "frequency_tier": 1,
+    "synonyms": [
+      "if so"
+    ],
+    "distractors": [
+      "such case",
+      "in case",
+      "such a"
+    ]
+  },
+  {
+    "id": "toeic-p6-if-so",
+    "part": 6,
+    "word": "if so",
+    "pos": "phrase",
+    "meaning_ko": "만약 그렇다면",
+    "ipa": "/ɪf soʊ/",
+    "pron_ko": "이프 소",
+    "example_en": "If so, please confirm.",
+    "example_ko": "만약 그렇다면 확인해 주세요.",
+    "topic": [
+      "letter"
+    ],
+    "frequency_tier": 1,
+    "synonyms": [
+      "in that case"
+    ],
+    "distractors": [
+      "if so",
+      "if not",
+      "of so"
+    ]
+  },
+  {
+    "id": "toeic-p6-if-not",
+    "part": 6,
+    "word": "if not",
+    "pos": "phrase",
+    "meaning_ko": "아니라면",
+    "ipa": "/ɪf nɒt/",
+    "pron_ko": "이프 낫",
+    "example_en": "If not, please respond.",
+    "example_ko": "아니라면 답해 주세요.",
+    "topic": [
+      "letter"
+    ],
+    "frequency_tier": 1,
+    "synonyms": [
+      "otherwise"
+    ],
+    "distractors": [
+      "if not",
+      "if so",
+      "of not"
+    ]
+  },
+  {
+    "id": "toeic-p6-either-way",
+    "part": 6,
+    "word": "either way",
+    "pos": "phrase",
+    "meaning_ko": "어느 쪽이든",
+    "ipa": "/ˈaɪðər weɪ/",
+    "pron_ko": "아이더 웨이",
+    "example_en": "Either way, let us know.",
+    "example_ko": "어느 쪽이든 알려 주세요.",
+    "topic": [
+      "letter"
+    ],
+    "frequency_tier": 1,
+    "synonyms": [
+      "in any case"
+    ],
+    "distractors": [
+      "either way",
+      "either",
+      "other way"
+    ]
+  },
+  {
+    "id": "toeic-p6-in-any-case",
+    "part": 6,
+    "word": "in any case",
+    "pos": "phrase",
+    "meaning_ko": "어쨌든",
+    "ipa": "/ɪn ˈeni keɪs/",
+    "pron_ko": "인 애니 케이스",
+    "example_en": "In any case, please reply.",
+    "example_ko": "어쨌든 답해 주세요.",
+    "topic": [
+      "letter"
+    ],
+    "frequency_tier": 1,
+    "synonyms": [
+      "either way"
+    ],
+    "distractors": [
+      "any case",
+      "in case",
+      "any cases"
+    ]
+  },
+  {
+    "id": "toeic-p6-in-any-event",
+    "part": 6,
+    "word": "in any event",
+    "pos": "phrase",
+    "meaning_ko": "어쨌든",
+    "ipa": "/ɪn ˈeni ɪˈvent/",
+    "pron_ko": "인 애니 이벤트",
+    "example_en": "In any event, plan ahead.",
+    "example_ko": "어쨌든 미리 계획하세요.",
+    "topic": [
+      "letter"
+    ],
+    "frequency_tier": 1,
+    "synonyms": [
+      "anyway"
+    ],
+    "distractors": [
+      "any event",
+      "in event",
+      "any events"
+    ]
+  },
+  {
+    "id": "toeic-p6-under-no-circumstances",
+    "part": 6,
+    "word": "under no circumstances",
+    "pos": "phrase",
+    "meaning_ko": "어떤 경우에도 ~않다",
+    "ipa": "/ˈʌndər noʊ ˈsɜːrkəmˌstænsɪz/",
+    "pron_ko": "언더 노 서컴스탠시즈",
+    "example_en": "Under no circumstances should you share this.",
+    "example_ko": "어떤 경우에도 이것을 공유하지 마세요.",
+    "topic": [
+      "letter"
+    ],
+    "frequency_tier": 2,
+    "synonyms": [
+      "never"
+    ],
+    "distractors": [
+      "circumstances",
+      "circumstance",
+      "circumvented"
+    ]
+  },
+  {
+    "id": "toeic-p6-at-any-rate",
+    "part": 6,
+    "word": "at any rate",
+    "pos": "phrase",
+    "meaning_ko": "어쨌든",
+    "ipa": "/ət ˈeni reɪt/",
+    "pron_ko": "앳 애니 레이트",
+    "example_en": "At any rate, we move forward.",
+    "example_ko": "어쨌든 우리는 앞으로 나아갑니다.",
+    "topic": [
+      "letter"
+    ],
+    "frequency_tier": 1,
+    "synonyms": [
+      "anyway"
+    ],
+    "distractors": [
+      "at any",
+      "any rate",
+      "at rate"
+    ]
+  },
+  {
+    "id": "toeic-p6-more-importantly",
+    "part": 6,
+    "word": "more importantly",
+    "pos": "phrase",
+    "meaning_ko": "더 중요하게는",
+    "ipa": "/mɔːr ɪmˈpɔːrtəntli/",
+    "pron_ko": "모어 임포턴틀리",
+    "example_en": "More importantly, the deadline.",
+    "example_ko": "더 중요하게는 마감일.",
+    "topic": [
+      "letter"
+    ],
+    "frequency_tier": 1,
+    "synonyms": [
+      "chiefly"
+    ],
+    "distractors": [
+      "importantly",
+      "important",
+      "importing"
+    ]
+  },
+  {
+    "id": "toeic-p6-most-importantly",
+    "part": 6,
+    "word": "most importantly",
+    "pos": "phrase",
+    "meaning_ko": "가장 중요하게는",
+    "ipa": "/moʊst ɪmˈpɔːrtəntli/",
+    "pron_ko": "모스트 임포턴틀리",
+    "example_en": "Most importantly, customer trust.",
+    "example_ko": "가장 중요하게는 고객 신뢰.",
+    "topic": [
+      "letter"
+    ],
+    "frequency_tier": 1,
+    "synonyms": [
+      "primarily"
+    ],
+    "distractors": [
+      "importantly",
+      "important",
+      "importing"
+    ]
+  },
+  {
+    "id": "toeic-p6-on-the-contrary-2",
+    "part": 6,
+    "word": "on the contrary",
+    "pos": "phrase",
+    "meaning_ko": "오히려",
+    "ipa": "/ɒn ðə ˈkɒntreri/",
+    "pron_ko": "온 더 컨트레리",
+    "example_en": "On the contrary, sales rose.",
+    "example_ko": "오히려 매출이 올랐습니다.",
+    "topic": [
+      "letter"
+    ],
+    "frequency_tier": 1,
+    "synonyms": [
+      "rather"
+    ],
+    "distractors": [
+      "contrary",
+      "contradiction",
+      "contrary"
+    ]
+  },
+  {
+    "id": "toeic-p6-by-contrast",
+    "part": 6,
+    "word": "by contrast",
+    "pos": "phrase",
+    "meaning_ko": "대조적으로",
+    "ipa": "/baɪ ˈkɒntræst/",
+    "pron_ko": "바이 컨트래스트",
+    "example_en": "By contrast, our team grew.",
+    "example_ko": "대조적으로 우리 팀은 성장했습니다.",
+    "topic": [
+      "letter"
+    ],
+    "frequency_tier": 1,
+    "synonyms": [
+      "in contrast"
+    ],
+    "distractors": [
+      "contrast",
+      "contrasts",
+      "contract"
+    ]
+  },
+  {
+    "id": "toeic-p6-at-the-same-time",
+    "part": 6,
+    "word": "at the same time",
+    "pos": "phrase",
+    "meaning_ko": "동시에",
+    "ipa": "/ət ðə seɪm taɪm/",
+    "pron_ko": "앳 더 세임 타임",
+    "example_en": "At the same time, costs rose.",
+    "example_ko": "동시에 비용이 올랐습니다.",
+    "topic": [
+      "letter"
+    ],
+    "frequency_tier": 1,
+    "synonyms": [
+      "simultaneously"
+    ],
+    "distractors": [
+      "same time",
+      "same",
+      "time"
+    ]
+  },
+  {
+    "id": "toeic-p6-on-the-one-hand",
+    "part": 6,
+    "word": "on the one hand",
+    "pos": "phrase",
+    "meaning_ko": "한편으로는",
+    "ipa": "/ɒn ðə wʌn hænd/",
+    "pron_ko": "온 더 원 핸드",
+    "example_en": "On the one hand, sales grew.",
+    "example_ko": "한편으로는 매출이 성장했습니다.",
+    "topic": [
+      "letter"
+    ],
+    "frequency_tier": 1,
+    "synonyms": [
+      "firstly"
+    ],
+    "distractors": [
+      "one hand",
+      "other hand",
+      "on hand"
+    ]
+  },
+  {
+    "id": "toeic-p6-be-that-as-it-may",
+    "part": 6,
+    "word": "be that as it may",
+    "pos": "phrase",
+    "meaning_ko": "그렇다 하더라도",
+    "ipa": "/biː ðæt əz ɪt meɪ/",
+    "pron_ko": "비 댓 애즈 잇 메이",
+    "example_en": "Be that as it may, we proceed.",
+    "example_ko": "그렇다 하더라도 우리는 진행합니다.",
+    "topic": [
+      "letter"
+    ],
+    "frequency_tier": 2,
+    "synonyms": [
+      "nonetheless"
+    ],
+    "distractors": [
+      "be that",
+      "may be",
+      "bemay"
+    ]
+  },
+  {
+    "id": "toeic-p6-come-what-may",
+    "part": 6,
+    "word": "come what may",
+    "pos": "phrase",
+    "meaning_ko": "무슨 일이 있어도",
+    "ipa": "/kʌm wɒt meɪ/",
+    "pron_ko": "컴 왓 메이",
+    "example_en": "Come what may, we deliver.",
+    "example_ko": "무슨 일이 있어도 우리는 배송합니다.",
+    "topic": [
+      "letter"
+    ],
+    "frequency_tier": 2,
+    "synonyms": [
+      "regardless"
+    ],
+    "distractors": [
+      "come what",
+      "may come",
+      "come may"
+    ]
+  },
+  {
+    "id": "toeic-p6-by-no-means",
+    "part": 6,
+    "word": "by no means",
+    "pos": "phrase",
+    "meaning_ko": "결코 ~않다",
+    "ipa": "/baɪ noʊ miːnz/",
+    "pron_ko": "바이 노 민즈",
+    "example_en": "By no means is this required.",
+    "example_ko": "이것은 결코 요구되지 않습니다.",
+    "topic": [
+      "letter"
+    ],
+    "frequency_tier": 2,
+    "synonyms": [
+      "not at all"
+    ],
+    "distractors": [
+      "no means",
+      "by means",
+      "no men"
+    ]
+  },
+  {
+    "id": "toeic-p6-for-one-thing",
+    "part": 6,
+    "word": "for one thing",
+    "pos": "phrase",
+    "meaning_ko": "한 가지 이유는",
+    "ipa": "/fɔːr wʌn θɪŋ/",
+    "pron_ko": "포 원 띵",
+    "example_en": "For one thing, costs are lower.",
+    "example_ko": "한 가지 이유는 비용이 낮다는 점입니다.",
+    "topic": [
+      "letter"
+    ],
+    "frequency_tier": 1,
+    "synonyms": [
+      "firstly"
+    ],
+    "distractors": [
+      "one thing",
+      "for one",
+      "one things"
+    ]
+  },
+  {
+    "id": "toeic-p6-for-another",
+    "part": 6,
+    "word": "for another",
+    "pos": "phrase",
+    "meaning_ko": "또 한 가지",
+    "ipa": "/fɔːr əˈnʌðər/",
+    "pron_ko": "포 어너더",
+    "example_en": "For another, demand is high.",
+    "example_ko": "또 한 가지는 수요가 높습니다.",
+    "topic": [
+      "letter"
+    ],
+    "frequency_tier": 2,
+    "synonyms": [
+      "secondly"
+    ],
+    "distractors": [
+      "for another",
+      "for one",
+      "another"
+    ]
+  },
+  {
+    "id": "toeic-p6-most-of-all",
+    "part": 6,
+    "word": "most of all",
+    "pos": "phrase",
+    "meaning_ko": "무엇보다도",
+    "ipa": "/moʊst əv ɔːl/",
+    "pron_ko": "모스트 오브 올",
+    "example_en": "Most of all, thank you.",
+    "example_ko": "무엇보다도 감사합니다.",
+    "topic": [
+      "letter"
+    ],
+    "frequency_tier": 1,
+    "synonyms": [
+      "above all"
+    ],
+    "distractors": [
+      "most",
+      "mostly",
+      "most of"
+    ]
+  },
+  {
+    "id": "toeic-p6-rather-than",
+    "part": 6,
+    "word": "rather than",
+    "pos": "phrase",
+    "meaning_ko": "~보다는",
+    "ipa": "/ˈræðər ðæn/",
+    "pron_ko": "래더 댄",
+    "example_en": "Rather than waiting, act now.",
+    "example_ko": "기다리기보다는 지금 행동하세요.",
+    "topic": [
+      "letter"
+    ],
+    "frequency_tier": 1,
+    "synonyms": [
+      "instead of"
+    ],
+    "distractors": [
+      "rather",
+      "rather than",
+      "gather"
+    ]
+  },
+  {
+    "id": "toeic-p6-instead-of",
+    "part": 6,
+    "word": "instead of",
+    "pos": "phrase",
+    "meaning_ko": "~대신",
+    "ipa": "/ɪnˈsted əv/",
+    "pron_ko": "인스테드 오브",
+    "example_en": "Instead of paper, use digital.",
+    "example_ko": "종이 대신 디지털을 사용하세요.",
+    "topic": [
+      "letter"
+    ],
+    "frequency_tier": 1,
+    "synonyms": [
+      "in place of"
+    ],
+    "distractors": [
+      "instead",
+      "instead of",
+      "inset"
+    ]
+  },
+  {
+    "id": "toeic-p6-in-lieu-of",
+    "part": 6,
+    "word": "in lieu of",
+    "pos": "phrase",
+    "meaning_ko": "~대신에",
+    "ipa": "/ɪn ljuː əv/",
+    "pron_ko": "인 류 오브",
+    "example_en": "In lieu of cash, we accept cards.",
+    "example_ko": "현금 대신 카드를 받습니다.",
+    "topic": [
+      "letter"
+    ],
+    "frequency_tier": 2,
+    "synonyms": [
+      "instead of"
+    ],
+    "distractors": [
+      "lieu",
+      "liue",
+      "hue"
+    ]
+  },
+  {
+    "id": "toeic-p6-kindly",
+    "part": 6,
+    "word": "kindly",
+    "pos": "adverb",
+    "meaning_ko": "친절히",
+    "ipa": "/ˈkaɪndli/",
+    "pron_ko": "카인들리",
+    "example_en": "Kindly respond by Friday.",
+    "example_ko": "금요일까지 친절히 답해 주세요.",
+    "topic": [
+      "letter"
+    ],
+    "frequency_tier": 1,
+    "synonyms": [
+      "please"
+    ],
+    "distractors": [
+      "kindly",
+      "kindly",
+      "kind"
+    ]
+  },
+  {
+    "id": "toeic-p6-respectfully-2",
+    "part": 6,
+    "word": "respectfully",
+    "pos": "adverb",
+    "meaning_ko": "정중히",
+    "ipa": "/rɪˈspektfəli/",
+    "pron_ko": "리스펙트풀리",
+    "example_en": "We respectfully request your input.",
+    "example_ko": "정중히 의견을 요청합니다.",
+    "topic": [
+      "letter"
+    ],
+    "frequency_tier": 1,
+    "synonyms": [
+      "politely"
+    ],
+    "distractors": [
+      "respectfully",
+      "respect",
+      "respectful"
+    ]
+  },
+  {
+    "id": "toeic-p6-politely",
+    "part": 6,
+    "word": "politely",
+    "pos": "adverb",
+    "meaning_ko": "정중히",
+    "ipa": "/pəˈlaɪtli/",
+    "pron_ko": "폴라이틀리",
+    "example_en": "She politely declined.",
+    "example_ko": "그녀는 정중히 거절했습니다.",
+    "topic": [
+      "letter"
+    ],
+    "frequency_tier": 1,
+    "synonyms": [
+      "courteously"
+    ],
+    "distractors": [
+      "politely",
+      "polite",
+      "police"
+    ]
+  },
+  {
+    "id": "toeic-p6-urgently",
+    "part": 6,
+    "word": "urgently",
+    "pos": "adverb",
+    "meaning_ko": "급히",
+    "ipa": "/ˈɜːrdʒəntli/",
+    "pron_ko": "어전틀리",
+    "example_en": "We urgently need a response.",
+    "example_ko": "급히 답변이 필요합니다.",
+    "topic": [
+      "letter"
+    ],
+    "frequency_tier": 1,
+    "synonyms": [
+      "immediately"
+    ],
+    "distractors": [
+      "urgently",
+      "urgent",
+      "urgency"
+    ]
+  },
+  {
+    "id": "toeic-p6-promptly",
+    "part": 6,
+    "word": "promptly",
+    "pos": "adverb",
+    "meaning_ko": "즉시",
+    "ipa": "/ˈprɒmptli/",
+    "pron_ko": "프롬틀리",
+    "example_en": "Please respond promptly.",
+    "example_ko": "즉시 답해 주세요.",
+    "topic": [
+      "letter"
+    ],
+    "frequency_tier": 1,
+    "synonyms": [
+      "quickly"
+    ],
+    "distractors": [
+      "promptly",
+      "prompt",
+      "promptness"
+    ]
+  },
+  {
+    "id": "toeic-p6-immediately",
+    "part": 6,
+    "word": "immediately",
+    "pos": "adverb",
+    "meaning_ko": "즉시",
+    "ipa": "/ɪˈmiːdiətli/",
+    "pron_ko": "이미디어틀리",
+    "example_en": "Please act immediately.",
+    "example_ko": "즉시 조치해 주세요.",
+    "topic": [
+      "letter"
+    ],
+    "frequency_tier": 1,
+    "synonyms": [
+      "at once"
+    ],
+    "distractors": [
+      "immediately",
+      "immediate",
+      "imminently"
+    ]
+  },
+  {
+    "id": "toeic-p6-at-your-earliest-convenience",
+    "part": 6,
+    "word": "at your earliest convenience",
+    "pos": "phrase",
+    "meaning_ko": "가능한 빨리",
+    "ipa": "/ət jɔːr ˈɜːrliəst kənˈviːniəns/",
+    "pron_ko": "앳 요어 얼리스트 컨비니언스",
+    "example_en": "Reply at your earliest convenience.",
+    "example_ko": "가능한 빨리 답해 주세요.",
+    "topic": [
+      "letter"
+    ],
+    "frequency_tier": 1,
+    "synonyms": [
+      "asap"
+    ],
+    "distractors": [
+      "convenience",
+      "conveniences",
+      "inconvenience"
+    ]
+  },
+  {
+    "id": "toeic-p6-at-no-extra-cost",
+    "part": 6,
+    "word": "at no extra cost",
+    "pos": "phrase",
+    "meaning_ko": "추가 비용 없이",
+    "ipa": "/ət noʊ ˈekstrə kɒst/",
+    "pron_ko": "앳 노 엑스트라 코스트",
+    "example_en": "Delivery at no extra cost.",
+    "example_ko": "추가 비용 없이 배송.",
+    "topic": [
+      "letter"
+    ],
+    "frequency_tier": 1,
+    "synonyms": [
+      "free of charge"
+    ],
+    "distractors": [
+      "extra cost",
+      "extras",
+      "extracost"
+    ]
+  },
+  {
+    "id": "toeic-p6-free-of-charge",
+    "part": 6,
+    "word": "free of charge",
+    "pos": "phrase",
+    "meaning_ko": "무료로",
+    "ipa": "/friː əv tʃɑːrdʒ/",
+    "pron_ko": "프리 오브 차지",
+    "example_en": "Free of charge for members.",
+    "example_ko": "회원에게는 무료.",
+    "topic": [
+      "letter"
+    ],
+    "frequency_tier": 1,
+    "synonyms": [
+      "complimentary"
+    ],
+    "distractors": [
+      "free of charge",
+      "free",
+      "charge"
+    ]
+  },
+  {
+    "id": "toeic-p6-of-utmost-importance",
+    "part": 6,
+    "word": "of utmost importance",
+    "pos": "phrase",
+    "meaning_ko": "가장 중요한",
+    "ipa": "/əv ˈʌtmoʊst ɪmˈpɔːrtəns/",
+    "pron_ko": "오브 엇모스트 임포턴스",
+    "example_en": "Security is of utmost importance.",
+    "example_ko": "보안이 가장 중요합니다.",
+    "topic": [
+      "letter"
+    ],
+    "frequency_tier": 2,
+    "synonyms": [
+      "critical"
+    ],
+    "distractors": [
+      "utmost",
+      "outmost",
+      "topmost"
+    ]
+  },
+  {
+    "id": "toeic-p6-worth-noting",
+    "part": 6,
+    "word": "worth noting",
+    "pos": "phrase",
+    "meaning_ko": "주목할 만한",
+    "ipa": "/wɜːrθ ˈnoʊtɪŋ/",
+    "pron_ko": "월쓰 노팅",
+    "example_en": "It's worth noting that prices have risen.",
+    "example_ko": "가격이 올랐다는 점에 주목할 만합니다.",
+    "topic": [
+      "letter"
+    ],
+    "frequency_tier": 1,
+    "synonyms": [
+      "notable"
+    ],
+    "distractors": [
+      "worth",
+      "worthy",
+      "worth"
+    ]
+  },
+  {
+    "id": "toeic-p6-of-note",
+    "part": 6,
+    "word": "of note",
+    "pos": "phrase",
+    "meaning_ko": "주목할 만한",
+    "ipa": "/əv noʊt/",
+    "pron_ko": "오브 노트",
+    "example_en": "Several items of note.",
+    "example_ko": "주목할 만한 여러 항목.",
+    "topic": [
+      "letter"
+    ],
+    "frequency_tier": 2,
+    "synonyms": [
+      "notable"
+    ],
+    "distractors": [
+      "of note",
+      "knot",
+      "note"
+    ]
+  },
+  {
+    "id": "toeic-p6-worth-mentioning",
+    "part": 6,
+    "word": "worth mentioning",
+    "pos": "phrase",
+    "meaning_ko": "언급할 가치 있는",
+    "ipa": "/wɜːrθ ˈmenʃənɪŋ/",
+    "pron_ko": "월쓰 멘셔닝",
+    "example_en": "Worth mentioning is the new policy.",
+    "example_ko": "새 정책은 언급할 가치가 있습니다.",
+    "topic": [
+      "letter"
+    ],
+    "frequency_tier": 1,
+    "synonyms": [
+      "notable"
+    ],
+    "distractors": [
+      "mentioning",
+      "mentioned",
+      "mentioned"
+    ]
+  },
+  {
+    "id": "toeic-p6-on-top-of-that",
+    "part": 6,
+    "word": "on top of that",
+    "pos": "phrase",
+    "meaning_ko": "게다가",
+    "ipa": "/ɒn tɒp əv ðæt/",
+    "pron_ko": "온 탑 오브 댓",
+    "example_en": "On top of that, free shipping.",
+    "example_ko": "게다가 무료 배송.",
+    "topic": [
+      "letter"
+    ],
+    "frequency_tier": 1,
+    "synonyms": [
+      "additionally"
+    ],
+    "distractors": [
+      "on top",
+      "top of",
+      "tops"
+    ]
+  },
+  {
+    "id": "toeic-p6-plus",
+    "part": 6,
+    "word": "plus",
+    "pos": "conjunction",
+    "meaning_ko": "게다가",
+    "ipa": "/plʌs/",
+    "pron_ko": "플러스",
+    "example_en": "Plus, we offer warranties.",
+    "example_ko": "게다가 보증도 제공합니다.",
+    "topic": [
+      "letter"
+    ],
+    "frequency_tier": 1,
+    "synonyms": [
+      "and"
+    ],
+    "distractors": [
+      "plus",
+      "please",
+      "plug"
+    ]
+  },
+  {
+    "id": "toeic-p6-not-only-but-also",
+    "part": 6,
+    "word": "not only...but also",
+    "pos": "phrase",
+    "meaning_ko": "~뿐만 아니라 ~도",
+    "ipa": "/nɒt ˈoʊnli bʌt ˈɔːlsoʊ/",
+    "pron_ko": "낫 온리 벗 올소",
+    "example_en": "Not only fast but also reliable.",
+    "example_ko": "빠를 뿐만 아니라 신뢰할 수도 있습니다.",
+    "topic": [
+      "letter"
+    ],
+    "frequency_tier": 1,
+    "synonyms": [
+      "both"
+    ],
+    "distractors": [
+      "not only",
+      "but also",
+      "only"
+    ]
+  },
+  {
+    "id": "toeic-p6-as-well-as",
+    "part": 6,
+    "word": "as well as",
+    "pos": "phrase",
+    "meaning_ko": "~뿐만 아니라",
+    "ipa": "/əz wel əz/",
+    "pron_ko": "애즈 웰 애즈",
+    "example_en": "Sales as well as profits grew.",
+    "example_ko": "매출뿐만 아니라 이익도 증가했습니다.",
+    "topic": [
+      "letter"
+    ],
+    "frequency_tier": 1,
+    "synonyms": [
+      "along with"
+    ],
+    "distractors": [
+      "as well",
+      "as well as",
+      "aswell"
+    ]
+  },
+  {
+    "id": "toeic-p6-along-with",
+    "part": 6,
+    "word": "along with",
+    "pos": "phrase",
+    "meaning_ko": "~와 함께",
+    "ipa": "/əˈlɒŋ wɪð/",
+    "pron_ko": "어롱 위드",
+    "example_en": "Along with the report, send slides.",
+    "example_ko": "보고서와 함께 슬라이드를 보내세요.",
+    "topic": [
+      "letter"
+    ],
+    "frequency_tier": 1,
+    "synonyms": [
+      "together with"
+    ],
+    "distractors": [
+      "along",
+      "alongside",
+      "along with"
+    ]
+  },
+  {
+    "id": "toeic-p6-together-with",
+    "part": 6,
+    "word": "together with",
+    "pos": "phrase",
+    "meaning_ko": "~과 함께",
+    "ipa": "/təˈɡeðər wɪð/",
+    "pron_ko": "투게더 위드",
+    "example_en": "Together with the team, we succeeded.",
+    "example_ko": "팀과 함께 우리는 성공했습니다.",
+    "topic": [
+      "letter"
+    ],
+    "frequency_tier": 1,
+    "synonyms": [
+      "along with"
+    ],
+    "distractors": [
+      "together",
+      "together with",
+      "gathered"
+    ]
+  },
+  {
+    "id": "toeic-p6-coupled-with",
+    "part": 6,
+    "word": "coupled with",
+    "pos": "phrase",
+    "meaning_ko": "~과 결합하여",
+    "ipa": "/ˈkʌpəld wɪð/",
+    "pron_ko": "커플드 위드",
+    "example_en": "Coupled with new tech, productivity rose.",
+    "example_ko": "새 기술과 결합하여 생산성이 올랐습니다.",
+    "topic": [
+      "letter"
+    ],
+    "frequency_tier": 2,
+    "synonyms": [
+      "combined with"
+    ],
+    "distractors": [
+      "coupled",
+      "couple",
+      "coupling"
+    ]
+  },
+  {
+    "id": "toeic-p6-paired-with",
+    "part": 6,
+    "word": "paired with",
+    "pos": "phrase",
+    "meaning_ko": "~과 함께 짝지어",
+    "ipa": "/perd wɪð/",
+    "pron_ko": "페어드 위드",
+    "example_en": "Paired with marketing, sales grew.",
+    "example_ko": "마케팅과 함께 매출이 성장했습니다.",
+    "topic": [
+      "letter"
+    ],
+    "frequency_tier": 2,
+    "synonyms": [
+      "combined"
+    ],
+    "distractors": [
+      "paired",
+      "pair",
+      "pairing"
+    ]
+  },
+  {
+    "id": "toeic-p6-in-conjunction-with",
+    "part": 6,
+    "word": "in conjunction with",
+    "pos": "phrase",
+    "meaning_ko": "~과 함께",
+    "ipa": "/ɪn kənˈdʒʌŋkʃən wɪð/",
+    "pron_ko": "인 컨정션 위드",
+    "example_en": "In conjunction with HR.",
+    "example_ko": "HR과 함께.",
+    "topic": [
+      "letter"
+    ],
+    "frequency_tier": 2,
+    "synonyms": [
+      "alongside"
+    ],
+    "distractors": [
+      "conjunction",
+      "injection",
+      "conjunction"
+    ]
+  },
+  {
+    "id": "toeic-p6-more-or-less",
+    "part": 6,
+    "word": "more or less",
+    "pos": "phrase",
+    "meaning_ko": "대략",
+    "ipa": "/mɔːr ɔːr les/",
+    "pron_ko": "모어 오어 레스",
+    "example_en": "More or less complete.",
+    "example_ko": "대략 완료.",
+    "topic": [
+      "letter"
+    ],
+    "frequency_tier": 1,
+    "synonyms": [
+      "roughly"
+    ],
+    "distractors": [
+      "more or less",
+      "more",
+      "less"
+    ]
+  },
+  {
+    "id": "toeic-p6-by-far",
+    "part": 6,
+    "word": "by far",
+    "pos": "phrase",
+    "meaning_ko": "훨씬",
+    "ipa": "/baɪ fɑːr/",
+    "pron_ko": "바이 파",
+    "example_en": "By far the best option.",
+    "example_ko": "훨씬 최고의 선택.",
+    "topic": [
+      "letter"
+    ],
+    "frequency_tier": 1,
+    "synonyms": [
+      "easily"
+    ],
+    "distractors": [
+      "by far",
+      "by farm",
+      "so far"
+    ]
+  },
+  {
+    "id": "toeic-p6-so-far",
+    "part": 6,
+    "word": "so far",
+    "pos": "phrase",
+    "meaning_ko": "지금까지",
+    "ipa": "/soʊ fɑːr/",
+    "pron_ko": "소 파",
+    "example_en": "So far, no issues.",
+    "example_ko": "지금까지 문제 없음.",
+    "topic": [
+      "letter"
+    ],
+    "frequency_tier": 1,
+    "synonyms": [
+      "thus far"
+    ],
+    "distractors": [
+      "so far",
+      "so for",
+      "so fair"
+    ]
+  },
+  {
+    "id": "toeic-p6-thus-far",
+    "part": 6,
+    "word": "thus far",
+    "pos": "phrase",
+    "meaning_ko": "지금까지",
+    "ipa": "/ðʌs fɑːr/",
+    "pron_ko": "더스 파",
+    "example_en": "Thus far, results are positive.",
+    "example_ko": "지금까지 결과는 긍정적입니다.",
+    "topic": [
+      "letter"
+    ],
+    "frequency_tier": 2,
+    "synonyms": [
+      "so far"
+    ],
+    "distractors": [
+      "thus far",
+      "thus",
+      "this far"
+    ]
+  },
+  {
+    "id": "toeic-p6-from-now-on",
+    "part": 6,
+    "word": "from now on",
+    "pos": "phrase",
+    "meaning_ko": "앞으로",
+    "ipa": "/frəm naʊ ɒn/",
+    "pron_ko": "프럼 나우 온",
+    "example_en": "From now on, we use email.",
+    "example_ko": "앞으로 우리는 이메일을 사용합니다.",
+    "topic": [
+      "letter"
+    ],
+    "frequency_tier": 1,
+    "synonyms": [
+      "henceforth"
+    ],
+    "distractors": [
+      "from now on",
+      "now on",
+      "hence"
+    ]
+  },
+  {
+    "id": "toeic-p6-at-all-times",
+    "part": 6,
+    "word": "at all times",
+    "pos": "phrase",
+    "meaning_ko": "항상",
+    "ipa": "/ət ɔːl taɪmz/",
+    "pron_ko": "앳 올 타임즈",
+    "example_en": "Be alert at all times.",
+    "example_ko": "항상 경계하세요.",
+    "topic": [
+      "letter"
+    ],
+    "frequency_tier": 1,
+    "synonyms": [
+      "always"
+    ],
+    "distractors": [
+      "all times",
+      "at times",
+      "all time"
+    ]
+  },
+  {
+    "id": "toeic-p6-in-part",
+    "part": 6,
+    "word": "in part",
+    "pos": "phrase",
+    "meaning_ko": "부분적으로",
+    "ipa": "/ɪn pɑːrt/",
+    "pron_ko": "인 파트",
+    "example_en": "In part because of demand.",
+    "example_ko": "부분적으로 수요 때문에.",
+    "topic": [
+      "letter"
+    ],
+    "frequency_tier": 1,
+    "synonyms": [
+      "partly"
+    ],
+    "distractors": [
+      "in part",
+      "inpart",
+      "in parts"
+    ]
+  },
+  {
+    "id": "toeic-p6-in-whole",
+    "part": 6,
+    "word": "in whole",
+    "pos": "phrase",
+    "meaning_ko": "전체적으로",
+    "ipa": "/ɪn hoʊl/",
+    "pron_ko": "인 홀",
+    "example_en": "In whole or in part.",
+    "example_ko": "전체 또는 부분적으로.",
+    "topic": [
+      "letter"
+    ],
+    "frequency_tier": 2,
+    "synonyms": [
+      "entirely"
+    ],
+    "distractors": [
+      "in whole",
+      "in hole",
+      "whole"
+    ]
+  },
+  {
+    "id": "toeic-p6-in-detail",
+    "part": 6,
+    "word": "in detail",
+    "pos": "phrase",
+    "meaning_ko": "상세히",
+    "ipa": "/ɪn ˈdiːteɪl/",
+    "pron_ko": "인 디테일",
+    "example_en": "Explain in detail.",
+    "example_ko": "상세히 설명하세요.",
+    "topic": [
+      "letter"
+    ],
+    "frequency_tier": 1,
+    "synonyms": [
+      "thoroughly"
+    ],
+    "distractors": [
+      "in detail",
+      "detail",
+      "details"
+    ]
+  },
+  {
+    "id": "toeic-p6-in-brief",
+    "part": 6,
+    "word": "in brief",
+    "pos": "phrase",
+    "meaning_ko": "간단히",
+    "ipa": "/ɪn briːf/",
+    "pron_ko": "인 브리프",
+    "example_en": "In brief, results exceeded targets.",
+    "example_ko": "간단히 결과는 목표를 초과했습니다.",
+    "topic": [
+      "letter"
+    ],
+    "frequency_tier": 1,
+    "synonyms": [
+      "briefly"
+    ],
+    "distractors": [
+      "in brief",
+      "in chief",
+      "brief"
+    ]
+  },
+  {
+    "id": "toeic-p6-in-short",
+    "part": 6,
+    "word": "in short",
+    "pos": "phrase",
+    "meaning_ko": "요컨대",
+    "ipa": "/ɪn ʃɔːrt/",
+    "pron_ko": "인 쇼트",
+    "example_en": "In short, we approve.",
+    "example_ko": "요컨대 우리는 승인합니다.",
+    "topic": [
+      "letter"
+    ],
+    "frequency_tier": 1,
+    "synonyms": [
+      "briefly"
+    ],
+    "distractors": [
+      "in short",
+      "in sort",
+      "in shore"
+    ]
+  },
+  {
+    "id": "toeic-p6-briefly",
+    "part": 6,
+    "word": "briefly",
+    "pos": "adverb",
+    "meaning_ko": "간략히",
+    "ipa": "/ˈbriːfli/",
+    "pron_ko": "브리플리",
+    "example_en": "Briefly explain the issue.",
+    "example_ko": "문제를 간략히 설명하세요.",
+    "topic": [
+      "letter"
+    ],
+    "frequency_tier": 1,
+    "synonyms": [
+      "in short"
+    ],
+    "distractors": [
+      "briefly",
+      "brief",
+      "grief"
+    ]
+  },
+  {
+    "id": "toeic-p6-at-length",
+    "part": 6,
+    "word": "at length",
+    "pos": "phrase",
+    "meaning_ko": "길게",
+    "ipa": "/ət leŋθ/",
+    "pron_ko": "앳 렝쓰",
+    "example_en": "Discussed at length.",
+    "example_ko": "길게 논의됨.",
+    "topic": [
+      "letter"
+    ],
+    "frequency_tier": 2,
+    "synonyms": [
+      "thoroughly"
+    ],
+    "distractors": [
+      "at length",
+      "atlength",
+      "length"
+    ]
+  },
+  {
+    "id": "toeic-p6-apologize",
+    "part": 6,
+    "word": "apologize",
+    "meaning_ko": "v. 사과하다",
+    "pos": "verb",
+    "frequency_tier": 2,
+    "source": "hackers800-voca"
+  },
+  {
+    "id": "toeic-p6-delay",
+    "part": 6,
+    "word": "delay",
+    "meaning_ko": "n. 지연; v. 지연시키다, 미루다",
+    "pos": "noun",
+    "frequency_tier": 2,
+    "source": "hackers800-voca"
+  },
+  {
+    "id": "toeic-p6-upset",
+    "part": 6,
+    "word": "upset",
+    "meaning_ko": "v. (계획·상황 등을) 틀어지게 만들다",
+    "pos": "verb",
+    "frequency_tier": 2,
+    "source": "hackers800-voca"
+  },
+  {
+    "id": "toeic-p6-assure",
+    "part": 6,
+    "word": "assure",
+    "meaning_ko": "v. 보장하다, 확신하다",
+    "pos": "verb",
+    "frequency_tier": 2,
+    "source": "hackers800-voca"
+  },
+  {
+    "id": "toeic-p6-passenger",
+    "part": 6,
+    "word": "passenger",
+    "meaning_ko": "n. 승객",
+    "pos": "noun",
+    "frequency_tier": 2,
+    "source": "hackers800-voca"
+  },
+  {
+    "id": "toeic-p6-destination",
+    "part": 6,
+    "word": "destination",
+    "meaning_ko": "n. 목적지, 도착지",
+    "pos": "noun",
+    "frequency_tier": 2,
+    "source": "hackers800-voca"
+  },
+  {
+    "id": "toeic-p6-regret",
+    "part": 6,
+    "word": "regret",
+    "meaning_ko": "v. 유감스럽게 생각하다, 후회하다",
+    "pos": "verb",
+    "frequency_tier": 2,
+    "source": "hackers800-voca"
+  },
+  {
+    "id": "toeic-p6-incident",
+    "part": 6,
+    "word": "incident",
+    "meaning_ko": "n. 사건",
+    "pos": "noun",
+    "frequency_tier": 2,
+    "source": "hackers800-voca"
+  },
+  {
+    "id": "toeic-p6-directory",
+    "part": 6,
+    "word": "directory",
+    "meaning_ko": "n. 주소 성명록, (이름 등이 나열된) 안내 책자",
+    "pos": "noun",
+    "frequency_tier": 2,
+    "source": "hackers800-voca"
+  },
+  {
+    "id": "toeic-p6-press-release",
+    "part": 6,
+    "word": "press release",
+    "meaning_ko": "보도 자료, 공식 발표",
+    "frequency_tier": 2,
+    "source": "hackers800-voca"
+  },
+  {
+    "id": "toeic-p6-as-needed",
+    "part": 6,
+    "word": "as needed",
+    "meaning_ko": "필요에 따라",
+    "frequency_tier": 2,
+    "source": "hackers800-voca"
+  },
+  {
+    "id": "toeic-p6-formal",
+    "part": 6,
+    "word": "formal",
+    "meaning_ko": "adj. 격식을 차린, 공식적인",
+    "pos": "adjective",
+    "frequency_tier": 2,
+    "source": "hackers800-voca"
+  },
+  {
+    "id": "toeic-p6-business-clothes",
+    "part": 6,
+    "word": "business clothes",
+    "meaning_ko": "정장",
+    "frequency_tier": 2,
+    "source": "hackers800-voca"
+  },
+  {
+    "id": "toeic-p6-client",
+    "part": 6,
+    "word": "client",
+    "meaning_ko": "n. 고객",
+    "pos": "noun",
+    "frequency_tier": 2,
+    "source": "hackers800-voca"
+  },
+  {
+    "id": "toeic-p6-identification-badge",
+    "part": 6,
+    "word": "identification badge",
+    "meaning_ko": "신분 확인 명찰",
+    "frequency_tier": 2,
+    "source": "hackers800-voca"
+  },
+  {
+    "id": "toeic-p6-in-response-to",
+    "part": 6,
+    "word": "in response to",
+    "meaning_ko": "~에 대한 응답으로",
+    "frequency_tier": 2,
+    "source": "hackers800-voca"
+  },
+  {
+    "id": "toeic-p6-establishment",
+    "part": 6,
+    "word": "establishment",
+    "meaning_ko": "n. 점포, 설립",
+    "pos": "noun",
+    "frequency_tier": 2,
+    "source": "hackers800-voca"
+  },
+  {
+    "id": "toeic-p6-on-duty",
+    "part": 6,
+    "word": "on duty",
+    "meaning_ko": "근무 중인, 당번인",
+    "frequency_tier": 2,
+    "source": "hackers800-voca"
+  },
+  {
+    "id": "toeic-p6-voucher",
+    "part": 6,
+    "word": "voucher",
+    "meaning_ko": "n. 상품권, 할인권",
+    "pos": "noun",
+    "frequency_tier": 2,
+    "source": "hackers800-voca"
+  },
+  {
+    "id": "toeic-p6-make-up-for",
+    "part": 6,
+    "word": "make up for",
+    "meaning_ko": "~에 대해 보상하다, 만회하다",
+    "frequency_tier": 2,
+    "source": "hackers800-voca"
+  },
+  {
+    "id": "toeic-p6-look-forward-to",
+    "part": 6,
+    "word": "look forward to",
+    "meaning_ko": "~을 기대하다",
+    "frequency_tier": 2,
+    "source": "hackers800-voca"
+  },
+  {
+    "id": "toeic-p6-complete",
+    "part": 6,
+    "word": "complete",
+    "meaning_ko": "v. 작성하다, 완료하다; adj. 완전한",
+    "pos": "verb",
+    "frequency_tier": 2,
+    "source": "hackers800-voca"
+  },
+  {
+    "id": "toeic-p6-misplace",
+    "part": 6,
+    "word": "misplace",
+    "meaning_ko": "v. 잘못 두다",
+    "pos": "verb",
+    "frequency_tier": 2,
+    "source": "hackers800-voca"
+  },
+  {
+    "id": "toeic-p6-celebrate",
+    "part": 6,
+    "word": "celebrate",
+    "meaning_ko": "v. 축하하다, 기념하다",
+    "pos": "verb",
+    "frequency_tier": 2,
+    "source": "hackers800-voca"
+  },
+  {
+    "id": "toeic-p6-adjust",
+    "part": 6,
+    "word": "adjust",
+    "meaning_ko": "v. 조정하다, 적응하다",
+    "pos": "verb",
+    "frequency_tier": 2,
+    "source": "hackers800-voca"
+  },
+  {
+    "id": "toeic-p6-unveil",
+    "part": 6,
+    "word": "unveil",
+    "meaning_ko": "v. 공개하다, 발표하다",
+    "pos": "verb",
+    "frequency_tier": 2,
+    "source": "hackers800-voca"
+  },
+  {
+    "id": "toeic-p6-amenity",
+    "part": 6,
+    "word": "amenity",
+    "meaning_ko": "n. 편의 시설",
+    "pos": "noun",
+    "frequency_tier": 2,
+    "source": "hackers800-voca"
+  },
+  {
+    "id": "toeic-p6-spokesperson",
+    "part": 6,
+    "word": "spokesperson",
+    "meaning_ko": "n. 대변인",
+    "pos": "noun",
+    "frequency_tier": 2,
+    "source": "hackers800-voca"
+  },
+  {
+    "id": "toeic-p6-dozens-of",
+    "part": 6,
+    "word": "dozens of",
+    "meaning_ko": "많은",
+    "frequency_tier": 2,
+    "source": "hackers800-voca"
+  },
+  {
+    "id": "toeic-p6-inconvenience",
+    "part": 6,
+    "word": "inconvenience",
+    "meaning_ko": "v. 불편을 겪게 하다; n. 불편",
+    "pos": "verb",
+    "frequency_tier": 2,
+    "source": "hackers800-voca"
+  },
+  {
+    "id": "toeic-p6-admission",
+    "part": 6,
+    "word": "admission",
+    "meaning_ko": "n. 입장",
+    "pos": "noun",
+    "frequency_tier": 2,
+    "source": "hackers800-voca"
+  },
+  {
+    "id": "toeic-p6-mark",
+    "part": 6,
+    "word": "mark",
+    "meaning_ko": "v. 축하하다, 기념하다",
+    "pos": "verb",
+    "frequency_tier": 2,
+    "source": "hackers800-voca"
+  },
+  {
+    "id": "toeic-p6-originate",
+    "part": 6,
+    "word": "originate",
+    "meaning_ko": "v. 기원되다, 유래하다",
+    "pos": "verb",
+    "frequency_tier": 2,
+    "source": "hackers800-voca"
+  },
+  {
+    "id": "toeic-p6-upon",
+    "part": 6,
+    "word": "upon",
+    "meaning_ko": "prep. ~하자마자",
+    "pos": "preposition",
+    "frequency_tier": 2,
+    "source": "hackers800-voca"
+  },
+  {
+    "id": "toeic-p6-all-new",
+    "part": 6,
+    "word": "all-new",
+    "meaning_ko": "adj. 완전히 새로운",
+    "pos": "adjective",
+    "frequency_tier": 2,
+    "source": "hackers800-voca"
+  },
+  {
+    "id": "toeic-p6-sturdy",
+    "part": 6,
+    "word": "sturdy",
+    "meaning_ko": "adj. 견고한",
+    "pos": "adjective",
+    "frequency_tier": 2,
+    "source": "hackers800-voca"
+  },
+  {
+    "id": "toeic-p6-elegant",
+    "part": 6,
+    "word": "elegant",
+    "meaning_ko": "adj. 우아한",
+    "pos": "adjective",
+    "frequency_tier": 2,
+    "source": "hackers800-voca"
+  },
+  {
+    "id": "toeic-p6-predictable",
+    "part": 6,
+    "word": "predictable",
+    "meaning_ko": "adj. 예상할 수 있는",
+    "pos": "adjective",
+    "frequency_tier": 2,
+    "source": "hackers800-voca"
+  },
+  {
+    "id": "toeic-p6-durable",
+    "part": 6,
+    "word": "durable",
+    "meaning_ko": "adj. 내구성 있는",
+    "pos": "adjective",
+    "frequency_tier": 2,
+    "source": "hackers800-voca"
+  },
+  {
+    "id": "toeic-p6-supplier",
+    "part": 6,
+    "word": "supplier",
+    "meaning_ko": "n. 공급업체, 공급자",
+    "pos": "noun",
+    "frequency_tier": 2,
+    "source": "hackers800-voca"
+  },
+  {
+    "id": "toeic-p6-proceed-with",
+    "part": 6,
+    "word": "proceed with",
+    "meaning_ko": "~을 진행하다",
+    "frequency_tier": 2,
+    "source": "hackers800-voca"
+  },
+  {
+    "id": "toeic-p6-ensure",
+    "part": 6,
+    "word": "ensure",
+    "meaning_ko": "v. 확실하게 하다, 보장하다",
+    "pos": "verb",
+    "frequency_tier": 2,
+    "source": "hackers800-voca"
+  },
+  {
+    "id": "toeic-p6-recommendation",
+    "part": 6,
+    "word": "recommendation",
+    "meaning_ko": "n. 권장 사항, 추천",
+    "pos": "noun",
+    "frequency_tier": 2,
+    "source": "hackers800-voca"
+  },
+  {
+    "id": "toeic-p6-regional-director",
+    "part": 6,
+    "word": "regional director",
+    "meaning_ko": "지사장",
+    "frequency_tier": 2,
+    "source": "hackers800-voca"
+  },
+  {
+    "id": "toeic-p6-forthcoming",
+    "part": 6,
+    "word": "forthcoming",
+    "meaning_ko": "adj. 곧 나오는, 다가오는",
+    "pos": "adjective",
+    "frequency_tier": 2,
+    "source": "hackers800-voca"
+  },
+  {
+    "id": "toeic-p6-await",
+    "part": 6,
+    "word": "await",
+    "meaning_ko": "v. 기다리고 있다, 기대하다",
+    "pos": "verb",
+    "frequency_tier": 2,
+    "source": "hackers800-voca"
+  },
+  {
+    "id": "toeic-p6-instruction",
+    "part": 6,
+    "word": "instruction",
+    "meaning_ko": "n. 지시",
+    "pos": "noun",
+    "frequency_tier": 2,
+    "source": "hackers800-voca"
+  },
+  {
+    "id": "toeic-p6-device",
+    "part": 6,
+    "word": "device",
+    "meaning_ko": "n. 장비, 장치",
+    "pos": "noun",
+    "frequency_tier": 2,
+    "source": "hackers800-voca"
+  },
+  {
+    "id": "toeic-p6-force",
+    "part": 6,
+    "word": "force",
+    "meaning_ko": "v. ~할 수밖에 없게 만들다, 강요하다",
+    "pos": "verb",
+    "frequency_tier": 2,
+    "source": "hackers800-voca"
+  },
+  {
+    "id": "toeic-p6-acclaimed",
+    "part": 6,
+    "word": "acclaimed",
+    "meaning_ko": "adj. 호평을 받는",
+    "pos": "adjective",
+    "frequency_tier": 2,
+    "source": "hackers800-voca"
+  },
+  {
+    "id": "toeic-p6-session",
+    "part": 6,
+    "word": "session",
+    "meaning_ko": "n. 세션, 강의 시간",
+    "pos": "noun",
+    "frequency_tier": 2,
+    "source": "hackers800-voca"
+  },
+  {
+    "id": "toeic-p6-insight",
+    "part": 6,
+    "word": "insight",
+    "meaning_ko": "n. 통찰력",
+    "pos": "noun",
+    "frequency_tier": 2,
+    "source": "hackers800-voca"
+  },
+  {
+    "id": "toeic-p6-dynamic",
+    "part": 6,
+    "word": "dynamic",
+    "meaning_ko": "adj. 역동적인",
+    "pos": "adjective",
+    "frequency_tier": 2,
+    "source": "hackers800-voca"
+  },
+  {
+    "id": "toeic-p6-author",
+    "part": 6,
+    "word": "author",
+    "meaning_ko": "v. (책을) 쓰다, 저술하다",
+    "pos": "verb",
+    "frequency_tier": 2,
+    "source": "hackers800-voca"
+  },
+  {
+    "id": "toeic-p6-title",
+    "part": 6,
+    "word": "title",
+    "meaning_ko": "n. 책, 제목",
+    "pos": "noun",
+    "frequency_tier": 2,
+    "source": "hackers800-voca"
+  },
+  {
+    "id": "toeic-p6-entry-fee",
+    "part": 6,
+    "word": "entry fee",
+    "meaning_ko": "입장료",
+    "frequency_tier": 2,
+    "source": "hackers800-voca"
+  },
+  {
+    "id": "toeic-p6-opportunity",
+    "part": 6,
+    "word": "opportunity",
+    "meaning_ko": "n. 기회",
+    "pos": "noun",
+    "frequency_tier": 2,
+    "source": "hackers800-voca"
+  },
+  {
+    "id": "toeic-p6-deliver",
+    "part": 6,
+    "word": "deliver",
+    "meaning_ko": "v. (강연을) 하다, 배달하다",
+    "pos": "verb",
+    "frequency_tier": 2,
+    "source": "hackers800-voca"
+  },
+  {
+    "id": "toeic-p6-previous",
+    "part": 6,
+    "word": "previous",
+    "meaning_ko": "adj. 이전의",
+    "pos": "adjective",
+    "frequency_tier": 2,
+    "source": "hackers800-voca"
+  },
+  {
+    "id": "toeic-p6-identical",
+    "part": 6,
+    "word": "identical",
+    "meaning_ko": "adj. 동일한",
+    "pos": "adjective",
+    "frequency_tier": 2,
+    "source": "hackers800-voca"
+  },
+  {
+    "id": "toeic-p6-eventful",
+    "part": 6,
+    "word": "eventful",
+    "meaning_ko": "adj. 다사다난한",
+    "pos": "adjective",
+    "frequency_tier": 2,
+    "source": "hackers800-voca"
+  },
+  {
+    "id": "toeic-p6-enrollment",
+    "part": 6,
+    "word": "enrollment",
+    "meaning_ko": "n. 등록, 입학",
+    "pos": "noun",
+    "frequency_tier": 2,
+    "source": "hackers800-voca"
+  },
+  {
+    "id": "toeic-p6-arrangement",
+    "part": 6,
+    "word": "arrangement",
+    "meaning_ko": "n. 준비, 계획, 마련",
+    "pos": "noun",
+    "frequency_tier": 2,
+    "source": "hackers800-voca"
+  },
+  {
+    "id": "toeic-p6-contact",
+    "part": 6,
+    "word": "contact",
+    "meaning_ko": "v. 연락하다; n. 연락",
+    "pos": "verb",
+    "frequency_tier": 2,
+    "source": "hackers800-voca"
+  },
+  {
+    "id": "toeic-p6-arrival",
+    "part": 6,
+    "word": "arrival",
+    "meaning_ko": "n. 도착",
+    "pos": "noun",
+    "frequency_tier": 2,
+    "source": "hackers800-voca"
+  },
+  {
+    "id": "toeic-p6-option",
+    "part": 6,
+    "word": "option",
+    "meaning_ko": "n. 선택지",
+    "pos": "noun",
+    "frequency_tier": 2,
+    "source": "hackers800-voca"
+  },
+  {
+    "id": "toeic-p6-until-then",
+    "part": 6,
+    "word": "until then",
+    "meaning_ko": "그때까지",
+    "frequency_tier": 2,
+    "source": "hackers800-voca"
+  },
+  {
+    "id": "toeic-p6-elsewhere",
+    "part": 6,
+    "word": "elsewhere",
+    "meaning_ko": "adv. 다른 곳으로",
+    "pos": "adverb",
+    "frequency_tier": 2,
+    "source": "hackers800-voca"
+  },
+  {
+    "id": "toeic-p6-be-known-for",
+    "part": 6,
+    "word": "be known for",
+    "meaning_ko": "~으로 알려져 있다",
+    "frequency_tier": 2,
+    "source": "hackers800-voca"
+  },
+  {
+    "id": "toeic-p6-note",
+    "part": 6,
+    "word": "note",
+    "meaning_ko": "v. 언급하다, 주목하다",
+    "pos": "verb",
+    "frequency_tier": 2,
+    "source": "hackers800-voca"
+  },
+  {
+    "id": "toeic-p6-expectation",
+    "part": 6,
+    "word": "expectation",
+    "meaning_ko": "n. 기대",
+    "pos": "noun",
+    "frequency_tier": 2,
+    "source": "hackers800-voca"
+  },
+  {
+    "id": "toeic-p6-combine",
+    "part": 6,
+    "word": "combine",
+    "meaning_ko": "v. 결합하다",
+    "pos": "verb",
+    "frequency_tier": 2,
+    "source": "hackers800-voca"
+  },
+  {
+    "id": "toeic-p6-affordability",
+    "part": 6,
+    "word": "affordability",
+    "meaning_ko": "n. 경제적인 가격",
+    "pos": "noun",
+    "frequency_tier": 2,
+    "source": "hackers800-voca"
+  },
+  {
+    "id": "toeic-p6-in-room",
+    "part": 6,
+    "word": "in-room",
+    "meaning_ko": "adj. 객실 내의",
+    "pos": "adjective",
+    "frequency_tier": 2,
+    "source": "hackers800-voca"
+  },
+  {
+    "id": "toeic-p6-target",
+    "part": 6,
+    "word": "target",
+    "meaning_ko": "v. 공략하다, 목표하다; n. 목표(물)",
+    "pos": "verb",
+    "frequency_tier": 2,
+    "source": "hackers800-voca"
+  },
+  {
+    "id": "toeic-p6-fit",
+    "part": 6,
+    "word": "fit",
+    "meaning_ko": "adj. 건강한",
+    "pos": "adjective",
+    "frequency_tier": 2,
+    "source": "hackers800-voca"
+  },
+  {
+    "id": "toeic-p6-regular-price",
+    "part": 6,
+    "word": "regular price",
+    "meaning_ko": "정가",
+    "frequency_tier": 2,
+    "source": "hackers800-voca"
+  },
+  {
+    "id": "toeic-p6-respectively",
+    "part": 6,
+    "word": "respectively",
+    "meaning_ko": "adv. 각각",
+    "pos": "adverb",
+    "frequency_tier": 2,
+    "source": "hackers800-voca"
+  },
+  {
+    "id": "toeic-p6-workout",
+    "part": 6,
+    "word": "workout",
+    "meaning_ko": "n. 운동",
+    "pos": "noun",
+    "frequency_tier": 2,
+    "source": "hackers800-voca"
+  },
+  {
+    "id": "toeic-p6-patiently",
+    "part": 6,
+    "word": "patiently",
+    "meaning_ko": "adv. 인내심을 가지고",
+    "pos": "adverb",
+    "frequency_tier": 2,
+    "source": "hackers800-voca"
+  },
+  {
+    "id": "toeic-p6-generally",
+    "part": 6,
+    "word": "generally",
+    "meaning_ko": "adv. 일반적으로, 대체로",
+    "pos": "adverb",
+    "frequency_tier": 2,
+    "source": "hackers800-voca"
+  },
+  {
+    "id": "toeic-p6-invite",
+    "part": 6,
+    "word": "invite",
+    "meaning_ko": "v. 초대하다",
+    "pos": "verb",
+    "frequency_tier": 2,
+    "source": "hackers800-voca"
+  },
+  {
+    "id": "toeic-p6-present",
+    "part": 6,
+    "word": "present",
+    "meaning_ko": "v. 제시하다, 보여주다",
+    "pos": "verb",
+    "frequency_tier": 2,
+    "source": "hackers800-voca"
+  },
+  {
+    "id": "toeic-p6-saving",
+    "part": 6,
+    "word": "saving",
+    "meaning_ko": "n. 할인 혜택, 절약",
+    "pos": "noun",
+    "frequency_tier": 2,
+    "source": "hackers800-voca"
+  },
+  {
+    "id": "toeic-p6-payment",
+    "part": 6,
+    "word": "payment",
+    "meaning_ko": "n. 납부, 지불, 지불금",
+    "pos": "noun",
+    "frequency_tier": 2,
+    "source": "hackers800-voca"
+  },
+  {
+    "id": "toeic-p6-tuition",
+    "part": 6,
+    "word": "tuition",
+    "meaning_ko": "n. 등록금, 수업료",
+    "pos": "noun",
+    "frequency_tier": 2,
+    "source": "hackers800-voca"
+  },
+  {
+    "id": "toeic-p6-eligible",
+    "part": 6,
+    "word": "eligible",
+    "meaning_ko": "adj. ~할 수 있는, 자격이 있는",
+    "pos": "adjective",
+    "frequency_tier": 2,
+    "source": "hackers800-voca"
+  },
+  {
+    "id": "toeic-p6-first-come-first-served-basis",
+    "part": 6,
+    "word": "first-come, first-served basis",
+    "meaning_ko": "선착순",
+    "frequency_tier": 2,
+    "source": "hackers800-voca"
+  },
+  {
+    "id": "toeic-p6-priority",
+    "part": 6,
+    "word": "priority",
+    "meaning_ko": "n. 우선권, 우선순위",
+    "pos": "noun",
+    "frequency_tier": 2,
+    "source": "hackers800-voca"
+  },
+  {
+    "id": "toeic-p6-upper-level",
+    "part": 6,
+    "word": "upper-level",
+    "meaning_ko": "adj. 심화 과정의, 상급의",
+    "pos": "adjective",
+    "frequency_tier": 2,
+    "source": "hackers800-voca"
+  },
+  {
+    "id": "toeic-p6-register",
+    "part": 6,
+    "word": "register",
+    "meaning_ko": "v. 신청하다",
+    "pos": "verb",
+    "frequency_tier": 2,
+    "source": "hackers800-voca"
+  },
+  {
+    "id": "toeic-p6-late-fee",
+    "part": 6,
+    "word": "late fee",
+    "meaning_ko": "연체료",
+    "frequency_tier": 2,
+    "source": "hackers800-voca"
+  },
+  {
+    "id": "toeic-p6-distinguished",
+    "part": 6,
+    "word": "distinguished",
+    "meaning_ko": "adj. 권위 있는, 성공한",
+    "pos": "adjective",
+    "frequency_tier": 2,
+    "source": "hackers800-voca"
+  },
+  {
+    "id": "toeic-p6-contribution",
+    "part": 6,
+    "word": "contribution",
+    "meaning_ko": "n. 공헌, 기여",
+    "pos": "noun",
+    "frequency_tier": 2,
+    "source": "hackers800-voca"
+  },
+  {
+    "id": "toeic-p6-institution",
+    "part": 6,
+    "word": "institution",
+    "meaning_ko": "n. 기관",
+    "pos": "noun",
+    "frequency_tier": 2,
+    "source": "hackers800-voca"
+  },
+  {
+    "id": "toeic-p6-share-price",
+    "part": 6,
+    "word": "share price",
+    "meaning_ko": "주가",
+    "frequency_tier": 2,
+    "source": "hackers800-voca"
+  },
+  {
+    "id": "toeic-p6-well-respected",
+    "part": 6,
+    "word": "well-respected",
+    "meaning_ko": "adj. 매우 존경받는",
+    "pos": "adjective",
+    "frequency_tier": 2,
+    "source": "hackers800-voca"
+  },
+  {
+    "id": "toeic-p6-automotive",
+    "part": 6,
+    "word": "automotive",
+    "meaning_ko": "adj. 자동차의",
+    "pos": "adjective",
+    "frequency_tier": 2,
+    "source": "hackers800-voca"
+  },
+  {
+    "id": "toeic-p6-exhibition-hall",
+    "part": 6,
+    "word": "exhibition hall",
+    "meaning_ko": "전시회장",
+    "frequency_tier": 2,
+    "source": "hackers800-voca"
+  },
+  {
+    "id": "toeic-p6-venue",
+    "part": 6,
+    "word": "venue",
+    "meaning_ko": "n. 행사장, 장소",
+    "pos": "noun",
+    "frequency_tier": 2,
+    "source": "hackers800-voca"
+  },
+  {
+    "id": "toeic-p6-administration-office",
+    "part": 6,
+    "word": "administration office",
+    "meaning_ko": "행정실",
+    "frequency_tier": 2,
+    "source": "hackers800-voca"
+  },
+  {
+    "id": "toeic-p6-response",
+    "part": 6,
+    "word": "response",
+    "meaning_ko": "n. 답변, 응답",
+    "pos": "noun",
+    "frequency_tier": 2,
+    "source": "hackers800-voca"
+  },
+  {
+    "id": "toeic-p6-maximum",
+    "part": 6,
+    "word": "maximum",
+    "meaning_ko": "n. 최대",
+    "pos": "noun",
+    "frequency_tier": 2,
+    "source": "hackers800-voca"
+  },
+  {
+    "id": "toeic-p6-reach",
+    "part": 6,
+    "word": "reach",
+    "meaning_ko": "v. 연락하다, 도달하다",
+    "pos": "verb",
+    "frequency_tier": 2,
+    "source": "hackers800-voca"
+  },
+  {
+    "id": "toeic-p6-give-a-talk",
+    "part": 6,
+    "word": "give a talk",
+    "meaning_ko": "강연을 하다",
+    "frequency_tier": 2,
+    "source": "hackers800-voca"
+  },
+  {
+    "id": "toeic-p6-invention",
+    "part": 6,
+    "word": "invention",
+    "meaning_ko": "n. 발명품",
+    "pos": "noun",
+    "frequency_tier": 2,
+    "source": "hackers800-voca"
+  },
+  {
+    "id": "toeic-p6-appreciate",
+    "part": 6,
+    "word": "appreciate",
+    "meaning_ko": "v. 감사하다",
+    "pos": "verb",
+    "frequency_tier": 2,
+    "source": "hackers800-voca"
+  },
+  {
+    "id": "toeic-p6-audience-member",
+    "part": 6,
+    "word": "audience member",
+    "meaning_ko": "청중",
+    "frequency_tier": 2,
+    "source": "hackers800-voca"
+  },
+  {
+    "id": "toeic-p6-contribute",
+    "part": 6,
+    "word": "contribute",
+    "meaning_ko": "v. (의견을) 제시하다, 기여하다",
+    "pos": "verb",
+    "frequency_tier": 2,
+    "source": "hackers800-voca"
+  },
+  {
+    "id": "toeic-p6-perspective",
+    "part": 6,
+    "word": "perspective",
+    "meaning_ko": "n. 견해, 관점",
+    "pos": "noun",
+    "frequency_tier": 2,
+    "source": "hackers800-voca"
+  },
+  {
+    "id": "toeic-p6-voluntary",
+    "part": 6,
+    "word": "voluntary",
+    "meaning_ko": "adj. 자원봉사로 하는, 자발적인",
+    "pos": "adjective",
+    "frequency_tier": 2,
+    "source": "hackers800-voca"
+  },
+  {
+    "id": "toeic-p6-compensation",
+    "part": 6,
+    "word": "compensation",
+    "meaning_ko": "n. 보상",
+    "pos": "noun",
+    "frequency_tier": 2,
+    "source": "hackers800-voca"
+  },
+  {
+    "id": "toeic-p6-token",
+    "part": 6,
+    "word": "token",
+    "meaning_ko": "n. 표시, 징표",
+    "pos": "noun",
+    "frequency_tier": 2,
+    "source": "hackers800-voca"
+  },
+  {
+    "id": "toeic-p6-enclosure",
+    "part": 6,
+    "word": "enclosure",
+    "meaning_ko": "n. 동봉물",
+    "pos": "noun",
+    "frequency_tier": 2,
+    "source": "hackers800-voca"
+  },
+  {
+    "id": "toeic-p6-attendance",
+    "part": 6,
+    "word": "attendance",
+    "meaning_ko": "n. 참석",
+    "pos": "noun",
+    "frequency_tier": 2,
+    "source": "hackers800-voca"
+  },
+  {
+    "id": "toeic-p6-vote",
+    "part": 6,
+    "word": "vote",
+    "meaning_ko": "v. 투표하다; n. 투표",
+    "pos": "verb",
+    "frequency_tier": 2,
+    "source": "hackers800-voca"
+  },
+  {
+    "id": "toeic-p6-hold",
+    "part": 6,
+    "word": "hold",
+    "meaning_ko": "v. 열다, 개최하다",
+    "pos": "verb",
+    "frequency_tier": 2,
+    "source": "hackers800-voca"
+  },
+  {
+    "id": "toeic-p6-board",
+    "part": 6,
+    "word": "board",
+    "meaning_ko": "n. 이사회",
+    "pos": "noun",
+    "frequency_tier": 2,
+    "source": "hackers800-voca"
+  },
+  {
+    "id": "toeic-p6-confirm",
+    "part": 6,
+    "word": "confirm",
+    "meaning_ko": "v. 확정하다, 확인하다",
+    "pos": "verb",
+    "frequency_tier": 2,
+    "source": "hackers800-voca"
+  },
+  {
+    "id": "toeic-p6-confirmation",
+    "part": 6,
+    "word": "confirmation",
+    "meaning_ko": "n. 확정, 확인",
+    "pos": "noun",
+    "frequency_tier": 2,
+    "source": "hackers800-voca"
+  },
+  {
+    "id": "toeic-p6-reward-point",
+    "part": 6,
+    "word": "reward point",
+    "meaning_ko": "보상 포인트",
+    "frequency_tier": 2,
+    "source": "hackers800-voca"
+  },
+  {
+    "id": "toeic-p6-join",
+    "part": 6,
+    "word": "join",
+    "meaning_ko": "v. 가입하다",
+    "pos": "verb",
+    "frequency_tier": 2,
+    "source": "hackers800-voca"
+  },
+  {
+    "id": "toeic-p6-engage-in",
+    "part": 6,
+    "word": "engage in",
+    "meaning_ko": "~에 참여하다",
+    "frequency_tier": 2,
+    "source": "hackers800-voca"
+  },
+  {
+    "id": "toeic-p6-fulfill",
+    "part": 6,
+    "word": "fulfill",
+    "meaning_ko": "v. 이행하다, 달성하다",
+    "pos": "verb",
+    "frequency_tier": 2,
+    "source": "hackers800-voca"
+  },
+  {
+    "id": "toeic-p6-obligation",
+    "part": 6,
+    "word": "obligation",
+    "meaning_ko": "n. 의무",
+    "pos": "noun",
+    "frequency_tier": 2,
+    "source": "hackers800-voca"
+  },
+  {
+    "id": "toeic-p6-brochure",
+    "part": 6,
+    "word": "brochure",
+    "meaning_ko": "n. 책자",
+    "pos": "noun",
+    "frequency_tier": 2,
+    "source": "hackers800-voca"
+  },
+  {
+    "id": "toeic-p6-conserve",
+    "part": 6,
+    "word": "conserve",
+    "meaning_ko": "v. 절약하다, 보존하다",
+    "pos": "verb",
+    "frequency_tier": 2,
+    "source": "hackers800-voca"
+  },
+  {
+    "id": "toeic-p6-as-well",
+    "part": 6,
+    "word": "as well",
+    "meaning_ko": "또한, 역시",
+    "frequency_tier": 2,
+    "source": "hackers800-voca"
+  },
+  {
+    "id": "toeic-p6-environmental",
+    "part": 6,
+    "word": "environmental",
+    "meaning_ko": "adj. 환경의",
+    "pos": "adjective",
+    "frequency_tier": 2,
+    "source": "hackers800-voca"
+  },
+  {
+    "id": "toeic-p6-environment",
+    "part": 6,
+    "word": "environment",
+    "meaning_ko": "n. 환경",
+    "pos": "noun",
+    "frequency_tier": 2,
+    "source": "hackers800-voca"
+  },
+  {
+    "id": "toeic-p6-environmentalist",
+    "part": 6,
+    "word": "environmentalist",
+    "meaning_ko": "n. 환경운동가",
+    "pos": "noun",
+    "frequency_tier": 2,
+    "source": "hackers800-voca"
+  },
+  {
+    "id": "toeic-p6-controversial",
+    "part": 6,
+    "word": "controversial",
+    "meaning_ko": "adj. 논란의, 논란이 많은",
+    "pos": "adjective",
+    "frequency_tier": 2,
+    "source": "hackers800-voca"
+  },
+  {
+    "id": "toeic-p6-complicated",
+    "part": 6,
+    "word": "complicated",
+    "meaning_ko": "adj. 복잡한",
+    "pos": "adjective",
+    "frequency_tier": 2,
+    "source": "hackers800-voca"
+  },
+  {
+    "id": "toeic-p6-entertaining",
+    "part": 6,
+    "word": "entertaining",
+    "meaning_ko": "adj. 재미있는, 즐거움을 주는",
+    "pos": "adjective",
+    "frequency_tier": 2,
+    "source": "hackers800-voca"
+  },
+  {
+    "id": "toeic-p6-instructional",
+    "part": 6,
+    "word": "instructional",
+    "meaning_ko": "adj. 교육용의",
+    "pos": "adjective",
+    "frequency_tier": 2,
+    "source": "hackers800-voca"
+  },
+  {
+    "id": "toeic-p6-creative",
+    "part": 6,
+    "word": "creative",
+    "meaning_ko": "adj. 창의적인",
+    "pos": "adjective",
+    "frequency_tier": 2,
+    "source": "hackers800-voca"
+  },
+  {
+    "id": "toeic-p6-open-position",
+    "part": 6,
+    "word": "open position",
+    "meaning_ko": "공석",
+    "frequency_tier": 2,
+    "source": "hackers800-voca"
+  },
+  {
+    "id": "toeic-p6-original",
+    "part": 6,
+    "word": "original",
+    "meaning_ko": "adj. 독창적인",
+    "pos": "adjective",
+    "frequency_tier": 2,
+    "source": "hackers800-voca"
+  },
+  {
+    "id": "toeic-p6-relevant",
+    "part": 6,
+    "word": "relevant",
+    "meaning_ko": "adj. 관련된",
+    "pos": "adjective",
+    "frequency_tier": 2,
+    "source": "hackers800-voca"
+  },
+  {
+    "id": "toeic-p6-alternate",
+    "part": 6,
+    "word": "alternate",
+    "meaning_ko": "adj. 교대의, 번갈아 하는",
+    "pos": "adjective",
+    "frequency_tier": 2,
+    "source": "hackers800-voca"
+  }
+]
